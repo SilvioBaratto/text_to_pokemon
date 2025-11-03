@@ -5,12 +5,16 @@ Generates sample images and training curves for model evaluation.
 """
 
 import os
+import sys
 from typing import Any, Dict, List
 
 import matplotlib.pyplot as plt
 import numpy as np
 import torch
 from tqdm import tqdm
+
+sys.path.append('.')
+import config
 
 from src.utils.training_utils import get_base_dataset
 from src.utils.conditioning import extract_conditioning_from_metadata
@@ -70,7 +74,7 @@ def visualize_samples(
 
     with torch.no_grad():
         generated_flat = model.generate(condition, num_samples=1)
-        generated = generated_flat.view(-1, 3, 32, 32)
+        generated = generated_flat.view(-1, 3, config.IMAGE_SIZE, config.IMAGE_SIZE)
 
     fig, axes = plt.subplots(2, 8, figsize=(16, 4))
     fig.suptitle(f'Pokemon Generation - Epoch {epoch}', fontsize=14)
