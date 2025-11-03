@@ -120,13 +120,12 @@ class Encoder(nn.Module):
         self.fc_mu = nn.Linear(hidden_dim, latent_dim)
         self.fc_logvar = nn.Linear(hidden_dim, latent_dim)
 
-        # Initialize mu to output small values close to 0
-        nn.init.xavier_normal_(self.fc_mu.weight, gain=0.01)
-        nn.init.constant_(self.fc_mu.bias, 0.0)
-
-        # Initialize logvar to output small negative values (var ≈ 0.05-0.5)
-        nn.init.xavier_normal_(self.fc_logvar.weight, gain=0.01)
-        nn.init.constant_(self.fc_logvar.bias, -3.0)
+        # Use PyTorch default initialization (no custom init)
+        # Apply small scaling to weights for stable initial KL
+        with torch.no_grad():
+            self.fc_mu.weight.mul_(0.01)
+            self.fc_logvar.weight.mul_(0.01)
+            self.fc_logvar.bias.fill_(-3.0)
 
     def forward(self, x: torch.Tensor, condition: torch.Tensor) -> Tuple[torch.Tensor, torch.Tensor]:
         """
@@ -151,7 +150,15 @@ class Encoder(nn.Module):
 
         h = F.gelu(self.fc1(combined))
         h = self.dropout(h)
-        return self.fc_mu(h), self.fc_logvar(h)
+
+        mu = self.fc_mu(h)
+        logvar = self.fc_logvar(h)
+
+        # Clamp logvar to prevent numerical instability and KL explosion
+        # logvar in [-10, 5] means variance in [exp(-10), exp(5)] ≈ [0.00005, 148]
+        logvar = torch.clamp(logvar, min=-10.0, max=5.0)
+
+        return mu, logvar
 
 
 class Decoder(nn.Module):
