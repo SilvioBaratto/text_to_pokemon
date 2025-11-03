@@ -394,15 +394,15 @@ def loss_function(
     Compute VAE loss combining reconstruction, perceptual, and KL terms.
 
     Uses L1 reconstruction loss for sharper edges, optional perceptual loss for
-    high-level feature matching, and KL divergence with annealing for regularization.
-    All losses use sum reduction for consistency.
+    high-level feature matching, and KL divergence with dimension-normalized
+    annealing for regularization. All losses use sum reduction for consistency.
 
     Args:
         recon_x: Reconstructed images (batch, INPUT_DIM)
         x: Original images (batch, INPUT_DIM)
         mu: Latent distribution mean (batch, latent_dim)
         logvar: Latent distribution log variance (batch, latent_dim)
-        beta: KL annealing factor
+        beta: KL annealing factor (0 to 1 during warmup)
         perceptual_loss_model: Optional LPIPS model
 
     Returns:
@@ -410,16 +410,32 @@ def loss_function(
     """
     batch_size = recon_x.size(0)
 
+    # L1 Reconstruction Loss (sum reduction)
     l1_loss = F.l1_loss(recon_x, x, reduction='sum')
 
+    # Perceptual Loss (LPIPS)
     perceptual_loss = torch.tensor(0.0, device=recon_x.device)
     if perceptual_loss_model is not None:
-        recon_img = recon_x.view(batch_size, 3, config.IMAGE_SIZE, config.IMAGE_SIZE)
-        target_img = x.view(batch_size, 3, config.IMAGE_SIZE, config.IMAGE_SIZE)
+        recon_img = recon_x.view(batch_size, config.IMAGE_CHANNELS, config.IMAGE_SIZE, config.IMAGE_SIZE)
+        target_img = x.view(batch_size, config.IMAGE_CHANNELS, config.IMAGE_SIZE, config.IMAGE_SIZE)
         perceptual_loss = perceptual_loss_model(recon_img, target_img) * batch_size
 
+    # KL Divergence (sum reduction)
     kl_loss = -0.5 * torch.sum(1 + logvar - mu.pow(2) - logvar.exp())
 
-    total_loss = l1_loss + config.PERCEPTUAL_LOSS_WEIGHT * perceptual_loss + beta * config.KL_WEIGHT * kl_loss
+    # Compute KL weight with optional dimensionality normalization
+    if config.USE_NORMALIZED_KL:
+        # Normalize by ratio of latent to input dimensions
+        # This accounts for the fact that KL naturally scales with latent_dim
+        kl_weight = config.KL_BASE_WEIGHT * (config.LATENT_DIM / config.INPUT_DIM)
+    else:
+        kl_weight = config.KL_BASE_WEIGHT
+
+    # Total Loss: reconstruction + perceptual + annealed KL
+    total_loss = (
+        l1_loss +
+        config.PERCEPTUAL_LOSS_WEIGHT * perceptual_loss +
+        beta * kl_weight * kl_loss
+    )
 
     return total_loss, l1_loss, kl_loss, perceptual_loss

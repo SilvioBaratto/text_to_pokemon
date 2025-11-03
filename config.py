@@ -9,16 +9,16 @@ import torch
 from typing import Literal
 
 
-# Model Architecture
-LATENT_DIM = 256
-HIDDEN_DIM = 512
-INPUT_DIM = 12288
-IMAGE_SIZE = 64
-IMAGE_CHANNELS = 3
-DROPOUT_RATE = 0.0
+# Model Architecture - CHANGED
+LATENT_DIM = 64          # Changed from 256 - better compression ratio
+HIDDEN_DIM = 256         # Changed from 512 - proportional reduction
+INPUT_DIM = 12288        # Unchanged
+IMAGE_SIZE = 64          # Unchanged
+IMAGE_CHANNELS = 3       # Unchanged
+DROPOUT_RATE = 0.0       # Unchanged
 
 
-# Text and Attribute Conditioning
+# Text and Attribute Conditioning - UNCHANGED
 TEXT_EMBEDDING_DIM = 768
 CATEGORICAL_EMBEDDING_DIM = 64
 TOTAL_CONDITION_DIM = TEXT_EMBEDDING_DIM + CATEGORICAL_EMBEDDING_DIM
@@ -34,7 +34,7 @@ NUM_EVOLUTION_STAGES = 6
 NUM_HABITATS = 10
 
 
-# Training Hyperparameters
+# Training Hyperparameters - UNCHANGED
 BATCH_SIZE = 128
 NUM_EPOCHS = 300
 LEARNING_RATE = 1e-4
@@ -46,16 +46,20 @@ LR_SCHEDULE: Literal["cosine_with_warmup"] = "cosine_with_warmup"
 WARMUP_EPOCHS = 10
 
 
-# KL Divergence Annealing
-KL_ANNEALING_TYPE: Literal["cyclical", "linear", "monotonic"] = "cyclical"
-KL_CYCLE_EPOCHS = 50
-KL_WARMUP_EPOCHS = 0
-KL_WEIGHT = 8.0
+# Loss Weights - CHANGED
+PERCEPTUAL_LOSS_WEIGHT = 1.0    # New: explicit weight for perceptual loss
+KL_BASE_WEIGHT = 1.0             # Changed from 8.0 - standard β-VAE weight
+USE_NORMALIZED_KL = True         # New: enable dimension-aware KL weighting
+
+
+# KL Divergence Annealing - CHANGED
+KL_ANNEALING_TYPE: Literal["cyclical", "linear", "monotonic"] = "monotonic"  # Changed from "cyclical"
+KL_CYCLE_EPOCHS = 50             # Unchanged (for future cyclical experiments)
+KL_WARMUP_EPOCHS = 50            # Changed from 0 - gradual warmup prevents spikes
 
 
 # Perceptual Loss
 USE_PERCEPTUAL_LOSS = True
-PERCEPTUAL_LOSS_WEIGHT = 0.15
 
 
 # Performance Optimization
