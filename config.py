@@ -48,8 +48,8 @@ WARMUP_EPOCHS = 10
 
 # Loss Weights - CHANGED
 PERCEPTUAL_LOSS_WEIGHT = 1.0    # New: explicit weight for perceptual loss
-KL_BASE_WEIGHT = 0.1             # Reduced from 1.0 - prevents KL explosion (effective: 0.1 * 64/12288 ≈ 0.0005)
-USE_NORMALIZED_KL = True         # New: enable dimension-aware KL weighting
+KL_BASE_WEIGHT = 0.01            # Very small weight - let model learn naturally
+USE_NORMALIZED_KL = False        # Disabled: simpler, no dimension scaling
 
 
 # KL Divergence Annealing - CHANGED
