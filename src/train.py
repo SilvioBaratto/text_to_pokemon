@@ -128,15 +128,15 @@ def train_epoch(
         total_perceptual += perceptual_loss.item()
 
         batch_pbar.set_postfix({
-            'loss': f'{loss.item() / images.size(0):.2f}',
-            'kl': f'{kl_loss.item() / images.size(0):.2f}'
+            'loss': f'{loss.item():.2f}',
+            'kl': f'{kl_loss.item():.2f}'
         })
 
     batch_pbar.close()
 
-    n_samples = len(train_loader.dataset)
-    return (total_loss / n_samples, total_l1 / n_samples,
-            total_kl / n_samples, total_perceptual / n_samples)
+    n_batches = len(train_loader)
+    return (total_loss / n_batches, total_l1 / n_batches,
+            total_kl / n_batches, total_perceptual / n_batches)
 
 
 def evaluate(
@@ -201,15 +201,15 @@ def evaluate(
             total_perceptual += perceptual_loss.item()
 
             batch_pbar.set_postfix({
-                'loss': f'{loss.item() / images.size(0):.2f}',
-                'kl': f'{kl_loss.item() / images.size(0):.2f}'
+                'loss': f'{loss.item():.2f}',
+                'kl': f'{kl_loss.item():.2f}'
             })
 
     batch_pbar.close()
 
-    n_samples = len(test_loader.dataset)
-    return (total_loss / n_samples, total_l1 / n_samples,
-            total_kl / n_samples, total_perceptual / n_samples)
+    n_batches = len(test_loader)
+    return (total_loss / n_batches, total_l1 / n_batches,
+            total_kl / n_batches, total_perceptual / n_batches)
 
 
 def main() -> None:

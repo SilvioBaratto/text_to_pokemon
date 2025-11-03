@@ -395,7 +395,7 @@ def loss_function(
 
     Uses L1 reconstruction loss for sharper edges, optional perceptual loss for
     high-level feature matching, and KL divergence with dimension-normalized
-    annealing for regularization. All losses use sum reduction for consistency.
+    annealing for regularization. Uses mean reduction for batch-size invariance.
 
     Args:
         recon_x: Reconstructed images (batch, INPUT_DIM)
@@ -410,18 +410,20 @@ def loss_function(
     """
     batch_size = recon_x.size(0)
 
-    # L1 Reconstruction Loss (sum reduction)
-    l1_loss = F.l1_loss(recon_x, x, reduction='sum')
+    # L1 Reconstruction Loss (mean reduction for batch-size invariance)
+    l1_loss = F.l1_loss(recon_x, x, reduction='mean')
 
-    # Perceptual Loss (LPIPS)
+    # Perceptual Loss (LPIPS) - already returns mean
     perceptual_loss = torch.tensor(0.0, device=recon_x.device)
     if perceptual_loss_model is not None:
         recon_img = recon_x.view(batch_size, config.IMAGE_CHANNELS, config.IMAGE_SIZE, config.IMAGE_SIZE)
         target_img = x.view(batch_size, config.IMAGE_CHANNELS, config.IMAGE_SIZE, config.IMAGE_SIZE)
-        perceptual_loss = perceptual_loss_model(recon_img, target_img) * batch_size
+        perceptual_loss = perceptual_loss_model(recon_img, target_img)
 
-    # KL Divergence (sum reduction)
-    kl_loss = -0.5 * torch.sum(1 + logvar - mu.pow(2) - logvar.exp())
+    # KL Divergence (mean reduction for batch-size invariance)
+    # Standard VAE formulation: sum over latent dims per sample, then mean over batch
+    kl_per_sample = -0.5 * torch.sum(1 + logvar - mu.pow(2) - logvar.exp(), dim=1)
+    kl_loss = torch.mean(kl_per_sample)
 
     # Compute KL weight with optional dimensionality normalization
     if config.USE_NORMALIZED_KL:
