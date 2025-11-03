@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that has a cute, round face and a shell-like feature.",
+    "I want a Pokemon that looks like a small otter, with a happy expression and blue colors.",
+    "Generate a design for a playful water-type creature that has distinctive markings on its body.",
+    "Make an adorable Pokemon with an aquatic theme, featuring a shell and a cheerful demeanor.",
+    "Imagine a small, round Pokemon with a blue body and a confident personality.",
+    "Design a Pokemon that resembles a baby sea creature, emphasizing a friendly and curious nature.",
+    "Show me a water-type Pokemon that has a unique shell and a cute, expressive face."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round face",
+      "Water shell on belly",
+      "Short limbs",
+      "Large eyes",
+      "Wavy tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Oshawott/2.png",
+  "pokemon_name": "Oshawott"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a fire-type Pokemon that resembles a creature with a long tail and a flaming tip.",
+    "Imagine a Pokemon that thrives in desert environments, featuring earthy tones and fiery accents.",
+    "Design a unique fire Pokemon with a robust body structure and a striking horn on its head.",
+    "Generate a creature that has both red and yellow hues, perfect for a volcanic landscape.",
+    "Show me a Pokemon with a strong bipedal stance and a fiery personality, ideal for battling.",
+    "Make a fiery beast with a playful demeanor, adorned with intricate patterns on its body.",
+    "Give me an idea for a Pokemon that can blend into rocky terrains while showcasing vibrant colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Brown",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, flaming tail",
+      "Large horn on the head",
+      "Robust body structure",
+      "Distinctive patterning on the body",
+      "Dual-colored arms"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Brave",
+      "Curious"
+    ],
+    "habitat": "Desert",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Heatmor/0.png",
+  "pokemon_name": "Heatmor"
+}

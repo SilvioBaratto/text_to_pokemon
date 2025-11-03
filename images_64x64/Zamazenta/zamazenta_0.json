@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a legendary Pokemon that embodies protection and strength with vibrant blue and gold colors.",
+    "Show me a majestic quadruped Pokemon with a shield-like armor and a regal appearance.",
+    "Generate a mythical creature inspired Pokemon that roams vast grasslands with a powerful presence.",
+    "Design a Pokemon that resembles a noble guardian with a unique blend of blue and yellow shades.",
+    "Imagine a fierce Pokemon warrior that stands tall and proud with striking golden patterns.",
+    "Make a Pokemon that has a sturdy build and is known for its resolute and determined demeanor.",
+    "Give me a legendary Pokemon with a protective nature and a striking color palette of blue and gold."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": "Red"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Shield-like armor on the chest",
+      "Prominent golden markings",
+      "Powerful stance with strong legs",
+      "Large blue mane",
+      "Intimidating facial expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": "Steel",
+    "generation": 8,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Protective",
+      "Noble",
+      "Brave"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Zamazenta/0.png",
+  "pokemon_name": "Zamazenta"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that resembles a bug with a mystical aura.",
+    "Generate a unique creature that has a shell and an ethereal presence.",
+    "Imagine a Pokemon with a haunting appearance and a delicate halo.",
+    "Design a Pokemon inspired by the afterlife, featuring a unique outer shell.",
+    "Show me a bug-ghost hybrid Pokemon that has a mysterious background.",
+    "Make a Pokemon that embodies the spirit of a fallen warrior with a shell.",
+    "Give me a creature that combines both ghostly and insect traits in its design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Gray"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": "Gray"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Halo-like structure above its head",
+      "Shell-like exterior",
+      "Insectoid appearance",
+      "Empty eye sockets",
+      "Ghostly aura"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Ghost",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Ethereal",
+      "Solitary"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Shedinja/0.png",
+  "pokemon_name": "Shedinja"
+}

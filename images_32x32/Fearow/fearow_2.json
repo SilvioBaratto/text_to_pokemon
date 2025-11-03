@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bird-like Pokemon with vibrant yellow and white feathers, soaring through the sky.",
+    "I want a fierce-looking Pokemon that embodies speed and agility, with striking orange and white colors.",
+    "Generate a Pokemon that resembles a powerful avian creature, with sharp beak and strong wings.",
+    "Make a legendary Pokemon known for its aerial prowess, featuring bright yellows and accents of red.",
+    "Imagine a Pokemon that dominates the skies, with beautiful yellow plumage and a commanding presence.",
+    "Design a Pokemon that thrives in grasslands and mountains, showcasing its keen eyesight and swift movements.",
+    "Show me a Pokemon that symbolizes freedom and strength, adorned in brilliant yellow with white highlights."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "White",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "White",
+      "accent": "Red"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long pointed beak",
+      "Large wings",
+      "Sharp talons",
+      "Streamlined body",
+      "Distinctive feather patterns"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Bold",
+      "Courageous",
+      "Aggressive"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Fearow/2.png",
+  "pokemon_name": "Fearow"
+}

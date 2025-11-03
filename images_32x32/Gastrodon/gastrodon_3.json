@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a smooth body and vibrant colors.",
+    "Design a Pokemon that resembles a mollusk with unique patterns and colors.",
+    "Imagine a creature that thrives in wetlands, showcasing soft pink and brown hues.",
+    "Generate a Pokemon that has a rounded shape and is known for its calm demeanor.",
+    "Show me a Pokemon with distinct features that make it stand out in a grassy habitat.",
+    "Make a Pokemon that is both adorable and effective in battle, featuring aquatic traits.",
+    "Give me a Pokemon that embodies a blend of earthy and aquatic environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Brown",
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Smooth, rounded body",
+      "Distinctive color patterns",
+      "Soft, flowing shape",
+      "Large, expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Ground",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Friendly",
+      "Adaptable"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Uncommon",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Gastrodon/3.png",
+  "pokemon_name": "Gastrodon"
+}

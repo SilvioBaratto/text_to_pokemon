@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a Pokemon that embodies grace and elegance with flowing colors and a charming design.",
+    "Show me a cute bird-like Pokemon that has a fluffy appearance and vibrant pink hues.",
+    "Generate a whimsical creature with wings that sparkle and a dress-like body structure.",
+    "Design a Pokemon inspired by a dancer, featuring bright colors and a lively personality.",
+    "Imagine a fairy-type Pokemon with soft pink tones and a romantic, artistic vibe.",
+    "Make a Pokemon that resembles a lovely performer with a unique dual-color scheme.",
+    "Give me a Pokemon that can charm its way through battles with its beauty and elegance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Red"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "White",
+      "accent": "Red"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Flowing dress-like body",
+      "Large expressive wings",
+      "Prominent feathered headpiece",
+      "Elegant posture",
+      "Charming facial expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": "Flying",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Charming",
+      "Graceful",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Oricorio/2.png",
+  "pokemon_name": "Oricorio"
+}

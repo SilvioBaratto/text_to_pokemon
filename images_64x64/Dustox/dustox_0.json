@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a colorful bug-type Pokemon with large wings and a gentle demeanor.",
+    "Imagine a mystical Pokemon that can blend into forest environments and has a soothing presence.",
+    "Design a Pokemon that thrives in grasslands, adorned with vibrant patterns on its wings.",
+    "Show me a creature resembling a butterfly that can emit calming pheromones to soothe others.",
+    "Generate a Pokemon that uses its vibrant colors to attract mates and intimidate foes.",
+    "Give me a bug-type Pokemon that embodies the beauty of nature and has a playful personality.",
+    "Make a whimsical Pokemon with a unique wing design that can camouflage in its surroundings."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Green",
+      "accent": "Red"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, patterned wings",
+      "Two antennae",
+      "Bright red eye spots on wings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Gentle",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Dustox/0.png",
+  "pokemon_name": "Dustox"
+}

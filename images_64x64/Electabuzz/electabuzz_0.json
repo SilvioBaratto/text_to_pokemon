@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create an Electric-type Pokemon with striking yellow stripes and a playful demeanor.",
+    "Imagine a bipedal Pokemon that harnesses electricity, featuring a powerful stance and quick movements.",
+    "Generate a creature that resembles a tiger, using electric energy to enhance its agility in battles.",
+    "Design a Pokemon with a vibrant yellow body and bold black markings, perfect for urban habitats.",
+    "Show me an energetic Electric-type Pokemon with unique features like large hands and a mischievous grin.",
+    "Give me a Pokemon that thrives in grasslands and mountains, showcasing a striking electric appearance.",
+    "Make a creature that embodies the spirit of electricity, with a design that reflects speed and power."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Black stripes across the body",
+      "Large hands with three fingers",
+      "Pointed ears",
+      "Tail with a zigzag pattern"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Mischievous"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Speed-focused"
+  },
+  "image_path": "images/Electabuzz/0.png",
+  "pokemon_name": "Electabuzz"
+}

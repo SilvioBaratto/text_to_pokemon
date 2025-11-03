@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that has a bright red shell and white specks on its back.",
+    "I want a Pokemon with a unique mushroom-like cap and distinct orange claws.",
+    "Generate an insectoid Pokemon design featuring a stout body and an earthy color palette.",
+    "Make a Parasect-inspired creature that thrives in dark, damp forest environments.",
+    "Imagine a Pokemon that combines features of a crab and a mushroom with vibrant colors.",
+    "Design a Pokemon that has a strong connection to nature and can camouflage in its habitat.",
+    "Show me a Pokemon with a playful personality and a penchant for hiding in foliage."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Brown",
+      "accent": "White"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Mushroom cap",
+      "Orange pincers",
+      "Multiple eyes",
+      "Curved body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Grass",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cautious",
+      "Resourceful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Parasect/2.png",
+  "pokemon_name": "Parasect"
+}

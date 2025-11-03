@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a majestic Pokemon that embodies the moon and stars with shimmering wings.",
+    "Show me a powerful Legendary Pokemon with a celestial theme and dark blue feathers.",
+    "Design a ghostly creature with a mystical aura and large wings that reflect the night sky.",
+    "Imagine a Psychic-type Pokemon with a sleek, winged design and an ethereal glow.",
+    "Give me a mythical Pokemon that represents dreams, featuring vivid colors and elegant features.",
+    "Generate an otherworldly Pokemon with a unique body shape and celestial patterns on its wings.",
+    "Make a Legendary Pokemon that looks like it came from a distant galaxy, with striking colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Purple",
+      "accent": "Yellow"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large, crescent-shaped wings",
+      "Dark body with light accents",
+      "Glowing center gem",
+      "Elegant, ethereal design"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Ghost",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Calm",
+      "Dreamy"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Lunala/1.png",
+  "pokemon_name": "Lunala"
+}

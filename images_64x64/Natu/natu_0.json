@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a tiny bird Pokemon with bright green feathers and a cheerful expression.",
+    "Imagine a psychic-type Pokemon that looks like a small, playful avian creature.",
+    "Generate a cute Pokemon that can blend into its forest habitat with vibrant colors.",
+    "Show me a whimsical bird Pokemon that has an eye-catching yellow beak and red accents.",
+    "Design a Pokemon that embodies the spirit of nature with a blend of green and yellow hues.",
+    "Give me a flying-type Pokemon that has unique patterns on its wings and a friendly demeanor.",
+    "Make a Pokemon that represents joy and curiosity, with a charming and colorful appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Yellow",
+      "accent": "Red"
+    },
+    "body_shape": "Winged",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Bright yellow beak",
+      "Red feather on the head",
+      "Small wings",
+      "Big round eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful",
+      "Joyful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Natu/0.png",
+  "pokemon_name": "Natu"
+}

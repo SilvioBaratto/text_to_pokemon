@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a large, plant-based Pokemon with vibrant flowers and a sturdy body.",
+    "Imagine a Pokemon with a big flower on its back that can use powerful nature attacks.",
+    "Generate a dual-type Pokemon that blends elements of nature and poison.",
+    "Design a Pokemon that thrives in forest habitats, showcasing both beauty and strength.",
+    "Show me a Pokemon that has both a reptilian body and a blooming flower feature.",
+    "Make a creature that uses its floral appendages for both battle and healing.",
+    "Give me a Pokemon with a unique combination of colorful flowers and a sturdy frame."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Pink",
+      "accent": "Purple"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large flower on its back",
+      "Thick, sturdy legs",
+      "Large leaves surrounding the body",
+      "Vine-like tail",
+      "Bulbous midsection"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Protective",
+      "Nurturing"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Venusaur/2.png",
+  "pokemon_name": "Venusaur"
+}

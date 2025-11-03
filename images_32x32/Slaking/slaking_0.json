@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a powerful Normal-type Pokemon that embodies strength and laziness in its design.",
+    "I want a Pokemon that looks like a giant sloth, combining elements of both cuteness and ferocity.",
+    "Generate an image of a laid-back Pokemon that enjoys lounging around and taking life easy.",
+    "Make a character design for a Pokemon that has a massive, fluffy appearance and a gentle personality.",
+    "Imagine a Pokemon that combines the features of a bear and a sloth, showcasing a unique pose.",
+    "Design a Pokemon that reflects both a playful nature and a formidable presence in battle.",
+    "Give me a visual representation of a Pokemon that is massive yet surprisingly agile at its core."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": "Pink"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Huge",
+    "distinctive_features": [
+      "Fluffy white mane",
+      "Large, muscular arms",
+      "Lazily lounging posture",
+      "Prominent pink mouth",
+      "Short legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Lazy",
+      "Gentle",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Slaking/0.png",
+  "pokemon_name": "Slaking"
+}

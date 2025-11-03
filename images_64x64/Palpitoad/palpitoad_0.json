@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a frog with a playful personality and blue accents.",
+    "I want a Pokemon that has a round body, large ears, and is primarily blue with green accents.",
+    "Generate a unique aquatic Pokemon inspired by amphibians, featuring vibrant colors and a cheerful demeanor.",
+    "Make a design for a Pokemon that thrives in wetlands, showcasing a mix of blue and light colors.",
+    "Imagine a Pokemon that has a chubby body shape and is known for its melodic croaking in the wild.",
+    "Show me a Pokemon with a rounded form and distinctive ear-like features, primarily in shades of blue.",
+    "Design a Pokemon that exhibits both water and ground elements, with a fun-loving and friendly attitude."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Green",
+      "accent": "Black"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large round body",
+      "Prominent blue and green coloration",
+      "Distinctive ear-like structures",
+      "Wide mouth with a cheeky smile"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Ground",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Musical"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Palpitoad/0.png",
+  "pokemon_name": "Palpitoad"
+}

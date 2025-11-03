@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon inspired by a crab with vibrant red claws and a fierce expression.",
+    "I want a Pokemon that resembles a lobster, featuring a bright blue star on its head.",
+    "Generate a design for a Pokemon that blends aquatic features with a tough, armored appearance.",
+    "Make a creature that embodies the essence of the sea, showcasing bold colors and unique limbs.",
+    "Imagine a Pokemon that thrives in urban environments, characterized by its striking red shell and claws.",
+    "Design a Pokemon that has evolved from a basic form, showcasing its battle-ready stance and claws.",
+    "Show me a fearsome Pokemon that combines both water and dark elements with impressive visual traits."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Blue",
+      "accent": "Yellow"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large red claws",
+      "Prominent blue star on the head",
+      "Armored body with a tough shell",
+      "Sharp pincers",
+      "Vibrant eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Dark",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Proud",
+      "Defensive"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Crawdaunt/1.png",
+  "pokemon_name": "Crawdaunt"
+}

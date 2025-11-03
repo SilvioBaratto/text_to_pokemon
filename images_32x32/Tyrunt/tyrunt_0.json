@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a dinosaur-like Pokemon with rocky brown skin and bright orange spikes on its head.",
+    "Imagine a playful, small Pokemon that roams forests and has a friendly demeanor.",
+    "Design a Pokemon that resembles a baby dinosaur, featuring large expressive eyes and a wide grin.",
+    "Generate a fierce-looking Pokemon with a chunky body and sharp teeth, perfect for battling.",
+    "Make a cartoonish dinosaur Pokemon with a light brown body and playful orange accents.",
+    "Show me an adorable Pokemon that loves to explore mountains and has a curious personality.",
+    "Give me a small, rock-type Pokemon that can be found in caves and has a lively spirit."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Orange",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large mouth with sharp teeth",
+      "Spiky orange horns on the head",
+      "Short arms with clawed hands",
+      "Thick legs for stability",
+      "Large expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Dragon",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Energetic"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Tyrunt/0.png",
+  "pokemon_name": "Tyrunt"
+}

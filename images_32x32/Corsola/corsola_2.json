@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon inspired by ocean coral with soft pastel colors.",
+    "I want a Pokemon that resembles a coral reef, featuring vibrant hues and unique textures.",
+    "Generate a cute aquatic Pokemon with a pink body and a playful demeanor.",
+    "Make a Pokemon that embodies the essence of the sea, with a focus on coral-like features.",
+    "Imagine a small, charming creature that thrives in underwater habitats, adorned in pink tones.",
+    "Design a Pokemon that captures the beauty of marine life, showcasing a coral aesthetic.",
+    "Give me a Pokemon that has a whimsical coral appearance, perfect for a seaside environment."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Coral-like protrusions",
+      "Smooth, rounded body",
+      "Delicate branches resembling coral"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Rock",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Playful",
+      "Friendly"
+    ],
+    "habitat": "Sea",
+    "rarity": "Uncommon",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Corsola/2.png",
+  "pokemon_name": "Corsola"
+}

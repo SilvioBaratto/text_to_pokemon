@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that has a unique pattern on its wings and a gentle demeanor.",
+    "Show me a Pokemon resembling a butterfly, but with vibrant purple and blue colors.",
+    "Imagine a mythical creature that can camouflage itself among flowers, featuring soft pastel colors.",
+    "Generate a flying-type Pokemon that thrives in urban environments with shimmering wings.",
+    "Design a creature that blends the traits of a moth and a butterfly, showcasing a beautiful gradient.",
+    "Give me a Pokemon that embodies elegance and grace, with large, delicate wings and a serene expression.",
+    "Make a unique bug-type Pokemon that has a striking resemblance to a Venomoth and lives in forests."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, translucent wings",
+      "Multiple eye spots on wings",
+      "A small, rounded body",
+      "Antennas resembling feathery plumes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Curious",
+      "Timid"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Status"
+  },
+  "image_path": "images/Venomoth/0.png",
+  "pokemon_name": "Venomoth"
+}

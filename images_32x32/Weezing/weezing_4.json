@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a Pokemon that embodies the essence of pollution and has a unique dual-body structure.",
+    "I want a whimsical creature with a playful personality that releases colorful gas clouds.",
+    "Generate a toxic-themed Pokemon that floats effortlessly in urban environments.",
+    "Make a creature that resembles a gas-filled balloon with a quirky and mischievous expression.",
+    "Imagine a Pokemon designed to illustrate the concept of environmental hazards with a fun twist.",
+    "Design a character that represents both poison and fun, with a round, puffy appearance.",
+    "Show me a Pokemon that mixes colors and shapes to create a quirky, whimsical look."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Two spherical bodies",
+      "Smiling faces",
+      "Multiple yellow gas particles surrounding it"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Silly"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Weezing/4.png",
+  "pokemon_name": "Weezing"
+}

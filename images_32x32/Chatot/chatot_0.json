@@ -1,0 +1,57 @@
+{
+  "prompts": [
+    "Create a colorful bird Pokemon that can mimic sounds and has vibrant feathers.",
+    "I want a Pokemon that can fly and make musical notes with its body.",
+    "Generate a cheerful bird Pokemon with a mix of green, blue, and red colors.",
+    "Make a Pokemon that resembles a parrot, with unique musical abilities and bright colors.",
+    "Imagine a playful flying Pokemon that loves to sing and play in urban areas.",
+    "Design a Pokemon with a striking black crest and a colorful body, perfect for performing.",
+    "Show me a Pokemon that combines elements of music and nature in its design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Blue",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Black",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Green",
+      "accent": "Red"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Musical note crest",
+      "Colorful plumage",
+      "Large expressive eyes",
+      "Pointed beak",
+      "Long tail feathers"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Sociable"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Chatot/0.png",
+  "pokemon_name": "Chatot"
+}

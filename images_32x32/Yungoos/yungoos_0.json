@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a Normal-type Pokemon with a brown body and a yellow tuft on its head.",
+    "Show me a small, furry Pokemon that has a playful expression and a long tail.",
+    "Imagine a Pokemon that resembles a small mammal, known for its curious nature and quick movements.",
+    "Generate a Pokemon with distinctive white teeth and a round face, perfect for a forest setting.",
+    "Make a Normal-type Pokemon that has a brown fur coat and a yellow mane, ideal for grassy areas.",
+    "Design a Pokemon that looks like a ferret, with a long body and a charming grin.",
+    "Give me an image of a playful, agile Pokemon that thrives in urban environments and is often seen scavenging."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long, slender body",
+      "Yellow tuft of fur on the head",
+      "Prominent white teeth",
+      "Curved tail",
+      "Large, expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful",
+      "Energetic"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Fast and agile, relying on quick attacks."
+  },
+  "image_path": "images/Yungoos/0.png",
+  "pokemon_name": "Yungoos"
+}

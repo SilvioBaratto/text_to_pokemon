@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a small, fire-type Pokemon that resembles a cute chick with bright orange feathers.",
+    "I want a design of a Pokemon that has an adorable round body and a fiery personality.",
+    "Generate a fiery bird Pokemon with vibrant colors and a playful expression.",
+    "Make a Pokemon that embodies warmth and joy, featuring a bright yellow beak and orange plumage.",
+    "Imagine a tiny Pokemon that loves to play in the grass, with a playful look and fiery wings.",
+    "Show me a cute little Pokemon with a fluffy body and bright orange colors, perfect for a starter.",
+    "Design a small, energetic bird Pokemon with orange feathers and a cheerful demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Chick-like appearance",
+      "Fluffy tail feathers",
+      "Bright orange plumage",
+      "Large, expressive eyes",
+      "Small wings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Friendly"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Torchic/3.png",
+  "pokemon_name": "Torchic"
+}

@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a poison-type Pokemon with a round body and floating gas clouds around it.",
+    "I want a unique Pokemon that looks like a giant ball of toxic gas with a mischievous smile.",
+    "Generate a creature that resembles a purple gas cloud with frowning faces for its features.",
+    "Make a Pokemon that is designed to look like a toxic waste container with a bubbly texture.",
+    "Imagine a dual-type Pokemon that is both poison and flying, with a whimsical floating appearance.",
+    "Design a Pokemon that appears as a pair of floating balls with green fumes emitting from them.",
+    "Show me a Pokemon with a plump, round shape and a grumpy expression, surrounded by small gas bubbles."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Two round bodies",
+      "Visible faces with expressions",
+      "Floating green gas bubbles"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Grumpy"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Weezing/0.png",
+  "pokemon_name": "Weezing"
+}

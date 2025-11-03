@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with elegant wings and a slender body.",
+    "I want a creature that embodies speed and grace, with a shimmering appearance.",
+    "Generate a Pokemon that has a humanoid shape, with a focus on agility.",
+    "Make a Pokemon that thrives in urban environments, showcasing its beauty.",
+    "Imagine a legendary Pokemon that combines elegance and fierce combat capabilities.",
+    "Design a mythical creature that has a delicate yet powerful presence.",
+    "Give me a Pokemon that stands out with bright colors and intricate features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, slender limbs",
+      "Elegant wings",
+      "Streamlined body",
+      "Delicate antennae",
+      "Gold accents"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Graceful",
+      "Agile",
+      "Fierce"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Speed-focused"
+  },
+  "image_path": "images/Pheromosa/0.png",
+  "pokemon_name": "Pheromosa"
+}

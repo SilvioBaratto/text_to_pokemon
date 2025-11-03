@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a green Pokemon that blends in with nature and has a sleek body.",
+    "I want a grass-type Pokemon with elegant features and a friendly demeanor.",
+    "Generate a Pokemon that is small, bipedal, and has a bright yellow accent.",
+    "Make a mythical creature inspired by Snivy with unusual floral patterns.",
+    "Imagine an evolved version of Snivy with enhanced agility and sharp features.",
+    "Design a Pokemon that thrives in forests and is known for its swift movements.",
+    "Give me a unique take on a grass-type starter Pokemon with vibrant colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Serpent-like tail",
+      "Leafy crest on head",
+      "Sleek body shape",
+      "Large, expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Intelligent"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Snivy/1.png",
+  "pokemon_name": "Snivy"
+}

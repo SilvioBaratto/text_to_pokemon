@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a legendary steel-type Pokemon with a majestic appearance and strong presence.",
+    "Imagine a mythical creature that embodies strength and grace with a majestic horn.",
+    "Show me a quadruped Pokemon with a unique blue and gold color scheme.",
+    "Design a Pokemon that can thrive in mountainous habitats and has a protective nature.",
+    "Generate a powerful steel-type Pokemon that is known for its calm and noble demeanor.",
+    "Make a Pokemon that stands out with its distinctive white mane and impressive stature.",
+    "Give me a legendary Pokemon that symbolizes courage and is often found in serene environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Long, pointed horns",
+      "White mane",
+      "Muscular build",
+      "Elegant posture",
+      "Strong hooves"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Fighting",
+    "generation": 5,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Noble",
+      "Calm",
+      "Protective"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Cobalion/1.png",
+  "pokemon_name": "Cobalion"
+}

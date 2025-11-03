@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a sleek blue body and sharp, golden horns.",
+    "Show me a Pokemon that combines powerful aquatic features with an elegant design.",
+    "Imagine a Pokemon that is both fierce and wise, embodying the essence of the sea.",
+    "Design a creature that resembles a majestic sea lion, armed with sharp blades.",
+    "Generate a Pokemon with a strong connection to water, showcasing agility and strength.",
+    "Make a water-type character that is both regal and fierce, perfect for battles.",
+    "Give me a unique Pokemon that excels in aquatic environments and has a warrior-like appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Sharp golden blades on the forehead",
+      "Flipper-like limbs",
+      "Sleek streamlined body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Noble",
+      "Determined",
+      "Protective"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Samurott/0.png",
+  "pokemon_name": "Samurott"
+}

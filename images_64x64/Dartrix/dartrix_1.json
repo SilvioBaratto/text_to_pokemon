@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a flying-type Pokemon with intricate feather patterns and a sleek shape.",
+    "Imagine a Pokemon that combines graceful flight with sharp talons and vibrant colors.",
+    "Design a Pokemon with a wise demeanor, resembling an owl and showcasing natural camouflage.",
+    "Show me a Pokemon that blends in with forest surroundings, featuring earthy tones and agility.",
+    "Generate a Pokemon that embodies the spirit of the night with elegant wings and a mysterious aura.",
+    "Make a Pokemon that has a strong connection to nature, showcasing vibrant greens and browns.",
+    "Give me a Pokemon that can soar through mountains, with unique plumage and a keen sense of direction."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "White",
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": "Orange"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Feathered wings",
+      "Sharp beak",
+      "Pointed ears",
+      "Tufts of feathers on the head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Flying",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Wise",
+      "Cunning",
+      "Protective"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Ranged"
+  },
+  "image_path": "images/Dartrix/1.png",
+  "pokemon_name": "Dartrix"
+}

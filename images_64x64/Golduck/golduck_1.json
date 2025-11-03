@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with sleek blue skin and a playful demeanor.",
+    "Show me a Pokemon that has a streamlined body, perfect for swimming and agility.",
+    "Imagine a creature that thrives in urban water bodies, showcasing its aquatic skills.",
+    "Design a Pokemon that is both a fierce competitor and a loyal companion in battles.",
+    "Generate a unique Pokemon that can adapt to various habitats, from oceans to forests.",
+    "Give me a whimsical Pokemon that loves to play in lakes and rivers.",
+    "Make a Pokemon that has an elegant swimming style and captivating blue colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Webbed feet",
+      "Duck-like face",
+      "Sleek body",
+      "Long limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Intelligent",
+      "Curious"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Golduck/1.png",
+  "pokemon_name": "Golduck"
+}

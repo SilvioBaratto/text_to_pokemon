@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a small, plant-like Pokemon with a bright yellow body and green leaves on top.",
+    "Imagine a cute, round Grass-type Pokemon that resembles a sunflower seed with a cheerful face.",
+    "Show me a Pokemon that has a brown base color with vibrant yellow accents and a leafy crown.",
+    "Design a tiny Pokemon that thrives in forest habitats, has a playful demeanor, and loves sunshine.",
+    "Generate a whimsical Grass-type Pokemon with a bulbous body and expressive eyes, ready for adventure.",
+    "Make a Pokemon with a unique blend of yellow and brown colors, featuring a small leaf on its head.",
+    "Give me a visual of a small, adorable Pokemon that embodies nature and has a joyful personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Brown",
+      "accent": "Green"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Leaf on top of the head",
+      "Round, seed-like body",
+      "Expressive eyes",
+      "Brown lower body",
+      "Vibrant yellow upper body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Sunkern/2.png",
+  "pokemon_name": "Sunkern"
+}

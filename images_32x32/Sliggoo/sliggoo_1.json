@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with a slimy body and charming green eyes.",
+    "Imagine a cute, purple creature that can navigate through forests and caves.",
+    "Generate a unique evolution of a snail-like Pokemon with elegant features.",
+    "Design a Pokemon that thrives in wetland areas, showcasing vibrant colors.",
+    "Show me a friendly dragon Pokemon that loves to explore grassy terrains.",
+    "Make a whimsical creature with distinctively long ears and a slippery appearance.",
+    "Give me a Pokemon that exudes calmness and is found near water sources."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long, droopy ears",
+      "Slime-like body texture",
+      "Large expressive eyes",
+      "Curved tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Water",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Gentle",
+      "Curious"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Sliggoo/1.png",
+  "pokemon_name": "Sliggoo"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a powerful sound-based Pokemon that can unleash sonic waves.",
+    "Show me a unique Pokemon with large ears and a loud voice.",
+    "Design a quirky Pokemon that thrives in urban environments and loves music.",
+    "Imagine a Pokemon that uses sound to communicate and can confuse its opponents.",
+    "Generate a jovial creature that emits vibrations and enjoys lively gatherings.",
+    "Give me a Pokemon with a round, robust body and playful personality.",
+    "Make a loud Pokemon that can be found in caves or near concert venues."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": "Purple"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large protruding ears",
+      "Open mouth with visible teeth",
+      "Circular speakers on ears",
+      "Robust and rounded body",
+      "Vibrant pink eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Loud",
+      "Energetic"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Loudred/0.png",
+  "pokemon_name": "Loudred"
+}

@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon with a bushy appearance and long vines extending from its body.",
+    "I want to design a Pokemon that thrives in forest habitats and has a playful nature.",
+    "Generate a Pokemon that resembles a giant blue plant creature with red accents and a friendly demeanor.",
+    "Show me a Pokemon that has a unique, tangled shape and can camouflage well in its environment.",
+    "Imagine a Pokemon with a fluffy body and a long, waving arm, perfect for a grassland setting.",
+    "Give me a Pokemon that is very rare, with an unusual color palette of blue and red.",
+    "Make a Pokemon that evolves from a smaller plant-like creature and has a loving, nurturing personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Bushy, tangled appearance",
+      "Long, waving vine-like arms",
+      "Large, expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Nurturing"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Tangrowth/1.png",
+  "pokemon_name": "Tangrowth"
+}

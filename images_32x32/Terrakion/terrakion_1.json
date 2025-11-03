@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a legendary Pokemon that embodies strength and has a powerful presence.",
+    "I want a rock-type Pokemon with a robust build and impressive horns.",
+    "Generate an image of a majestic Pokemon that commands respect in battle.",
+    "Make a quadruped Pokemon with a unique combination of colors and fierce features.",
+    "Imagine a Pokemon that roams mountainous terrains, showcasing its durability and might.",
+    "Design a mythical creature that blends rock and fighting elements perfectly.",
+    "Show me a Pokemon that stands as a guardian of nature, with distinct earthy tones."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Brown",
+      "accent": "Orange"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Strong muscular build",
+      "Large horns",
+      "Orange accents on the legs",
+      "Rock-like texture on body",
+      "Powerful stance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Fighting",
+    "generation": 5,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Brave",
+      "Protective",
+      "Determined"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Terrakion/1.png",
+  "pokemon_name": "Terrakion"
+}

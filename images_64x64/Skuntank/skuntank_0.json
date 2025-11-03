@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a dark-type Pokemon with a sleek, shadowy design and a mischievous personality.",
+    "Show me a Pokemon that has a striking combination of purple and cream colors, evoking a sense of stealth.",
+    "Design a quadruped Pokemon that excels in urban environments, with unique features that make it stand out.",
+    "Imagine a Pokemon that can blend into forests, featuring distinctive stripes and an agile body.",
+    "Generate a Pokemon with a playful attitude that loves to explore grasslands, using its colors to camouflage.",
+    "Give me a new evolution for Skuntank that enhances its stealth capabilities and has an intimidating appearance.",
+    "Make a Pokemon that resembles a skunk but has a more dynamic color palette and a powerful presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long bushy tail",
+      "Prominent stripes",
+      "Pointed ears",
+      "Sneaky posture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": "Dark",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Cunning",
+      "Playful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Stealthy ambush"
+  },
+  "image_path": "images/Skuntank/0.png",
+  "pokemon_name": "Skuntank"
+}

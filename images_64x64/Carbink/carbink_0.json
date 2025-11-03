@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon that resembles a small diamond creature.",
+    "I want a Pokemon that sparkles and has a shiny gray and blue color scheme.",
+    "Generate a small, adorable Pokemon that lives in caves and mountains.",
+    "Make a fairy-type Pokemon with a fluffy body and bright blue eyes.",
+    "Imagine a mystical creature that blends well into forest habitats.",
+    "Design a Pokemon with a unique heart-like shape and glimmering features.",
+    "Show me a Pokemon that evolves from a crystal-like form and has an enchanting appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Diamond-like shape",
+      "Fluffy appearance",
+      "Bright blue eyes",
+      "Crystalline texture",
+      "Heart-like outline"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Fairy",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Carbink/0.png",
+  "pokemon_name": "Carbink"
+}

@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a small blue creature with round features and a playful expression.",
+    "Show me a cute Pokemon that has a big round body and a cheerful demeanor, perfect for a trainer's companion.",
+    "Imagine a small aquatic Pokemon with a fluffy tail and a buoyant personality, always ready for swimming adventures.",
+    "Generate a friendly Pokemon design with a bright blue color scheme and a round shape, ideal for a family-friendly game.",
+    "Make a playful water Pokemon with a large head and tiny arms, perfect for splash battles in the water.",
+    "Design an adorable Pokemon with a bubble-like appendage and a joyful attitude, great for interacting with trainers.",
+    "Give me a Pokemon that embodies the essence of water playfulness, with a round body and vibrant blue hues."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round body",
+      "Large circular ears",
+      "Small arms",
+      "Tail with a bubble",
+      "White belly"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Marill/1.png",
+  "pokemon_name": "Marill"
+}

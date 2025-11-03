@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a dark-type Pokemon with sleek fur and piercing green eyes that can blend into shadows.",
+    "Design a Pokemon resembling a small fox with a mischievous expression and a striking red tuft on its head.",
+    "Show me a tiny Pokemon that thrives in urban environments, using its agility to outsmart opponents.",
+    "Imagine a playful creature with a shadowy appearance and a knack for illusions and trickery.",
+    "Generate a Pokemon that can easily navigate through forests and caves, showcasing its stealthy nature.",
+    "Make a small, agile Pokemon with a distinctive color pattern that catches the eye but hides in plain sight.",
+    "Give me a Pokemon with a mysterious aura, capable of evoking fear while maintaining a playful demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Red",
+      "accent": "Green"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Pointed ears",
+      "Red tuft of fur on head",
+      "Distinct green eyes",
+      "Small snout",
+      "Sleek body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Cunning"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Stealth and trickery"
+  },
+  "image_path": "images/Zorua/0.png",
+  "pokemon_name": "Zorua"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon with a large flower on its back and a sturdy body.",
+    "Imagine a Pokemon that can thrive in both forests and urban areas, showcasing vibrant colors.",
+    "Generate a creature that resembles a giant frog with plant features and a cheerful personality.",
+    "Show me a Pokemon with a unique combination of blue and green colors, exuding a calm vibe.",
+    "Design a Pokemon that evolves from a smaller plant creature into a large, flower-covered beast.",
+    "Give me a Pokemon with a quadruped body shape that loves to bask in the sunlight.",
+    "Make a mythical creature that embodies the spirit of nature, with a friendly disposition."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Blue",
+      "accent": "Pink"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large flower on its back",
+      "Bulbous body",
+      "Lobed leaves",
+      "Red eyes",
+      "Sturdy limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Friendly",
+      "Calm",
+      "Protective"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Venusaur/5.png",
+  "pokemon_name": "Venusaur"
+}

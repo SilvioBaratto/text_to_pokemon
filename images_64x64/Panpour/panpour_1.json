@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with vibrant blue fur and a playful expression.",
+    "Imagine a monkey-like Pokemon that loves to splash water everywhere in a tropical forest.",
+    "Show me a cute Pokemon with an aquatic theme and a charming personality.",
+    "Design a Pokemon that embodies the spirit of water with a unique hairstyle resembling waves.",
+    "Generate a small and adorable Pokemon that thrives in wetland environments.",
+    "Make a Pokemon that uses water-based attacks and has a joyful demeanor.",
+    "Give me a character that resembles a playful primate and has blue accents all over."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Water droplet-shaped tail",
+      "Fluffy blue hair resembling a water wave",
+      "Large ears with a round shape",
+      "Playful facial expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Panpour/1.png",
+  "pokemon_name": "Panpour"
+}

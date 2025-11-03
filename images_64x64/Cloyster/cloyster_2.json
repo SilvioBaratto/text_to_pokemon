@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create an icy Pokemon with sharp, spiky armor and a fierce expression.",
+    "Show me a water-type Pokemon that resembles a clam with a tough exterior.",
+    "Generate a Pokemon that can defend itself with a shell and cold water attacks.",
+    "Imagine a creature that thrives in icy waters, adorned with icy blue spikes.",
+    "Design a Pokemon with a tough shell, known for its defensive abilities.",
+    "Give me a Pokemon that has a unique clam-like structure and icy features.",
+    "Make a design for a Pokemon that excels in underwater battles with a hard shell."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Spiky shell",
+      "Black face with a menacing smile",
+      "Blue and white coloration",
+      "Clam-like structure",
+      "Shell closure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Ice",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Defensive",
+      "Stoic",
+      "Resilient"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Cloyster/2.png",
+  "pokemon_name": "Cloyster"
+}

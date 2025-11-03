@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a ground-type Pokemon that has three heads and a playful personality.",
+    "I want to see a Pokemon with a sandy brown body and bright pink accents.",
+    "Generate a Pokemon that resembles a trio of moles with unique hairstyles.",
+    "Make a small, underground-dwelling Pokemon with a cheerful demeanor and cute features.",
+    "Imagine a Pokemon with a round body and a grounded personality, perfect for battles.",
+    "Design a Pokemon that thrives in deserts and has a quirky fashion sense.",
+    "Give me a Pokemon that loves to dig and has a strong bond with its friends."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Three heads",
+      "Blonde hair",
+      "Round body",
+      "Mole-like appearance",
+      "Pink snouts"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Sociable",
+      "Energetic"
+    ],
+    "habitat": "Desert",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Dugtrio/1.png",
+  "pokemon_name": "Dugtrio"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with large claws and a bushy beard.",
+    "Imagine a Pokemon that can blend into the ocean with its orange body and white accents.",
+    "Generate a Pokemon with a powerful pinch and a determined expression.",
+    "Design a Pokemon that thrives in coastal habitats and has a unique shell-like feature.",
+    "Give me a Pokemon that resembles a crab with a fierce demeanor and bright colors.",
+    "Show me a Pokemon that can fight effectively in the water with its strong pincers.",
+    "Make a Pokemon that uses its claws to defend itself against predators in its environment."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large pincers",
+      "Spiky shell-like back",
+      "White beard-like appendage",
+      "Bulbous eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Aggressive",
+      "Protective"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Kingler/0.png",
+  "pokemon_name": "Kingler"
+}

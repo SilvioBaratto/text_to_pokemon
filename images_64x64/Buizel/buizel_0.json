@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that has a sleek, streamlined body and is orange in color.",
+    "Imagine a playful aquatic creature with a long tail and a cheerful expression, perfect for kids.",
+    "Design a Pokemon resembling a small otter with blue accents, swimming through a vibrant river.",
+    "Generate a cute water Pokemon that can be found in forest streams, with a friendly demeanor.",
+    "Show me a Pokemon with a unique swimming style, combining agility and charm in its appearance.",
+    "Make an image of a Pokemon that loves playing in the water, with noticeable orange and yellow colors.",
+    "I want a Pokemon that looks like a miniature sea creature, agile and adorable with bright colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Yellow",
+      "accent": "Blue"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Streamlined body for swimming",
+      "Long, pointed tail",
+      "Large, expressive eyes",
+      "Fins on the sides",
+      "Distinctive yellow collar"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Friendly"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Fast and agile"
+  },
+  "image_path": "images/Buizel/0.png",
+  "pokemon_name": "Buizel"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon that resembles a giant serpent made of boulders.",
+    "Show me a Pokemon that has a long, winding body and sharp, jagged features.",
+    "Imagine a blue and gray Pokemon that moves through rocky caves effortlessly.",
+    "Design a Pokemon with a serpentine shape that can burrow through the ground.",
+    "Make a mythical creature that embodies the essence of earth and stone.",
+    "Generate a serpentine Pokemon that can navigate through mountains and caves.",
+    "Give me a fierce-looking Pokemon with a body made of crystalline rocks."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Rock-like body segments",
+      "Long, serpentine shape",
+      "Pointed head with a horn",
+      "Grayish-blue coloration",
+      "Tail tapers off into a point"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Ground",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Strong-willed",
+      "Protective"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Onix/2.png",
+  "pokemon_name": "Onix"
+}

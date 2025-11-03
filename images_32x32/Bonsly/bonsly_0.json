@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Design a cute, tiny Pokemon that resembles a rock with green leaves on top.",
+    "Create a playful Pokemon that looks like a small tree stump with a happy face.",
+    "Generate an adorable creature inspired by nature, featuring earthy tones and cartoonish features.",
+    "Imagine a whimsical Pokemon that could blend into forests, with a round body and leafy appendages.",
+    "Show me a Pokemon that embodies the spirit of nature, with a friendly expression and earthy colors.",
+    "Make a tiny Pokemon that has a body resembling a rock and is topped with bright green leaves.",
+    "Give me a Pokemon that looks like a small, round creature with a joyful demeanor and plant-like features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round body",
+      "Two green leaves on top",
+      "Small yellow eyes",
+      "Light brown texture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Bonsly/0.png",
+  "pokemon_name": "Bonsly"
+}

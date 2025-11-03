@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with vibrant red and gray colors, featuring unique musical instruments.",
+    "Design a Pokemon that thrives in forest environments, showcasing intricate insect-like features.",
+    "Imagine a powerful insectoid creature adorned with striking red and black accents, perfect for a battle.",
+    "Generate a Pokemon with a playful personality, known for its melodic sounds and cheerful nature.",
+    "Show me a Pokemon that embodies the spirit of music, with distinct features resembling a cricket.",
+    "Make a Pokemon that excels in agility and speed, with a unique blend of red and gray colors.",
+    "Give me a Pokemon that's great for urban adventures, combining its bug traits with musical abilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Gray",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long antennae",
+      "Musical instrument-like features",
+      "Large wings",
+      "Red and gray coloration",
+      "Insect-like legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Musical",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Kricketune/1.png",
+  "pokemon_name": "Kricketune"
+}

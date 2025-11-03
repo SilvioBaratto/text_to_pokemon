@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a fluffy Pokemon that can roll into a ball and bounces around playfully.",
+    "Imagine a Pokemon with soft wool and majestic horns, perfect for a pastoral scene.",
+    "Design an adorable sheep-like creature with a strong presence and a charming personality.",
+    "Generate a Pokemon that thrives in grassy areas, known for its gentle nature and fluffy appearance.",
+    "Make a cuddly yet powerful Pokemon that can defend its flock with impressive strength.",
+    "Show me a Pokemon with a playful demeanor and a love for open fields and sunny days.",
+    "Give me a Pokemon that embodies the essence of rural life with its woolly coat and friendly nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Gray",
+      "accent": "Black"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Fluffy wool coat",
+      "Curved black horns",
+      "Round body",
+      "Short legs",
+      "Friendly expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Playful",
+      "Protective"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Dubwool/0.png",
+  "pokemon_name": "Dubwool"
+}

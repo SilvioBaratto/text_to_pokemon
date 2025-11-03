@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghostly Pokemon with a jellyfish-like appearance and shimmering colors.",
+    "Imagine a mysterious creature floating above the ground with an ethereal glow.",
+    "Design a Pokemon that resembles a mixture of jellyfish and alien life forms.",
+    "Show me a Pokemon that combines elements of both aquatic and cosmic themes.",
+    "Generate a unique Pokemon that emanates a sense of otherworldliness and danger.",
+    "Make a Pokemon with translucent features and a floating, amorphous body.",
+    "Give me a design for a Pokemon that thrives in urban environments and is elusive."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Purple",
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Translucent body",
+      "Tentacle-like appendages",
+      "Floating appearance",
+      "Glowing edges",
+      "Mimics a jellyfish"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Poison",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Ethereal",
+      "Elusive"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Nihilego/1.png",
+  "pokemon_name": "Nihilego"
+}

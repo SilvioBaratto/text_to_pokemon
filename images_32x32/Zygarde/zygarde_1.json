@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a Pokemon that embodies the essence of nature with shades of green and black.",
+    "I want a fierce-looking dragon-type Pokemon with striking green accents and a powerful stance.",
+    "Generate a legendary Pokemon that resembles a guardian of the earth, featuring dark and vibrant colors.",
+    "Make a creature that blends seamlessly into its forest habitat, showcasing a mix of earthy tones.",
+    "Imagine a mythical being with a commanding presence, highlighted by bright green features against a dark body.",
+    "Design a powerful quadruped Pokemon that evokes the feeling of strength and protection in its design.",
+    "Show me a unique Pokemon that combines elements of both dark and ground types with a sleek silhouette."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Serpent-like tail",
+      "Green energy strands",
+      "Prominent canine features",
+      "Intimidating posture",
+      "Vibrant green markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Ground",
+    "generation": 6,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Guardianship",
+      "Fierce",
+      "Loyal"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Zygarde/1.png",
+  "pokemon_name": "Zygarde"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon that has a unique spoon weapon and a yellow fur coat.",
+    "Imagine a Pokemon with a humanoid shape and a mischievous personality, wielding a spoon.",
+    "Generate a bipedal creature with psychic powers and a playful demeanor, set in an urban environment.",
+    "Make a Pokemon with a distinctly yellow body and a sage-like appearance, using its abilities in combat.",
+    "Show me a Pokemon known for its psychic abilities, characterized by its sleek body and sharp features.",
+    "Design a Pokemon that thrives in forest habitats, with a striking color palette of yellow and brown.",
+    "Give me a Pokemon that evolves from a basic form and has a notable affinity for mind tricks."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Spoon in hand",
+      "Pointed ears",
+      "Unique facial markings",
+      "Long tail",
+      "Wearing a brown belt"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Clever",
+      "Playful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Psychic attacks and tricks"
+  },
+  "image_path": "images/Kadabra/3.png",
+  "pokemon_name": "Kadabra"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a spooky ghost-type Pokemon that floats and has an eerie smile.",
+    "Imagine a purple, floating Pokemon with big eyes and a mischievous personality.",
+    "Generate a ghostly creature that resembles a cloud with a round shape and a playful demeanor.",
+    "Design a small, purple Pokemon with distinctive features like a face and a playful shadowy aura.",
+    "Show me a ghost-type Pokemon that is known for its mysterious nature and playful tricks.",
+    "Give me a Pokemon that embodies the essence of a ghost, with a round body and haunting eyes.",
+    "Make a Pokemon that looks like a mischievous spirit, floating with a cheeky grin."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Black",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round, floating body",
+      "Large, expressive eyes",
+      "Open mouth with a tongue sticking out",
+      "Mist-like aura surrounding the body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Eerie"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Gastly/3.png",
+  "pokemon_name": "Gastly"
+}

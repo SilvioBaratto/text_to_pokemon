@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a mysterious Pokemon that glows in the dark and has a starry pattern.",
+    "I want a cute, small Pokemon with a round body and swirly features.",
+    "Generate a Pokemon that floats gently, resembling a cloud with pastel colors.",
+    "Make a playful creature with a celestial theme and bubbly expressions.",
+    "Imagine a whimsical Pokemon with a unique shape and vibrant colors.",
+    "Design a cosmic Pokemon that changes colors based on its mood.",
+    "Show me a Pokemon inspired by a starry night sky with sparkling effects."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round body shape",
+      "Swirly patterns",
+      "Star-like features",
+      "Lightweight appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Flying",
+    "type2": "Rock",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mysterious",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Minior/4.png",
+  "pokemon_name": "Minior"
+}

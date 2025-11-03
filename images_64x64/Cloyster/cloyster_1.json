@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a shell and spiky features that resembles a clam.",
+    "I want a Pokemon that can hide in its shell, featuring icy blue colors and sharp spikes.",
+    "Generate a Pokemon with a unique dual-type, showcasing both water and ice characteristics.",
+    "Make a Pokemon with a tough exterior and a sleek black core, perfect for battling in the ocean.",
+    "Imagine a powerful aquatic creature with a round body and colorful accents that stand out in the sea.",
+    "Design a Pokemon that can withstand harsh underwater conditions, with a distinctive shell-like appearance.",
+    "Show me a defensive-type Pokemon that uses its shell for protection, adorned with vibrant pink and blue colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Pink"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Blue",
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Spiky shell",
+      "Round body",
+      "Large opening with a dark core",
+      "Prominent blue accents"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Ice",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Defensive",
+      "Calm",
+      "Resilient"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Cloyster/1.png",
+  "pokemon_name": "Cloyster"
+}

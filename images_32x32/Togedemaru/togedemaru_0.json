@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a cute Electric-type Pokemon resembling a round, fuzzy creature with a playful expression.",
+    "Show me a tiny Pokemon that has a predominantly gray body with yellow accents and a cheerful demeanor.",
+    "Imagine a Pokemon that's small, rotund, and has a tail resembling a lightning bolt, full of energy!",
+    "Generate an adorable Pokemon with large cheeks, primarily gray in color, that loves to roll around.",
+    "Design a Pokemon that looks like a combination of a mouse and a hedgehog, with bright yellow highlights.",
+    "Give me a round Pokemon that has a happy face, fluffy body, and a hint of mischief in its eyes.",
+    "Make a character concept for a playful Electric-type Pokemon that enjoys living in grassy areas."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round, fluffy body",
+      "Large yellow cheeks",
+      "Tail shaped like a lightning bolt",
+      "Small ears",
+      "Cute facial expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Energetic"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Fast and agile with Electric-type moves"
+  },
+  "image_path": "images/Togedemaru/0.png",
+  "pokemon_name": "Togedemaru"
+}

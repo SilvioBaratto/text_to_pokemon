@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a mystical steel-type Pokemon that resembles a bell with ancient symbols.",
+    "Imagine a Pokemon that combines elements of a clock and a mythical guardian.",
+    "Generate a steel-type creature with a sturdy build and a serene expression.",
+    "Design a Pokemon that embodies both ancient technology and nature with a metallic finish.",
+    "Show me a Pokemon that has a bell shape and is known for its defensive capabilities.",
+    "Give me a unique steel-type Pokemon that has large, wing-like appendages.",
+    "Make a Pokemon that is inspired by ancient artifacts and has a calming presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Red",
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Bell shape",
+      "Large wing-like structures",
+      "Red markings",
+      "Metallic texture",
+      "Ancient design motifs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Psychic",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Protective",
+      "Wise"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Bronzong/0.png",
+  "pokemon_name": "Bronzong"
+}

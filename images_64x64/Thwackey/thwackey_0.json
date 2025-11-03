@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon with a mischievous expression and a sporty stance.",
+    "Show me a Pokemon that resembles a monkey but is more agile and playful.",
+    "Imagine a Pokemon that wields a stick as a weapon, blending nature with combat.",
+    "Design a bipedal creature that thrives in forest habitats, showcasing vibrant colors.",
+    "Give me a Pokemon that embodies energy and enthusiasm, with a unique fighting style.",
+    "Generate a character that looks like a prankster, with a strong connection to nature.",
+    "Make a Pokemon that can camouflage in grasslands, with features that stand out."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Orange",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": "Orange"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Bat-like club",
+      "Large expressive eyes",
+      "Short limbs with defined musculature",
+      "Thick tail",
+      "Unique facial markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Fighting",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Mischievous"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Close-range fighter"
+  },
+  "image_path": "images/Thwackey/0.png",
+  "pokemon_name": "Thwackey"
+}

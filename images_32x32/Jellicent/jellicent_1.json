@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon with flowing blue tentacles and a friendly expression.",
+    "I want a jellyfish-like creature that glows in the dark and has a playful demeanor.",
+    "Generate an aquatic Pokemon with a round body and long, waving appendages.",
+    "Make a blue and white Pokemon that looks soft and inviting, perfect for ocean adventures.",
+    "Imagine a Pokemon that resembles a jellyfish but has a mischievous personality and vibrant colors.",
+    "Design a Pokemon that floats gracefully through water, with a serene and calming presence.",
+    "Show me a ghostly Pokemon that changes shades of blue and has two large eyes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flowing tentacle-like appendages",
+      "Round, balloon-like body",
+      "Two large eyes",
+      "Translucent appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Water",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Calm"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive and evasive"
+  },
+  "image_path": "images/Jellicent/1.png",
+  "pokemon_name": "Jellicent"
+}

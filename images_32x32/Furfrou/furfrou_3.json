@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a fluffy Pokemon that resembles a stylish dog with unique hairdos.",
+    "I want an elegant Pokemon that has a chic appearance and playful personality.",
+    "Generate a Normal-type Pokemon with a fluffy white coat and pink accents.",
+    "Make a Pokemon that has unique grooming features and a love for urban environments.",
+    "Imagine a fashionable dog Pokemon that can change its hairstyle based on mood.",
+    "Design a Pokemon that thrives in grassy areas and has a fun-loving attitude.",
+    "Give me a cute Pokemon with a round body and a penchant for stylish accessories."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy coat",
+      "Stylish accessories",
+      "Curled tail",
+      "Distinctive facial markings",
+      "Elegant posture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Stylish",
+      "Loyal"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Furfrou/3.png",
+  "pokemon_name": "Furfrou"
+}

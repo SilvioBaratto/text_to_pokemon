@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon that resembles a small feminine figure with plant-like features.",
+    "I want a Pokemon that has a combination of green and pink colors with a unique floral design.",
+    "Generate a Pokemon that embodies the spirit of nature and has elegant, flowing leaves.",
+    "Make a Pokemon with a whimsical appearance that uses its plant parts in battle.",
+    "Imagine a Pokemon that has a magical aura, with vibrant colors and a gentle demeanor.",
+    "Design a Pokemon that looks like it's from a lush forest, surrounded by flowers and greenery.",
+    "Give me a Pokemon that can blend in with its surroundings, showcasing its vibrant colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Pink",
+      "accent": "Purple"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Leaf-like structures on the head",
+      "Floral design on the body",
+      "Curvy and elegant posture",
+      "Petal-like appendages",
+      "White lower body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Playful",
+      "Supportive"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Supportive and strategic"
+  },
+  "image_path": "images/Steenee/0.png",
+  "pokemon_name": "Steenee"
+}

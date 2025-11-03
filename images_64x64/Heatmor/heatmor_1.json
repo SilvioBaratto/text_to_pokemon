@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a unique fire-type Pokemon that thrives in cave environments with a fierce appearance.",
+    "Imagine a creature that combines the features of a badger and a flame, showcasing vibrant red and yellow colors.",
+    "Design an aggressive-looking Pokemon with a sturdy body, perfect for battling in mountainous terrain.",
+    "Generate a Pokemon with distinct heat-based abilities, sporting both red and brown hues.",
+    "Give me a detailed description of a fire-type Pokemon with claw-like hands and a powerful stance.",
+    "Show me a Pokemon that is both rare and known for its fiery attacks, with a robust appearance.",
+    "Make a visual representation of a Pokemon that embodies the spirit of the desert with its fire type."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Brown",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flame-like patterns on the body",
+      "Claw-like hands",
+      "Long snout",
+      "Sturdy limbs",
+      "Prominent ears"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Determined",
+      "Resourceful"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Heatmor/1.png",
+  "pokemon_name": "Heatmor"
+}

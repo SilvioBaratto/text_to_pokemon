@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a spiky sea creature Pokemon that can electrify its opponents.",
+    "I want a unique Pokemon that thrives in both ocean depths and rocky shores.",
+    "Generate a small aquatic Pokemon with vibrant colors and a playful demeanor.",
+    "Make a Pokemon with a round body and sharp spikes, perfect for underwater battles.",
+    "Imagine a Pokemon that uses electricity to defend itself from predators.",
+    "Design a Pokemon that has a mix of yellow and purple, showcasing its electric power.",
+    "Show me a Pokemon that can blend into aquatic environments with its colors and shape."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Spiky protrusions",
+      "Round body",
+      "Bright yellow core",
+      "Short, stubby spikes",
+      "Electric appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Water",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Defensive",
+      "Curious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Pincurchin/0.png",
+  "pokemon_name": "Pincurchin"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a crab-like Pokemon with vibrant orange claws and a soft white belly.",
+    "I want a Pokemon that resembles a small crustacean, perfect for coastal regions.",
+    "Generate a water-type Pokemon with distinctive large claws and a playful personality.",
+    "Make a Pokemon that thrives in sandy beaches, showcasing bright orange and white colors.",
+    "Imagine a Pokemon that scuttles quickly on the shore, with a rounded body and cheerful demeanor.",
+    "Design a Pokemon featuring oversized pincers, ideal for battles in aquatic environments.",
+    "Show me a Pokemon that combines elements of a crab and a playful, energetic character."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large pincers",
+      "Rounded body",
+      "White underbelly",
+      "Small legs",
+      "Bright eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Curious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Krabby/0.png",
+  "pokemon_name": "Krabby"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a multi-type Pokemon with a sleek design and a combination of blue and white colors.",
+    "Imagine a Pokemon that has a wolf-like appearance with sharp features and a dynamic color palette.",
+    "Design a legendary creature that blends elements of technology and nature, focusing on its unique abilities.",
+    "Generate a Pokemon with an agile stance, showcasing a variety of striking colors and a powerful aura.",
+    "Show me a Pokemon that embodies both strength and grace, with colors that reflect its dual nature.",
+    "Make a creature that merges animalistic traits with futuristic elements, featuring vibrant accents.",
+    "Give me a Pokemon that stands out visually with its distinctive facial markings and impressive silhouette."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Black",
+      "accent": "Blue"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Unique facial markings",
+      "Large blue fins",
+      "Strong muscular build",
+      "Robust tail",
+      "Colorful accents on limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Steel",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Adaptive",
+      "Loyal",
+      "Intelligent"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Versatile"
+  },
+  "image_path": "images/Silvally/4.png",
+  "pokemon_name": "Silvally"
+}

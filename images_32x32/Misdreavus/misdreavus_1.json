@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that blends into the night with a mysterious aura and floating characteristics.",
+    "Imagine a spooky Pokemon with a mischievous smile and glowing eyes, perfect for tricking adventurers.",
+    "Show me a Pokemon that haunts dark forests, featuring swirling mist and eerie colors to frighten its foes.",
+    "Design a ghostly creature with a playful personality, ready to play pranks on unsuspecting trainers in urban areas.",
+    "Generate a Pokemon with a shadowy form, emphasizing shades of blue and purple, surrounded by wisps of energy.",
+    "Make a Pokemon that embodies mystery and allure, with an elegant floating motion and a captivating gaze.",
+    "Give me a ghost-type Pokemon that thrives in caves, bringing an air of enchantment and spookiness to its habitat."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Purple",
+      "accent": "Pink"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Floating body with wispy tendrils",
+      "Glowing red eyes",
+      "Mischievous smile",
+      "Cloud-like form",
+      "Ethereal appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Eerie"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Trickster"
+  },
+  "image_path": "images/Misdreavus/1.png",
+  "pokemon_name": "Misdreavus"
+}

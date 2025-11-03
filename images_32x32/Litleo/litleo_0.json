@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a playful lion-like Pokemon with fluffy fur and a fiery mane.",
+    "I want a small, energetic fire-type Pokemon that resembles a baby lion.",
+    "Generate a cute Pokemon with brown fur and a bright red tuft on its head.",
+    "Make a fire-type Pokemon that has large, expressive eyes and a playful demeanor.",
+    "Imagine a Pokemon that embodies the spirit of a young lion, full of energy.",
+    "Design a Pokemon with a soft, cuddly appearance and a fierce fire-type ability.",
+    "Show me a Pokemon that thrives in grasslands and has a warm, friendly personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Black",
+      "accent": "Red"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy mane",
+      "Large expressive eyes",
+      "Paw pads",
+      "Red tuft on the head",
+      "Chubby body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Energetic"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Litleo/0.png",
+  "pokemon_name": "Litleo"
+}

@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon that resembles a rolling stone with glowing red accents.",
+    "I want a Pokemon that looks like a small, coal-like creature with bright orange spots.",
+    "Generate an image of a Pokemon that has a black rocky body and a shiny orange core.",
+    "Make a rock Pokemon that is round, with a rugged texture and surrounded by smaller stones.",
+    "Imagine a Pokemon that embodies the essence of coal, with a vibrant orange glow at its center.",
+    "Design a tiny Pokemon with a body shaped like a rolling boulder and fiery orange highlights.",
+    "Show me a Pokemon with a dark rock exterior and glowing elements, perfect for a cave habitat."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Orange",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Glowing orange core",
+      "Rocky texture",
+      "Small rolling boulder shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Cave",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Rolycoly/1.png",
+  "pokemon_name": "Rolycoly"
+}

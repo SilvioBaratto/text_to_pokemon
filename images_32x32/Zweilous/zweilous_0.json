@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with two heads and a fierce expression.",
+    "Imagine a dark-type Pokemon that resembles a two-headed dragon with a menacing aura.",
+    "Show me a Pokemon that has a sleek body and sharp claws, perfect for battling.",
+    "Generate a creature that thrives in caves and has a unique two-headed design.",
+    "Design a fierce-looking dragon Pokemon with a mix of dark and blue colors.",
+    "Make a Pokemon that embodies strength and cunning with dual heads and a rugged appearance.",
+    "Give me a Pokemon that dominates the forest with its intimidating presence and dual heads."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Blue",
+      "accent": "Red"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Two heads",
+      "Sharp claws",
+      "Long tail",
+      "Muscular build",
+      "Blue underbelly"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Dark",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Aggressive",
+      "Protective"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Zweilous/0.png",
+  "pokemon_name": "Zweilous"
+}

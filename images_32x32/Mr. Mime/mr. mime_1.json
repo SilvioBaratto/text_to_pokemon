@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon that has a whimsical appearance with playful gestures.",
+    "Imagine a Pokemon that uses its psychic abilities to create illusions and entertain.",
+    "Design a humanoid creature with colorful accents and a mischievous personality.",
+    "Generate a Pokemon that thrives in urban environments and delights in performing tricks.",
+    "Show me a playful Pokemon that has a jester-like quality and bright colors.",
+    "Make a unique Pokemon that embodies the essence of a mime with enchanting abilities.",
+    "Give me a psychic Pokemon that can communicate through gestures and expressions."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Pink",
+      "accent": "White"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Bald head with a round face",
+      "Blue pants and shoes",
+      "White sleeves resembling a mime's outfit",
+      "Distinctive hand gestures",
+      "Pointed ears"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Creative"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Support and Trickster"
+  },
+  "image_path": "images/Mr. Mime/1.png",
+  "pokemon_name": "Mr. Mime"
+}

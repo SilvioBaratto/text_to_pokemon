@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that glows softly in the dark with a pink and purple color scheme.",
+    "I want to see a jelly-like Pokemon that floats gracefully with a whimsical design and pastel colors.",
+    "Generate a water-type Pokemon resembling a jellyfish, featuring flowing tentacles and vibrant shades of pink.",
+    "Make a fairy-type Pokemon with a unique amorphous shape, adorned with soft clouds and elegant colors.",
+    "Imagine a Pokemon that thrives in the sea, showcasing a blend of pink and purple with ghostly features.",
+    "Design a Pokemon that embodies elegance and mystery, with flowing forms and a serene color palette.",
+    "Give me a jellyfish-inspired Pokemon that has a playful demeanor, blending shades of pink and purple beautifully."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Purple"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": null,
+      "accent": "Purple"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Soft, jelly-like body",
+      "Flowing tentacles",
+      "Translucent appearance",
+      "Cloud-like structure on top"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Water",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mysterious",
+      "Serene"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Jellicent/0.png",
+  "pokemon_name": "Jellicent"
+}

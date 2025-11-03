@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ground-type Pokemon with green skin and a powerful tail for a unique design.",
+    "I want an adorable Pokemon that resembles a small dinosaur with a rocky back and bright red eyes.",
+    "Generate a Pokemon that thrives in mountainous regions, showcasing earthy colors and rugged features.",
+    "Make a Pokemon that can burrow underground, featuring a stout body and a playful demeanor.",
+    "Imagine a Pokemon that evolves into a fierce creature, starting as a small, green, rock-like figure.",
+    "Design a unique Pokemon that can camouflage in forest areas with its green and brown colors.",
+    "Show me a Pokemon that has a mix of cute and tough characteristics, perfect for battle."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Red",
+      "accent": "Black"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Rock-like back",
+      "Small, pointed crest on head",
+      "Red eyes",
+      "Black spots on the body",
+      "Stout limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Ground",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful",
+      "Stubborn"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Larvitar/2.png",
+  "pokemon_name": "Larvitar"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon that resembles a fruit with a lively expression.",
+    "Imagine a small, adorable Pokemon that has a green top and a red body.",
+    "Show me a Pokemon that has a unique apple shape and cute leaf features.",
+    "Generate an image of a tiny Pokemon that blends in with forest fruits.",
+    "Make a Pokemon that has a friendly personality and loves to hide in trees.",
+    "Design a Pokemon that looks like it could roll around in an orchard.",
+    "Give me a Pokemon that has a round body and is surrounded by leaves."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round apple-like body",
+      "Leafy green top",
+      "Small fangs",
+      "Cute eyes",
+      "Short stem"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Applin/0.png",
+  "pokemon_name": "Applin"
+}

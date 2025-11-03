@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon with rugged features and a determined expression.",
+    "Show me a Pokemon that resembles a boulder, with arms and a fierce stance.",
+    "Imagine a small, rocky creature emerging from the mountains, ready to battle.",
+    "Generate a Pokemon with a tough exterior, showcasing strength and resilience.",
+    "Design a Pokemon that looks like a stone, but has a lively personality.",
+    "Give me a Pokemon inspired by geological formations, with unique color patterns.",
+    "Make a Pokemon that embodies the spirit of the earth, with arms raised in triumph."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Rocky texture",
+      "Muscular arms",
+      "Facial expression showing determination",
+      "Compact body",
+      "Raised arms"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Ground",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Stubborn",
+      "Strong-willed"
+    ],
+    "habitat": "Cave",
+    "rarity": "Common",
+    "combat_style": "Physical fighter"
+  },
+  "image_path": "images/Geodude/4.png",
+  "pokemon_name": "Geodude"
+}

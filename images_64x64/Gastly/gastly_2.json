@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that resembles a floating cloud with a mischievous grin and glowing eyes.",
+    "Generate a spooky Pokemon that has a round shape and emits a purple mist around it.",
+    "Imagine a shadowy creature with a playful personality, lurking in dark places and surprising trainers.",
+    "Make a Pokemon that is primarily black with hints of purple, known for its ghostly abilities.",
+    "Design a Pokemon that floats and uses ghost-type moves, with distinctive glaring eyes and a haunting smile.",
+    "Show me a Pokemon that looks like a floating ball of gas, with a cheeky expression and a spooky aura.",
+    "Give me a Pokemon that embodies the essence of ghostly mischief, with a round body and ghostly features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Purple"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": null,
+      "accent": "Purple"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round shape",
+      "Glaring eyes",
+      "Floating appearance",
+      "Purple mist",
+      "Cheeky grin"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Cunning"
+    ],
+    "habitat": "Cave",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Gastly/2.png",
+  "pokemon_name": "Gastly"
+}

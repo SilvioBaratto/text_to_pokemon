@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a robust Pokemon known for its tough exterior and powerful ground abilities.",
+    "Imagine a Pokemon that rolls into a ball to defend itself, showcasing its strong shell.",
+    "Design an elephant-like Pokemon with a unique rolling attack, perfect for battles.",
+    "Generate a Pokemon with a tough hide and an affinity for digging through mountains.",
+    "Show me a Pokemon that embodies strength and resilience, with a sturdy, armored body.",
+    "Give me a Pokemon that thrives in grasslands and is known for its impressive stamina.",
+    "Make a Pokemon with a distinctive trunk and a powerful charge attack, ready for battle."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Black"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large, rounded body",
+      "Thick, gray armored skin",
+      "Trunk-like snout",
+      "Sturdy legs",
+      "Spiked back"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Reliable",
+      "Playful"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Defensive and strategic"
+  },
+  "image_path": "images/Donphan/0.png",
+  "pokemon_name": "Donphan"
+}

@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a fairy-type Pokemon adorned with flowers and vibrant colors, showcasing elegance and grace.",
+    "Design a Pokemon that represents beauty, featuring flowing petals and a gentle demeanor in its pose.",
+    "Imagine a whimsical creature that thrives in gardens, radiating charm and positivity with its floral decorations.",
+    "Make a Pokemon with a floral theme that embodies nurturing and harmony, perfect for calming its allies.",
+    "Show me a Pokemon inspired by nature, with a body resembling petals, evoking tranquility and beauty.",
+    "Generate a Pokemon that blends floral aesthetics with magical powers, captivating everyone with its vibrant colors.",
+    "I want a Pokemon that symbolizes growth and life, featuring intricate flower designs and a serene expression."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Green",
+      "accent": "Red"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flower crown on its head",
+      "Long flowing petals",
+      "Delicate green leaves",
+      "Elegant posture",
+      "Vibrant color palette"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Graceful",
+      "Nurturing",
+      "Charming"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Florges/3.png",
+  "pokemon_name": "Florges"
+}

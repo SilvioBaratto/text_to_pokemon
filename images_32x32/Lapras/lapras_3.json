@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a gentle demeanor and a shell on its back.",
+    "Show me an aquatic creature that has a serene expression and blue scales.",
+    "Imagine a Pokemon that can glide through water effortlessly and has a playful personality.",
+    "Generate a creature resembling a sea dinosaur with a friendly vibe and large flippers.",
+    "Design a Pokemon that radiates calmness, with a unique shell feature and a light blue color.",
+    "Make a Pokemon that can travel across oceans, featuring distinct wave patterns on its body.",
+    "Give me a hybrid Pokemon that combines characteristics of a turtle and a whale."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large flippers",
+      "Shell on back",
+      "Long neck",
+      "Gentle smile"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Friendly",
+      "Calm"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Lapras/3.png",
+  "pokemon_name": "Lapras"
+}

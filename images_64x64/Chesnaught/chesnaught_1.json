@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon with a spiky shell and a protective stance.",
+    "I want a bipedal creature that resembles a knight, with green and beige armor.",
+    "Generate a Pokemon that evolves from a small seed into a formidable warrior.",
+    "Make a character that embodies the spirit of nature and defense in battles.",
+    "Imagine a Pokemon that thrives in forest habitats and has a strong, determined personality.",
+    "Design a creature with a unique blend of plant and fighting traits for combat.",
+    "Show me a Pokemon that has distinctive features like spikes and a fierce demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": null,
+      "accent": "Brown"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Spiky shell",
+      "Armored arms",
+      "Facial mask",
+      "Large, bulbous body",
+      "Thick legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Fighting",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Defensive",
+      "Determined",
+      "Protective"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Tank/Defense"
+  },
+  "image_path": "images/Chesnaught/1.png",
+  "pokemon_name": "Chesnaught"
+}

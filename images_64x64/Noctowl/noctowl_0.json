@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a nocturnal Pokemon that blends in with the night sky and has stunning feather patterns.",
+    "I want a flying-type Pokemon with elegant wings and a wise appearance, suitable for forest habitats.",
+    "Generate a Pokemon that has a mix of brown and white colors, resembling a wise old owl.",
+    "Make a Pokemon that can see in the dark with sharp eyes and a regal crown of feathers.",
+    "Imagine a creature that embodies wisdom and mystery, with intricate feather designs and a calm demeanor.",
+    "Design a Pokemon that excels in aerial battles, showcasing powerful wings and a strong body.",
+    "Show me a Pokemon that thrives in mountainous regions, featuring a unique blend of earthy colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": "Black"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Crown-like feather structure",
+      "Large, round eyes",
+      "Feathered wings",
+      "Short, stout body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Wise",
+      "Calm",
+      "Observant"
+    ],
+    "habitat": "Forest",
+    "rarity": "Uncommon",
+    "combat_style": "Strategic"
+  },
+  "image_path": "images/Noctowl/0.png",
+  "pokemon_name": "Noctowl"
+}

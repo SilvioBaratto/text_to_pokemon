@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon that resembles a bipedal lizard with vibrant green skin.",
+    "Show me a Pokemon with sharp claws and a leafy tail, perfect for blending into forests.",
+    "Imagine a sleek, agile creature that thrives in lush environments with a playful demeanor.",
+    "Generate a design for a Pokemon that has a striking appearance and excels in speed.",
+    "Make a character that embodies the spirit of nature with bright green colors and dynamic poses.",
+    "Give me a Pokemon that can camouflage in the wild, featuring a unique blend of greens.",
+    "Design a fierce-looking creature with a slender body and sharp features, ideal for swift attacks."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Leaf-like tail",
+      "Sharp claws",
+      "Spiky back",
+      "Large limbs",
+      "Agile stance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Agile",
+      "Intelligent",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Speed-focused"
+  },
+  "image_path": "images/Sceptile/2.png",
+  "pokemon_name": "Sceptile"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a large quadruped Pok\u00e9mon that resembles a fluffy dog with a majestic mane.",
+    "I want a Pok\u00e9mon that embodies the spirit of loyalty and friendship, with a noble appearance.",
+    "Generate a Pok\u00e9mon that thrives in grassy areas and has a strong protective instinct.",
+    "Make a unique Normal-type Pok\u00e9mon with a blend of earthy colors and a sturdy build.",
+    "Imagine a Pok\u00e9mon with a gentle demeanor that safeguards its territory with fierce determination.",
+    "Design a Pok\u00e9mon that showcases a combination of strength and agility, perfect for wild terrains.",
+    "Show me a Pok\u00e9mon that has a bushy tail and a warm, inviting expression."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Bushy tail",
+      "Thick fur",
+      "Large ears",
+      "Strong build",
+      "Facial whiskers"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Loyal",
+      "Protective",
+      "Gentle"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Stoutland/1.png",
+  "pokemon_name": "Stoutland"
+}

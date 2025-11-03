@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a small, green Pokemon with a leaf on its head and a cheerful expression.",
+    "Design a Pokemon that thrives in forest habitats, showcasing vibrant green tones.",
+    "Generate a cute, grass-type Pokemon that evolves into a larger form.",
+    "Imagine a Pokemon with a round body and red eyes, perfect for a starter.",
+    "Show me a Pokemon with distinct leaf features and a friendly demeanor.",
+    "Make a Pokemon known for its gentle nature and unique plant traits.",
+    "Give me a Pokemon that embodies the essence of nature and tranquility."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Leaf on head",
+      "Round body",
+      "Red eyes",
+      "Green spots"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Friendly",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Chikorita/2.png",
+  "pokemon_name": "Chikorita"
+}

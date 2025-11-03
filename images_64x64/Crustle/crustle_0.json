@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon that resembles a creature with a shell made of boulders.",
+    "Show me a Pokemon with a sturdy appearance that can thrive in rocky terrains.",
+    "Imagine a Pokemon that has a massive stone shell and powerful claws for digging.",
+    "Design a Pokemon that embodies the essence of a mountain dweller with a unique shell.",
+    "Give me a Pokemon that looks like it can withstand harsh environments and has earthy tones.",
+    "Generate a creature that has a rock-like exterior and blends into its rocky habitat.",
+    "Make a Pokemon that has a rugged appearance and is adept at navigating rocky landscapes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Orange",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Stone-like shell",
+      "Clawed limbs",
+      "Yellow markings",
+      "Flat, rectangular body shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Rock",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Sturdy",
+      "Resilient",
+      "Defensive"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Crustle/0.png",
+  "pokemon_name": "Crustle"
+}

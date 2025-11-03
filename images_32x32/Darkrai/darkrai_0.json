@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon that embodies the essence of nightmares and shadows.",
+    "I want a dark-type Pokemon with a ghostly appearance and an aura of mystery.",
+    "Generate a legendary Pokemon with a sleek, shadowy body and wispy white features.",
+    "Make a Pokemon that can haunt dreams, featuring shades of black and grey.",
+    "Imagine a Pokemon that thrives in the darkness, with a unique ethereal design.",
+    "Design a powerful creature that manipulates nightmares, adorned with dark colors.",
+    "Show me a Pokemon that represents the balance between dreams and nightmares."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Cloaked body",
+      "Long, wispy hair",
+      "Red collar",
+      "Pointed ears",
+      "Ghostly wisps"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": "Ghost",
+    "generation": 4,
+    "is_legendary": true,
+    "is_mythical": true,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Eerie",
+      "Contemplative"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Darkrai/0.png",
+  "pokemon_name": "Darkrai"
+}

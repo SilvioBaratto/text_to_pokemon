@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a dark-type Pokemon with a long, serpentine body and purple scales.",
+    "I want a Pokemon that embodies stealth and has sharp pincers with a vibrant color scheme.",
+    "Generate a creature that looks like it lurks in shadows with unique blue accents on its body.",
+    "Make a Pokemon that thrives in urban environments and has a fierce personality.",
+    "Imagine a bug-like Pokemon with multiple limbs and a striking purple color.",
+    "Design a creature that is agile and cunning, featuring a mix of purple and blue tones.",
+    "Show me a Pokemon that resembles a scorpion and has a menacing yet playful demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Multiple pincers",
+      "Long, segmented body",
+      "Tail with a stinger",
+      "Blue accents on the body",
+      "Large, menacing eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": "Dark",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Stealthy",
+      "Playful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Agile"
+  },
+  "image_path": "images/Drapion/1.png",
+  "pokemon_name": "Drapion"
+}

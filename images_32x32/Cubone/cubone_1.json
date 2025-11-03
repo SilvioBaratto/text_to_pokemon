@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a Pokemon that wears a bone helmet and has a sad expression.",
+    "I want a small, ground-type Pokemon that loves to explore caves and mountains.",
+    "Generate a cute, bipedal Pokemon with big eyes and a distinctive skull mask.",
+    "Make a Pokemon that embodies the spirit of a lost child, wandering through forests.",
+    "Imagine a Pokemon with a brown and cream color scheme, perfect for blending into the ground.",
+    "Design a Pokemon that utilizes its bone club in battles and is known for its resilience.",
+    "Show me a Pokemon that thrives in urban environments but has a connection to nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Skull helmet",
+      "Bone club",
+      "Large, expressive eyes",
+      "Short limbs",
+      "Tail resembling a bone"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Lonely",
+      "Determined",
+      "Protective"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Cubone/1.png",
+  "pokemon_name": "Cubone"
+}

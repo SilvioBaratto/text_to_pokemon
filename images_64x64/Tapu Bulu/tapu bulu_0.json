@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon that embodies the spirit of nature with vibrant colors and unique designs.",
+    "I want a legendary Pokemon that resembles a guardian of the forest with striking red and green features.",
+    "Generate a powerful grass-type Pokemon with a majestic appearance and a strong connection to its habitat.",
+    "Make a Pokemon with a bold and colorful design that represents strength and protection in battles.",
+    "Imagine a Pokemon that thrives in lush environments, showcasing a beautiful blend of red and black tones.",
+    "Design a creature that has a tribal aesthetic and symbolizes the balance of nature and combat.",
+    "Show me a Pokemon with a unique body shape and a color palette that reflects its forest home."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Green",
+      "accent": "Black"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large wings resembling leaves",
+      "A horned head",
+      "A round, wooden-like body",
+      "Bright yellow feet",
+      "Tribal markings on body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Fairy",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Protective",
+      "Playful",
+      "Noble"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Tapu Bulu/0.png",
+  "pokemon_name": "Tapu Bulu"
+}

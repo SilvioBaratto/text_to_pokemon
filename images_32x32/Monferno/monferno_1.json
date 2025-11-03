@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a playful fire-type Pokemon that resembles a monkey with a vibrant orange coat.",
+    "I want a design for a bipedal Pokemon that uses fire in its attacks and lives in forests.",
+    "Generate a concept for a small, energetic Pokemon with a striking blue face and fiery tail.",
+    "Make a character based on a mischievous fire-type creature that enjoys climbing trees and exploring.",
+    "Imagine a unique Pokemon that combines agility and fire powers, perfect for battling in urban areas.",
+    "Design a Pokemon with distinctive features like a flame on its tail and an adventurous personality.",
+    "Give me an idea for a Pokemon that thrives in mountainous regions and has a fiery spirit."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Blue",
+      "accent": "Red"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Flame on tail",
+      "Blue markings around eyes",
+      "Orange fur with cream underbelly",
+      "Long arms",
+      "Expressive facial features"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Fighting",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Mischievous"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Monferno/1.png",
+  "pokemon_name": "Monferno"
+}

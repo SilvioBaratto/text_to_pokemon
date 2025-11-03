@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that resembles a candle with a playful spirit and a mysterious aura.",
+    "Imagine a small, ghostly creature with a flickering flame on its head, perfect for spooky adventures.",
+    "Design a Pokemon that embodies the essence of light and shadow, featuring a soft glow and whimsical charm.",
+    "Generate a cute, floating Pokemon that blends ghostly characteristics with a hint of fire, ideal for urban settings.",
+    "Make a unique Pokemon that has a candle-like shape and playful eyes, embodying a friendly ghost.",
+    "Show me a charming ghost-type creature with a soft blue body and a purple flame that captivates all who see it.",
+    "Give me a visual of a tiny ghost Pokemon with a whimsical design, perfect for enchanting encounters."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": "Purple"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Candle flame on top",
+      "Round body",
+      "Small face with large eyes",
+      "Soft glow effect",
+      "Yellow dot indicating a candle wick"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Fire",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Curious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Litwick/0.png",
+  "pokemon_name": "Litwick"
+}

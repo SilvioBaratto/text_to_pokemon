@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a dragon-like Pokemon with green scales and red accents flying over a desert landscape.",
+    "I want a Pokemon that resembles an insect with large wings and a vibrant green color scheme.",
+    "Generate an image of a Pokemon that thrives in sandy habitats, showcasing its agility and speed.",
+    "Make a whimsical Pokemon design featuring a scaly creature with a long tail and bright red eyes.",
+    "Imagine a creature that blends into forest environments, with features that help it camouflage effectively.",
+    "Design a unique Pokemon that can manipulate wind, with a sleek body and elongated wings.",
+    "Show me a flying-type Pokemon with a playful personality, darting between the trees in a sunny meadow."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large wings",
+      "Long antennae",
+      "Scaly body",
+      "Red eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": "Flying",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Agile"
+    ],
+    "habitat": "Desert",
+    "rarity": "Rare",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Flygon/1.png",
+  "pokemon_name": "Flygon"
+}

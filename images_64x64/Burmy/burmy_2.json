@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with a fluffy pink body and a metallic gray hat.",
+    "Imagine a Pokemon that thrives in forest environments, resembling a soft, round bug.",
+    "Show me a Pokemon with distinct yellow eyes and a unique shell-like feature on top.",
+    "Design a cute, small Pokemon that can blend into grasslands with its soft colors.",
+    "Generate a Pokemon that looks chubby and has a round shape with a shiny accent.",
+    "Make a Pokemon that has a whimsical appearance and is known for its adaptability.",
+    "Give me a visual of a unique Pokemon with a pink round body and a rocky top."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Gray",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Fluffy round body",
+      "Metallic gray shell",
+      "Large yellow eyes",
+      "Two small appendages",
+      "Soft texture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Adaptable",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Burmy/2.png",
+  "pokemon_name": "Burmy"
+}

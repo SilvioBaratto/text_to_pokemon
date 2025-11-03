@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a dragon-like Pokemon with green scales and red accents, showcasing vibrant wings.",
+    "Show me a Pokemon that resembles a flying insect with a sleek body and powerful wings.",
+    "Imagine a Pokemon that thrives in desert environments, featuring a unique mix of green and red colors.",
+    "Design a Pokemon that can camouflage in forests, combining earthy tones with striking wing patterns.",
+    "Generate a creature that embodies the spirit of the wind, with dynamic movements and graceful flight.",
+    "Give me a Pokemon that balances speed and agility, perfect for aerial battles.",
+    "Make a Pokemon that has a serpentine body with large, colorful wings that catch the eye."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large, elongated wings",
+      "Serpentine body",
+      "Red eyes",
+      "Distinctive green color",
+      "Tail with a fin-like structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": "Flying",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Desert",
+    "rarity": "Rare",
+    "combat_style": "Swift and evasive"
+  },
+  "image_path": "images/Flygon/0.png",
+  "pokemon_name": "Flygon"
+}

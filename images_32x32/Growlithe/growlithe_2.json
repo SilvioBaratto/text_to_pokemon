@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a small, fire-type Pokemon with a fluffy mane and a playful demeanor.",
+    "Imagine a quadruped Pokemon that resembles a dog and is primarily orange with black stripes.",
+    "Design a Pokemon with a cute and loyal personality, perfect for companionship in urban settings.",
+    "Generate an adorable creature that loves to roam in grasslands and forests, showcasing its fiery nature.",
+    "Make a Pokemon that has a combination of orange and white colors, reflecting warmth and energy.",
+    "Show me a lovely fire-type Pokemon that has a distinctive furry tail and a friendly expression.",
+    "I want a Pokemon that embodies the spirit of adventure, with features that highlight its playful side."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "White",
+      "accent": "Brown"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy white mane",
+      "Black stripes on the body",
+      "Pointed ears",
+      "Curled tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Loyal",
+      "Friendly"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Growlithe/2.png",
+  "pokemon_name": "Growlithe"
+}

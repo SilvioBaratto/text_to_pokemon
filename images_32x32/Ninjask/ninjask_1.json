@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with sleek wings and a shiny body.",
+    "Imagine a fast-flying Pokemon that thrives in forest habitats.",
+    "Generate a Pokemon that has a mix of yellow and black colors.",
+    "Show me a Pokemon with distinct red accents and insect-like features.",
+    "Design a Pokemon that is known for its speed and agile movements.",
+    "Give me a Pokemon that evolves from a larva into a stunning creature.",
+    "Make a Pokemon that can camouflage in grasslands and forests."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Red",
+      "accent": "Black"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large wings",
+      "Insectoid appearance",
+      "Red eyes",
+      "Thin legs",
+      "Shiny body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Swift",
+      "Elusive",
+      "Cunning"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Ninjask/1.png",
+  "pokemon_name": "Ninjask"
+}

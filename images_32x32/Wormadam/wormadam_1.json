@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a ground-type Pokemon that resembles a small, furry creature with a unique ability.",
+    "Show me an insect-like Pokemon with vibrant colors and an unusual pattern on its wings.",
+    "Imagine a bug-type Pokemon that can camouflage itself in the forest, blending with leaves.",
+    "Design a mythical creature that has both grass and fairy elements, with a magical aura.",
+    "Generate a Pokemon that evolves from a small worm into a majestic butterfly with colorful wings.",
+    "Give me a water-type Pokemon that has a sleek design and can swim gracefully in the ocean.",
+    "Make a rock-type Pokemon with a rugged appearance and a powerful defense mechanism."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Has a large, round body",
+      "Decorative leaf-like structures on its back",
+      "A metallic structure resembling a chimney on top",
+      "Red circular markings on its body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Ground",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Adaptable",
+      "Resourceful",
+      "Cunning"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Wormadam/1.png",
+  "pokemon_name": "Wormadam"
+}

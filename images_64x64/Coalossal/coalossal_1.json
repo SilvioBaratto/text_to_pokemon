@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon with a volcanic theme and fiery accents.",
+    "I want a Pokemon that resembles a mountain with glowing lava spots.",
+    "Generate a unique creature that embodies both fire and rock elements.",
+    "Make a Pokemon with a rugged exterior and an explosive personality.",
+    "Imagine a Pokemon that thrives in volcanic regions and has a fiery temperament.",
+    "Design a creature that combines the power of magma and rocky terrain.",
+    "Show me a Pokemon that can unleash volcanic eruptions in battle."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Red",
+      "accent": "Orange"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Volcanic rock-like body",
+      "Glowing lava spots",
+      "Spikes resembling molten rock",
+      "Flickering flames emanating from the top",
+      "Large, rounded structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Fire",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fiery",
+      "Aggressive",
+      "Resilient"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Coalossal/1.png",
+  "pokemon_name": "Coalossal"
+}

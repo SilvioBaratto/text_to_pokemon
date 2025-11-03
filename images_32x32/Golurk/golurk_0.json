@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a robot-like Pokemon with a solid blue body and strong arms.",
+    "I want a Pokemon that is a mix between a ghost and an ancient guardian.",
+    "Generate an image of a Pokemon that combines technology with ancient mythology.",
+    "Make a rock-type Pokemon that resembles a humanoid warrior with mystical features.",
+    "Imagine a Pokemon with a bulky frame and glowing symbols on its body.",
+    "Design a Pokemon that embodies strength and history, standing tall and proud.",
+    "Give me a steel-type Pokemon that looks like it was built for battle."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Brown",
+      "accent": "Gray"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large robotic arms",
+      "Glowing markings",
+      "Heavy metallic body",
+      "Blocky structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": "Ghost",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Loyal",
+      "Protective",
+      "Mysterious"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Golurk/0.png",
+  "pokemon_name": "Golurk"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a small, bipedal Pokemon with a gray and white color scheme and fierce-looking eyes.",
+    "Imagine a fighting-type Pokemon that has a strong build and is known for its agility and speed.",
+    "Generate a Pokemon that embodies determination, with a unique fur pattern of gray and white.",
+    "Design a Pokemon that thrives in mountainous habitats, showcasing a balance of strength and finesse.",
+    "Show me a Pokemon that evolves into a more powerful form, starting as a basic fighter with unique traits.",
+    "Make a rare fighting-type Pokemon that is often found in forested areas and possesses a unique battle style.",
+    "Give me a bipedal Pokemon that stands out with its distinctive white mane and expressive facial features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fierce expression",
+      "White mane",
+      "Muscular arms",
+      "Defined eyebrows",
+      "Compact stature"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Brave",
+      "Agile"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Martial arts"
+  },
+  "image_path": "images/Kubfu/0.png",
+  "pokemon_name": "Kubfu"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon that resembles a small acorn with a big smile.",
+    "Show me a Pokemon that embodies the spirit of nature with earthy tones and a playful demeanor.",
+    "Imagine a Pokemon that thrives in forests, with a round body and an adorable hat.",
+    "Generate a cute, tiny Pokemon that can blend into grassy areas, perfect for a nature-themed team.",
+    "Design a Pokemon that evolves into a mighty tree, starting from a small, seed-like creature.",
+    "Make a Pokemon that represents growth and nature, featuring vibrant green colors and a charming face.",
+    "Give me a Pokemon that loves to hide among leaves and is known for its playful personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Acorn cap on top",
+      "Large expressive eyes",
+      "Round body shape",
+      "Short limbs",
+      "Small leaf-like appendage"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Seedot/1.png",
+  "pokemon_name": "Seedot"
+}

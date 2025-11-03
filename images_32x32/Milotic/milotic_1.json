@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a graceful water-type Pokemon that embodies the elegance of the sea and has flowing fins.",
+    "Imagine a serpentine creature with vibrant scales and a calm demeanor, perfect for aquatic adventures.",
+    "Generate an enchanting Pokemon that resembles a mythical sea serpent, showcasing bright colors and delicate features.",
+    "Make a Pokemon that has a long, flowing body and colorful fins, capturing the essence of underwater beauty.",
+    "Show me a majestic water Pokemon with a sleek design, adorned with eye-catching colors and unique patterns.",
+    "Design a Pokemon inspired by marine life, featuring a smooth body and striking fin details in blue and pink.",
+    "Give me a Pokemon that combines elegance and power, with a serpentine form and vivid color palette."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": "Pink"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Long, flowing body",
+      "Colorful fins",
+      "Delicate whiskers",
+      "Elegant posture",
+      "Smooth scales"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Graceful",
+      "Calm",
+      "Protective"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Milotic/1.png",
+  "pokemon_name": "Milotic"
+}

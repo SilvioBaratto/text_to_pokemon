@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a whimsical Pokemon that resembles a musical instrument with a soothing presence.",
+    "Show me a psychic-type Pokemon with flowing ribbons and a serene appearance.",
+    "Imagine a ghostly Pokemon that floats gently, embodying calm and tranquility.",
+    "Design a Pokemon that has a bell-like shape and is known for its melodic sounds.",
+    "Generate an elegant creature with a delicate tail that dances in the breeze.",
+    "Make a Pokemon that thrives in peaceful environments and has a soft color palette.",
+    "Give me a unique Pokemon that could be found in serene mountain landscapes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Pink",
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Bell-shaped body",
+      "Long, flowing tail",
+      "Golden bell on top",
+      "Red markings on the face",
+      "Light blue hue"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Flying",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Gentle",
+      "Melodic"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Chimecho/1.png",
+  "pokemon_name": "Chimecho"
+}

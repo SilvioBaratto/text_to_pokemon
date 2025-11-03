@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a spooky ghost-type Pokemon that resembles a sandcastle with a playful personality.",
+    "I want a Pokemon that is inspired by beach elements, with sandy textures and a cheerful demeanor.",
+    "Generate a water-type Pokemon that looks like a creature made from desert sands and has a unique battle style.",
+    "Make a Pokemon that embodies the essence of a sand dune, with a mysterious aura and mischievous behavior.",
+    "Imagine a ghostly Pokemon with a sandy appearance, perfect for battles in sandy environments and with a playful spirit.",
+    "Design a Pokemon that combines elements of both sand and ghost, featuring a whimsical design and a love for the beach.",
+    "Show me a Pokemon that looks like it was sculpted from sand, with an eerie smile and a knack for tricking opponents."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Sand-like texture",
+      "Ghostly demeanor",
+      "Small shovel-like object on top",
+      "Hollow appearance",
+      "Facial expression resembling a smile"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Ground",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Curious"
+    ],
+    "habitat": "Desert",
+    "rarity": "Rare",
+    "combat_style": "Trickster"
+  },
+  "image_path": "images/Sandygast/1.png",
+  "pokemon_name": "Sandygast"
+}

@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a mythical creature Pokemon with green scales and a majestic wingspan.",
+    "Design a dragon-type Pokemon that embodies earth's natural elements and has a unique shape.",
+    "Show me a legendary Pokemon that features a combination of blue and black colors.",
+    "Imagine a powerful Pokemon that blends aquatic and terrestrial traits for versatility.",
+    "Generate an intricate design for a Pokemon known for its stealth and strategic abilities.",
+    "Make a Pokemon that has a fierce appearance with sharp edges and a sleek body.",
+    "Give me a Pokemon that balances elegance and strength in both appearance and abilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Gray",
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Black",
+      "accent": "Blue"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Snake-like body",
+      "Large fins that resemble wings",
+      "Glowing blue accents",
+      "Angular head shape",
+      "Streamlined, aerodynamic form"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Ground",
+    "generation": 6,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Wise",
+      "Protective",
+      "Strategic"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Zygarde/5.png",
+  "pokemon_name": "Zygarde"
+}

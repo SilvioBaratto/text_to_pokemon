@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a majestic dragon-type Pokemon with shimmering blue scales and sharp, metallic features.",
+    "I want a legendary Pokemon that embodies time and space with a powerful, regal appearance.",
+    "Generate a mythical creature that has a sleek, futuristic design and is adorned with crystalline elements.",
+    "Make a Pokemon that showcases a blend of steel and dragon types, featuring a striking color palette.",
+    "Imagine a powerful, ancient Pokemon with a streamlined body and intricate details representing time manipulation.",
+    "Design a Pokemon that looks like a guardian of time, combining elegance with a fierce presence.",
+    "Show me a legendary Pokemon that dwells in ancient ruins, showcasing blue and silver hues in its design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Long, sharp claws",
+      "Crystalline spikes on the back",
+      "Metallic wings resembling a dragon's",
+      "Glowing markings on the body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Dragon",
+    "generation": 4,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Regal",
+      "Wise",
+      "Powerful"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Defensive and strategic"
+  },
+  "image_path": "images/Dialga/1.png",
+  "pokemon_name": "Dialga"
+}

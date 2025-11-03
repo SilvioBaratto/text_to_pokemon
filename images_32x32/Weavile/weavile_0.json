@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a shadowy Pokemon that excels in stealth and agility with sleek features.",
+    "Imagine a dark-type creature with icy claws and a mischievous grin ready for battle.",
+    "Design an agile Pokemon that blends into snowy environments, showcasing sharp features.",
+    "Show me a Pokemon that uses its speed and cunning to outsmart opponents in combat.",
+    "Generate a creature that thrives in mountainous terrains, equipped with sleek, agile build.",
+    "Make a bipedal Pokemon that embodies both darkness and ice, with a playful personality.",
+    "Give me a mythical creature with a blend of dark and ice elements, perfect for stealth."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Red",
+      "accent": "Purple"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Sharp claws",
+      "Long ears",
+      "Pointed tail",
+      "Red markings",
+      "Slender body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": "Ice",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Agile",
+      "Cunning"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Weavile/0.png",
+  "pokemon_name": "Weavile"
+}

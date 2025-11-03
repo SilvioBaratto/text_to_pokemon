@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a mischievous-looking Pokemon that can release stinky gases to confuse opponents.",
+    "Show me a dark-type Pokemon with a sleek design and vibrant purple fur.",
+    "Imagine a playful creature that thrives in urban environments and loves to scavenge.",
+    "Generate a unique Pokemon with sharp claws and a long, pointed tail for agility.",
+    "Design a Pokemon that uses its smell as a strategy in battles against stronger foes.",
+    "Give me a dark and poison-type Pokemon that has a dual color scheme of purple and cream.",
+    "Make a Pokemon that embodies the spirit of a trickster with a playful demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Pointed ears",
+      "Long tail",
+      "Stout body",
+      "Sharp claws"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": "Dark",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Cunning"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Trickster"
+  },
+  "image_path": "images/Stunky/1.png",
+  "pokemon_name": "Stunky"
+}

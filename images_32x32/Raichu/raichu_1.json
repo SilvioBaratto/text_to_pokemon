@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a cute electric-type Pokemon that can generate powerful thunderbolts.",
+    "Imagine a small, bipedal creature with fluffy ears and a lightning tail.",
+    "Show me a friendly Pokemon that loves to play in grassy fields and parks.",
+    "Design a Pokemon with a bright, cheerful appearance and a playful personality.",
+    "Give me an image of a Pokemon that can evolve into a stronger version with training.",
+    "Generate a Pokemon that resembles a small, energetic mouse with electric powers.",
+    "Make me a Pokemon that thrives in urban environments and loves to interact with people."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Yellow",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long, lightning bolt-shaped tail",
+      "Large ears with yellow tips",
+      "Round cheeks that spark with electricity",
+      "Fluffy fur on the body",
+      "Blue eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Energetic"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Agile and fast-paced"
+  },
+  "image_path": "images/Raichu/1.png",
+  "pokemon_name": "Raichu"
+}

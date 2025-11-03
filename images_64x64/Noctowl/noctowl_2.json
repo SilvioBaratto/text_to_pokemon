@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a nocturnal bird Pokemon with striking brown and white feathers.",
+    "I want an elegant owl Pokemon with shades of gray and a fierce gaze.",
+    "Generate a flying-type Pokemon that blends into forest environments with earthy tones.",
+    "Make a Pokemon that resembles an owl with large wings and sharp eyes.",
+    "Imagine a unique Pokemon that features a mix of brown and cream colors.",
+    "Design a wise-looking owl Pokemon with a calm expression and feather details.",
+    "Show me a bird Pokemon that has both normal and flying characteristics."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": "Gray"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large, rounded wings",
+      "Big, expressive eyes",
+      "Prominent tufted ears",
+      "Feathered body with a pattern",
+      "Sharp beak"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Wise",
+      "Calm",
+      "Observant"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Noctowl/2.png",
+  "pokemon_name": "Noctowl"
+}

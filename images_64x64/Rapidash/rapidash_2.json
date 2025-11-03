@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a swift Pokemon with a fiery mane and galloping legs that embodies speed and grace.",
+    "I want a majestic horse-like creature with flames erupting from its body and a brilliant golden hue.",
+    "Generate a Pokemon that combines elegance and power, featuring a dazzling fiery tail and a sleek form.",
+    "Make a mythical equine Pokemon with bright colors, showcasing its fiery spirit and natural beauty.",
+    "Imagine a fire-type Pokemon that runs through grasslands, leaving trails of flames in its wake.",
+    "Design a Pokemon that represents the essence of fire and speed, with a flowing mane made of flames.",
+    "Show me a Rapidash-like creature that exudes confidence and agility, with a vibrant color palette."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Red",
+      "accent": "Orange"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Flaming mane",
+      "Flaming tail",
+      "Sleek horse-like body",
+      "Long legs",
+      "Intense eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Confident",
+      "Energetic",
+      "Proud"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Fast and agile attacks"
+  },
+  "image_path": "images/Rapidash/2.png",
+  "pokemon_name": "Rapidash"
+}

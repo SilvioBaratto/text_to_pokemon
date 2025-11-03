@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a robotic Pokemon that blends technology with nature, featuring a sleek design.",
+    "Imagine a bug-type Pokemon with metallic parts and vibrant colors, making it stand out.",
+    "Show me an insectoid Pokemon with unique armor and a futuristic vibe, perfect for battles.",
+    "Generate a Pokemon that resembles a blend of a bug and machine, with bright purple accents.",
+    "Design a Pokemon that embodies both speed and strength, featuring sharp metallic claws.",
+    "Give me a legendary Pokemon with an advanced tech look, showcasing its battle-ready stance.",
+    "Make a Pokemon that has a unique combination of steel and bug types, emphasizing its resilience."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Red",
+      "accent": "Gray"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Metallic exoskeleton",
+      "Large, prominent claws",
+      "Antennas on head",
+      "Red markings on body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Steel",
+    "generation": 5,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Aggressive",
+      "Determined"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Genesect/2.png",
+  "pokemon_name": "Genesect"
+}

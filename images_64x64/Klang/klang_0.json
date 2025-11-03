@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a mechanical Pokemon that resembles gears and has a shiny silver finish.",
+    "I want a Pokemon that has a steampunk aesthetic with turquoise accents and spinning parts.",
+    "Generate an industrial-themed creature with a strong metallic body and a focus on teamwork.",
+    "Make a Pokemon that embodies the essence of machinery, featuring interlocking components and bright colors.",
+    "Imagine a Pokemon that looks like it was built from metal, with a unique ability to evolve into stronger forms.",
+    "Design a Pokemon with a gear motif, showcasing its strength through a tough exterior and bright highlights.",
+    "Show me a Pokemon that combines technology and nature, featuring gears with vibrant turquoise elements."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Two interlocking gear-like structures",
+      "Turquoise spherical accents",
+      "Metallic gray surface",
+      "Symmetrical design"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Diligent",
+      "Team-oriented",
+      "Reliable"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Klang/0.png",
+  "pokemon_name": "Klang"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that looks like a haunted doll with jagged edges and glowing red eyes.",
+    "Imagine a spooky Pokemon that has a shadowy presence and a mischievous grin, perfect for Halloween.",
+    "Design a dark-type Pokemon that resembles a stitched-up puppet, with vibrant pink accents and a creepy aura.",
+    "Show me a ghostly creature with flowing limbs and a haunted charm that can scare its opponents.",
+    "Generate a Pokemon that embodies the essence of a vengeful spirit, with a hauntingly playful demeanor.",
+    "Make a spooky Pokemon that combines elements of a doll and a ghost, featuring a sinister smile.",
+    "Give me a visually striking Pokemon that has a unique design, resembling a cursed object with eerie colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Stitched appearance",
+      "Red glowing eyes",
+      "Floating limbs",
+      "Spooky grin",
+      "Ghostly tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Dark",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Creepy"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Trickster"
+  },
+  "image_path": "images/Banette/1.png",
+  "pokemon_name": "Banette"
+}

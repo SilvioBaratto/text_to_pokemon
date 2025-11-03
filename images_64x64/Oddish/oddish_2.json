@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon with vibrant green leaves and a round, bulbous body.",
+    "I want a quirky Pokemon that resembles a small plant with a cheerful expression.",
+    "Generate a small Pokemon that thrives in forests and has unique foliage on its head.",
+    "Make a playful creature that looks like a little blue ball with bright green petals.",
+    "Imagine a Pokemon with a charming appearance, perfect for a nature-loving trainer.",
+    "Design a cute Pokemon that enjoys the company of other plant-based creatures.",
+    "Show me a grass-type Pokemon with distinctive leaf structures and a lovely personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round body",
+      "Leaf-like appendages",
+      "Large, prominent petals",
+      "Small feet",
+      "Cheerful expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Oddish/2.png",
+  "pokemon_name": "Oddish"
+}

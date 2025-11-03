@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a powerful psychic Pokemon with a metallic body and glowing features.",
+    "Design a legendary Pokemon that embodies light and darkness in its appearance.",
+    "Imagine a Pokemon with sharp angular shapes and a color scheme of black and gold.",
+    "Show me a mythical creature that can manipulate energy and has a sleek, futuristic design.",
+    "Generate a Pokemon that represents cosmic energy with vibrant colors and dramatic spikes.",
+    "Make a Pokemon with a combination of dark and psychic abilities, showcasing unique traits.",
+    "Give me a description of a legendary Pokemon that thrives in mysterious and hidden places."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Yellow",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Angular spikes protruding from the body",
+      "Glowing yellow and white patterns",
+      "A sleek and muscular build",
+      "A large, pointed crest on the head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Steel",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Intelligent",
+      "Powerful"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Strategic"
+  },
+  "image_path": "images/Necrozma/1.png",
+  "pokemon_name": "Necrozma"
+}

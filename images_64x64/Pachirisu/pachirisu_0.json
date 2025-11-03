@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a cute, small squirrel-like Pokemon with fluffy tails and bright colors.",
+    "Imagine a playful electric-type Pokemon that loves to gather nuts and climb trees.",
+    "Design a Pokemon with a round body, big eyes, and a cheerful expression.",
+    "Generate an adorable Pokemon that can spark electricity and has a bushy tail.",
+    "Show me a Pokemon that thrives in urban environments and is known for its speed.",
+    "Make a fluffy, blue-and-white Pokemon that enjoys playing in the forest.",
+    "Give me a tiny Pokemon that has the ability to generate static electricity."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Blue",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Fluffy tail",
+      "Large, round eyes",
+      "Cheeks with yellow patterns",
+      "Small, pointy ears",
+      "Compact body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Fast and agile"
+  },
+  "image_path": "images/Pachirisu/0.png",
+  "pokemon_name": "Pachirisu"
+}

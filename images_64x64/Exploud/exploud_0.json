@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a Pokemon that can unleash powerful sound waves with a vibrant purple body.",
+    "I want a Pokemon that resembles a creature from a cave, known for its loud cries.",
+    "Generate a Pokemon that has a large mouth and can make sonic attacks, with a unique color scheme.",
+    "Make a Pokemon with a hefty physique that can vibrate the ground with its voice.",
+    "Imagine a creature that thrives in urban areas and has striking golden accents on its head.",
+    "Design a Pokemon that looks like it could belong to a rock concert with its loud and boisterous personality.",
+    "Show me a Pokemon with a playful demeanor that loves to echo through forests and mountains."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large mouth",
+      "Gold spikes on its head",
+      "Bulky body",
+      "Prominent ears"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Boisterous",
+      "Playful",
+      "Loud"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Exploud/0.png",
+  "pokemon_name": "Exploud"
+}

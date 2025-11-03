@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a mechanical Pokemon with a sleek design and metallic features.",
+    "I want a Pokemon that resembles a pair of gears, with a shiny finish.",
+    "Generate a dual-type Pokemon that embodies a steampunk aesthetic.",
+    "Make a Pokemon that combines technology and nature, featuring a unique color palette.",
+    "Imagine a Pokemon that can control metal, with intricate details on its body.",
+    "Design a Pokemon with a simple yet effective gear-like structure and vibrant accents.",
+    "Give me a Pokemon that represents teamwork, symbolized by its interconnected parts."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Gear-like structure",
+      "Interlocking components",
+      "Shiny metallic surface",
+      "Centrally positioned blue orb"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Electric",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Inventive",
+      "Loyal"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Klink/0.png",
+  "pokemon_name": "Klink"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a Pokemon that embodies the spirit of the forest with elegant antlers.",
+    "Imagine a majestic deer-like creature with seasonal transformations in its appearance.",
+    "Generate a design for a Pokemon that has a strong connection to nature and the changing seasons.",
+    "Make a Pokemon that represents the beauty of grasslands with vibrant foliage and antlers.",
+    "Show me a creature that can seamlessly blend into its surroundings, evoking a sense of calm.",
+    "Design a unique Pokemon that showcases the harmony between wildlife and the environment.",
+    "Give me a Pokemon that features a gentle demeanor and a strong bond with its habitat."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": "Green"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Antlers",
+      "Hooves",
+      "Seasonal fur patterns",
+      "Long legs",
+      "Gentle facial expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Grass",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Calm",
+      "Observant"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Sawsbuck/5.png",
+  "pokemon_name": "Sawsbuck"
+}

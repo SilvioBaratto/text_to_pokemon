@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a rabbit-like Pokemon that embodies the spirit of fire and agility.",
+    "I want a sleek, energetic Pokemon that showcases a mix of orange and gray tones.",
+    "Generate a bipedal Pokemon with vibrant colors and a playful demeanor.",
+    "Make a unique Pokemon that evolves from a timid starter into a bold fighter.",
+    "Imagine a Pokemon that thrives in urban environments and has a cute, sporty look.",
+    "Design a fiery Pokemon that's swift on its feet and has distinct ear features.",
+    "Show me a Pokemon that combines elements of agility and fire in its design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Yellow",
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Gray",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long ears",
+      "Flame-like tail",
+      "Sporty scarf",
+      "Energetic pose",
+      "Distinctive whiskers"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Brave"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Fast and agile"
+  },
+  "image_path": "images/Raboot/0.png",
+  "pokemon_name": "Raboot"
+}

@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a mystical Pokemon that can manipulate dreams and has soft, flowing features.",
+    "I want a psychic-type Pokemon with a round body and a gentle expression.",
+    "Generate a Pokemon that embodies tranquility, with soothing colors and ethereal traits.",
+    "Make a unique Pokemon design that uses shades of purple and pink to convey calmness.",
+    "Imagine a Pokemon that has a dreamy appearance and can float gracefully in the air.",
+    "Design a creature that has a connection to sleep and dreams, with a fluffy texture.",
+    "Show me a Pokemon that looks like it could be part of a peaceful forest scene."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Pink"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": null,
+      "accent": "Pink"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body",
+      "Dream-like puff of smoke",
+      "Soft facial features",
+      "Large eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Dreamy",
+      "Gentle"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Musharna/0.png",
+  "pokemon_name": "Musharna"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a graceful bird Pokemon with a sleek white body and elegant blue accents.",
+    "I want a water-type Pokemon that resembles a swan, featuring vibrant blue feathers.",
+    "Generate a flying-type Pokemon characterized by long wings and a slender neck.",
+    "Make a Pokemon that embodies beauty and elegance, with pure white plumage and a gentle demeanor.",
+    "Imagine a bird-like Pokemon that thrives in wetlands and has a calm personality.",
+    "Design a Pokemon that showcases the majesty of nature, with a blend of white and blue hues.",
+    "Give me a Pokemon that glides gracefully over water and has a soothing presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long neck",
+      "Elegant wings",
+      "Streamlined body",
+      "Sharp beak",
+      "Webbed feet"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Flying",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Graceful",
+      "Serene"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Swanna/0.png",
+  "pokemon_name": "Swanna"
+}

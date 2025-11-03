@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a robust Pokemon that embodies strength and resilience, featuring powerful limbs and a striking color palette.",
+    "Imagine a playful fighting-type Pokemon that enjoys training in urban environments, showcasing both agility and power.",
+    "Design a Pokemon that can thrive in various habitats, from forests to mountains, with a unique blend of colors.",
+    "Show me a bipedal Pokemon with a large frame and a fierce expression, ready to take on any challenge.",
+    "Generate a Pokemon with a friendly personality, boasting distinctive features that highlight its fighting abilities.",
+    "Make a whimsical Pokemon that combines traditional martial arts aesthetics with vibrant colors and unique shapes.",
+    "Give me an imposing Pokemon that features a mix of earthy tones and bright accents, perfect for a battleground."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Blue",
+      "accent": "White"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large arms",
+      "Wide stance",
+      "Bald head with a topknot",
+      "Wears a traditional outfit",
+      "Strong muscular build"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Friendly",
+      "Strong-willed"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Hariyama/1.png",
+  "pokemon_name": "Hariyama"
+}

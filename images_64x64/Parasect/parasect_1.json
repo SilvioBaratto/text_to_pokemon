@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a Bug-type Pokemon that resembles a mushroom and has a crab-like appearance.",
+    "Imagine a forest-dwelling Pokemon with a red cap and yellow pincers lurking in the grass.",
+    "Generate a small insect-like creature that has an unusual blend of mushroom features and claws.",
+    "Design a Pokemon that embodies the essence of a parasitic mushroom with striking red colors.",
+    "Show me a unique Pokemon that combines elements of fungi and crustaceans in its design.",
+    "Make a Pokemon that thrives in forest habitats and has vibrant colors and distinct claws.",
+    "Give me a creature that has a round body, red coloration, and a penchant for hiding."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Yellow",
+      "accent": "Brown"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Mushroom cap on top",
+      "Claw-like appendages",
+      "Rounded body shape",
+      "Six legs",
+      "Large eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Grass",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cautious",
+      "Curious",
+      "Adaptable"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Parasect/1.png",
+  "pokemon_name": "Parasect"
+}

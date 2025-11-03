@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with dual heads and a fierce expression.",
+    "Imagine a dark-type creature that evolves from a smaller dragon with blue accents.",
+    "Show me a ferocious two-headed Pokemon that thrives in rocky mountain caves.",
+    "Generate a medium-sized dragon with a black body and striking blue details.",
+    "Make a unique dual-headed Pokemon that can intimidate its foes with a loud roar.",
+    "Design a Pokemon that embodies the essence of darkness while showcasing vibrant blue features.",
+    "Give me a Pokemon that has a fearsome appearance and lives in mountainous terrains."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Two heads",
+      "Large wings",
+      "Sharp fangs",
+      "Long tail",
+      "Muscular build"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": "Dragon",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Loyal",
+      "Intimidating"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Zweilous/1.png",
+  "pokemon_name": "Zweilous"
+}

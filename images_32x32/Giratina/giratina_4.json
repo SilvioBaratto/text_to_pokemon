@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon with ethereal wings and sharp claws that embodies the essence of shadows.",
+    "I want a dragon-type Pokemon inspired by legendary creatures, featuring intricate patterns and vibrant colors.",
+    "Generate an otherworldly Pokemon that has a blend of ghostly and dragon-like traits, with a haunting aura.",
+    "Make a Pokemon that resembles an ancient guardian, combining elements of darkness and grace in its design.",
+    "Imagine a powerful mythical Pokemon with a fierce appearance and a commanding presence, capable of controlling realms.",
+    "Design a dual-type Pokemon that merges the elegance of a dragon with the mysterious nature of a ghost.",
+    "Show me a legendary Pokemon with a majestic form and captivating colors that can inspire awe and fear."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Yellow",
+      "accent": "Blue"
+    },
+    "body_shape": "Winged",
+    "size_class": "Huge",
+    "distinctive_features": [
+      "Long, flowing wings",
+      "Serpentine body",
+      "Spiked protrusions along the back",
+      "Glowing blue lines",
+      "Dual-headed appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Dragon",
+    "generation": 4,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Powerful",
+      "Guarding"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Giratina/4.png",
+  "pokemon_name": "Giratina"
+}

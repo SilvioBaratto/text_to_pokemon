@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with vibrant colors and a playful demeanor.",
+    "Imagine a flying Pokemon that glows in the dark with pastel shades.",
+    "Design a small, whimsical creature that loves to dance under the moonlight.",
+    "Make a bug and fairy-type Pokemon with intricate wings and a cheerful expression.",
+    "Show me a Pokemon that thrives in grassy fields and has a charming personality.",
+    "Generate an adorable, colorful Pokemon that interacts playfully with its environment.",
+    "Give me a Pokemon that is known for its unique features and friendly nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Purple",
+      "accent": "Yellow"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large purple antennae",
+      "Blue body with a segmented shape",
+      "Black abdomen",
+      "Yellow collar-like structure",
+      "Wings with a translucent quality"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Fairy",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Charming",
+      "Social"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Illumise/0.png",
+  "pokemon_name": "Illumise"
+}

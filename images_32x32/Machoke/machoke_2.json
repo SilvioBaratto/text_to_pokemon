@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a muscular Pokemon that showcases strength with powerful limbs and a determined expression.",
+    "Imagine a fighting-type Pokemon with a tough exterior and a confident stance, ready for battle.",
+    "Design a Pokemon that embodies resilience and toughness, with a prominent physique and strong features.",
+    "Generate an image of a Pokemon that thrives in urban environments, exhibiting both strength and agility.",
+    "Show me a bipedal Pokemon with a fierce look, exhibiting a blend of gray and yellow colors.",
+    "Make a character that is known for its combat skills and robust body, suitable for gym battles.",
+    "Give me a powerful Pokemon with a humanoid shape, showcasing its fighting prowess through its pose."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": null,
+      "accent": "Yellow"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Four muscular arms",
+      "Prominent muscles",
+      "Yellow waistband",
+      "Strong, defined jawline",
+      "Red eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Confident",
+      "Strong-willed"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Close combat and physical attacks"
+  },
+  "image_path": "images/Machoke/2.png",
+  "pokemon_name": "Machoke"
+}

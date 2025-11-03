@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Show me a psychic Pokemon that can bend spoons and has a mystical aura.",
+    "Imagine a sleek, yellow creature that uses its mind to battle foes.",
+    "Create a Pokemon that evolves from a smaller creature and has telekinetic powers.",
+    "Design a humanoid Pokemon with an impressive mustache and psychic abilities.",
+    "Generate an image of a Pokemon that looks both wise and mischievous.",
+    "Give me a bipedal creature that channels psychic energy through its hands.",
+    "Make a Pokemon that thrives in urban environments and has a quirky personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large spoon in hand",
+      "Pointed ears",
+      "Mustache",
+      "Three fingers on each hand",
+      "Almond-shaped eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Clever",
+      "Mischievous",
+      "Intuitive"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Kadabra/2.png",
+  "pokemon_name": "Kadabra"
+}

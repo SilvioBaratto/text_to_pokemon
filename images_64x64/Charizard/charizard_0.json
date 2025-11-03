@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a dragon-like Pokemon with fiery orange scales and majestic blue wings.",
+    "I want a fierce fire and flying-type creature that breathes flames.",
+    "Generate an image of a Pokemon that can soar through the skies while breathing fire.",
+    "Make a legendary creature that combines both dragon and fire elements in its design.",
+    "Imagine a powerful Pokemon with a long tail and an intimidating presence.",
+    "Design a Pokemon that has a fiery personality and loves to battle in the mountains.",
+    "Give me a Pokemon that is known for its strength and ability to fly high above the clouds."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Blue",
+      "accent": "Red"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large bat-like wings",
+      "Flame at the tip of the tail",
+      "Dragon-like snout",
+      "Clawed feet",
+      "Spikes along the back"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Brave",
+      "Loyal",
+      "Fiery",
+      "Competitive"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Charizard/0.png",
+  "pokemon_name": "Charizard"
+}

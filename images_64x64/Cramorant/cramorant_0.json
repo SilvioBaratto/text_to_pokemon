@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a flying-type Pokemon with vibrant blue feathers and a striking yellow beak.",
+    "Imagine a bird Pokemon that dives underwater to catch fish with its long bill.",
+    "Design a Pokemon resembling a seabird with a sleek body and playful personality.",
+    "Show me a Pokemon that thrives in coastal habitats, known for its agility and speed.",
+    "Generate a creature that can adapt to both urban and natural environments, with a colorful appearance.",
+    "Make a Pokemon that has a unique feeding style, using its beak to catch prey.",
+    "Give me a whimsical blue bird Pokemon that is known for its comedic antics."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long yellow beak",
+      "Blue plumage",
+      "White belly",
+      "Large wings",
+      "Bright green eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Flying",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Agile"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Cramorant/0.png",
+  "pokemon_name": "Cramorant"
+}

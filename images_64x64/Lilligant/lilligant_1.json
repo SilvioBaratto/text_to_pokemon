@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a graceful grass-type Pokemon with a flower crown and flowing green dress.",
+    "I want a Pokemon that embodies elegance with vibrant flowers and leafy features.",
+    "Generate a whimsical creature resembling a plant, with soft green tones and cheerful colors.",
+    "Make a Pokemon design that showcases beauty and nature, featuring bright orange and green hues.",
+    "Imagine a charming grass-type Pokemon with a serene expression and a floral theme.",
+    "Design a Pokemon that looks like a dancing flower, with delicate petals and a vibrant personality.",
+    "Show me a nature-inspired Pokemon with an enchanting floral design and a lush green body."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Orange",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flower crown on head",
+      "Leaf-like dress",
+      "Delicate posture",
+      "Soft facial features"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Elegant",
+      "Charming",
+      "Serene"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Lilligant/1.png",
+  "pokemon_name": "Lilligant"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create an ice-type Pokemon with a snowy appearance and large branches for arms.",
+    "Imagine a Pokemon that thrives in cold climates and has a furry white body.",
+    "Generate an ice and grass-type monster resembling a winter tree.",
+    "Make a Pokemon with a playful nature and unique winter-themed design.",
+    "Show me a creature that embodies both forest and snowy mountain vibes.",
+    "Give me an example of a gentle giant Pokemon that looks like a snowy hill.",
+    "Design a Pokemon with icy features and bushy foliage, perfect for mountain terrains."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Green"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Snowy white fur",
+      "Branch-like arms",
+      "A body resembling a snow-covered evergreen tree",
+      "Red eyes",
+      "Large mouth"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": "Grass",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Protective",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Abomasnow/0.png",
+  "pokemon_name": "Abomasnow"
+}

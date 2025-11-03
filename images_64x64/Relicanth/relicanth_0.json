@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a rocky appearance and aquatic features.",
+    "I want a Pokemon that resembles a prehistoric fish, with a sturdy shell and fins.",
+    "Generate a creature that has a blend of earthy tones and a streamlined body.",
+    "Make a unique Pokemon inspired by ancient marine life, with visible scales and fins.",
+    "Imagine a Pokemon that thrives in ocean environments, showcasing a rugged exterior.",
+    "Design a Pokemon that embodies the essence of deep-sea exploration with a solid form.",
+    "Show me a water-type Pokemon that has a combination of gray and brown colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Rock-like shell",
+      "Fins resembling ears",
+      "Red dot on the forehead",
+      "Streamlined body",
+      "Textured scales"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Rock",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Resilient",
+      "Ancient"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Relicanth/0.png",
+  "pokemon_name": "Relicanth"
+}

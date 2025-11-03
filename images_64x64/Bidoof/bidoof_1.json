@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a playful Pokemon that resembles a beaver, with a bushy tail and big front teeth.",
+    "I want a cute, fluffy Pokemon that lives in forests and loves to collect berries.",
+    "Generate a Pokemon inspired by a lumberjack, wearing a cozy brown coat and sporting a cheerful expression.",
+    "Make a friendly Pokemon that enjoys building dams and has a strong connection to nature.",
+    "Imagine a small, round Pokemon that is always hungry and has a knack for finding hidden snacks.",
+    "Design a Pokemon that embodies the spirit of hard work, with a robust body and a bright smile.",
+    "Show me a Pokemon that loves to swim and can be found near rivers and lakes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large buck teeth",
+      "Fluffy, rounded body",
+      "Short limbs",
+      "Small ears",
+      "Bushy tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Hardworking"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Bidoof/1.png",
+  "pokemon_name": "Bidoof"
+}

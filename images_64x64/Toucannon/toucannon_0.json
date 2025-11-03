@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a colorful bird Pokemon that resembles a toucan with a vibrant beak and energetic personality.",
+    "Imagine a flying-type Pokemon inspired by tropical birds, featuring a mix of black and orange colors.",
+    "Generate a unique Pokemon that combines the traits of a toucan and a dragon, with fiery red accents.",
+    "Design a majestic bird Pokemon with a long, curved beak and intricate feather patterns in bright colors.",
+    "Show me a Pokemon that embodies the spirit of the rainforest, with a playful demeanor and striking plumage.",
+    "Make a Pokemon that looks like a toucan, but has a magical touch with sparkling colors and a whimsical tail.",
+    "Give me a flying Pokemon with a strong personality, showcasing colors that reflect its tropical habitat."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Yellow",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large, colorful beak",
+      "Black body feathers",
+      "Bright yellow accents",
+      "White chest feathers",
+      "Long tail feathers"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Toucannon/0.png",
+  "pokemon_name": "Toucannon"
+}

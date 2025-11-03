@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a dark-type Pokemon that resembles a menacing bird with a dark color palette.",
+    "Imagine a Pokemon with striking red and blue wings, perfect for soaring high in the sky.",
+    "Design a powerful, intimidating flying Pokemon with a strong presence and a large wingspan.",
+    "Show me a Pokemon that embodies the essence of a cunning and clever creature in the wild.",
+    "Generate a majestic bird Pokemon that rules the skies with elegance and ferocity.",
+    "Give me a Pokemon that has a sleek, predatory look with a color scheme of deep blues and reds.",
+    "Make a Pokemon that is known for its strategic mind and commanding nature in battles."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Red",
+      "accent": "Blue"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large wings",
+      "Prominent beak",
+      "Intimidating eyes",
+      "Crested head",
+      "Dark plumage"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": "Flying",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Intimidating",
+      "Strategic"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Honchkrow/1.png",
+  "pokemon_name": "Honchkrow"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with flowing tentacles and a serene expression.",
+    "Imagine a ghostly aquatic creature with soft blue hues and delicate fins.",
+    "Generate a Pokemon that resembles a jellyfish, with glowing blue features and an ethereal presence.",
+    "Show me a playful Pokemon that drifts gracefully in the water, surrounded by bubbles.",
+    "Make a whimsical creature that has a calm demeanor and a shimmering appearance.",
+    "Design a charming Pokemon that embodies the tranquility of underwater environments.",
+    "Give me a water and ghost-type Pokemon that has a unique jellyfish-like shape."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Tentacle-like appendages",
+      "Round body shape",
+      "Large, expressive eyes",
+      "Semi-transparent appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Ghost",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Playful",
+      "Mysterious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Frillish/1.png",
+  "pokemon_name": "Frillish"
+}

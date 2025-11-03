@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a legendary Pokemon that embodies the power of storms with vibrant green feathers and purple accents.",
+    "Imagine a mythical creature with a fierce appearance and large wings, perfect for aerial battles.",
+    "Design a Pokemon inspired by wind and nature, featuring a striking green body and purple markings.",
+    "Show me an aerial Pokemon with a flowing tail and a strong presence, ideal for commanding the skies.",
+    "Make a Pokemon that harnesses the elements, displaying vivid colors and a majestic winged form.",
+    "Generate a creature with a bold and dynamic design, showcasing its connection to the forces of nature.",
+    "I want an epic Pokemon that represents the power of the sky, with unique features and an imposing figure."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Purple",
+      "accent": "Red"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large wings",
+      "Flowing tail",
+      "Prominent purple markings",
+      "Bipedal stance",
+      "Distinctive facial features"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Flying",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Haughty",
+      "Independent"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Tornadus/1.png",
+  "pokemon_name": "Tornadus"
+}

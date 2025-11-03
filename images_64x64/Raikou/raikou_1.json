@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon with a striking yellow coat and purple accents that resembles a powerful feline.",
+    "I want to see a legendary Pokemon that has thunderbolt powers and a majestic appearance with vivid colors.",
+    "Generate a creature that embodies the essence of a storm, complete with lightning-like features and a fierce expression.",
+    "Make a quadruped Pokemon that has a unique combination of yellow fur and a flowing mane, evoking speed and agility.",
+    "Imagine a mythical beast that roams the mountains, electrifying its surroundings with a vibrant and eye-catching design.",
+    "Design a Pokemon that channels electric energy, featuring dramatic color contrasts and notable feline characteristics.",
+    "Show me a Pokemon with an electrifying presence, showcasing both powerful electric abilities and stunning visual traits."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Purple",
+      "White",
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Purple",
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Feline appearance",
+      "Long lightning bolt-shaped tail",
+      "Spiky mane",
+      "Distinctive thundercloud pattern on back",
+      "Electrified fur"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Noble",
+      "Energetic"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Fast and aggressive"
+  },
+  "image_path": "images/Raikou/1.png",
+  "pokemon_name": "Raikou"
+}

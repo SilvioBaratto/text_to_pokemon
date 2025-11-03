@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a playful Psychic-type Pokemon with bright colors and a whimsical design.",
+    "Imagine a unique Pokemon that uses its mime abilities to confuse opponents in battle.",
+    "Show me a bipedal Pokemon that thrives in urban environments and has a colorful appearance.",
+    "Generate a character that embodies the essence of mime artistry in a Pokemon form.",
+    "Design a Pokemon with a jester-like outfit that has both red and blue accents.",
+    "Give me a quirky Pokemon that specializes in psychological attacks and playful trickery.",
+    "Make a Pokemon that combines elements of performance art and psychic abilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Blue",
+      "accent": "Red"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Clown-like appearance",
+      "Mime gloves and facial features",
+      "Colorful body pattern",
+      "Large ears",
+      "Jester-like collar"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Fairy",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Charming"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Psychological and trickery-based attacks"
+  },
+  "image_path": "images/Mr. Mime/3.png",
+  "pokemon_name": "Mr. Mime"
+}

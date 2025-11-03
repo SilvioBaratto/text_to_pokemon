@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a fluffy Pokemon that looks like a poodle with vibrant colors and accessories.",
+    "Show me a cute and stylish Pokemon that has a poodle-like appearance and heart motifs.",
+    "Imagine a fashionable Pokemon with a fluffy coat, pink accents, and a charming personality.",
+    "Design a playful Pokemon that resembles a fancy dog with unique grooming styles and colors.",
+    "Generate an elegant Pokemon that has a fluffy appearance and loves to show off its style.",
+    "Give me a Pokemon that embodies luxury with its fluffy fur and stylish, colorful features.",
+    "Make a whimsical Pokemon that looks like a pampered pet with a fluffy coat and cute details."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy white fur",
+      "Heart-shaped tail",
+      "Pink paws and accessories",
+      "Stylish appearance",
+      "Curly fur"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Stylish",
+      "Affectionate"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Furfrou/2.png",
+  "pokemon_name": "Furfrou"
+}

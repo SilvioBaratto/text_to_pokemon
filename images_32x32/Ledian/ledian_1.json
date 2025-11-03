@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with vibrant red wings and a cheerful expression.",
+    "Imagine a small insect-like creature that glows in the dark and has intricate patterns.",
+    "Design a flying-type Pokemon that resembles a ladybug but with a more fierce appearance.",
+    "Show me a Pokemon that can blend into forest environments with colorful markings.",
+    "Generate a cute Pokemon with large eyes and a playful demeanor, perfect for children.",
+    "Make a unique bug/flying Pokemon that has sparkling wings and a friendly personality.",
+    "Give me a Pokemon that flutters around flowers and has an eye-catching red and yellow design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Yellow",
+      "accent": "Blue"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large compound eyes",
+      "Wings resembling a ladybug",
+      "Antennae on top of the head",
+      "Colorful spots on wings",
+      "Round body shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Ledian/1.png",
+  "pokemon_name": "Ledian"
+}

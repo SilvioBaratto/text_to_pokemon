@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with a brown body and pink mushroom-like features.",
+    "I want a small Pokemon that has two large eyes and a pair of claws.",
+    "Generate a forest-dwelling creature with a cute, insect-like appearance.",
+    "Make a Pokemon that has a round shape and is known for its mushrooms.",
+    "Imagine a tiny creature that blends into its forest habitat with brown tones.",
+    "Design a Pokemon that is both a bug and a grass type, emphasizing its unique features.",
+    "Show me a Pokemon that embodies a playful yet shy personality with distinctive claws."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Two large mushroom caps on its back",
+      "Claw-like appendages",
+      "Large round eyes",
+      "Small body size",
+      "Brown exoskeleton"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Grass",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Shy",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Supportive and evasive"
+  },
+  "image_path": "images/Paras/0.png",
+  "pokemon_name": "Paras"
+}

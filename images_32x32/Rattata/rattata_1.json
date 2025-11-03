@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a small rodent with sharp teeth and a mischievous expression.",
+    "I want a design for a playful Pokemon that scurries around urban areas searching for food.",
+    "Generate an image of a cute purple mouse Pokemon with a long tail and big ears.",
+    "Make a Pokemon that embodies the characteristics of a sneaky and agile creature in a grassland setting.",
+    "Imagine a small, quick Pokemon with a fierce look and a love for scavenging in the wild.",
+    "Show me a Pokemon that has a grayish body with a strong bite and a knack for finding hidden treasures.",
+    "Design a Pokemon that is known for its speed and cunning, often found in forest habitats."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Long whiskers",
+      "Large ears",
+      "Sharp teeth",
+      "Curled tail",
+      "Energetic posture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cunning",
+      "Energetic"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Speed-focused"
+  },
+  "image_path": "images/Rattata/1.png",
+  "pokemon_name": "Rattata"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bipedal fire-type Pokemon with bright orange fur and a confident expression.",
+    "Imagine a Pokemon that is both cute and tough, featuring orange and black colors with a fiery spirit.",
+    "Show me a middle-stage evolution Pokemon that embodies strength and warmth, with a round body and a playful demeanor.",
+    "Generate a character design for a Pokemon that thrives in mountainous regions, showcasing its fiery nature.",
+    "Design a Pokemon that combines fiery orange with hints of black, emphasizing its fighting capabilities.",
+    "Give me a visual concept of a Pokemon that stands out in a forest, with bold colors and unique features.",
+    "Make a vibrant Pokemon character that represents both fire and fighting types, radiating energy and confidence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Round body",
+      "Large ears",
+      "Short limbs",
+      "Tail with flame-like tip",
+      "Facial markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Fighting",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Brave",
+      "Energetic"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Pignite/1.png",
+  "pokemon_name": "Pignite"
+}

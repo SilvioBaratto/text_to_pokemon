@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a ground-type Pokemon with a round body and a friendly expression.",
+    "Imagine a sandy-colored Pokemon that burrows underground and is known for its patience.",
+    "Show me a Pokemon designed for desert habitats, with features that help it hide from predators.",
+    "Generate a small, cute Pokemon that resembles an insect and can dig through the ground.",
+    "Make a Pokemon that thrives in sandy locations, with a gentle demeanor and a unique shape.",
+    "Design a creature that looks like it could be a baby dinosaur, with a round head and small limbs.",
+    "Give me a Pokemon that loves to dig in the dirt and has a playful personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round body",
+      "Small limbs",
+      "Large head",
+      "Curved mouth",
+      "Short antenna-like structures"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Gentle"
+    ],
+    "habitat": "Desert",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Trapinch/1.png",
+  "pokemon_name": "Trapinch"
+}

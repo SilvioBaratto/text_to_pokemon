@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bipedal fire-type Pokemon with a mystical appearance and vibrant flames.",
+    "Show me a clever fox Pokemon that uses psychic abilities in battle and has a fiery tail.",
+    "Generate an enchanting creature that blends fire and psychic powers, adorned in a flowing gown.",
+    "Imagine a Pokemon with a whimsical design, featuring bright colors and a playful personality.",
+    "Make a character that embodies both elegance and power, showcasing a fiery spirit and psychic prowess.",
+    "Design a magical fox Pokemon that thrives in lush forests and has a striking red and yellow color scheme.",
+    "Give me a unique Pokemon that captivates with its stunning flame-like features and graceful demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Yellow",
+      "accent": "Orange"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flame-like ears",
+      "Long, flowing dress",
+      "Fox-like face",
+      "Tail with flames",
+      "Psychic energy aura"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Psychic",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Wise",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Delphox/1.png",
+  "pokemon_name": "Delphox"
+}

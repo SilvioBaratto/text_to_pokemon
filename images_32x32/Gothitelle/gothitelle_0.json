@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a sleek black silhouette and vibrant blue eyes.",
+    "Imagine a ghostly creature that blends elegance with an enigmatic aura, featuring flowing hair.",
+    "Design a Pokemon that embodies mystery, with sharp features and a soft pastel accent.",
+    "Show me a bipedal Pokemon with a unique dress-like body shape and striking color contrast.",
+    "Generate a character that symbolizes dreams, adorned with star-like elements and a dark palette.",
+    "Make a fictional creature with a tall, slender build and an ethereal presence.",
+    "Give me a Pokemon that has a blend of elegance and mystery, perfect for a psychic-themed setting."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [
+      "Purple",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Purple",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long flowing hair-like structures",
+      "Star-shaped adornments",
+      "Elegant dress-like body",
+      "Large expressive eyes",
+      "Slender, elongated limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Elegant",
+      "Calm"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Gothitelle/0.png",
+  "pokemon_name": "Gothitelle"
+}

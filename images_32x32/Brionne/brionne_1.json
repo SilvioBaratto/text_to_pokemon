@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that looks playful and loves to dance in the waves.",
+    "Imagine a Pokemon with blue fur and bubbles floating around it, perfect for a water-themed party.",
+    "Design a Pokemon that embodies the joy of the ocean with bright colors and a cheerful expression.",
+    "Generate a cute aquatic creature that can perform tricks and has a lovely singing voice.",
+    "Show me a Pokemon that has a graceful swimming style and can use water attacks effectively.",
+    "Give me a Pokemon that sparkles with blue and white colors, representing the ocean's beauty.",
+    "Make a water-type Pokemon that can create bubbles and has a whimsical appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White",
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": "Pink"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Bubbles around its body",
+      "Fluffy tail",
+      "Large expressive eyes",
+      "Curvy body shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Joyful",
+      "Charming"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Brionne/1.png",
+  "pokemon_name": "Brionne"
+}

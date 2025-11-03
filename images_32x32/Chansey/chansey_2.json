@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a round and cheerful Pokemon that loves to care for others and has a pink hue.",
+    "Imagine a friendly Pokemon that can heal others, with a soft body and a gentle smile.",
+    "Design a Pokemon that looks like a giant egg with arms and a nurturing personality.",
+    "Show me a cute and chubby Pokemon that is often found in grassy areas, with a soothing presence.",
+    "Generate a Pokemon that resembles a fluffy ball, known for its kindness and maternal instincts.",
+    "Make a Pokemon with a nurturing vibe, featuring pastel colors and a unique egg-shaped body.",
+    "Give me a Pokemon that embodies warmth and care, with a pink color and a joyful expression."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Egg-shaped body",
+      "Large round body",
+      "Short arms",
+      "Blushing cheeks",
+      "Carrying an egg"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Caring",
+      "Gentle",
+      "Nurturing"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Chansey/2.png",
+  "pokemon_name": "Chansey"
+}

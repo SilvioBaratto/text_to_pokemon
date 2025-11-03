@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a powerful bug-type Pokemon with striking yellow and black patterns.",
+    "Give me a majestic Pokemon resembling a queen bee, complete with a regal crown.",
+    "Show me a Pokemon that embodies the essence of teamwork and hive mentality.",
+    "Imagine a Pokemon that can control swarms and has a strong defensive strategy.",
+    "Design a bug/flying type Pokemon with a unique honeycomb-inspired body structure.",
+    "Generate a Pokemon that serves as a protector of nature's balance in forests.",
+    "Make a Pokemon that has both elegance and strength, reflecting its queen status."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": "Red"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Bee-like body",
+      "Large wings",
+      "Crown-like structure on the head",
+      "Hexagonal patterns",
+      "Stinger at the rear"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Noble",
+      "Protective",
+      "Strategic"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive and support-oriented"
+  },
+  "image_path": "images/Vespiquen/0.png",
+  "pokemon_name": "Vespiquen"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a Pokemon with a fluffy blue body and vibrant pink accents.",
+    "Show me a friendly Grass-type Pokemon that thrives in forest habitats.",
+    "Imagine a Pokemon that can blend into grasslands with its leafy appearance.",
+    "Generate a creature with a round shape, featuring long, curling vines.",
+    "Design a Pokemon that is known for its playful personality and vibrant colors.",
+    "Make a Pokemon that has both blue and pink hues with a unique texture.",
+    "Give me a Grass-type Pokemon that uses vines in its combat style."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, curling vines",
+      "Fluffy, bushy body",
+      "Two large, expressive eyes",
+      "Rounded shape",
+      "Pink-colored appendages"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Protective"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Tangrowth/0.png",
+  "pokemon_name": "Tangrowth"
+}

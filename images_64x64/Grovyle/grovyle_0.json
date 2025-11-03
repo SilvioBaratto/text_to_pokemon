@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon with vibrant green scales and a sleek, agile body.",
+    "Imagine a Pokemon that can blend into the forest with shades of green and pink accents.",
+    "Show me a Pokemon that has a unique wing shape and is known for its speed.",
+    "Design a Pokemon that thrives in mountainous terrains with a lizard-like appearance.",
+    "Generate a Pokemon with long limbs and a playful personality, perfect for forest adventures.",
+    "Give me a Pokemon that evolves from a small creature into a powerful, agile fighter.",
+    "Make a Pokemon that has both grass and flying characteristics, showcasing its aerial abilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long, leaf-like tail",
+      "Prominent wings",
+      "Lizard-like body",
+      "Large eyes",
+      "Clawed limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Flying",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Agile",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Grovyle/0.png",
+  "pokemon_name": "Grovyle"
+}

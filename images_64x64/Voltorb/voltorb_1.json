@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon that resembles a sphere and has a mischievous expression.",
+    "Imagine a Pokemon that looks like a giant Pokeball but has a playful personality.",
+    "Show me a cute electric Pokemon with bright red and white colors, full of energy.",
+    "Generate a Pokemon that has a round shape and emits sparks, perfect for trainers who love electric types.",
+    "Design a Pokemon with a glossy finish that resembles a ball, known for surprising its opponents.",
+    "Give me a Pokemon that's small and spherical, with a penchant for causing mischief in battles.",
+    "Make a Pokemon that is reminiscent of a Pokeball but has its own unique electric abilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Spherical shape",
+      "Facial expression resembling a Pokeball",
+      "Glossy surface",
+      "Electric discharge markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Energetic"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Voltorb/1.png",
+  "pokemon_name": "Voltorb"
+}

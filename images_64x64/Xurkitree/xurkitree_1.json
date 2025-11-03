@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a vibrant electric-type Pokemon with striking black and yellow features.",
+    "Imagine a Pokemon that embodies the energy of a storm, with electric limbs and a dynamic shape.",
+    "Design a unique creature that harnesses electricity, featuring a tree-like structure and sharp lines.",
+    "Show me a Pokemon with a humanoid design, glowing with electric energy and dark accents.",
+    "Generate a bipedal Pokemon that resembles a living power line, complete with energetic limbs.",
+    "Give me an electric-type Pokemon that looks like it could zap its foes with lightning.",
+    "Make a Pokemon that is both intimidating and lively, with a sleek black body and bright orange details."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Yellow",
+      "accent": "Orange"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Electric-like limbs",
+      "Tree branch-like structure",
+      "Glowing tips on fingers",
+      "Sleek body form",
+      "Radiating energy patterns"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Playful",
+      "Mischievous"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Xurkitree/1.png",
+  "pokemon_name": "Xurkitree"
+}

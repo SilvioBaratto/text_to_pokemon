@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with blue fur and large tusks that lives in icy waters.",
+    "I want to design a Pokemon resembling a walrus with a playful personality and a love for the sea.",
+    "Generate a large, aquatic creature with a round body, whiskers, and a cheerful demeanor.",
+    "Imagine a Pokemon that can slide over ice with ease and has a thick layer of blubber.",
+    "Show me a Pokemon with a blue color scheme and a frosty appearance, perfect for cold climates.",
+    "Make a creature that thrives in the tundra, has distinctive tusks, and enjoys swimming in the ocean.",
+    "Give me a Pokemon that is both adorable and powerful, with a strong affinity for water battles."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large tusks",
+      "Fluffy white whiskers",
+      "Round, bulky body",
+      "Thick skin",
+      "Blubber layer"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Ice",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Loyal",
+      "Protective"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Walrein/1.png",
+  "pokemon_name": "Walrein"
+}

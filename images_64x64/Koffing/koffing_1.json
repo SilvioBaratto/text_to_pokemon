@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a quirky Pokemon that resembles a floating gas cloud with a mischievous grin.",
+    "I want a poison-type Pokemon that has a round shape and emits a light purple color.",
+    "Generate a unique creature inspired by pollution, featuring bubbling toxic gas and playful expressions.",
+    "Make a whimsical Pokemon that floats in the air, surrounded by colorful fumes and smoke.",
+    "Imagine a creature with a round body and two floating spheres on top, showcasing its toxic nature.",
+    "Design a Pokemon that appears to be made of gas, with bright yellow and purple colors swirling around.",
+    "Show me a Pokemon that embodies mischief and chaos, with a puffy, toxic appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round shape",
+      "Two floating spheres",
+      "Emits gas/fumes",
+      "Mischievous expression",
+      "Purple and yellow color scheme"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Chaotic"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Status infliction"
+  },
+  "image_path": "images/Koffing/1.png",
+  "pokemon_name": "Koffing"
+}

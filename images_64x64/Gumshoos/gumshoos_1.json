@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a Normal-type Pokemon that resembles a playful mammal with a mischievous expression.",
+    "Show me a Pokemon with a yellow belly and brown fur, perfect for sneaking around in the forest.",
+    "Imagine a creature with a curious gaze and a long body, ideal for a stealthy Pokemon.",
+    "Generate a unique Normal-type Pokemon that has a blend of yellow and brown colors.",
+    "Design a Pokemon that looks like a small weasel, with distinctive features for easy identification.",
+    "Make a Pokemon that has a round head and a long tail, representing its playful nature.",
+    "Give me a Pokemon that embodies a sneaky yet friendly personality, perfect for urban habitats."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long tail",
+      "Large round head",
+      "Prominent whiskers",
+      "Short limbs",
+      "Curved body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful",
+      "Sneaky"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Gumshoos/1.png",
+  "pokemon_name": "Gumshoos"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a small, bipedal Pokemon with a bushy tail and brown fur for a forest environment.",
+    "Show me a Normal-type Pokemon that uses its sharp teeth to dig tunnels underground.",
+    "Imagine a Pokemon that has a playful personality and loves to hide in tall grass.",
+    "Design a Pokemon that resembles a small mammal and has a bright red accessory.",
+    "Give me a visual concept of a Pokemon that is curious and enjoys exploring urban areas.",
+    "Generate an image of a Pokemon that is known for its keen sense of smell and agility.",
+    "Make a Pokemon that has a distinctive, chubby body shape and digs for food in the ground."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Red",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Chubby body shape",
+      "Large red goggles",
+      "Short limbs",
+      "Bushy tail",
+      "Pointy ears"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful",
+      "Alert"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Patrat/1.png",
+  "pokemon_name": "Patrat"
+}

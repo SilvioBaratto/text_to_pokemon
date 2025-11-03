@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon with a shadowy form and glowing eyes that embodies stealth and mystery.",
+    "I want a small, dark Pokemon that has an eerie presence, perfect for haunting forests at night.",
+    "Generate a mischievous ghost Pokemon that can blend into shadows and surprise its opponents.",
+    "Make a Pokemon with a humanoid shape that has a playful yet elusive personality, perfect for sneaky tactics.",
+    "Imagine a ghostly creature with a smoky appearance that can float through the air, causing mischief.",
+    "Design a mysterious Pokemon that uses its abilities to confuse and deceive other creatures in its environment.",
+    "Give me a Pokemon that thrives in dark places and is known for its playful yet elusive nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Gray"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": null,
+      "accent": "Gray"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Glowing red eyes",
+      "Shadowy, smoky body",
+      "Small, rounded limbs",
+      "Two wispy appendages on top of its head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Fighting",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": true,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Elusive"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Trickster"
+  },
+  "image_path": "images/Marshadow/0.png",
+  "pokemon_name": "Marshadow"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a small penguin with a cute expression and fluffy feathers.",
+    "Imagine a tiny blue bird Pokemon with a round body and a playful personality, perfect for a starter.",
+    "Design a Pokemon with a sleek blue exterior and an adorable face that could inhabit icy waters.",
+    "Show me a water-type Pokemon that loves to play in the sea and has bright, shiny feathers.",
+    "Make a Pokemon that has a cheerful demeanor and can be found in grasslands and wetlands.",
+    "Generate an aquatic Pokemon that features a blue body and a distinct yellow beak, showcasing its playful nature.",
+    "Give me a Pokemon that is small, blue, and has a love for adventure in various habitats."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round body shape",
+      "Large eyes",
+      "Small flippers",
+      "Short beak",
+      "Fluffy head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Piplup/0.png",
+  "pokemon_name": "Piplup"
+}

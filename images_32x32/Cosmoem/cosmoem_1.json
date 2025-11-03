@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon that embodies cosmic energy with a star-shaped design.",
+    "I want a Pokemon that glows with celestial light and has a mysterious aura.",
+    "Generate a Pokemon that resembles a celestial object, featuring vibrant yellow and blue colors.",
+    "Make a legendary Pokemon with a unique body shape that radiates cosmic power.",
+    "Imagine a mystical Pokemon that represents the vastness of space and has an eye theme.",
+    "Design a Pokemon that appeals to dreamers, with a body that shines like a star.",
+    "Give me a Pokemon that has a cosmic theme and features a radiant, star-like appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Star-shaped body",
+      "Central eye pattern",
+      "Radiant color scheme",
+      "Symmetrical design",
+      "Cosmic theme"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Calm",
+      "Cosmic"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Cosmoem/1.png",
+  "pokemon_name": "Cosmoem"
+}

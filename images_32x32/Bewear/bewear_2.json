@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a cute bear-like Pokemon that can lift heavy objects with ease.",
+    "Imagine a Pokemon that combines the features of a toy and a real animal.",
+    "Generate a bear Pokemon with pink fur and a playful attitude.",
+    "Show me a Pokemon that has a strong bond with trainers and loves to hug.",
+    "Make a Pokemon that thrives in forest habitats and is known for its strength.",
+    "Design a friendly Pokemon that uses its power to protect its friends.",
+    "Give me a Pokemon that resembles a cuddly bear but is very strong in battle."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Black"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large ears",
+      "Big paws",
+      "Round body",
+      "Pink fur",
+      "Toy-like appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Protective"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Bewear/2.png",
+  "pokemon_name": "Bewear"
+}

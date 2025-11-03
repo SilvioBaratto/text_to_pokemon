@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that has intricate patterns on its wings and a mystical aura.",
+    "I want a fairy-type Pokemon that glows in the dark and has a playful demeanor.",
+    "Generate a Pokemon with a unique shell design and ethereal colors, perfect for a mythical creature.",
+    "Make a Pokemon that resembles a guardian of the sea, with elegant fins and a serene expression.",
+    "Imagine a creature that embodies both water and fairy elements, showcasing vibrant colors and enchanting features.",
+    "Design a Pokemon featuring a combination of aquatic and mystical traits, with a striking silhouette.",
+    "Give me a legendary Pokemon that has a sleek and aerodynamic body, adorned with magical symbols."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Blue",
+      "accent": "Black"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Distinctive shell-like headpiece",
+      "Elegant fins extending from the body",
+      "Intricate patterns on the body",
+      "Long, tapered tail",
+      "Glowing accents"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Fairy",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Protective",
+      "Mysterious",
+      "Calm"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Tapu Fini/0.png",
+  "pokemon_name": "Tapu Fini"
+}

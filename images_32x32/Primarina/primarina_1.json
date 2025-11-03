@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that has elegant, flowing features and a beautiful singing voice.",
+    "Design a Pokemon that embodies the spirit of the ocean with vibrant blue and white colors.",
+    "Imagine a water/fairy hybrid Pokemon with a graceful body and enchanting aquatic abilities.",
+    "Generate a Pokemon with a mermaid-like appearance, featuring unique aquatic elements and a serene aura.",
+    "Show me a Pokemon that captures the essence of a sea creature, with flowing fins and mesmerizing colors.",
+    "Make a mystical water-type Pokemon that has a strong connection to the sea and nature.",
+    "Give me an image of a fairy-like Pokemon with bubbles and musical elements, inspired by ocean life."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": "Pink"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long flowing hair",
+      "Bubble-like decorations",
+      "Elegant fins",
+      "Musical instrument appearance",
+      "Graceful posture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Fairy",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Graceful",
+      "Serene",
+      "Playful"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Primarina/1.png",
+  "pokemon_name": "Primarina"
+}

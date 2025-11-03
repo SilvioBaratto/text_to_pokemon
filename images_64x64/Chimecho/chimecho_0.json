@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon that has a serene expression and a bell-shaped body.",
+    "I want a blue and white Pokemon with a unique musical theme and flowing features.",
+    "Generate a Pokemon that resembles a wind chime, with gentle colors and a calming aura.",
+    "Make a small, ghostly Pokemon that floats and has a bell-like appearance with pink accents.",
+    "Imagine a Pokemon that embodies tranquility with a bell structure and subtle shades of blue.",
+    "Design a Pokemon with a long, elegant body that has soothing colors and whimsical features.",
+    "Give me a creature that looks like a musical instrument, with a focus on soft colors and delicate details."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Pink",
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Bell-shaped body",
+      "Flowing ribbon-like appendages",
+      "Soft, rounded edges",
+      "Musical note-like appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Gentle",
+      "Soothing"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Chimecho/0.png",
+  "pokemon_name": "Chimecho"
+}

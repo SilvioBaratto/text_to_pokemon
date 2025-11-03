@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a small aquatic creature with a sleek body and vibrant colors.",
+    "Imagine a Pokemon that has a round shape and large expressive eyes, perfect for a friendly companion.",
+    "Show me a Bug-type Pokemon that has unique purple markings and a curious personality, often found in forests.",
+    "Design a Pokemon with a streamlined, fish-like body that is adept at swimming and evading predators.",
+    "Generate a creature that appears timid and shy, with a soft color palette, perfect for a gentle environment.",
+    "Make a Pokemon that has a dual nature, capable of both aquatic and land living, with distinctive fins.",
+    "Give me an image of a tiny Pokemon that thrives in grasslands and has a playful yet cautious demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "White"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large eyes",
+      "Small limbs",
+      "Rounded body",
+      "Purple fins",
+      "White underbelly"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Water",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Timid",
+      "Curious",
+      "Cautious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Evasive"
+  },
+  "image_path": "images/Wimpod/0.png",
+  "pokemon_name": "Wimpod"
+}

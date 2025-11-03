@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that resembles a mystical horse with flowing mane and dark colors.",
+    "I want a shadowy Pokemon inspired by a horse, featuring ethereal elements and a haunting presence.",
+    "Generate an elegant Pokemon that embodies the essence of the night, with a dark and mysterious aura.",
+    "Make a mythical steed Pokemon that has a flowing mane and a ghostly appearance, evoking a sense of wonder.",
+    "Imagine a dark-type horse Pokemon with a spectral design and a majestic yet eerie vibe.",
+    "Design a unique Pokemon that blends equine features with ghostly elements, showcasing an otherworldly beauty.",
+    "Show me a Pokemon that combines the elegance of a horse with the mystery of the supernatural."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Purple"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": null,
+      "accent": "Purple"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Flowing mane and tail",
+      "Ethereal, ghostly presence",
+      "Dark coloration",
+      "Elegant horse-like body",
+      "Spectral wisps or trails"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Majestic",
+      "Ethereal"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Spectrier/0.png",
+  "pokemon_name": "Spectrier"
+}

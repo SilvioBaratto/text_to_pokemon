@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a sandy Pokemon that resembles a fortress with a spooky vibe.",
+    "I want a ghost-type Pokemon that looks like it's made of sand and has colorful towers.",
+    "Generate an eerie Pokemon with sandy textures and a haunting presence in the desert.",
+    "Make a playful, sandy creature that can blend into its desert surroundings effortlessly.",
+    "Imagine a Pokemon that appears like a sandcastle with a mysterious aura and hidden powers.",
+    "Design a quirky ghost Pokemon with small flags and a sandy body structure.",
+    "Show me a Pokemon that embodies the essence of a sandstorm with a whimsical twist."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Yellow",
+      "accent": "Red"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Sandcastle-like body structure",
+      "Colorful flag-like protrusions",
+      "Face resembling a ghostly expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Ground",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Eerie"
+    ],
+    "habitat": "Desert",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Palossand/2.png",
+  "pokemon_name": "Palossand"
+}

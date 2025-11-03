@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a dragon-like Pokemon that breathes fire and has powerful wings.",
+    "I want an intimidating fire-type Pokemon with orange and black features to showcase.",
+    "Generate an image of a majestic fire and flying Pokemon soaring through the skies.",
+    "Make a fierce bipedal Pokemon with a fiery demeanor and sharp claws.",
+    "Imagine a legendary Pokemon with a fiery tail and a charismatic personality.",
+    "Design a starter Pokemon that evolves into a powerful fire-type dragon.",
+    "Show me a Pokemon with vibrant colors and a dynamic battle stance in a forest setting."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Black",
+      "accent": "Red"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large wings",
+      "Flame tail",
+      "Dragon-like head",
+      "Clawed feet",
+      "Prominent snout"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Brave",
+      "Proud",
+      "Charismatic"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Charizard/4.png",
+  "pokemon_name": "Charizard"
+}

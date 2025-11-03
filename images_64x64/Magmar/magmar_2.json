@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a vibrant fire-type Pokemon with a fiery personality and a striking red and yellow color scheme.",
+    "Imagine a Pokemon that embodies the essence of flames, with bright orange spikes and a mischievous grin.",
+    "Design a powerful bipedal Pokemon known for its fiery attacks and distinctive yellow accents.",
+    "Show me a Pokemon that thrives in volcanic areas, with a body shape that suggests agility and strength.",
+    "Make a unique fire-type creature that has a playful nature, featuring bold red and cream colors.",
+    "Generate a Pokemon that looks like it just stepped out of a lava flow, with explosive energy and a fierce expression.",
+    "Give me a Pokemon that combines both agility and heat, with spikes and a fiery tail."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Orange",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Yellow",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flame-like spikes on head",
+      "Curved tail resembling fire",
+      "Bright yellow belly",
+      "Red body with orange accents",
+      "Creamy white patches"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Fiery",
+      "Energetic"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Magmar/2.png",
+  "pokemon_name": "Magmar"
+}

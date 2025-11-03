@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a charming bird Pokemon that loves to sing and dance in the forest.",
+    "Imagine a small, colorful Pokemon that flits around flowers, spreading joy.",
+    "Design a playful flying-type Pokemon with bright orange and blue feathers.",
+    "Generate a tiny Pokemon that is always in motion, chasing after insects.",
+    "Show me a vibrant Pokemon that represents the spirit of freedom and adventure.",
+    "Make a cute bird Pokemon with distinct tail feathers and a friendly demeanor.",
+    "Give me a delightful Pokemon that brings warmth and happiness wherever it goes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Blue",
+      "accent": "Black"
+    },
+    "body_shape": "Winged",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Bright orange body",
+      "Blue wings",
+      "Black tail feathers",
+      "Large expressive eyes",
+      "Small size"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Curious",
+      "Energetic"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Fast and agile"
+  },
+  "image_path": "images/Fletchling/0.png",
+  "pokemon_name": "Fletchling"
+}

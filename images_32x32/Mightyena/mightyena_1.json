@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Generate a dark-type Pokemon that resembles a wolf with sharp features and a sleek body.",
+    "Create a Pokemon that has a fierce appearance, combining black and gray colors with a wild mane.",
+    "Show me a canine Pokemon with a stealthy look, featuring bright red markings on its face.",
+    "Design a Pokemon that thrives in urban environments, showcasing agility and cunning in its design.",
+    "Imagine a Pokemon that embodies loyalty and strength, with a muscular build and an intimidating stance.",
+    "Make a Pokemon that roams the forest at night, with a dark coat and piercing eyes.",
+    "Give me a Pokemon that can easily blend into its surroundings, thanks to its dark fur and alert posture."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Red",
+      "accent": "Gray"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Pointed ears",
+      "Red markings on the face",
+      "Long bushy tail",
+      "Muscular build",
+      "Sharp teeth"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Loyal",
+      "Cunning",
+      "Protective"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Mightyena/1.png",
+  "pokemon_name": "Mightyena"
+}

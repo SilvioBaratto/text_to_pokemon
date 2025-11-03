@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a playful Pokemon that loves to eat and has a long tongue.",
+    "I want a round, pink Pokemon with a joyful expression and a large belly.",
+    "Generate a unique Normal-type Pokemon with a distinctive, oversized tongue.",
+    "Make a Pokemon that resembles a friendly creature with a big appetite.",
+    "Imagine a whimsical, chubby Pokemon that enjoys socializing and sharing food.",
+    "Design a Pokemon with a bright pink color and a cheerful personality.",
+    "Give me a Pokemon that looks like it could be a dessert-themed creature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, protruding tongue",
+      "Chubby body",
+      "Three horizontal stripes on the belly",
+      "Large, round eyes",
+      "Curved tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Sociable"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Lickilicky/1.png",
+  "pokemon_name": "Lickilicky"
+}

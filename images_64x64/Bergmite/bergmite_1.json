@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a unique Ice-type Pokemon with sharp, icy features and a frosty appearance.",
+    "Imagine a Pokemon that resembles a cube of ice, with a cute face and bright colors.",
+    "Show me an ice-themed Pokemon that has crystalline spikes and a playful demeanor.",
+    "Generate a tiny Pokemon that embodies the chill of winter, with a light blue color scheme.",
+    "Make a Pokemon that looks like a snowball, with vibrant eyes and a friendly expression.",
+    "Design an Ice-type creature that blends into its snowy environment and has a sparkling texture.",
+    "Give me a Pokemon with a frosty body and a round shape, perfect for icy habitats."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Crystalline spikes on top",
+      "Round body shape",
+      "Bright yellow eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Tundra",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Bergmite/1.png",
+  "pokemon_name": "Bergmite"
+}

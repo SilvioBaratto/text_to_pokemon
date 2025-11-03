@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bear-like Pokemon with a friendly smile and a round belly.",
+    "Show me a Normal-type Pokemon that looks cuddly yet strong.",
+    "Design a Pokemon resembling a big teddy bear with a gentle demeanor.",
+    "Imagine a Pokemon with a thick fur coat, perfect for forest habitats.",
+    "Generate an image of a powerful bipedal creature with sharp claws.",
+    "Make a Pokemon that embodies the spirit of a playful but fierce bear.",
+    "Give me a visual of a bulky Pokemon with a unique golden marking."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Round belly",
+      "Prominent claws",
+      "Golden circular marking on chest",
+      "Short, rounded ears",
+      "Thick fur"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Friendly",
+      "Fierce",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Ursaring/1.png",
+  "pokemon_name": "Ursaring"
+}

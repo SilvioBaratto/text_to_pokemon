@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bipedal Pokemon with a pouch and strong arms for battling.",
+    "I want a Normal-type Pokemon that resembles a kangaroo and has a caring nature.",
+    "Generate a Pokemon with a powerful build and a baby in its pouch.",
+    "Make a sturdy Pokemon that thrives in grassy fields and forests.",
+    "Imagine a Pokemon with a protective personality and a love for its family.",
+    "Design a Pokemon that can leap high and has a brownish color scheme.",
+    "Show me a Pokemon that is both a fighter and a nurturer in battle."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Pouch containing a baby Kangaskhan",
+      "Powerful arms",
+      "Large tail",
+      "Rounded ears",
+      "Distinctive head crest"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Protective",
+      "Caring",
+      "Strong"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Kangaskhan/3.png",
+  "pokemon_name": "Kangaskhan"
+}

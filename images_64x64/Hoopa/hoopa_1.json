@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a Psychic-type Pokemon that can manipulate time and space with its powers.",
+    "I want to see a mythical Pokemon with multiple arms and a mysterious aura.",
+    "Generate a unique design for a Pokemon that embodies dimensions and portals.",
+    "Make a colorful Pokemon that blends elements of magic and trickery.",
+    "Imagine a creature that can teleport, with a playful yet enigmatic personality.",
+    "Design a creature that has a mix of modern and ancient aesthetics.",
+    "Show me a creature that represents the concept of mischief in Pokemon."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Multiple arms",
+      "Ring-like appendages",
+      "Large, expressive eyes",
+      "Floating appearance",
+      "Mysterious aura"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Ghost",
+    "generation": 6,
+    "is_legendary": true,
+    "is_mythical": true,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Enigmatic"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Trickster"
+  },
+  "image_path": "images/Hoopa/1.png",
+  "pokemon_name": "Hoopa"
+}

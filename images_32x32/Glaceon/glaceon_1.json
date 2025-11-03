@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create an ice-type Pokemon with shimmering blue fur and elegant ears.",
+    "I want a Pokemon that embodies the spirit of winter, with icy features and a graceful stance.",
+    "Generate a frosty Pokemon that excels in cold habitats and has a sleek, slender body.",
+    "Make a Pokemon with striking ice-themed accessories and a playful personality.",
+    "Imagine a Pokemon that can manipulate snow and ice, showcasing its elegance and agility.",
+    "Design a Pokemon that radiates a cool aura, with a focus on frosty abilities.",
+    "Show me a Pokemon that resembles a winter creature, with beautiful ice-blue colors and fine details."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Elegant ears",
+      "Frosty blue fur",
+      "Long, fluffy tail",
+      "Sleek body",
+      "Icicle-like appendages"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Graceful",
+      "Loyal"
+    ],
+    "habitat": "Tundra",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Glaceon/1.png",
+  "pokemon_name": "Glaceon"
+}

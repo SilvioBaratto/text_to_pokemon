@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bird Pokemon with vibrant feathers and a sharp beak.",
+    "Imagine a small Pokemon that loves to peck at trees for food.",
+    "Show me a playful flying Pokemon with a bright red crest.",
+    "Generate a tiny forest creature that enjoys living in trees.",
+    "Make a Pokemon that can easily blend into its woodland habitat.",
+    "Design a curious bird Pokemon that has a knack for exploration.",
+    "Give me a lively Pokemon that is always on the move, looking for berries."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "White"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Red",
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Bright red crest",
+      "Sharp beak",
+      "Large blue eye",
+      "White underbelly",
+      "Black wings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Energetic"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Pikipek/1.png",
+  "pokemon_name": "Pikipek"
+}

@@ -1,0 +1,50 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a radiant yellow color and a unique floating shape.",
+    "Make a tiny Pokemon that has a mysterious aura, resembling a small humanoid figure.",
+    "Imagine a creature that can teleport and has luminescent features in vibrant colors.",
+    "Generate a unique Pokemon that embodies the essence of the psychic type with distinctive traits.",
+    "Show me a Pokemon with a sleek body and mesmerizing patterns that signify its psychic abilities.",
+    "Design a Pokemon with large expressive eyes and a playful demeanor, showcasing its intelligence.",
+    "Give me a Pokemon that balances tranquility and mischief, evident in its psychic powers."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large eyes",
+      "Pointed ears",
+      "Curved, pointed tail",
+      "Floating posture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intellectual",
+      "Cunning"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Psychic"
+  },
+  "image_path": "images/Abra/0.png",
+  "pokemon_name": "Abra"
+}

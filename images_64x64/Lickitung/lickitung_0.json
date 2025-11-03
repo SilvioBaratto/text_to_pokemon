@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a playful Pokemon that loves to roll around in the grass and has a big smile.",
+    "Imagine a Pokemon with a long tongue that enjoys eating sweets and has a pink body.",
+    "Show me a cute creature that has a round shape and loves to hang out near lakes.",
+    "Design a Pokemon that uses its tongue as a weapon in battles and has a joyful demeanor.",
+    "Generate a character that looks like a pink blob and is known for its friendly personality.",
+    "Make a Pokemon that thrives in urban areas, often seen near candy shops and playgrounds.",
+    "Give me a Pokemon with a unique ability to stretch its tongue far and wide to grab food."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long tongue",
+      "Round body",
+      "Large eyes",
+      "Short limbs",
+      "Belly with a lighter color"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Lickitung/0.png",
+  "pokemon_name": "Lickitung"
+}

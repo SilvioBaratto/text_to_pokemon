@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a large, relaxed Pokemon that enjoys napping and has a round body shape.",
+    "I want a sleepy Pokemon with a gentle personality, featuring soft, pastel colors and a cozy appearance.",
+    "Generate a Pokemon that resembles a large bear, known for its calm nature and tendency to block paths.",
+    "Make a Pokemon that is ideal for lounging in various habitats like forests and caves, with a cute face.",
+    "Imagine a chubby Pokemon with a big appetite, often found snoring in grassy fields or near rivers.",
+    "Design a Pokemon with a heavy body and a friendly demeanor, perfect for a lazy day at the park.",
+    "Show me a Pokemon that loves to eat and sleep, with a round shape and a cute, sleepy expression."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "White"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Huge",
+    "distinctive_features": [
+      "Round body",
+      "Large belly",
+      "Closed eyes",
+      "Short limbs",
+      "Wide mouth"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Lazy",
+      "Gentle",
+      "Friendly"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Snorlax/3.png",
+  "pokemon_name": "Snorlax"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a legendary Pokemon that embodies the power of nature with striking green and black colors.",
+    "Imagine a unique creature that blends dragon and canine features, showcasing vibrant shades of green.",
+    "Generate a bipedal Pokemon with a sleek design, featuring vivid green accents and powerful limbs.",
+    "Design a mythical Pokemon that thrives in mountainous terrains, adorned with elements of nature.",
+    "Show me a creature with both dark and bright colors, possessing a commanding presence and agility.",
+    "Give me a Pokemon that can camouflage in grasslands with a mix of earthy tones and striking green.",
+    "Make a Pokemon that's fierce and protective, with a muscular build and a blend of black and green hues."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Black"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": null,
+      "accent": "Black"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Long limbs",
+      "Sleek, muscular body",
+      "Tail resembling a blade",
+      "Facial structure reminiscent of a wolf",
+      "Vibrant green markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Ground",
+    "generation": 6,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Protective",
+      "Fierce",
+      "Loyal"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Zygarde/3.png",
+  "pokemon_name": "Zygarde"
+}

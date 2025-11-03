@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a muscular bug-type Pokemon with vibrant red and orange colors.",
+    "Show me a Pokemon that combines insect features with a powerful fighting stance.",
+    "Imagine a Pokemon with large wings and a body built for strength and agility.",
+    "Generate a unique creature that thrives in forest habitats with striking colors.",
+    "Design a Pokemon that embodies both the power of a fighter and the beauty of a bug.",
+    "Give me a detailed description of a legendary Pokemon with a fierce appearance.",
+    "Make a visual representation of a Pokemon that looks intimidating but is friendly."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Orange",
+      "accent": null
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Muscular physique",
+      "Large wings",
+      "Prominent claws",
+      "Insect-like antennae",
+      "Vibrant color patterns"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Fighting",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Confident",
+      "Aggressive",
+      "Protective"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Physical attacker"
+  },
+  "image_path": "images/Buzzwole/1.png",
+  "pokemon_name": "Buzzwole"
+}

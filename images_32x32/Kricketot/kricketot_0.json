@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that looks like a cute insect with bright colors and adorable features.",
+    "I want a playful Pokemon that has a round body and big eyes, perfect for a kid's game.",
+    "Generate a Pokemon with a vibrant color palette and unique antennae, suitable for a forest environment.",
+    "Make a small Pokemon that resembles a bug, featuring quirky designs and a charming personality.",
+    "Imagine a Pokemon that combines elements of nature and music, with a design inspired by crickets.",
+    "Design a Pokemon that is friendly and approachable, with a soft body and expressive features.",
+    "Show me a Pokemon that has an interesting shape and is often found in grassy areas."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Brown",
+      "accent": "Yellow"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large round body",
+      "Prominent antennae",
+      "Soft, rounded legs",
+      "Unique collar-like structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Eager",
+      "Friendly"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Kricketot/0.png",
+  "pokemon_name": "Kricketot"
+}

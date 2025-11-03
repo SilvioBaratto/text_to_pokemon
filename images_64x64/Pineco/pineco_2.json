@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that resembles a pine cone with a unique color palette.",
+    "I want a Pokemon that looks like a small, spiky creature with vibrant colors and an interesting shape.",
+    "Generate a Pokemon with a tough exterior, showcasing shades of blue and hints of red in its design.",
+    "Make a Pokemon that has an earthy appearance, inspired by natural elements like wood and stone.",
+    "Imagine a bug-type Pokemon that blends into its forest habitat with a camouflaged style.",
+    "Design a creature that looks like it could roll into a ball, covered in intricate patterns.",
+    "Give me a Pokemon that has an unusual body shape, featuring sharp angles and a tough texture."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Pine cone-like appearance",
+      "Spiky exterior",
+      "Large, expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Defensive",
+      "Calm",
+      "Stealthy"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Pineco/2.png",
+  "pokemon_name": "Pineco"
+}

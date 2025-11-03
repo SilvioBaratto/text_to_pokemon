@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a fluffy Normal-type Pokemon that has long ears and a cute face.",
+    "Imagine a Pokemon with a soft, white body and a playful personality.",
+    "Design a Pokemon that looks like a small, elegant creature with a stylish appearance.",
+    "Generate an adorable fairy-like Pokemon with pastel colors and a cheerful demeanor.",
+    "Make a Pokemon that has a gentle nature and loves to frolic in grassy fields.",
+    "Show me a cute Pokemon that resembles a small mammal with big expressive eyes.",
+    "Give me a Pokemon that is known for its agility and charm in battles."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large ears",
+      "Fluffy tail",
+      "Soft fur",
+      "Expressive eyes",
+      "Delicate whiskers"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Charming",
+      "Friendly"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Cinccino/0.png",
+  "pokemon_name": "Cinccino"
+}

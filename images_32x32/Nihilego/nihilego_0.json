@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a jellyfish-like Pokemon with translucent features and glowing accents.",
+    "Generate a Pokemon that resembles an alien creature with an ethereal appearance.",
+    "Imagine a mysterious creature with a flowing, ghostly body and unique tentacle-like structures.",
+    "Make a Pokemon that embodies a mix of beauty and danger, with a shimmering form.",
+    "Design an otherworldly Pokemon that floats gracefully with colorful, luminescent details.",
+    "Show me a Pokemon resembling an ancient oceanic entity with a mesmerizing design.",
+    "Give me a unique creature that combines elements of both jellyfish and extraterrestrial life."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Gray",
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Translucent, flowing body",
+      "Tentacle-like appendages",
+      "Glowing blue accents",
+      "Bell-shaped head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Poison",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Ethereal",
+      "Intelligent"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Nihilego/0.png",
+  "pokemon_name": "Nihilego"
+}

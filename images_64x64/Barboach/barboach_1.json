@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a small fish with a sleek body and vibrant colors.",
+    "Imagine a playful aquatic creature with a long, slender body and unique blue markings.",
+    "Show me a tiny Pokemon that thrives in wetlands, with a smooth appearance and a cheerful demeanor.",
+    "Generate a Pokemon design featuring a fish-like creature that has distinct whiskers and a wavy tail.",
+    "Make a Pokemon that embodies the essence of rivers, with a streamlined shape and bright aqua tones.",
+    "Design a cute, small water Pokemon with a whimsical look that loves to swim around in marshy areas.",
+    "Give me an adorable Pokemon with a simple body shape and a friendly personality, suited for watery habitats."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Gray",
+      "accent": "Black"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Whiskers",
+      "Long body",
+      "Smooth texture",
+      "Small fins",
+      "Curved tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Barboach/1.png",
+  "pokemon_name": "Barboach"
+}

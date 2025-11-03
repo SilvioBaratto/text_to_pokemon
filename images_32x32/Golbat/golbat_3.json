@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a flying-type Pokemon with purple wings and a sleek black body.",
+    "I want a bat-like creature that can blend into urban environments and has a mischievous personality.",
+    "Generate a dark-type Pokemon that uses echolocation and has vibrant blue features.",
+    "Make an eerie Pokemon that thrives in caves, with sharp fangs and large wings.",
+    "Imagine a Pokemon that can navigate through forests at night, using its keen senses.",
+    "Design a creature with a unique ability to hypnotize foes, showcasing a striking color palette.",
+    "Show me a Pokemon that embodies agility and stealth, with a blend of dark and bright colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Purple",
+      "accent": "Black"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large wings",
+      "Pointy ears",
+      "Fangs",
+      "Red eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Agile",
+      "Stealthy"
+    ],
+    "habitat": "Cave",
+    "rarity": "Common",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Golbat/3.png",
+  "pokemon_name": "Golbat"
+}

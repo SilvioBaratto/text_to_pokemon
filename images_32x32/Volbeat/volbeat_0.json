@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that glows in the dark and has intricate wing patterns.",
+    "I want a Pokemon that resembles a firefly, with bright colors and a cheerful demeanor.",
+    "Generate a small insect-like Pokemon that can emit light and loves to dance in the air.",
+    "Make a whimsical bug-type Pokemon with a round body and a playful personality.",
+    "Imagine a Pokemon that combines elements of a beetle and a lantern, glowing brightly at night.",
+    "Design a tiny Pokemon with a unique shape that can fly and has a vibrant color scheme.",
+    "Show me a Pokemon that has a playful spirit and is often found in grassy fields."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Red",
+      "accent": "Black"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Glowing patterns",
+      "Large, rounded wings",
+      "Antennas shaped like loops",
+      "Round body",
+      "Small size"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Volbeat/0.png",
+  "pokemon_name": "Volbeat"
+}

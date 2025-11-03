@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a cute grass-type Pokemon that resembles a cherry blossom tree with a soft, round shape.",
+    "Imagine a flower-themed Pokemon with vibrant colors and a playful personality, perfect for a spring setting.",
+    "Design a Pokemon that embodies the essence of a blooming flower, with bright petals and a delicate appearance.",
+    "Generate a whimsical Pokemon that resembles a small, round fruit, adorned with blooming petals on top.",
+    "Show me a tiny Pokemon that looks like a cherry with green leaves, showcasing its joyful nature.",
+    "Give me a Pokemon that combines plant and fairy features, appearing as if it's always in bloom.",
+    "Make a Pokemon that has a charming floral design, exuding happiness and positivity wherever it goes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Green",
+      "accent": "Purple"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round, cherry-like body",
+      "Green leaf-like appendages",
+      "Petal-like formations on top"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Fairy",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Joyful",
+      "Playful",
+      "Cheerful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Cherrim/2.png",
+  "pokemon_name": "Cherrim"
+}

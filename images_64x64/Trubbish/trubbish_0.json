@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a quirky Pokemon that resembles a bag of trash with green features and a playful attitude.",
+    "Imagine a small, green Pokemon that loves to hide in urban areas, blending in with its surroundings.",
+    "Design a Pokemon that embodies the concept of waste, featuring unique plant-like characteristics and a mischievous grin.",
+    "Generate a cute, amorphous creature that thrives in grassy environments, with a focus on earthy tones.",
+    "Show me a Pokemon that has a round body and leaf-like ears, perfect for an eco-friendly theme!",
+    "Make a Pokemon that captures the essence of recycling, with vibrant green and hints of pink.",
+    "I want a Pokemon that looks like it just emerged from a trash heap but is actually quite charming."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": "Pink"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Leaf-like appendages",
+      "Round, bulbous body",
+      "Small mouth with two fangs",
+      "Big, expressive eyes",
+      "Trash bag-like appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Curious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Trubbish/0.png",
+  "pokemon_name": "Trubbish"
+}

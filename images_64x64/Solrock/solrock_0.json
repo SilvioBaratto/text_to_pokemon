@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a sun-themed Pokemon with a bright orange body and radiant yellow spikes.",
+    "I want a cosmic Pokemon resembling a sun, featuring glowing eyes and sharp, star-like points.",
+    "Generate a rock-type Pokemon that looks like a sun, with a vibrant orange core and golden rays.",
+    "Make a mythical Pokemon that embodies light, with a circular shape and a fiery color palette.",
+    "Imagine a celestial Pokemon with a warm color scheme, sharp edges, and a glowing aura.",
+    "Design a legendary Pokemon that resembles a star, showcasing a mix of orange and yellow colors.",
+    "Show me a Pokemon that radiates energy, with distinct sun-like features and a cosmic appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Circular body",
+      "Spiky rays",
+      "Two prominent eyes",
+      "Symmetrical design"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Rock",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Luminous",
+      "Protective"
+    ],
+    "habitat": "Desert",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Solrock/0.png",
+  "pokemon_name": "Solrock"
+}

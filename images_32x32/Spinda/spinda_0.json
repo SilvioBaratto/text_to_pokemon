@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a cute Normal-type Pokemon with unique patterns and a playful personality.",
+    "Design a bipedal Pokemon with pink and white colors, perfect for a forest setting.",
+    "Imagine a whimsical Pokemon that stands out with distinctive markings and a cheerful demeanor.",
+    "Generate a small, adorable creature that has a quirky design and loves to play.",
+    "Make a charming Pokemon with large ears and a friendly face, ideal for urban habitats.",
+    "Show me a Pokemon with a round body shape and colorful designs that captivate trainers.",
+    "Give me a delightful Normal-type Pokemon that brings joy wherever it goes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Red",
+      "accent": "Black"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Unique spiral patterns on body",
+      "Large round ears",
+      "Short arms with paw-like hands",
+      "Round face with a cheerful expression",
+      "Fluffy body texture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Spinda/0.png",
+  "pokemon_name": "Spinda"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with large wings and a friendly expression.",
+    "Generate a water-type creature that resembles a dragon but has a playful demeanor.",
+    "Make a Pokemon that has an orange body and green wings, showcasing its flying abilities.",
+    "Show me a mythical creature that combines dragon and flying features with a vibrant color palette.",
+    "Imagine a Pokemon with a round body, short limbs, and a dragon-like tail, ready for adventure.",
+    "Design a strong yet gentle Pokemon that embodies the essence of dragon and flying types.",
+    "Give me a unique Pokemon with a blend of orange and cream colors, perfect for a forest habitat."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large dragon-like wings",
+      "Whiskers on the head",
+      "Round body shape",
+      "Long tail",
+      "Big friendly eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Friendly",
+      "Playful",
+      "Loyal"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Powerful Attacker"
+  },
+  "image_path": "images/Dragonite/0.png",
+  "pokemon_name": "Dragonite"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a shell and has a playful personality.",
+    "Imagine a tiny aquatic creature with a shiny silver shell and a goofy expression.",
+    "Generate a Pokemon inspired by sea creatures, featuring a round body and a long tongue.",
+    "Show me a Pokemon that looks like a clam with big eyes and a unique color scheme.",
+    "Design a cute water-type Pokemon with a sturdy shell and a friendly demeanor.",
+    "Give me a Pokemon that is small, round, and loves to hide in its shell.",
+    "Make a Pokemon that represents the ocean, combining smooth textures and vibrant colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Black",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Gray",
+      "accent": "Black"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Hard shell",
+      "Prominent tongue",
+      "Large white eyes",
+      "Smooth surface"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Shellder/2.png",
+  "pokemon_name": "Shellder"
+}

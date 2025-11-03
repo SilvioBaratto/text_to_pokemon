@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a sleek, dark-type Pokemon with a stealthy design and striking violet patterns.",
+    "I want a graceful feline Pokemon that embodies elegance and agility, with a mischievous personality.",
+    "Generate a character inspired by a spotted cat, with vibrant colors and a playful demeanor.",
+    "Make a Pokemon that resembles a stealthy predator, featuring sharp claws and a beautiful tail.",
+    "Imagine a creature that blends into the shadows, with unique markings and a confident stance.",
+    "Design a Pokemon with a mix of purple and yellow hues, showcasing a balance of beauty and cunning.",
+    "Show me a dark-type Pokemon that thrives in urban settings and has a charmingly sly personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Yellow",
+      "accent": "Black"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Spotted fur pattern",
+      "Long, curled tail",
+      "Pointed ears",
+      "Sleek body",
+      "Red eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": "Normal",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Agile",
+      "Cunning"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Liepard/0.png",
+  "pokemon_name": "Liepard"
+}

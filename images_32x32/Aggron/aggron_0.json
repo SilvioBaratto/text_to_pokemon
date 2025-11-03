@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon that resembles an armored dinosaur with a strong build.",
+    "Imagine a steel-type creature with a metallic body and powerful limbs, ready for battle.",
+    "Generate a Pokemon that looks like a giant armored beast, perfect for a rocky terrain.",
+    "Show me a fierce-looking Pokemon that can withstand any physical attack with its tough armor.",
+    "Design a Pokemon with a massive body and sharp claws, ideal for a mountainous habitat.",
+    "Give me an image of a Pokemon that combines strength and defense, featuring a gray color palette.",
+    "Make a Pokemon that has a fearsome appearance, with multiple spikes and a solid stance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Armored plates",
+      "Spikes on back",
+      "Powerful limbs",
+      "Large jaws",
+      "Thick legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Rock",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Sturdy",
+      "Defensive",
+      "Loyal"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Aggron/0.png",
+  "pokemon_name": "Aggron"
+}

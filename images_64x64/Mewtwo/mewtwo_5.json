@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a sleek purple body and a mysterious aura.",
+    "I want a legendary Pokemon that has telekinetic powers and a unique humanoid shape.",
+    "Generate a creature with psychic abilities that stands out with its elegant features and color.",
+    "Make a bipedal Pokemon with flowing tails and advanced psychic techniques.",
+    "Imagine a powerful Pokemon that can manipulate objects with its mind, showcasing vivid purple hues.",
+    "Design a mythical creature known for its intelligence and ethereal presence in the Pokemon world.",
+    "Give me a unique Pokemon that embodies psychic energy and has a striking silhouette."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Gray",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long tail",
+      "Large ears",
+      "Mewtwo-like face",
+      "Sleek physique",
+      "Powerful stance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Determined",
+      "Mysterious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Mewtwo/5.png",
+  "pokemon_name": "Mewtwo"
+}

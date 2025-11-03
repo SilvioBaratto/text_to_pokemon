@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a plant-type Pokemon with vibrant green leaves and a whimsical flower face.",
+    "Imagine a small, yellow Pokemon that resembles a plant with a unique bell shape.",
+    "Design a nature-loving Pokemon that thrives in forests and has a playful personality.",
+    "Show me a cute yellow Pokemon with a long, serpentine body and green leaf-like appendages.",
+    "Generate a whimsical Pokemon that looks like a combination of a flower and a water droplet.",
+    "Make a Pokemon that embodies the essence of a sunny day with bright colors and cheerful vibes.",
+    "Give me a Pokemon that has a unique blend of plant and poison traits, with a cute appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Bell-shaped head",
+      "Thin, elongated body",
+      "Leaf-like arms",
+      "Small eyes",
+      "Root-like base"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Gentle"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Bellsprout/2.png",
+  "pokemon_name": "Bellsprout"
+}

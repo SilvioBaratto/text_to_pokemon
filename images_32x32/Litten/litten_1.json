@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a playful fire-type Pokemon that resembles a mischievous cat with striking yellow eyes.",
+    "I want a small, agile Pokemon with a sleek body, perfect for sneaking around in urban settings.",
+    "Generate a fire-type creature with a bold personality, featuring vibrant red and black colors.",
+    "Make a Pokemon that embodies the spirit of a fiery feline, ready to leap into action.",
+    "Imagine a cute but fierce little cat Pokemon that loves to play with fire.",
+    "Design a Pokemon with a distinctive black coat and fiery red accents that captures attention.",
+    "Show me a starter Pokemon that has a unique blend of colors and a fun-loving demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Pointed ears",
+      "Long tail",
+      "Bright yellow eyes",
+      "Short whiskers",
+      "Distinctive red stripe patterns"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Curious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Speed and agility-based"
+  },
+  "image_path": "images/Litten/1.png",
+  "pokemon_name": "Litten"
+}

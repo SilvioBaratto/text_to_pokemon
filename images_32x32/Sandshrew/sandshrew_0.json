@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a small, ground-type Pokemon that has a sandy appearance and is known for its digging abilities.",
+    "Imagine a playful Pokemon that thrives in desert environments and has bright yellow and beige colors.",
+    "Design a cute Pokemon with a round body shape and a penchant for hiding underground.",
+    "Generate a character that resembles a small creature with a hard, spiky back and big blue eyes.",
+    "Show me a Pokemon that is agile and quick, with a playful personality and a love for sandy areas.",
+    "Give me a Pokemon that has a sturdy build and is adept at burrowing in the ground.",
+    "Make a Pokemon that embodies the spirit of the desert, with camouflaging colors and a shy demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Brown"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": null,
+      "accent": "Brown"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Spiky back",
+      "Large blue eyes",
+      "Short limbs",
+      "Rounded snout",
+      "Small tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Shy",
+      "Curious"
+    ],
+    "habitat": "Desert",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Sandshrew/0.png",
+  "pokemon_name": "Sandshrew"
+}

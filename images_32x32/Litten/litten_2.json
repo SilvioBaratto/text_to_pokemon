@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a small fire-type Pokemon with sleek black fur and bright red markings.",
+    "Show me a cat-like Pokemon with sharp yellow eyes and a playful demeanor.",
+    "Imagine a Pokemon that thrives in urban areas, blending its fiery nature with city life.",
+    "Generate a creature that is both cute and fierce, with a tail that resembles a flame.",
+    "Design a Pokemon that embodies the spirit of a mischievous yet loyal companion.",
+    "Make a Pokemon that has a distinctive red stripe pattern and a confident stance.",
+    "Give me a fire-type starter that has an agile body and a curious personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Prominent red stripe patterns on the body",
+      "Large yellow eyes",
+      "Pointed ears",
+      "Curled tail",
+      "Short legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Loyal"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Fast and agile attacks"
+  },
+  "image_path": "images/Litten/2.png",
+  "pokemon_name": "Litten"
+}

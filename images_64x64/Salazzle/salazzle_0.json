@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a sleek, fire-type Pokemon with a slender body and vibrant pink accents.",
+    "I want a dragon-like creature that thrives in urban areas, with dark scales and fiery breath.",
+    "Generate a unique Pokemon that embodies both elegance and danger, showcasing vivid colors.",
+    "Make a character that resembles a lizard, with a striking red tail and bright eyes.",
+    "Imagine a powerful yet cunning Pokemon that dominates the desert landscape with its fiery presence.",
+    "Design a creature with a stealthy appearance, perfect for ambush attacks in lush forests.",
+    "Show me a Pokemon that blends well into rocky terrains, sporting a dark and colorful palette."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Purple",
+      "accent": "Pink"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, slender body",
+      "Vibrant pink tail",
+      "Sharp claws",
+      "Distinctive ridges on the back"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Poison",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Prideful",
+      "Aggressive"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Salazzle/0.png",
+  "pokemon_name": "Salazzle"
+}

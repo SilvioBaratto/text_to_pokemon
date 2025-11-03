@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a small, playful fire-type Pokemon that resembles a piglet with a curly tail.",
+    "I want a cute Pokemon with orange fur and a cheerful expression, perfect for a starter.",
+    "Generate a fire-type creature with distinctive black ears and a round face for a new game.",
+    "Make a Pokemon that embodies warmth and friendliness with a focus on fiery abilities.",
+    "Imagine a Pokemon that has a strong connection to nature and loves to run in fields.",
+    "Design a playful fire-type Pokemon with a unique tail and a love for adventure.",
+    "Show me a Pokemon that stands out with its vibrant colors and energetic personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Brown",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Curly tail",
+      "Black ears",
+      "Round face",
+      "Small stature",
+      "Cheerful expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Friendly"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Tepig/0.png",
+  "pokemon_name": "Tepig"
+}

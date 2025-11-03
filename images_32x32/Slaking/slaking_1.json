@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a laid-back Pokemon that loves to lounge around and take it easy in the forest.",
+    "Show me a massive Normal-type Pokemon with a shaggy coat and a playful demeanor.",
+    "Imagine a Pokemon that embodies laziness but is surprisingly strong when provoked.",
+    "Generate a friendly, large Pokemon that enjoys leisurely naps in grassy fields.",
+    "Design a Pokemon with a big, fluffy beard and a relaxed personality, perfect for the mountains.",
+    "Make a Pokemon that looks like a giant gorilla but is too lazy to fight unless necessary.",
+    "Give me a sleepy Pokemon that prefers to chill in urban areas, away from all the action."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": "Pink"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Fluffy white beard",
+      "Large muscular arms",
+      "Relaxed posture",
+      "Lidded eyes suggesting laziness",
+      "Short gray hair on top of the head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Lazy",
+      "Laid-back",
+      "Gentle"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Slaking/1.png",
+  "pokemon_name": "Slaking"
+}

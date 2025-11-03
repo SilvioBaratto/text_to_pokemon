@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a spooky ghost-type Pokemon that resembles a pumpkin with a playful spirit.",
+    "I want an adorable pumpkin Pokemon that has a mischievous grin and charming eyes.",
+    "Generate a ghostly Pokemon with dark, leafy features and a round orange body.",
+    "Make a Halloween-themed Pokemon that combines elements of a pumpkin and a ghost.",
+    "Imagine a Pokemon that embodies autumn, featuring a round shape and a whimsical face.",
+    "Design a ghost-type with a pumpkin-like body and a friendly demeanor.",
+    "Give me a Pokemon that looks like a pumpkin with a haunting twist and vibrant colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Brown",
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Pumpkin-like body",
+      "Green curly stem",
+      "Leafy tendrils",
+      "Two glowing yellow eyes",
+      "Dark brown mustache-like features"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Grass",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Trickster"
+  },
+  "image_path": "images/Pumpkaboo/3.png",
+  "pokemon_name": "Pumpkaboo"
+}

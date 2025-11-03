@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon with a fluffy tail and big ears that spark with energy.",
+    "Imagine a Pokemon that combines the elegance of a deer with the electric power of Ampharos.",
+    "Design a bipedal Pokemon that glows in the dark and has a lightning bolt-shaped tail.",
+    "Show me a Pokemon that has an adorable face and can emit electric shocks to protect itself.",
+    "Generate a Pokemon resembling a fluffy sheep that can generate electricity from its wool.",
+    "Make a Pokemon that has a bright yellow body with a white underbelly and red accents.",
+    "Give me a quirky electric Pokemon that loves to play in forests and fields during thunderstorms."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "White",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "White",
+      "accent": "Red"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Fluffy tail",
+      "Large ears",
+      "Red spherical markings",
+      "White underbelly",
+      "Electricity spark effects"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Protective"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Ampharos/1.png",
+  "pokemon_name": "Ampharos"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a blue Pok\u00e9mon known for its loud voice and big mouth.",
+    "Generate a Pok\u00e9mon that excels in sound-based attacks with a playful personality.",
+    "Show me a Pok\u00e9mon with a rounded body shape and large ears that can amplify sound.",
+    "Imagine a creature that thrives in urban environments and loves to make noise.",
+    "Design a Pok\u00e9mon that evolves from a small noise-maker into a giant sound powerhouse.",
+    "Give me a Pok\u00e9mon that has a bright pink accent and can unleash powerful sound waves.",
+    "Make a Pok\u00e9mon that can be found in forests and mountains, known for its boisterous nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large mouth",
+      "Big ears",
+      "Round body",
+      "Exaggerated facial expressions"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Loud",
+      "Energetic"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Loudred/1.png",
+  "pokemon_name": "Loudred"
+}

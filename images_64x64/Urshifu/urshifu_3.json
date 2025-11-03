@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a powerful fighting-type Pokemon with striking blue and white colors.",
+    "Show me a unique Pokemon that excels in martial arts with a bold presence.",
+    "Generate an image of a dual-type Pokemon that embodies strength and agility.",
+    "Design a legendary Pokemon with a fierce appearance and a connection to nature.",
+    "Imagine a Pokemon that can master both water and fighting moves with style.",
+    "Make a dynamic Pokemon that showcases traditional martial arts in its design.",
+    "Give me a Pokemon that represents the spirit of a warrior with a mystical aura."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Fierce facial markings",
+      "Muscular build",
+      "Long, flowing hair",
+      "Dynamic pose",
+      "Traditional martial arts attire"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": "Dark",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Disciplined",
+      "Brave"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Aggressive and strategic"
+  },
+  "image_path": "images/Urshifu/3.png",
+  "pokemon_name": "Urshifu"
+}

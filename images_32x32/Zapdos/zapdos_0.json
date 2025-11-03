@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon with vibrant yellow feathers and striking black accents.",
+    "Imagine a powerful bird Pokemon with lightning bolt-shaped wings and an intense gaze.",
+    "Design a legendary creature that embodies the spirit of storms and can summon thunder.",
+    "Generate a majestic Pokemon that soars high above mountains and commands the skies.",
+    "Show me a fierce and agile Pokemon that thrives in high-altitude environments.",
+    "Make a unique electric bird Pokemon with a personality that reflects confidence and pride.",
+    "Give me a Pokemon that can channel electricity through its wings while flying."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Lightning bolt-shaped wings",
+      "Sharp beak",
+      "Long, pointed tail feathers",
+      "Feathered body with a sleek appearance",
+      "Intense eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Proud",
+      "Fierce",
+      "Energetic"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Zapdos/0.png",
+  "pokemon_name": "Zapdos"
+}

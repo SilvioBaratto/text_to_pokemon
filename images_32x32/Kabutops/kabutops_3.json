@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a prehistoric Pokemon with sharp claws and a sleek body, suitable for speedy attacks.",
+    "Show me a water-type Pokemon resembling a fossil with a fierce appearance and agile movements.",
+    "Imagine a bipedal creature with a hardened exoskeleton, perfect for battle in rocky terrains.",
+    "Generate a Pokemon that combines ancient features with modern agility, ideal for ambushing prey.",
+    "Design a Pokemon that thrives in caves, with a color scheme that blends into its environment.",
+    "Give me a creature that embodies both elegance and danger, with sharp appendages for combat.",
+    "Make a Pokemon that symbolizes evolution from ancient times, showcasing both speed and strength."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Gray",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Sharp scythe-like claws",
+      "Hardened exoskeleton",
+      "Long, slender legs",
+      "Prominent head with two large eyes",
+      "Tail for balance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Water",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Cunning",
+      "Predatory"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Melee"
+  },
+  "image_path": "images/Kabutops/3.png",
+  "pokemon_name": "Kabutops"
+}

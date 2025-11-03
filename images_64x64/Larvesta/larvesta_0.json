@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a small fire-type Pokemon with a fluffy white body and vibrant orange flames.",
+    "Imagine a bug-like creature with bright blue eyes and a unique shell design.",
+    "Show me a Pokemon that thrives in mountainous regions and has a fiery personality.",
+    "Design a Pokemon that combines elements of fire and bug types with distinctive color patterns.",
+    "Give me a creature that features orange accents and a round, compact body shape.",
+    "Generate a small, cute Pokemon with a white and orange color scheme resembling a larva.",
+    "Make a Pokemon that has a calm demeanor but can unleash fierce flames when threatened."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Gray",
+      "accent": "Orange"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy white body",
+      "Orange flame-like appendages",
+      "Large blue eyes",
+      "Brown shell-like structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Fire",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful",
+      "Cautious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Uncommon",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Larvesta/0.png",
+  "pokemon_name": "Larvesta"
+}

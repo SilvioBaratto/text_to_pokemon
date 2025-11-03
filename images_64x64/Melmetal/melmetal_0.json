@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a metallic Pokemon that has a humanoid form and features rocky arms.",
+    "I want a Pokemon that combines steel and rock attributes with a unique color palette.",
+    "Generate an image of a Pokemon resembling a robot with a powerful build and bright eyes.",
+    "Make a Pokemon that looks like a golem, with a shiny golden core and rocky exterior.",
+    "Imagine a Pokemon with a mix of steel and rock types, showcasing strength and durability.",
+    "Design a Pokemon that stands tall with a combination of gray and gold colors.",
+    "Show me a Pokemon that embodies toughness and resilience with a striking visual presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Black",
+      "accent": "Yellow"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Rocky arms",
+      "Shiny yellow core",
+      "Broad shoulders",
+      "Robust body structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Rock",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Strong",
+      "Resilient",
+      "Determined"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Melmetal/0.png",
+  "pokemon_name": "Melmetal"
+}

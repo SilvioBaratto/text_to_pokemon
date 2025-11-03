@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with a sleek, armored body and bright golden accents.",
+    "Show me a fierce fighting-type Pokemon that has a muscular build and striking yellow and gray colors.",
+    "Imagine a Pokemon that blends elements of both dragon and fighting types, showcasing a unique visual style.",
+    "Make a character design for a Pokemon that is both powerful and agile, with a distinct bipedal stance.",
+    "Generate a Pokemon featuring a mix of silver and gold tones, with a striking stance and elaborate details.",
+    "Design a Pokemon that embodies strength and resilience, with an emphasis on its dragon-like features.",
+    "Give me an illustration of a Pokemon that thrives in mountain habitats, showcasing its combat prowess."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Black",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Armored scales",
+      "Claw-like hands",
+      "Spiked design on the back",
+      "Long tail",
+      "Distinctive dragon-like head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Fighting",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Fierce",
+      "Loyal"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Hakamo-o/1.png",
+  "pokemon_name": "Hakamo-o"
+}

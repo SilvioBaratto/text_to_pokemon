@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a powerful steel-type Pokemon with a sleek metallic body and glowing red eyes.",
+    "Show me a futuristic Pokemon that combines metal and psychic abilities, with unique geometric shapes.",
+    "Generate a Pokemon that resembles a robotic creature, with a strong presence and a blue-gray color scheme.",
+    "Imagine a Pokemon that excels in strategy and defense, featuring a sturdy, compact physique.",
+    "Design a Pokemon that thrives in industrial areas, showcasing metallic elements and a determined expression.",
+    "Give me a Pokemon with multiple legs and a brain-like structure, perfect for both offense and defense.",
+    "Make a Pokemon that is known for its resilience and intelligence, with a design that reflects its capabilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Gray"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": "Red"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Metallic body",
+      "Four legs",
+      "Red eyes",
+      "Geometric shape",
+      "Large X-shaped feature on its body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Psychic",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Strategic",
+      "Resilient"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive and tactical"
+  },
+  "image_path": "images/Metagross/0.png",
+  "pokemon_name": "Metagross"
+}

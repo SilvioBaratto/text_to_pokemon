@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a cute, bipedal Pokemon that wears a skull helmet and has a sad expression.",
+    "Design a small, ground-type Pokemon with a brown body and white accents, looking for its mother's bones.",
+    "Imagine a Pokemon that evolves from a tiny creature into a larger, more powerful form with unique abilities.",
+    "Generate a Pokemon that has a playful yet melancholy personality, often seen in caves and mountains.",
+    "Show me a Pokemon with distinct bones and a unique skull pattern, perfect for a ghostly theme.",
+    "Make a small, brown Pokemon that uses its bone as a weapon, showcasing its fighting spirit.",
+    "Give me a Pokemon that embodies the essence of loss and resilience, with a design that reflects its backstory."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Skull helmet",
+      "Bone club",
+      "Short limbs",
+      "Large, round head",
+      "Curved tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Melancholic",
+      "Resilient",
+      "Loyal"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Cubone/2.png",
+  "pokemon_name": "Cubone"
+}

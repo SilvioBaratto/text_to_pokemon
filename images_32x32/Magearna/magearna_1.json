@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon that embodies both technology and elegance, featuring intricate designs.",
+    "Show me a Steel-type Pokemon with a mechanical appearance and soft, rounded features.",
+    "Imagine a Fairy-type Pokemon with a combination of metallic and organic elements, showcasing gentleness.",
+    "Generate a Pokemon with large ears and a sleek, shiny body, perfect for a futuristic setting.",
+    "Make a Pokemon that has a unique blend of mechanical and organic traits, standing out in any environment.",
+    "Design a Pokemon that appears friendly yet powerful, with a design that hints at its legendary status.",
+    "Give me a Pokemon that looks both delicate and sturdy, capable of adapting to various habitats."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "White"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large, bunny-like ears",
+      "Mechanical, clockwork design elements",
+      "Heart-shaped chest emblem",
+      "Robotic limbs with intricate details",
+      "Shiny metallic finish"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Fairy",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": true,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Curious",
+      "Intelligent"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Balanced"
+  },
+  "image_path": "images/Magearna/1.png",
+  "pokemon_name": "Magearna"
+}

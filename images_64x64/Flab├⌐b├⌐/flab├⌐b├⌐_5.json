@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a cute fairy-type Pokemon with a flower-inspired design and bright colors.",
+    "I want a whimsical Pokemon that embodies the spirit of spring and has delicate wings.",
+    "Generate a small Pokemon that resembles a flower and has a playful personality.",
+    "Make a Pokemon that can blend into floral environments and has a friendly demeanor.",
+    "Imagine a Pokemon that is both a fairy and a plant, with vibrant yellow colors.",
+    "Design a Pokemon that brings joy and beauty to gardens with its flower-like features.",
+    "Show me a Pokemon that is inspired by nature and has a charming presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Flower-like body",
+      "Delicate wings",
+      "Cheerful expression",
+      "Green leaves as base"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Joyful",
+      "Playful",
+      "Friendly"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Flab\u251c\u2310b\u251c\u2310/5.png",
+  "pokemon_name": "Flab\u251c\u2310b\u251c\u2310"
+}

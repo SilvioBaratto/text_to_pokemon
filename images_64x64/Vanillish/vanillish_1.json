@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create an ice-type Pokemon that resembles a fluffy snow cone with a cheerful expression.",
+    "Show me a Pokemon with a crystalline structure and a playful demeanor, perfect for snowy environments.",
+    "Imagine a Pokemon that looks like a small snowflake creature, embodying the spirit of winter fun.",
+    "Generate a character design for a Pokemon that has a snow-like appearance and can melt away.",
+    "Give me a concept for a cute ice-type Pokemon that loves to play in snowy fields.",
+    "Design a whimsical Pokemon that resembles a frosty dessert, with a bright smile and icy features.",
+    "Make a Pokemon that combines ice and cuteness, showcasing a delightful snow-themed aesthetic."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Blue",
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Icicle-shaped body",
+      "Snowflake patterns",
+      "Cheerful facial expression",
+      "Frosty texture",
+      "Pointed top resembling a snow cone"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Friendly"
+    ],
+    "habitat": "Tundra",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Vanillish/1.png",
+  "pokemon_name": "Vanillish"
+}

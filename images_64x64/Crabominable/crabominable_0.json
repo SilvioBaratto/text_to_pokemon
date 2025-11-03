@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a unique ice-type Pokemon inspired by a snow crab with icy blue features.",
+    "Show me a fighting-type Pokemon that resembles a snow-covered crab, ready for battle.",
+    "Imagine a Pokemon that combines elements of ice and fighting types with a crustacean design.",
+    "Generate a Pokemon that embodies the toughness of a crab and the chill of winter.",
+    "Design a snow-themed Pokemon with claws, emphasizing its icy environments and combative nature.",
+    "Give me a legendary creature that looks like a crab, but with frosty accents and martial prowess.",
+    "Make a fierce fighting-type Pokemon that resembles a crab, complete with ice-like armor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Blue",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Frosty, snow-like body texture",
+      "Large claws resembling crab pincers",
+      "Blue accents on limbs and claws",
+      "Yellow horn-like protrusion on the head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": "Fighting",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Determined",
+      "Protective"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Melee"
+  },
+  "image_path": "images/Crabominable/0.png",
+  "pokemon_name": "Crabominable"
+}

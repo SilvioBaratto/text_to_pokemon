@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon that can hypnotize its opponents with a pendulum.",
+    "I want a Pokemon with yellow fur and a distinctive white collar around its neck.",
+    "Generate an image of a bipedal creature that excels in mind-based battles.",
+    "Make a Pokemon that uses its psychic powers to manipulate dreams and illusions.",
+    "Imagine a Pokemon that roams urban environments, using its abilities to gather information.",
+    "Design a Pokemon that combines yellow and white colors with a mysterious aura.",
+    "Show me a creature that can induce sleep in others with its mesmerizing gaze."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long arms",
+      "White collar",
+      "Pendulum accessory",
+      "Pointed ears",
+      "Large, hypnotic eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Mysterious",
+      "Sly"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Psychic manipulation"
+  },
+  "image_path": "images/Hypno/0.png",
+  "pokemon_name": "Hypno"
+}

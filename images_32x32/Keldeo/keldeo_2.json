@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a flowing mane and elegant stature.",
+    "Imagine a mythical creature that embodies both strength and grace under the sea.",
+    "Show me a legendary Pokemon that resembles a horse, with vibrant blue and red colors.",
+    "Design a unique Pokemon that combines equine features with aquatic elements.",
+    "Generate a Pokemon that looks like a noble steed with a magical aura.",
+    "Give me a creature that exudes elegance, standing tall with a flowing tail.",
+    "Make a new Pokemon inspired by Keldeo, focusing on its swift and agile traits."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Red"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": "Red"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flowing blue mane",
+      "Red crest on head",
+      "Elegant tail",
+      "Unique hoof design"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Fighting",
+    "generation": 5,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Noble",
+      "Brave",
+      "Loyal"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Agile and swift attacks"
+  },
+  "image_path": "images/Keldeo/2.png",
+  "pokemon_name": "Keldeo"
+}

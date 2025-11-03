@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon with sleek, serpentine features and vivid blue scales.",
+    "I want a Pokemon that combines aquatic elegance with electric power, showcasing vibrant colors.",
+    "Generate an image of a Pokemon resembling an eel, with multiple tentacle-like appendages.",
+    "Make a fierce-looking Pokemon that can swim, electrify foes, and has striking red accents.",
+    "Imagine a Pokemon with a unique body shape that perfectly blends water and electricity.",
+    "Design a powerful electric-type Pokemon that features expressive eyes and a flowing body.",
+    "Show me an unusual Pokemon design that embodies both agility in water and strength in battle."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": "Red"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Tentacle-like appendages",
+      "Wide mouth with sharp teeth",
+      "Red markings on the body",
+      "Long, flowing tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Agile",
+      "Cunning"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Eelektross/1.png",
+  "pokemon_name": "Eelektross"
+}

@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a mythical flying Pokemon with green limbs and a purple tornado surrounding it.",
+    "Imagine a legendary Pokemon that embodies the spirit of storms with vibrant green and purple colors.",
+    "Design a unique Pokemon that has a swirling cloud body and striking green features.",
+    "Make a creature that represents the power of wind with bold colors and an aerodynamic shape.",
+    "Show me a Pokemon with a fierce appearance, green accents, and a mysterious aura of thunder.",
+    "Generate a powerful flying-type Pokemon characterized by its dynamic pose and swirling cloud effects.",
+    "I want to see a Pokemon with a striking green and purple color scheme that commands the skies."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Purple"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Purple",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Swirling cloud base",
+      "Extended green arms",
+      "Purple ring around the body",
+      "Aerodynamic shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Flying",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Free-spirited",
+      "Powerful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Agile and evasive attacks"
+  },
+  "image_path": "images/Tornadus/4.png",
+  "pokemon_name": "Tornadus"
+}

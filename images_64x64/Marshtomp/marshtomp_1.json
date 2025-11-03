@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that has a unique amphibious design with vibrant colors.",
+    "I want a playful creature that resembles a small blue monster with aquatic features.",
+    "Generate a Pokemon that looks like a mix between a fish and a frog, with bright accents.",
+    "Make a character that embodies both water and ground elements with a cute appearance.",
+    "Imagine a Pokemon with a rounded body, flippers, and a cheerful expression, perfect for water battles.",
+    "Design a creature that thrives in wetland habitats and has a distinctively colorful appearance.",
+    "Give me a Pokemon that showcases both aquatic and terrestrial features in a charming way."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Orange",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Flippers",
+      "Wavy tail",
+      "Large fin on the back",
+      "Round body",
+      "Big mouth"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Ground",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Balanced"
+  },
+  "image_path": "images/Marshtomp/1.png",
+  "pokemon_name": "Marshtomp"
+}

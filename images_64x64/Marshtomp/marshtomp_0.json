@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a cheerful expression and vibrant colors.",
+    "I want a unique Pokemon that has both aquatic and land features, showcasing its versatility.",
+    "Generate a Pokemon that is playful and energetic, perfect for a lakeside environment.",
+    "Make a creature that embodies both water and ground elements, with a fun design.",
+    "Imagine a Pokemon that has a combination of blue and orange colors, resembling an amphibian.",
+    "Design a Pokemon that can thrive in wetlands and has a distinctively chunky body shape.",
+    "Show me a Pokemon with a unique blend of aquatic traits and a friendly personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Gray",
+      "accent": "Orange"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large fin on the head",
+      "Short limbs",
+      "Prominent smile",
+      "Blue skin with orange highlights",
+      "Thick body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Ground",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Friendly"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Balanced"
+  },
+  "image_path": "images/Marshtomp/0.png",
+  "pokemon_name": "Marshtomp"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a cute, bee-inspired Pokemon with a bright yellow body and happy faces.",
+    "Make a Pokemon that resembles an insect with multiple smiling faces and tiny wings.",
+    "Show me a small, bug-type Pokemon with a honeycomb design and cheerful demeanor.",
+    "Design a playful, honey-loving Pokemon that thrives in forest habitats.",
+    "Imagine a multi-faced Pokemon that can float and has a vibrant yellow color scheme.",
+    "Generate a Pokemon that looks like a swarm of bees, featuring a whimsical appearance.",
+    "Give me an adorable insectoid Pokemon with a unique three-part body and friendly expressions."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Brown"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": null,
+      "accent": "Brown"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Three smiling faces",
+      "Round, honeycomb-like body",
+      "Small wings",
+      "Red marking on the head",
+      "Insect legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Friendly",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Combee/1.png",
+  "pokemon_name": "Combee"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon that resembles a tough, armored creature with spikes and a determined expression.",
+    "Imagine a blue Pokemon with a round body, sharp edges, and a lively personality, perfect for battles.",
+    "Show me a medium-sized Pokemon with a rocky exterior and a playful demeanor that likes to hide in caves.",
+    "Generate a powerful creature with a spiky design, combining shades of gray and blue for a fierce look.",
+    "Design a Pokemon that thrives in mountainous regions, showcasing its strength and resilience against opponents.",
+    "Give me a Pokemon that evolves from a small, cute creature into a formidable warrior with a rocky appearance.",
+    "Make a Pokemon that has a unique blend of colors, with an emphasis on gray and blue tones, perfect for urban settings."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Spiky body",
+      "Round shape",
+      "Large eyes",
+      "Armored appearance",
+      "Rock-like texture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Ground",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Playful",
+      "Protective"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Pupitar/0.png",
+  "pokemon_name": "Pupitar"
+}

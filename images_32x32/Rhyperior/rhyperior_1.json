@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon with a rugged exterior and sharp spikes.",
+    "Show me a giant Pokemon that resembles a dinosaur but has a rocky shell.",
+    "Imagine a Pokemon that can launch boulders with its massive arms.",
+    "Design a Pokemon that thrives in mountainous regions and has a sturdy build.",
+    "Give me a Pokemon that has a combination of orange armor and gray skin.",
+    "Generate a powerful Pokemon that stands tall and has a fierce expression.",
+    "Make a Pokemon that embodies strength and resilience with a rock-like appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Black",
+      "accent": "Orange"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Rocky armor plating",
+      "Large horns",
+      "Big, muscular arms",
+      "Spikes on back",
+      "Heavy-set body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Ground",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Sturdy",
+      "Aggressive",
+      "Defensive"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Rhyperior/1.png",
+  "pokemon_name": "Rhyperior"
+}

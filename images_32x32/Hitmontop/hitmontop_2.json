@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a fighting-type Pokemon that excels in martial arts and has a unique spinning attack.",
+    "Show me a Pokemon with brown and blue colors that resembles a spinning top and focuses on agility.",
+    "Design a playful Pokemon that loves to train in mountainous regions and has an acrobatic fighting style.",
+    "Imagine a Pokemon with a round body and blue accents, known for its speed and quick reflexes in battle.",
+    "Give me a visual of a Pokemon that combines elements of traditional dance and martial arts in its appearance.",
+    "Generate a small, agile Pokemon that thrives in urban environments and has strong, dynamic movements.",
+    "Make an image of a Pokemon with a blend of earthy and vibrant colors that enjoys training outdoors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Spinning top-like features",
+      "Two blue arms",
+      "Round head",
+      "Short legs",
+      "Distinctive martial arts stance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Playful",
+      "Energetic"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Martial Arts"
+  },
+  "image_path": "images/Hitmontop/2.png",
+  "pokemon_name": "Hitmontop"
+}

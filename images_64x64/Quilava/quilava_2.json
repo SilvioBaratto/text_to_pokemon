@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a fiery Pokemon with a sleek body and vibrant orange flames on its back.",
+    "I want a bipedal Pokemon that has a cool blue-green head and a fiery tail.",
+    "Generate a Pokemon design that features orange and cream colors with a unique flame pattern.",
+    "Make a Pokemon that stands proudly with a bold stance and fiery accents.",
+    "Imagine a medium-sized Pokemon that uses fire-based attacks and has a passionate personality.",
+    "Design a Pokemon that thrives in forests and mountains, showcasing its fiery nature.",
+    "Show me a Pokemon that evolves from a small creature and has a striking visual presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flames on back",
+      "Blue-green head",
+      "Cream-colored body",
+      "Long tail",
+      "Predominantly slender build"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Passionate",
+      "Brave",
+      "Loyal"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Quilava/2.png",
+  "pokemon_name": "Quilava"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with a sleek body and vibrant wings.",
+    "Show me a Pokemon that has a stinger and can fly gracefully.",
+    "Design a Pokemon that is both intimidating and colorful, perfect for battles.",
+    "Imagine a small insectoid creature with bright yellow and black patterns.",
+    "Generate a Pokemon that thrives in forests and has a fierce personality.",
+    "Make a unique bug-type Pokemon that resembles a wasp with striking features.",
+    "Give me a Pokemon that combines agility and strength with vivid colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Black"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large wings",
+      "Stinger",
+      "Compound eyes",
+      "Segmented body",
+      "Antennae"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Protective",
+      "Energetic"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Beedrill/3.png",
+  "pokemon_name": "Beedrill"
+}

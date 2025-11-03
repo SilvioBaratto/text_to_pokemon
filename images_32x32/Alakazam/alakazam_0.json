@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a sleek, humanoid figure and glowing eyes.",
+    "Imagine a Pokemon that can levitate objects using its mind, with a yellow and purple color scheme.",
+    "Show me a powerful psychic creature with two spoon-like appendages, capable of reading minds.",
+    "Generate an agile, bipedal Pokemon that thrives in urban environments, showcasing its psychic abilities.",
+    "Design a Pokemon with a mysterious aura, featuring elongated limbs and a sharp, focused expression.",
+    "Give me a creative take on a mythical Pokemon known for its high intelligence and telekinetic powers.",
+    "Make a Pokemon that excels in battles using psychic moves, with a slender body and vibrant colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Purple",
+      "accent": null
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Two spoon-like appendages",
+      "Pointed ears",
+      "Thin limbs",
+      "Large, expressive eyes",
+      "Forked tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Cunning",
+      "Mysterious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attack"
+  },
+  "image_path": "images/Alakazam/0.png",
+  "pokemon_name": "Alakazam"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a sleek, agile Pokemon with a shiny silver coat and bright blue eyes.",
+    "Generate a feline-inspired Pokemon that embodies grace and elegance, with soft colors.",
+    "Design a majestic creature with a silver body and a distinctive blue gem on its forehead.",
+    "Imagine a Pokemon that prowls urban environments, blending in with its sleek fur.",
+    "Show me a Pokemon that has a playful yet cunning personality, with a modern design.",
+    "Make a Normal-type Pokemon that exudes charm and sophistication, perfect for a fashion theme.",
+    "Give me a Pokemon that reflects both beauty and stealth, with a soft color palette."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Gray",
+      "accent": "Blue"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Blue gem on forehead",
+      "Graceful posture",
+      "Short legs",
+      "Long tail",
+      "Pointed ears"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Playful",
+      "Affectionate"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Fast and agile"
+  },
+  "image_path": "images/Persian/1.png",
+  "pokemon_name": "Persian"
+}

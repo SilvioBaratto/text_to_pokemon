@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with serene features and a calming color palette.",
+    "Design a mythical creature that embodies emotions with flowing, ethereal movements.",
+    "Imagine a gentle Pokemon that radiates tranquility and has a playful side.",
+    "Generate a legendary Pokemon that can manipulate dreams with a soft, pastel look.",
+    "Show me a Pokemon that has large, expressive eyes and a soothing personality.",
+    "Make a small, winged Pokemon that brings joy and happiness wherever it goes.",
+    "Give me a mystical creature that can float gracefully and has a caring nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, expressive eyes",
+      "Long, ribbon-like ears",
+      "Small, rounded body",
+      "Delicate wings",
+      "Soft, flowing appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": true,
+    "is_mythical": true,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Compassionate",
+      "Supportive"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Mesprit/1.png",
+  "pokemon_name": "Mesprit"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a powerful steel-type Pokemon with a shiny metallic body and multiple arms.",
+    "I want a Pokemon that resembles a giant robotic creature with blue and gray colors.",
+    "Generate a futuristic Pokemon that has a quadrupedal body and intricate design features.",
+    "Make a legendary Pokemon with a sleek design and sharp edges, perfect for battles.",
+    "Imagine a Pokemon that can dominate in combat with its heavy armor and psychic powers.",
+    "Design a unique Pokemon featuring a blend of steel and psychic types with a cool color palette.",
+    "Show me a Pokemon that looks like a mechanical beast ready to take on any challenger."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Gray",
+      "accent": "Black"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Four metallic limbs",
+      "Large, flat body",
+      "X-shaped pattern on its body",
+      "Robotic appearance",
+      "Sharp edges"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Psychic",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Strategic",
+      "Intelligent"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive and offensive with high attack power"
+  },
+  "image_path": "images/Metagross/1.png",
+  "pokemon_name": "Metagross"
+}

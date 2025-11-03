@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that has a round body and elegant wings.",
+    "Imagine a Pokemon with a striking black and yellow color scheme, resembling a bee.",
+    "Show me a queen bee-inspired Pokemon with a regal appearance and powerful abilities.",
+    "Generate a Pokemon that embodies the spirit of a colony, working together to defend.",
+    "Design a Pokemon with vibrant colors and a distinct insect-like body shape.",
+    "I want a bee-themed Pokemon that can control a swarm of smaller insects.",
+    "Make a Pokemon that thrives in forest habitats and has a nurturing personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Black"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Hexagonal body shape",
+      "Large wings",
+      "Red gemstone on forehead",
+      "Honeycomb-like patterns",
+      "Antennae"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Nurturing",
+      "Protective",
+      "Diligent"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Vespiquen/1.png",
+  "pokemon_name": "Vespiquen"
+}

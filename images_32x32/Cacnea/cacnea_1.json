@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a cactus-themed Pokemon with a crown and sharp spikes all over its body.",
+    "Show me a Pokemon that thrives in desert environments, featuring vibrant green colors.",
+    "Imagine a small green Pokemon with a quirky personality and a unique body shape.",
+    "Design a Pokemon that can use grass-type moves and has a playful demeanor.",
+    "Generate a creature resembling a cactus, with a focus on its prickly exterior and cheerful expression.",
+    "Give me a Pokemon that evolves from a small plant and becomes a fearsome competitor in battles.",
+    "Make a Pokemon with a crown that embodies the spirit of resilience found in harsh climates."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Crown-like structure on top",
+      "Spiky protrusions",
+      "Round body shape",
+      "Large eyes",
+      "Small limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Ground",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Resilient",
+      "Friendly"
+    ],
+    "habitat": "Desert",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Cacnea/1.png",
+  "pokemon_name": "Cacnea"
+}

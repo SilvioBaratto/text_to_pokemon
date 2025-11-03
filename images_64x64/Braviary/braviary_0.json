@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a majestic flying Pokemon with strong wings and a fierce look in its eyes.",
+    "I want a bird-like Pokemon that embodies bravery and has striking red and blue feathers.",
+    "Generate a Pokemon that resembles an eagle, showcasing bold colors and a powerful presence.",
+    "Make a unique flying-type Pokemon with a mix of dark and bright colors for its plumage.",
+    "Imagine a Pokemon that soars through mountains, with a proud stance and a sharp beak.",
+    "Design a majestic creature with a combination of red wings and a white head, symbolizing freedom.",
+    "Give me a Pokemon that captures the essence of the sky with its vibrant feathers and fierce demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Brown",
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Sharp beak",
+      "Prominent wings",
+      "Feathered crest",
+      "Strong talons"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Brave",
+      "Proud",
+      "Loyal"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Physical attacker with aerial agility"
+  },
+  "image_path": "images/Braviary/0.png",
+  "pokemon_name": "Braviary"
+}

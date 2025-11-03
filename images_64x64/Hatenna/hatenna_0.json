@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a whimsical fairy-type Pokemon that has a fluffy blue mane and a small pink body.",
+    "Imagine a tiny Pokemon with a serene expression, soft pastel colors, and an enchanting aura.",
+    "Design a cute Psychic-type Pokemon that resembles a small creature with oversized ears and a shy demeanor.",
+    "Show me a Pokemon that has a unique hairstyle, is mostly blue, and can float gracefully in the air.",
+    "Generate a Pokemon that embodies calmness, featuring soft colors and a delicate appearance.",
+    "Make a fairy-like Pokemon that has a playful personality and a body shape reminiscent of a small balloon.",
+    "Give me a Pokemon with a dreamy look, combining pastel blue and pink shades in its design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Pink"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": "Pink"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Fluffy blue hair",
+      "Large, expressive eyes",
+      "Small rounded body",
+      "Pointed ears",
+      "A small tail-like appendage"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Fairy",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Shy",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Hatenna/0.png",
+  "pokemon_name": "Hatenna"
+}

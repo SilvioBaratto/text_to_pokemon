@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon that has a playful personality and uses natural elements in its attacks.",
+    "Imagine a Pokemon that blends seamlessly into forest environments with leafy features and earthy tones.",
+    "Design a creature that embodies the spirit of the forest, with unique plant-like characteristics and a whimsical aura.",
+    "Generate a Pokemon with a mischievous demeanor that uses wind and foliage in battle tactics.",
+    "Show me a Pokemon with a blend of brown and green colors that thrives in mountain habitats.",
+    "Make a Pokemon that can control leaves and branches, showcasing a connection to nature.",
+    "Give me a Pokemon that appears friendly but has powerful abilities hidden beneath its playful exterior."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "White",
+      "accent": "Brown"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Leafy appendages on head and body",
+      "Nose resembles a branch",
+      "Large, expressive eyes",
+      "Fur-like texture on the body",
+      "Mischievous grin"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Dark",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Cunning"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Tricks opponents using agility and camouflage"
+  },
+  "image_path": "images/Shiftry/0.png",
+  "pokemon_name": "Shiftry"
+}

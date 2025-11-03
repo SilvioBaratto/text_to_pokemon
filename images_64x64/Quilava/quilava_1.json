@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a fiery creature with a blue body and bright orange flames on its back.",
+    "Show me a Pokemon that embodies both fire and speed, with sleek features and vibrant colors.",
+    "Design a fire-type Pokemon that has a playful personality, complete with a dynamic flame tail.",
+    "Imagine a Pokemon that lives in forests, featuring a mix of warm colors and agile movements.",
+    "Generate a creature with a bold color palette of orange and blue, perfect for fierce battles.",
+    "Make a Pokemon that looks like a small, fiery fox, full of energy and ready to explore.",
+    "Give me a unique Pokemon that combines fire and agility, with distinctive flame patterns."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Blue",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Flame on back",
+      "Sleek, agile body",
+      "Pointed ears",
+      "Long tail",
+      "Brightly colored patterns"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Fast and agile attacks"
+  },
+  "image_path": "images/Quilava/1.png",
+  "pokemon_name": "Quilava"
+}

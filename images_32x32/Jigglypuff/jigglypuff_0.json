@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a cute, round Pokemon that has a bubbly personality and sings to charm its foes.",
+    "I want to design a pink, fluffy Pokemon that can lull its opponents to sleep with its voice.",
+    "Generate an adorable creature with large eyes and a playful demeanor, perfect for a children's game.",
+    "Make a small, balloon-like Pokemon with playful features and a soft, inviting color palette.",
+    "Imagine a jiggly, cheerful Pokemon that loves to dance and entertain others with its singing abilities.",
+    "Show me a Fairy-type Pokemon that embodies cuteness and has the ability to put others to sleep.",
+    "Design a Pokemon that looks like a soft toy, with a friendly expression and a charming appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Black",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "White",
+      "accent": "Black"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large, expressive blue eyes",
+      "Round, puffy body",
+      "Pointy ears",
+      "Small, smiling mouth",
+      "Curly tuft on top of its head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Friendly"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Jigglypuff/0.png",
+  "pokemon_name": "Jigglypuff"
+}

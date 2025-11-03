@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a cute, pink Pokemon that resembles a baby with a round body and fluffy features.",
+    "Show me a chubby Pokemon with a smiling face and a small bunny-like ear on its head.",
+    "Design a Pokemon that looks like a plush toy, with soft curves and a cheerful expression.",
+    "Imagine a small, round Pokemon with a pink color scheme and a unique circular base.",
+    "Generate a fairy-type Pokemon that embodies joy and happiness with its adorable appearance.",
+    "Make a Pokemon with a simplistic design featuring a gentle smile and an overall soft look.",
+    "Give me a visual representation of a baby-like Pokemon that exudes warmth and friendliness."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round body",
+      "Bunny-like ear",
+      "Smiling face",
+      "Fluffy appearance",
+      "Circular base"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Gentle"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Happiny/0.png",
+  "pokemon_name": "Happiny"
+}

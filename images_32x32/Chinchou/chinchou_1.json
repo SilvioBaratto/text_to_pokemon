@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a shimmering blue body and bright yellow features.",
+    "Imagine a cute electric Pokemon with round eyes and long antennas, perfect for underwater adventures.",
+    "Generate a tiny aquatic creature that glows in the dark and has a friendly personality.",
+    "Design a Pokemon that resembles a small fish with large expressive eyes and playful fins.",
+    "Show me a Pokemon that thrives in the sea, with a unique ability to generate light.",
+    "Give me a whimsical water and electric type Pokemon that has a charming, round shape.",
+    "Make a friendly Pokemon that loves playing in the ocean and has vibrant yellow accents."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Long antennae",
+      "Large round eyes",
+      "Small spherical body",
+      "Yellow fin-like features"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Electric",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Chinchou/1.png",
+  "pokemon_name": "Chinchou"
+}

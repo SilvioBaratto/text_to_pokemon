@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a small bird Pokemon with a brown and cream color scheme.",
+    "Show me a flying-type Pokemon that has a round body and a cheerful expression.",
+    "Imagine a Pokemon that can adapt to both urban and natural environments.",
+    "Generate a cute bird Pokemon with fluffy feathers and a playful demeanor.",
+    "Design a Pokemon that excels in aerial battles and has a friendly personality.",
+    "Make a Normal-type Pokemon that is commonly found in grasslands and forests.",
+    "Give me a simple yet charming Pokemon that evolves into a majestic bird."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy feathers",
+      "Short tail",
+      "Large round eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Friendly",
+      "Curious",
+      "Playful"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Aerial"
+  },
+  "image_path": "images/Pidgey/0.png",
+  "pokemon_name": "Pidgey"
+}

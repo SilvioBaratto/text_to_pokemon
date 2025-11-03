@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with shimmering orange scales and long fins.",
+    "I want a playful fish Pokemon that splashes around in the sea.",
+    "Generate a whimsical aquatic creature that evolves into a powerful dragon.",
+    "Make a Pokemon that is often underestimated but has a surprising evolution.",
+    "Imagine a cute, small Pokemon that loves to swim in rivers and lakes.",
+    "Design a fish Pokemon that is known for its flopping around on land.",
+    "Give me a Pokemon that resembles a classic fish but has unique abilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, expressive eyes",
+      "Prominent fins",
+      "Distinctive splash pattern"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Timid"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Weak, relies on evolution"
+  },
+  "image_path": "images/Magikarp/2.png",
+  "pokemon_name": "Magikarp"
+}

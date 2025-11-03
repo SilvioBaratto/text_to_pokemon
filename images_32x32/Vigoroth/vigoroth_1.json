@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bipedal Pokemon with a fluffy white body and a striking red face.",
+    "Show me an energetic Normal-type Pokemon with a playful demeanor and a wild appearance.",
+    "Design a medium-sized creature that thrives in forest habitats and has a unique fur pattern.",
+    "Generate a Pokemon that features a vivid red marking and a strong, agile physique.",
+    "Imagine a Pokemon that embodies both mischief and strength, with a distinctive color palette.",
+    "Give me a creature that combines a fluffy body with sharp claws and a fierce expression.",
+    "Make a Pokemon with a wild appearance and a knack for climbing trees in vast grasslands."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Red",
+      "accent": "Brown"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Fluffy white fur",
+      "Red face and hands",
+      "Strong muscular build",
+      "Long arms",
+      "Pointed ears"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Playful",
+      "Mischievous"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Vigoroth/1.png",
+  "pokemon_name": "Vigoroth"
+}

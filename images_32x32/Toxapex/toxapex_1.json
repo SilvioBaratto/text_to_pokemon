@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a spiky shell and vibrant blue colors.",
+    "Show me an aquatic creature that's primarily purple with blue accents.",
+    "Imagine a Pokemon that resembles a sea creature with unique defensive features.",
+    "Design a Pokemon that has a bulky shape, perfect for underwater battles.",
+    "Generate a creature with a combination of dangerous spikes and alluring colors.",
+    "Make a Pokemon that thrives in oceanic environments and has a menacing appearance.",
+    "Give me a Pokemon that embodies both beauty and danger in its design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Blue",
+      "accent": "Pink"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Spiky exterior",
+      "Dual-layered shell",
+      "Tentacle-like appendages",
+      "Brightly colored patterns"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Poison",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Defensive",
+      "Cautious",
+      "Strategic"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Toxapex/1.png",
+  "pokemon_name": "Toxapex"
+}

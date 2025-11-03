@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bipedal Pokemon with long ears and soft fur, emphasizing agility and charm.",
+    "Show me a playful rabbit-like creature that excels in agility and quick movements.",
+    "Imagine a fluffy Pokemon with a sleek build, capable of both speed and elegance.",
+    "Generate a graceful creature that can leap high, with a color palette of light brown and cream.",
+    "Design a Pokemon that embodies a mix of elegance and playfulness, with striking features.",
+    "Make a cute but fierce Pokemon with long ears, showcasing its ability to dodge attacks.",
+    "Give me a design of a bipedal Pokemon with a stylish appearance and a knack for battling."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long ears",
+      "Fluffy fur",
+      "Powerful legs",
+      "Stylish posture",
+      "Distinctive tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Fighting",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Agile",
+      "Charming"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Speed-oriented"
+  },
+  "image_path": "images/Lopunny/1.png",
+  "pokemon_name": "Lopunny"
+}

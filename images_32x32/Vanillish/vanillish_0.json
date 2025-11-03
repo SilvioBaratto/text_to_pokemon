@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create an icy Pokemon that resembles a cute snow cone with a smiling face.",
+    "Imagine a Pokemon that looks like a floating ice cream dessert, with a chilly vibe.",
+    "Design a whimsical Pokemon with features inspired by frost and snow, perfect for winter battles.",
+    "Show me a Pokemon that embodies the spirit of winter, with frosty colors and a friendly demeanor.",
+    "Generate a Pokemon that appears as if made from ice, featuring cheerful expressions and snowy textures.",
+    "Make a Pokemon that combines elements of ice and dessert, showcasing a playful personality.",
+    "Give me a Pokemon that floats gracefully, resembling a sweet treat made of ice and snow."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Icicle-like protrusions",
+      "Cheerful face",
+      "Frosty texture",
+      "Cloud-like base",
+      "Floating appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Cheerful"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Vanillish/0.png",
+  "pokemon_name": "Vanillish"
+}

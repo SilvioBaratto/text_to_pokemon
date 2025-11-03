@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a mystical Pokemon that can change form and uses sound in battle.",
+    "I want a Pokemon with a graceful appearance and a musical theme.",
+    "Generate a whimsical creature that embodies both beauty and mystery.",
+    "Make a Pokemon that has a unique blend of colors and an elegant design.",
+    "Imagine a Pokemon that dances in the moonlight and enchants its foes.",
+    "Design a creature that harmonizes with nature and has a calm demeanor.",
+    "Show me a Pokemon that can manipulate sound waves and has a slender body."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "White"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Brown",
+      "accent": "White"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Musical notes around its body",
+      "Unique hat-like structure",
+      "Long slender arms",
+      "Facial markings",
+      "Elongated body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Psychic",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": true,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Elegant",
+      "Playful",
+      "Mysterious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Meloetta/1.png",
+  "pokemon_name": "Meloetta"
+}

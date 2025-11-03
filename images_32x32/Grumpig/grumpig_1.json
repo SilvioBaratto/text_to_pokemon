@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a Psychic-type Pokemon that has a plush, round body and a playful demeanor.",
+    "Show me a whimsical creature with a lavender belly and gray fur, perfect for a forest setting.",
+    "Imagine a medium-sized Pokemon that dances joyfully, with pink accents and big ears.",
+    "Generate a bipedal Pokemon that loves to use psychic powers to entertain people.",
+    "Make a unique Pokemon design featuring a mix of gray and purple, known for its joyful personality.",
+    "Give me a playful, round-bodied Pokemon that thrives in grasslands and urban areas.",
+    "Design a charming Pokemon that captivates with its gentle movements and vibrant colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Purple",
+      "accent": "Pink"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Round body shape",
+      "Large ears",
+      "Curly tail",
+      "Pink belly",
+      "Bright eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Joyful",
+      "Friendly"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Uncommon",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Grumpig/1.png",
+  "pokemon_name": "Grumpig"
+}

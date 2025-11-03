@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that changes with the weather and has a playful personality.",
+    "I want a cute, amorphous Pokemon that can transform based on its environment.",
+    "Generate a tiny Pokemon with a round body and cloud-like features that loves the rain.",
+    "Make a weather-themed Pokemon with a soft, gray appearance and a cheerful demeanor.",
+    "Imagine a small, shapeshifting creature that embodies the essence of different weather types.",
+    "Design a unique Pokemon that reflects the four seasons through its visual traits and colors.",
+    "Show me a weather-based Pokemon that has a gentle personality and enjoys sunny days."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round body shape",
+      "Small size",
+      "Soft, cloud-like appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Water",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Adaptable"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Castform/0.png",
+  "pokemon_name": "Castform"
+}

@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a small, furry Pokemon that digs through snow and ice.",
+    "Imagine a Pokemon resembling a cozy, brown creature with a round body and cute markings.",
+    "Generate a Pokemon with a powerful sense of smell, living in cold, mountainous regions.",
+    "Design a Pokemon with a unique ability to sense vibrations in the ground.",
+    "Show me a Pokemon that thrives in snowy habitats and has a playful personality.",
+    "Make a Pokemon that resembles a small, mammoth-like creature with soft fur and tiny eyes.",
+    "I want a Pokemon that loves to burrow in the snow and has unique brown stripes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Pink"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": "Pink"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Rounded, soft body shape",
+      "Brown stripes across the back",
+      "Small, pink circular marking on the side",
+      "Short, stout legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": "Ground",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Tundra",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Swinub/1.png",
+  "pokemon_name": "Swinub"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon with an elegant design and a bow and arrow theme.",
+    "Show me a majestic bird Pokemon that combines agility with stealthy hunting skills.",
+    "Imagine a Pokemon that embodies the spirit of nature, with leafy wings and a calm demeanor.",
+    "Generate a Pokemon that blends in with forest environments, featuring earthy colors and a wise look.",
+    "Design a Pokemon that masters both archery and flight, displaying a unique feathered appearance.",
+    "Make a Pokemon that resembles an owl but with a more humanoid posture and a fierce gaze.",
+    "Give me a Pokemon that represents the balance between ghostly elegance and natural beauty."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Feathered body",
+      "Hooded head",
+      "Archer-like posture",
+      "Leafy wings",
+      "Tail resembling an arrow"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Ghost",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Wise",
+      "Stealthy"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Ranged"
+  },
+  "image_path": "images/Decidueye/2.png",
+  "pokemon_name": "Decidueye"
+}

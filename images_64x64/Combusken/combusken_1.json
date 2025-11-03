@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a fiery bird Pokemon with a vibrant orange body and striking yellow accents.",
+    "I want to see a Pokemon that embodies the spirit of a fighter, with bright colors and dynamic poses.",
+    "Generate a middle evolution fire-type Pokemon that features a unique blend of yellow and orange.",
+    "Make an energetic Pokemon that showcases its fierce fighting style through its distinct colors and shape.",
+    "Imagine a bipedal Pokemon with fiery feathers and a strong stance, ready for battle.",
+    "Design a Pokemon that has a playful yet determined personality, represented through its color scheme.",
+    "Show me a vibrant fire-type Pokemon that combines both agility and strength in its appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": null,
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Feathered crest on the head",
+      "Prominent yellow legs",
+      "Flame-like tail",
+      "Strong arms for combat"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Fighting",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Determined",
+      "Playful"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Close-range fighter"
+  },
+  "image_path": "images/Combusken/1.png",
+  "pokemon_name": "Combusken"
+}

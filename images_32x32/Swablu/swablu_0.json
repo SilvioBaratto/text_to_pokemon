@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a flying-type Pokemon with fluffy clouds as wings and a cheerful demeanor.",
+    "Generate a small, aqua-colored Pokemon that resembles a bird and loves to soar in the sky.",
+    "Imagine a cute Pokemon with light blue feathers and a soft, fluffy appearance.",
+    "Design a Pokemon that embodies the essence of a clear blue sky and playful clouds.",
+    "Show me a bird-like Pokemon with striking blue colors and a friendly personality.",
+    "Make a Pokemon that has a light and airy feel, perfect for gliding through grassy fields.",
+    "Give me a whimsical Pokemon that has both wings and a charming, fluffy body."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy cloud-like wings",
+      "Round body shape",
+      "Bright blue feathers",
+      "Big, expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Gentle"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Swablu/0.png",
+  "pokemon_name": "Swablu"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a cute Normal-type Pokemon that loves to eat and sleep.",
+    "Show me a small, fluffy creature with a round body and big eyes.",
+    "Imagine a playful Pokemon that roams around forests and grasslands.",
+    "Design a chubby Pokemon that has a blue and gray color scheme.",
+    "Give me a Munchlax that embodies the essence of relaxation and food.",
+    "Generate a friendly Pokemon with a laid-back personality and sweet tooth.",
+    "Make a round Pokemon that is always on the lookout for snacks."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Gray"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": "Gray"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body",
+      "Large, expressive eyes",
+      "Wide mouth with a small tongue",
+      "Short limbs",
+      "Ears resembling small triangles"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Laid-back",
+      "Gluttonous",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Munchlax/0.png",
+  "pokemon_name": "Munchlax"
+}

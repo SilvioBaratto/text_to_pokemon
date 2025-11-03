@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create an ice-type Pokemon with a sleek body and powerful wings.",
+    "Imagine a legendary creature that embodies the power of ice and frost.",
+    "Design a mythical Pokemon that can manipulate the weather with its icy breath.",
+    "Generate an elegant dragon-type that thrives in snowy mountains.",
+    "Show me a fierce Pokemon with shimmering blue and white scales.",
+    "Make a majestic creature that can freeze its opponents in battle.",
+    "Give me a legendary Pokemon that roams the tundras and glacial caves."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Gray",
+      "accent": "Blue"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Long, sharp wings",
+      "Sleek, streamlined body",
+      "Frosty patterns on its skin",
+      "Prominent icicle-like spikes",
+      "Blue accents resembling ice"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": "Dragon",
+    "generation": 5,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Resilient",
+      "Noble"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Special Attack"
+  },
+  "image_path": "images/Kyurem/2.png",
+  "pokemon_name": "Kyurem"
+}

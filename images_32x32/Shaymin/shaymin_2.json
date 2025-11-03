@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon that embodies the spirit of nature with vibrant colors and floral accents.",
+    "Imagine a small, fluffy Pokemon that thrives in lush forests and has a gentle demeanor.",
+    "Design a grass-type Pokemon with a unique hedgehog-like appearance and vibrant green foliage.",
+    "Show me a cute Pokemon with a pink flower on its back, perfect for a peaceful garden setting.",
+    "Generate a legendary Pokemon that can control the seasons, featuring a mix of green and pink hues.",
+    "Make a Pokemon that represents growth and renewal, with a soft and inviting appearance.",
+    "Give me a concept for a Pokemon that can blend into its forest surroundings and has healing abilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy green foliage",
+      "Pink flower on the back",
+      "Hedgehog-like body shape",
+      "Small, rounded ears",
+      "Expressive, cute face"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Flying",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": true,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Playful",
+      "Joyful"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Shaymin/2.png",
+  "pokemon_name": "Shaymin"
+}

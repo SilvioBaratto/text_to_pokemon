@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a bug with plant-like features and a green color scheme.",
+    "I want a whimsical creature that has a mix of floral and insect characteristics, perfect for forest habitats.",
+    "Generate a Pokemon that embodies the essence of nature with leafy wings and a sturdy body.",
+    "Make a charming bug-type Pokemon with a vibrant green appearance and unique floral traits.",
+    "Imagine a Pokemon that blends in with its grassy surroundings, showcasing both insect and plant features.",
+    "Design a Pokemon that looks like a small bush with a hidden insect within, thriving in forests.",
+    "Show me a nature-inspired Pokemon that has a strong connection to grasslands and trees."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Gray",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Leafy appendages",
+      "Insect-like body",
+      "Sturdy structure",
+      "Gray stem-like protrusion"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Grass",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Adaptable",
+      "Resourceful",
+      "Protective"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Wormadam/0.png",
+  "pokemon_name": "Wormadam"
+}

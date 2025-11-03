@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that resembles a haunted doll with a mischievous expression.",
+    "Imagine a spooky Pokemon with a tattered body and glowing red eyes, perfect for Halloween.",
+    "Show me a Pokemon that steals away the shadows, featuring a dark and eerie design.",
+    "Generate a ghostly figure with a playful personality, swinging a bell or toy.",
+    "Design a haunted doll-like creature with a sinister grin and flowing ghostly fabric.",
+    "Make a Pokemon that embodies the spirit of mischief, with a unique silhouette and haunting features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Tattered fabric",
+      "Glowing red eyes",
+      "Sinister grin",
+      "Bell-shaped appendage",
+      "Shadowy silhouette"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Eerie"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attack"
+  },
+  "image_path": "images/Banette/0.png",
+  "pokemon_name": "Banette"
+}

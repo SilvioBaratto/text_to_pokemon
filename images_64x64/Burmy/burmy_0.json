@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon that resembles a bush with a hidden rock.",
+    "Imagine a small Pokemon with a leafy exterior and a stone-like head.",
+    "Generate a creature that blends in with its forest surroundings, featuring green leaves.",
+    "Show me a Pokemon that looks like a pile of leaves with a stone top.",
+    "Design a Pokemon that could camouflage itself in the grass or forest.",
+    "Give me a Pokemon that has a rocky feature combined with leafy colors.",
+    "Make a nature-inspired Pokemon that is small, bushy, and has yellow eyes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Gray",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Rocky head",
+      "Leafy body",
+      "Yellow eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Grass",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Camouflaging",
+      "Adaptable",
+      "Nature-loving"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Burmy/0.png",
+  "pokemon_name": "Burmy"
+}

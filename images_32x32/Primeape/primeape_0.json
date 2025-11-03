@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bipedal Pokemon with powerful arms and a tough exterior for an urban environment.",
+    "I want a fighting-type Pokemon that excels in physical combat and has a mischievous personality.",
+    "Generate a Pokemon that embodies the spirit of a scrappy fighter, with unique traits and colors.",
+    "Make a medium-sized Pokemon with a muscular build and distinct features for battles in forests.",
+    "Imagine a fierce but playful Pokemon that thrives in mountainous habitats and loves to spar.",
+    "Design a Pokemon that showcases an aggressive stance with notable movement and color patterns.",
+    "Give me a detailed concept for a Pokemon skilled in both martial arts and urban survival."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Muscular arms",
+      "Angry expression",
+      "Fur texture",
+      "Distinctive tail",
+      "Gloves on hands"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Playful",
+      "Mischievous"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Primeape/0.png",
+  "pokemon_name": "Primeape"
+}

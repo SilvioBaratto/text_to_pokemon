@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a lava-themed Pokemon that resembles a slug and has a hot, fiery appearance.",
+    "I want a creature that combines fire and rock elements, with a unique shell on its back.",
+    "Generate a Pokemon that emits steam and has a molten body, showcasing bright colors.",
+    "Make a creature that can thrive in volcanic areas, featuring a gooey, sludgy texture.",
+    "Imagine a Pokemon that has a playful personality yet is made of hot magma and rocks.",
+    "Design a fire-type Pokemon with a cute face and a rocky, shell-like structure.",
+    "Show me a Pokemon that can blend in with flames and rocky terrains, with vibrant colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Blue",
+      "accent": "Orange"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Molten lava-like appearance",
+      "Shell resembling a rock",
+      "Large expressive eyes",
+      "Sluggish body movement",
+      "Emitting steam or smoke"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Rock",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Lazy",
+      "Protective"
+    ],
+    "habitat": "Cave",
+    "rarity": "Uncommon",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Magcargo/2.png",
+  "pokemon_name": "Magcargo"
+}

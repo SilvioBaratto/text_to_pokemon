@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a mesmerizing blue hue and a round body that glows.",
+    "Show me a steel-type Pokemon that resembles a floating disc with mystical symbols on its surface.",
+    "Imagine a unique Pokemon that has a dreamy personality and is often found in ancient ruins.",
+    "Generate a small, circular Pokemon with shiny eyes and a peaceful aura, perfect for a tranquil environment.",
+    "Make a Pokemon that embodies tranquility and is known to float silently in caves and forests.",
+    "Design a Pokemon with an intriguing backstory, often associated with ancient myths and legends.",
+    "Give me a whimsical Pokemon that has a friendly demeanor and can be spotted in urban settings."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Gray"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round disc shape",
+      "Two yellow eyes",
+      "Floating appearance",
+      "Metallic texture",
+      "Circular patterns"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Psychic",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Mysterious",
+      "Intelligent"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Bronzor/0.png",
+  "pokemon_name": "Bronzor"
+}

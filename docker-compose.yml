@@ -1,0 +1,19 @@
+services:
+  mnist-generator:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: text-to-image-mnist:latest
+    container_name: mnist-generator
+    volumes:
+      # Mount directories to persist data between runs
+      - ./checkpoints:/app/checkpoints
+      - ./outputs:/app/outputs
+      - ./data:/app/data
+    environment:
+      - PYTHONUNBUFFERED=1
+    # Override default command - examples below:
+    # Train: docker-compose run mnist-generator python src/train.py
+    # Generate: docker-compose run mnist-generator python main.py "Print number 5"
+    stdin_open: true
+    tty: true

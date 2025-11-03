@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a unique geometric shape and a mystical aura.",
+    "Imagine a small, ancient-looking Pokemon that resembles a toy with a magical glow.",
+    "Generate a Pokemon design inspired by ancient artifacts, featuring a swirling body and psychic powers.",
+    "Show me a Psychic Pokemon that looks like it's from an ancient civilization with a simple design.",
+    "Make a Pokemon that embodies the spirit of ancient relics, with a quirky and playful demeanor.",
+    "Design a creature with a round body and arms resembling a toy, evoking a sense of wonder.",
+    "Give me a Pokemon that combines elements of ancient toys with psychic abilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Red"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": "Red"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Geometric shape",
+      "Red bands around the body",
+      "Round head",
+      "Curved arms",
+      "Spherical body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Mysterious"
+    ],
+    "habitat": "Desert",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Baltoy/0.png",
+  "pokemon_name": "Baltoy"
+}

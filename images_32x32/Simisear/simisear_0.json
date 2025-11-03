@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a playful fire-type Pokemon that loves to dance and has a vibrant orange fur.",
+    "Generate a character that embodies the spirit of adventure with fiery powers and a cute face.",
+    "Imagine a mischievous monkey Pokemon with a fiery personality and a unique style.",
+    "Show me a Pokemon that combines a love for fire and an energetic demeanor in its design.",
+    "Make a unique Pokemon that has a wild appearance and excels in fiery battles.",
+    "Design a fire-themed Pokemon that radiates warmth and has sweet, expressive eyes.",
+    "Give me an illustration of a spunky fire-type Pokemon with a charming smile and a bold attitude."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Orange",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Brown",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flame-like tuft of hair on top of the head",
+      "Large ears with yellow accents",
+      "Long, curly tail resembling fire",
+      "Expressive face with a playful smile",
+      "Hands with three fingers"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Energetic"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Simisear/0.png",
+  "pokemon_name": "Simisear"
+}

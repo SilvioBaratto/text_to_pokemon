@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a serpentine body and elegant fins.",
+    "Show me a dragon Pokemon that thrives in ocean environments and has a unique blue color.",
+    "Imagine a Pokemon that combines aquatic and dragon features with a striking orange underbelly.",
+    "Generate a Pokemon that has a calm demeanor, resembles a sea horse, and has blue scales.",
+    "Design a winged water Pokemon with a majestic appearance and flowing fins.",
+    "Make a Pokemon that looks like a mythical sea creature, featuring shades of blue and white.",
+    "Give me a Pokemon that is both elegant and powerful, with distinctive fins and a royal look."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long serpentine body",
+      "Fins resembling wings",
+      "Prominent dorsal fins",
+      "Orange underbelly",
+      "Curved snout"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Dragon",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Elegant",
+      "Mysterious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Kingdra/0.png",
+  "pokemon_name": "Kingdra"
+}

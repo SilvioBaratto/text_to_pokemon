@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a purple Pokemon that has a blob-like appearance and is found in wetlands.",
+    "I want a Pokemon that looks like a gelatinous creature with a distinctive yellow feature.",
+    "Generate a Pokemon that resembles a large amorphous being with a playful personality.",
+    "Make a unique Poison-type Pokemon that has a large, squishy body and dark markings.",
+    "Imagine a Pokemon with a soft, rounded shape that thrives in grasslands and forests.",
+    "Design a creature that is both cute and intimidating, with a strong affinity for urban environments.",
+    "Give me a Pokemon that embodies the color purple and has a unique ability related to its shape."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Blob-like body",
+      "Yellow tentacle-like features",
+      "Diamond-shaped markings",
+      "Large, expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Gluttonous"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Swalot/0.png",
+  "pokemon_name": "Swalot"
+}

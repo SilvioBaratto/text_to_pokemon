@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a volcanic Pokemon that resembles a camel with lava on its back.",
+    "Design a Pokemon with a sturdy body and fiery features for a desert environment.",
+    "Show me a creature that embodies both fire and earth with a unique evolutionary design.",
+    "Imagine a Pokemon with a bulky physique and two large volcano-like structures on its back.",
+    "Generate a Pokemon that thrives in hot climates, with a distinct reddish hue and stone-like features.",
+    "Make a Pokemon that can withstand extreme heat, featuring a robust body and fiery accents.",
+    "Give me a creature that represents the power of magma and earth combined in one unique form."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Brown",
+      "accent": "Gray"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Two volcano-like structures on back",
+      "Short legs",
+      "Large, rounded body",
+      "Flame-like patterns on the body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Ground",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Stubborn",
+      "Loyal",
+      "Intense"
+    ],
+    "habitat": "Desert",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Camerupt/0.png",
+  "pokemon_name": "Camerupt"
+}

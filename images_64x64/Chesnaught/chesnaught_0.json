@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bipedal Pokemon that has a strong resemblance to a knight with a green and brown color scheme.",
+    "Imagine a Pokemon that is a protector of the forest, featuring armor-like spikes and large leafy wings.",
+    "Generate a Pokemon that embodies resilience, with a shell-like body and a nature-inspired design.",
+    "Design a Pokemon that uses its shield-like features in battle, showcasing vibrant green and earthy tones.",
+    "Show me a Pokemon that combines the strength of a warrior with the gentleness of nature, having a unique color palette.",
+    "Make a Pokemon that thrives in forest environments and has a mix of defensive and offensive capabilities.",
+    "Give me a Pokemon that can evolve into a powerful protector with an impressive stature and fierce appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Armor-like shell",
+      "Leafy spikes on shoulders",
+      "Large, clawed hands",
+      "Prominent facial features resembling a helmet"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Fighting",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Protective",
+      "Loyal",
+      "Resilient"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive and strategic"
+  },
+  "image_path": "images/Chesnaught/0.png",
+  "pokemon_name": "Chesnaught"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a flying-type Pokemon with dark purple scales and sharp spikes along its back.",
+    "Imagine a prehistoric dragon Pokemon that soars above mountains with incredible speed.",
+    "Show me a fierce Pokemon that has a fierce gaze and a menacing grin.",
+    "Generate a creature that combines the traits of a bat and a dinosaur.",
+    "Design a Pokemon that can thrive in both urban environments and ancient caves.",
+    "Make a creature that has a large wingspan and agile movements in the air.",
+    "Give me a Pokemon that embodies speed and agility, perfect for aerial battles."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Prominent fangs",
+      "Large wings",
+      "Spiky back",
+      "Pointed tail",
+      "Sharp claws"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Predatory",
+      "Cunning"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Aerial Attacker"
+  },
+  "image_path": "images/Aerodactyl/1.png",
+  "pokemon_name": "Aerodactyl"
+}

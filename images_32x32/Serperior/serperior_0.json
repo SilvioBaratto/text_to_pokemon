@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a serpentine Pokemon with leafy patterns and a majestic crown.",
+    "Imagine a grass-type Pokemon that blends seamlessly into its forest habitat.",
+    "Generate a Pokemon with shimmering green scales and a regal appearance.",
+    "Show me a snake-like creature that commands respect in battles.",
+    "Design a Pokemon that embodies elegance and cunning, perfect for stealth.",
+    "Give me a grass-type Pokemon with vibrant colors and a unique design.",
+    "Make a Pokemon that resembles a mythical serpent from ancient legends."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Crowned head",
+      "Long, slender body",
+      "Leaf-like patterns",
+      "Elegant posture",
+      "Tail that resembles a leaf"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Proud",
+      "Cunning",
+      "Regal"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Strategic"
+  },
+  "image_path": "images/Serperior/0.png",
+  "pokemon_name": "Serperior"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon that resembles a futuristic gadget with a sleek design.",
+    "Imagine a ghostly Pokemon that can change form based on its environment and mood.",
+    "Show me a Pokemon that combines mechanical elements with a vibrant color palette.",
+    "Design a Pokemon that embodies both technology and nature, with unique features.",
+    "Generate a water-type Pokemon with a playful personality and a bright blue body.",
+    "Make a mythical creature that can manipulate electronics and has a mischievous side.",
+    "Give me a legendary Pokemon that travels through urban landscapes, leaving traces of energy."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Electric blue eyes",
+      "Two prominent appendages resembling limbs",
+      "A central white area that resembles a screen",
+      "Sharp, pointed top resembling an antenna",
+      "Sleek, rounded body design"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Ghost",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Curious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Rotom/3.png",
+  "pokemon_name": "Rotom"
+}

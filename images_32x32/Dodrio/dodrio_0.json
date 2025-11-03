@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bird-like Pokemon with three heads and a vibrant feather display.",
+    "Generate a Pokemon inspired by the desert with a unique triplet feature.",
+    "Imagine a flying type Pokemon that has an energetic and lively personality.",
+    "Design a Pokemon that resembles a large bird, with a striking color combination.",
+    "Show me a Pokemon that can be found in grasslands and has a playful nature.",
+    "Give me a concept for a Pokemon that excels in aerial battles with speed.",
+    "Make a Pokemon with a distinctive three-headed appearance and a playful demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Pink"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": "Pink"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Three heads",
+      "Long legs",
+      "Feathered tail",
+      "Large wings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Fast and agile"
+  },
+  "image_path": "images/Dodrio/0.png",
+  "pokemon_name": "Dodrio"
+}

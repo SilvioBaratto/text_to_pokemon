@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a fluffy Pokemon that resembles a sheep with a friendly expression and soft white fur.",
+    "Imagine a cute Normal-type Pokemon with round body and adorable face perfect for a children's game.",
+    "Generate a Pokemon that has a woolly appearance, grey hooves, and is often found in grassy areas.",
+    "Show me a cuddly, small Pokemon that loves to roam in the fields and has a playful personality.",
+    "Design a gentle Pokemon that embodies the essence of a peaceful pasture with its soft, white coat.",
+    "Make a Pokemon that looks like a cloud with small legs and a cheerful demeanor, perfect for trainers.",
+    "I want a Pokemon that is known for its calm nature and is often seen grazing happily in the meadows."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White"
+    ],
+    "secondary_colors": [
+      "Gray",
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Gray",
+      "accent": "Brown"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy white wool",
+      "Small gray hooves",
+      "Round body shape",
+      "Big, friendly eyes",
+      "Short, stubby legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Playful",
+      "Friendly"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Wooloo/1.png",
+  "pokemon_name": "Wooloo"
+}

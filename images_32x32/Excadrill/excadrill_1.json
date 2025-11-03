@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a dual-type Pokemon that can burrow underground and has sharp claws.",
+    "I want a Pokemon that has a sleek design, combining steel and ground elements.",
+    "Generate a creature that resembles a drill with metallic features and a tough exterior.",
+    "Make a Pokemon that thrives in caves and can quickly dig through earth and rock.",
+    "Imagine a Pokemon that is both fierce and agile, with a dark color palette and spiky features.",
+    "Design a Pokemon that embodies the essence of excavation and has a bold presence.",
+    "Give me a Pokemon that has a mix of dark and steel tones, showcasing its powerful digging abilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Red",
+      "accent": "Gray"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Sharp metallic claws",
+      "Large drill-like head",
+      "Armored body",
+      "Red markings on the sides",
+      "Pointed ears"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": "Steel",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Hardworking",
+      "Resourceful"
+    ],
+    "habitat": "Cave",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Excadrill/1.png",
+  "pokemon_name": "Excadrill"
+}

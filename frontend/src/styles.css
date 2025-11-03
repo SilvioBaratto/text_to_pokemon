@@ -1,0 +1,81 @@
+/* You can add global styles to this file, and also import other style files */
+@import "tailwindcss";
+
+/* Custom animations for Pokemon evolution effect */
+@keyframes evolution {
+  0% {
+    opacity: 0;
+    transform: scale(0.5);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.1);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes evolving {
+  0%, 100% {
+    opacity: 0.7;
+    transform: scale(0.95);
+    filter: brightness(1.2);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.05);
+    filter: brightness(1.5);
+  }
+}
+
+@keyframes sparkle {
+  0%, 100% {
+    opacity: 0;
+    transform: scale(0);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.5);
+  }
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+}
+
+.animate-evolution {
+  animation: evolution 1s ease-out forwards;
+}
+
+.animate-evolving {
+  animation: evolving 0.8s ease-in-out infinite;
+}
+
+.animate-sparkle {
+  animation: sparkle 1.5s ease-in-out infinite;
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+  }
+}
+
+/* Ensure full height for root elements */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}

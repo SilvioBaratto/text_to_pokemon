@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a cute Grass-type Pokemon that resembles a small goat with green foliage.",
+    "Design a Pokemon that embodies the essence of nature, with a sturdy body and playful demeanor.",
+    "Show me a Pokemon that thrives in forests, featuring a mix of brown and green colors.",
+    "Make a Pokemon with a friendly personality and a connection to mountains and grasslands.",
+    "Imagine a Pokemon that has a gentle appearance but can be surprisingly resilient in battles.",
+    "Generate a Pokemon that looks like a small, furry creature, perfect for a starter team.",
+    "Give me a visual concept of a quadruped Pokemon with distinctive leafy accents."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Green"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": "Green"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Leafy green scarf-like collar",
+      "Hooves resembling small feet",
+      "Small horns on the head",
+      "Furry body texture",
+      "Friendly facial expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Gentle",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Skiddo/1.png",
+  "pokemon_name": "Skiddo"
+}

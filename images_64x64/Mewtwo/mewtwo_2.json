@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with sleek, purple features and a mysterious aura.",
+    "Imagine a powerful legendary creature with telekinetic abilities and a unique tail design.",
+    "Design a bipedal Pokemon that embodies intelligence and grace with its distinctive purple hue.",
+    "Show me a mythical Pokemon that has a combination of strength and elegance in its posture.",
+    "Generate an image of a psychic Pokemon with an elongated tail and smooth, white skin.",
+    "Make a legendary Pokemon that stands out with its unique color palette and psychic powers.",
+    "Give me a concept for a Pokemon that merges its psychic abilities with a striking appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "White"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "White",
+      "accent": "Pink"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Elongated tail",
+      "Large pointed ears",
+      "Mewtwo's distinctive facial structure",
+      "Smooth and sleek body",
+      "Fingers with three digits"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Calm",
+      "Strong"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Strategic and powerful"
+  },
+  "image_path": "images/Mewtwo/2.png",
+  "pokemon_name": "Mewtwo"
+}

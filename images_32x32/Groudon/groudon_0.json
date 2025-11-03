@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a legendary Pokemon with a fiery red body and sharp claws.",
+    "Show me a massive creature that can control the earth with its powerful presence.",
+    "Design a Pokemon that looks fierce, with a rugged exterior and imposing stature.",
+    "Imagine a red and brown behemoth that thrives in arid regions.",
+    "Generate a Pokemon that embodies the essence of land and fire in its design.",
+    "Give me a powerful creature with a volcanic theme and a robust build.",
+    "Make a Pokemon with a majestic appearance, featuring a strong connection to the earth."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Brown",
+      "accent": "Gray"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Huge",
+    "distinctive_features": [
+      "Large, jagged claws",
+      "Spiky back",
+      "Robust build",
+      "Intimidating facial structure",
+      "Volcanic motif"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": "Fire",
+    "generation": 3,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Dominant",
+      "Protective"
+    ],
+    "habitat": "Desert",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Groudon/0.png",
+  "pokemon_name": "Groudon"
+}

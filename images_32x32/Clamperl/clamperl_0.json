@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a shiny blue shell and a pink pearl on its head.",
+    "I want to design a cute aquatic Pokemon that has a round body and soft features.",
+    "Generate a Pokemon that resembles a clam with a vibrant color scheme and unique patterns.",
+    "Make a small, adorable Pokemon that lives in the sea and has a playful personality.",
+    "Imagine a Pokemon that can camouflage itself in its environment, perfect for ocean habitats.",
+    "Show me a clam-like Pokemon with a whimsical design and bright colors that draw attention.",
+    "Give me a concept for a dual-type Pokemon that combines water and fairy elements."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": "Pink"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Rounded shell",
+      "Pink pearl",
+      "Soft, smooth body",
+      "Curved edges",
+      "Distinctive opening"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Gentle"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Clamperl/0.png",
+  "pokemon_name": "Clamperl"
+}

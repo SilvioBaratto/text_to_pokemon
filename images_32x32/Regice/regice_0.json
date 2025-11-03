@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create an ice-type Pokemon with a crystalline structure and a blue color scheme.",
+    "I want a legendary Pokemon that embodies the essence of glaciers and ice formations.",
+    "Generate a mythical creature that resembles a giant ice sculpture, with sharp edges and a frosty aura.",
+    "Make a Pokemon that looks like it's made of ice cubes, with a cool demeanor and a wintry vibe.",
+    "Imagine a Pokemon that is as cold as the arctic, with a glacial appearance and a serene personality.",
+    "Design a unique ice-type Pokemon that has a shimmering, frosty exterior and sharp, angular features.",
+    "Show me an ice creature that embodies the spirit of winter, with a majestic presence and icy blue tones."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Crystalline structure",
+      "Sharp ice-like edges",
+      "Frosty texture",
+      "Glacial appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Serene",
+      "Mysterious"
+    ],
+    "habitat": "Tundra",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Regice/0.png",
+  "pokemon_name": "Regice"
+}

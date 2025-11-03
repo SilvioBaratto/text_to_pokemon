@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon with a mischievous expression and a swirling, ethereal body.",
+    "Imagine a psychic Pokemon with vibrant colors and magical floating rings around it.",
+    "Design a mythical creature that can warp space and time with its power.",
+    "Generate a Pokemon that has a playful personality and loves to explore hidden realms.",
+    "Show me a legendary Pokemon that embodies the essence of mystery and magic.",
+    "Make a whimsical Pokemon with a unique shape and a captivating aura.",
+    "Give me a creature that blends colors in an enchanting way, representing its psychic abilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Black",
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Floating rings around its body",
+      "Pointed hat-like structure",
+      "Large, expressive eyes",
+      "Curved, whimsical arms",
+      "Black central core"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Ghost",
+    "generation": 6,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Trickster"
+  },
+  "image_path": "images/Hoopa/3.png",
+  "pokemon_name": "Hoopa"
+}

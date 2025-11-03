@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a mischievous poison-type Pokemon known for its sneaky habits and unique color pattern.",
+    "Generate a cute yet cunning Pokemon that thrives in urban environments and has a distinct smell.",
+    "Design a creature that resembles a skunk, combining elements of both dark and poison types.",
+    "Imagine a Pokemon that uses its noxious gas as a defense mechanism, adorned with purple and cream colors.",
+    "Give me a Pokemon that embodies stealth and cunning, perfect for a forest habitat with camouflage abilities.",
+    "Show me a small, quadrupedal Pokemon that blends into its surroundings and has a playful nature.",
+    "Make a Pokemon that is known for its trickster personality, often found in urban areas with a unique scent."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Skunk-like body shape",
+      "Prominent cream stripe on back",
+      "Pointed ears",
+      "Red eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": "Dark",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Mischievous",
+      "Playful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Stealth and surprise attacks"
+  },
+  "image_path": "images/Stunky/0.png",
+  "pokemon_name": "Stunky"
+}

@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a playful Pokemon that resembles a small dog with fluffy fur and a wagging tail.",
+    "Imagine a Pokemon that runs fast and is known for its loyalty and friendliness to trainers.",
+    "Design a Normal-type Pokemon that has a mix of brown and cream colors with bright eyes.",
+    "Generate a cute Pokemon that loves to explore urban areas and play with other Pokemon.",
+    "Show me a Pokemon that embodies the spirit of adventure and is always ready to help others.",
+    "Make a small quadruped Pokemon that has distinct floppy ears and a lively personality.",
+    "Give me a Pokemon that enjoys living in grassy areas and has a cheerful demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Fluffy fur",
+      "Large ears",
+      "Bright, expressive eyes",
+      "Short tail",
+      "Small stature"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Loyal",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Lillipup/1.png",
+  "pokemon_name": "Lillipup"
+}

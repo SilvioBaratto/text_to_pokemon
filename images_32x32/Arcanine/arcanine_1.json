@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a majestic fire-type Pokemon known for its agility and fiery mane.",
+    "Imagine a Pokemon resembling a dog, with bright orange fur and black stripes.",
+    "Show me a powerful Pokemon that embodies loyalty and strength in battle.",
+    "Generate a creature that roams the grasslands, blending seamlessly with its fiery colors.",
+    "Design a Pokemon with fierce eyes and a commanding presence, perfect for trainers.",
+    "Make a fire-type Pokemon that stands out with a unique flame pattern on its body.",
+    "Give me an image of a brave Pokemon that symbolizes courage and determination."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "White"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Fierce, bright orange fur",
+      "Black stripes across the body",
+      "Fluffy mane",
+      "Long, bushy tail",
+      "Sharp eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Loyal",
+      "Brave",
+      "Energetic"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Arcanine/1.png",
+  "pokemon_name": "Arcanine"
+}

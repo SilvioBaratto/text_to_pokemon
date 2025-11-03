@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon with a sturdy shell and a small body.",
+    "I want a Pokemon that resembles a prehistoric creature and has a protective armor.",
+    "Generate a Pokemon with a round shell and a cute, tiny body.",
+    "Make a Pokemon that is known for its defensive capabilities and ancient appearance.",
+    "Imagine a Pokemon that thrives in forested areas and has a unique shell.",
+    "Design a Pokemon with a blend of earthy colors and a sturdy build.",
+    "Give me a Pokemon that is inspired by ancient fossils and has a gentle nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": null,
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round gray shell on the head",
+      "Small, rounded body",
+      "Short limbs",
+      "Facial features resembling a small dinosaur"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Steel",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Protective",
+      "Calm"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Shieldon/0.png",
+  "pokemon_name": "Shieldon"
+}

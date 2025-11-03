@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a grassy deer Pokemon with large leafy antlers and a playful demeanor.",
+    "Imagine a Pokemon that thrives in lush forests and changes with the seasons.",
+    "Design a Normal-type Pokemon with brown fur and vibrant green foliage.",
+    "Show me a quadrupedal Pokemon that embodies the essence of nature and harmony.",
+    "Generate a Pokemon with a gentle personality, perfect for calming its surroundings.",
+    "Make a seasonal Pokemon that transitions through colors and features with each season.",
+    "Give me a unique Pokemon that represents the beauty and diversity of woodland creatures."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Green"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": "Green"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large leafy antlers",
+      "Brown fur",
+      "White belly",
+      "Hooved feet",
+      "Elegant posture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Grass",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Playful",
+      "Adaptable"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Sawsbuck/4.png",
+  "pokemon_name": "Sawsbuck"
+}

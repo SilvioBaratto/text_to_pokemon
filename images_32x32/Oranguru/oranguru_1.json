@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a monkey-like Pokemon with a playful personality and vibrant colors.",
+    "Show me a Pokemon featuring a large green leaf and a wise expression.",
+    "Imagine a Normal-type Pokemon that resembles a sage, complete with unique markings.",
+    "Generate a bipedal Pokemon with a mix of purple and gray tones and a friendly demeanor.",
+    "Design a creature that embodies forest wisdom, using shades of green and purple.",
+    "Give me a Pokemon that combines elements of elegance and intelligence, with a smooth body shape.",
+    "Make a Pokemon that enjoys the tranquility of forest habitats and has distinct facial features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Green",
+      "accent": "Gray"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large green leaf on head",
+      "Long arms",
+      "Facial markings",
+      "Thick fur",
+      "Expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Wise",
+      "Playful",
+      "Calm"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Oranguru/1.png",
+  "pokemon_name": "Oranguru"
+}

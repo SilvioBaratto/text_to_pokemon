@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a flying-type Pokemon with striking feathers and a confident demeanor.",
+    "I want a bird Pokemon that has a majestic wingspan and colorful plumage.",
+    "Generate a Pokemon resembling a large, elegant bird soaring through the skies.",
+    "Make a vibrant Pokemon with a sleek body design and a playful personality.",
+    "Imagine a powerful bird Pokemon that commands the skies with its impressive flight.",
+    "Design a graceful flying Pokemon that embodies freedom and agility in its movements.",
+    "Give me a Pokemon that looks like a regal bird with a unique color palette."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "White"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Brown",
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, pointed wings",
+      "Distinctive yellow crest",
+      "Tail feathers with a gradient"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Confident",
+      "Playful",
+      "Loyal"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Fast and agile aerial attacks"
+  },
+  "image_path": "images/Pidgeot/3.png",
+  "pokemon_name": "Pidgeot"
+}

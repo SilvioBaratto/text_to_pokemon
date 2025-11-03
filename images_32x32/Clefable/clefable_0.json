@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a fairy-type Pokemon that sparkles and has a charming smile.",
+    "I want a cute Pokemon with rounded features and soft colors.",
+    "Generate a whimsical creature that floats and has star-like details.",
+    "Make a Pokemon design that features pastel colors and adorable expressions.",
+    "Imagine a Pokemon that can spread happiness and has a fluffy appearance.",
+    "Design a creature with a magical aura and gentle demeanor.",
+    "Show me a character that embodies joy and has a playful stance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Curly tail",
+      "Large ears",
+      "Fluffy body",
+      "Small hands",
+      "Cheerful expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Gentle"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Clefable/0.png",
+  "pokemon_name": "Clefable"
+}

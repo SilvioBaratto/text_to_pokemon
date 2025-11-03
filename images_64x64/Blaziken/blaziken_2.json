@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a fierce fire-type Pokemon with a striking orange and yellow color scheme.",
+    "Show me a humanoid Pokemon that excels in combat, with blazing flames for feet.",
+    "Imagine a powerful Pokemon that combines agility and strength, featuring vibrant red hues.",
+    "Design a Pokemon that embodies speed and fire, with a striking muscular build.",
+    "Generate a Pokemon that thrives in mountainous regions, showcasing a fiery personality.",
+    "Make a fighter Pokemon with distinctive clawed hands and a dynamic stance.",
+    "Give me a Pokemon that represents the essence of fire and fighting types."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Yellow",
+      "accent": "Orange"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flame-like patterns on limbs",
+      "Muscular build",
+      "Clawed hands",
+      "Distinctive yellow feet",
+      "Crest on the head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Fighting",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Brave",
+      "Passionate",
+      "Determined"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Common",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Blaziken/2.png",
+  "pokemon_name": "Blaziken"
+}

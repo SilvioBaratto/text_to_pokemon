@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that has long, flowing fins and a sleek pink body.",
+    "Show me a Pokemon with a delicate appearance, featuring soft pastel colors and gentle movements.",
+    "Imagine a graceful Pokemon that thrives in the ocean, adorned with beautiful shades of pink and purple.",
+    "Design a unique aquatic creature with elegant shapes and intricate fins, perfect for deep-sea exploration.",
+    "Make a Pokemon that embodies the beauty of the sea, with a slender body and vibrant colors.",
+    "Generate a Pokemon that resembles a mythical sea creature, with a captivating form and enchanting colors.",
+    "Give me an illustration of a Pokemon that is both charming and elusive, with soft, flowing features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Purple",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long, flowing fins",
+      "Sleek, slender body",
+      "Delicate features",
+      "Large, expressive eyes",
+      "Curved tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Elusive",
+      "Graceful"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Gorebyss/1.png",
+  "pokemon_name": "Gorebyss"
+}

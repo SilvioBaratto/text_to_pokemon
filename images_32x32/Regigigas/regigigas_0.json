@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a giant humanoid Pokemon with a mix of mechanical and organic elements.",
+    "Imagine a Pokemon that embodies the spirit of ancient legends and has powerful arms.",
+    "Generate a unique Pokemon with a strong presence, featuring a combination of colors and technological aspects.",
+    "Make a Pokemon that resembles a guardian of nature, integrating both earthy and metallic features.",
+    "Show me a colossal Pokemon that stands in forests, blending technology with natural elements.",
+    "Design a Pokemon that represents strength and wisdom, showcasing a vibrant color palette.",
+    "Give me a Pokemon with a distinctive humanoid shape, adorned with intricate patterns and colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "White"
+    ],
+    "secondary_colors": [
+      "Green",
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Green",
+      "accent": "White"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Huge",
+    "distinctive_features": [
+      "Large yellow arms with green accents",
+      "White torso with colorful buttons",
+      "Black striped legs",
+      "Absence of a head, with a broad torso"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Strong",
+      "Protective",
+      "Wise"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Regigigas/0.png",
+  "pokemon_name": "Regigigas"
+}

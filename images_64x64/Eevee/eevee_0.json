@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a cute evolution of Eevee that can harness the powers of the wind.",
+    "Design a water-type Pokemon that has a playful personality and fluffy fur.",
+    "Imagine a Pokemon that resembles Eevee but has vibrant colors and mythical abilities.",
+    "Show me an evolution of Eevee that thrives in urban environments and has tech-like features.",
+    "Make a Pokemon based on Eevee but with dragon-like scales and wings.",
+    "Generate a forest-themed Pokemon that has Eevee's base shape but with glowing patterns.",
+    "Give me a unique take on Eevee that incorporates elements of both fire and ice."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy collar",
+      "Large ears",
+      "Short, rounded tail",
+      "Big, expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Eevee/0.png",
+  "pokemon_name": "Eevee"
+}

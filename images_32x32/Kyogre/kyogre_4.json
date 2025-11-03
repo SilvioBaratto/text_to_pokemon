@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create an aquatic Pokemon with a majestic blue body and striking fins.",
+    "I want a legendary Pokemon that can control the ocean with its powerful presence.",
+    "Generate a water-type Pokemon with a sleek design and impressive size.",
+    "Make a mythical creature that lives in the depths of the sea, surrounded by mysteries.",
+    "Imagine a Pokemon with a deep blue color and unique traits that make it stand out.",
+    "Design a powerful water Pokemon that embodies the essence of the ocean.",
+    "Show me a Pokemon that represents the force of nature and the beauty of the sea."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": "White"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Streamlined body",
+      "Fins resembling wings",
+      "Distinctive markings on the body",
+      "Large tail",
+      "Prominent snout"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Majestic",
+      "Mysterious",
+      "Powerful"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Kyogre/4.png",
+  "pokemon_name": "Kyogre"
+}

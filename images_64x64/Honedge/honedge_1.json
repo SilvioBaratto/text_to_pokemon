@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a ghostly sword Pokemon with a blue ribbon and metallic accents.",
+    "I want a unique design for a steel-type Pokemon that resembles a weapon.",
+    "Generate an eerie ghost-type Pokemon that embodies chivalry and mystery.",
+    "Make a Pokemon that combines sword and spirit elements with a mystical aura.",
+    "Imagine a Pokemon with a sword body and a waving blue cloth resembling a cape.",
+    "Design a ghostly entity that appears as a sword, with an ethereal blue accent.",
+    "Give me a Pokemon that looks like a haunted sword with a flowing blue ribbon."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Sword-shaped body",
+      "Flowing blue ribbon",
+      "Golden hilt design",
+      "Ghostly presence"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Ghost",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Chivalrous",
+      "Loyal"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Honedge/1.png",
+  "pokemon_name": "Honedge"
+}

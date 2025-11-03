@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a snake-like Pokemon with striking colors and a menacing expression.",
+    "I want a Pokemon that can camouflage in the grass with vibrant patterns.",
+    "Generate a serpentine creature with an intimidating aura and colorful scales.",
+    "Make a unique poison-type Pokemon that has distinct facial markings and a long body.",
+    "Imagine a Pokemon that blends into its forest habitat while showcasing bright hues.",
+    "Design a fearsome Pokemon with smooth scales and a sinister grin.",
+    "Show me a Pokemon that embodies stealth and agility with elaborate color patterns."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Black",
+      "accent": "Red"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, sleek body",
+      "Distinctive hood shape",
+      "Intimidating facial markings",
+      "Vibrant color patterns",
+      "Narrow, forked tongue"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Stealthy",
+      "Aggressive"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Defensive and ambush tactics"
+  },
+  "image_path": "images/Arbok/1.png",
+  "pokemon_name": "Arbok"
+}

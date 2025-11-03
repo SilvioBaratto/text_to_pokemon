@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a cute Pokemon that embodies happiness and healing with a soft pink color.",
+    "Show me a round, friendly Pokemon with fluffy features and a nurturing personality.",
+    "Design a Pokemon that spreads joy and comfort, featuring a large egg-shaped body.",
+    "Imagine a Pokemon with gentle wings and a serene smile, perfect for supporting others.",
+    "Make a small, pink Pokemon that loves to help and heal its friends in nature.",
+    "Generate a Pokemon that radiates kindness and has a plump, adorable body.",
+    "Give me a Pokemon that symbolizes love and care, with a focus on healing abilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body",
+      "Fluffy appearance",
+      "Large ears",
+      "Gentle smile",
+      "Small wings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Fairy",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Caring",
+      "Gentle",
+      "Joyful"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Blissey/1.png",
+  "pokemon_name": "Blissey"
+}

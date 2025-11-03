@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a small deer with colorful flowers on its head.",
+    "Imagine a cute Pokemon that changes colors with the seasons and has a playful demeanor.",
+    "Design a fairy-type Pokemon with a pink and white color scheme and elegant features.",
+    "Generate an adorable quadruped Pokemon that thrives in grassy fields and has a gentle nature.",
+    "Show me a vibrant Pokemon that frolics in the forest with floral patterns on its body.",
+    "Make a Pokemon that looks like a deer and has a magical aura with seasonal changes.",
+    "Give me a description of a delightful Pokemon with a soft, friendly appearance and bright colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "White"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Flower crown on the head",
+      "Soft, rounded body shape",
+      "Large, expressive eyes",
+      "Fluffy tail",
+      "Elegant legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Grass",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Gentle",
+      "Friendly"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Deerling/1.png",
+  "pokemon_name": "Deerling"
+}

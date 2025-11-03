@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with elegant features and a calming presence.",
+    "Show me a cute, purple cat-like Pokemon that excels in psychic abilities.",
+    "Imagine a Pokemon that has a sleek design, with long ears and a mysterious aura.",
+    "Generate a Pokemon that appears wise and serene, with a focus on mind powers.",
+    "Make a Pokemon that has a light purple body and striking red eyes, embodying grace.",
+    "Design a unique Pokemon that blends elegance and psychic prowess in its appearance.",
+    "Give me an enchanting Pokemon that roams in serene landscapes, using its psychic powers."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Black",
+      "accent": "Red"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long, pointed ears",
+      "Large, expressive eyes",
+      "Thin, sleek body",
+      "Forked tail",
+      "Glowing gem on forehead"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Calm",
+      "Playful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Espeon/2.png",
+  "pokemon_name": "Espeon"
+}

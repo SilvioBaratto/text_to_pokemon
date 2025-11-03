@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with red and purple features that can spin webs.",
+    "Design a Pokemon that resembles a spider, using shades of red and yellow.",
+    "Imagine a creature with a sleek body and sharp fangs, accented with purple.",
+    "Generate a unique bug and poison-type Pokemon with a bold color scheme.",
+    "Make a Pokemon that thrives in forests, featuring intricate designs and vibrant colors.",
+    "Show me a spider-like Pokemon that combines elegance with a fierce appearance.",
+    "Give me a Pokemon that has a striking red body and unique insect-like traits."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red"
+    ],
+    "secondary_colors": [
+      "Purple",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Purple",
+      "accent": "Yellow"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Eight legs",
+      "Web-slinging appendages",
+      "Distinctive fangs",
+      "Vibrant colors",
+      "Angular body structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Agile",
+      "Stealthy"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Ambush"
+  },
+  "image_path": "images/Ariados/0.png",
+  "pokemon_name": "Ariados"
+}

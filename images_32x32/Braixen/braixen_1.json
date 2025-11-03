@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a Pokemon that embodies the spirit of fire with bright orange fur and striking black accents.",
+    "I want a whimsical fox-like creature with large ears and a playful personality, perfect for a forest setting.",
+    "Generate an enchanting character that combines elegance and agility, featuring vibrant yellow and red tones.",
+    "Make a small, fiery creature that can evolve into a powerful form, showcasing its magical abilities.",
+    "Imagine a cute Pokemon with fluffy tails and a penchant for mischief, always ready for a new adventure.",
+    "Design a bipedal Pokemon that thrives in the grasslands, with striking features that highlight its fiery nature.",
+    "Show me a Pokemon with a unique combination of colors and a charming presence that captures attention."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": "Red"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large ears",
+      "Fluffy tail",
+      "Fire-like markings on ears",
+      "White fur around the neck",
+      "Elegant posture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Cunning"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Braixen/1.png",
+  "pokemon_name": "Braixen"
+}

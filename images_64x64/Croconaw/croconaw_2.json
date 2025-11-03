@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that has a vibrant blue body and striking red fins.",
+    "I want a playful, aquatic creature with a unique blend of yellow spots on its belly.",
+    "Generate a medium-sized Pokemon with a robust, quadrupedal stance and a fierce-looking crest.",
+    "Make a Pokemon that embodies the essence of rivers, with features that reflect its swampy habitat.",
+    "Imagine a powerful Pokemon that blends elements of crocodiles and playful water creatures.",
+    "Design a Pokemon that exudes confidence with its bright colors and distinct aquatic features.",
+    "Give me a Pokemon that thrives in wetlands, showcasing a mix of blue and red hues."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Prominent crest on the head",
+      "Yellow spots on the belly",
+      "Thick tail with a pointed end",
+      "Sharp teeth visible in the mouth"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Confident",
+      "Curious"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Croconaw/2.png",
+  "pokemon_name": "Croconaw"
+}

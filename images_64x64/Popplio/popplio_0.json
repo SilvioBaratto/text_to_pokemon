@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a playful water-type Pokemon with a round body and a cheerful expression.",
+    "I want an aquatic Pokemon with blue fur and a vibrant pink nose.",
+    "Generate a cute Pokemon that loves to perform tricks in water.",
+    "Make a small-sized Pokemon with flippers and a distinctive collar.",
+    "Imagine a Pokemon that thrives in wetland environments and has a bubbly personality.",
+    "Design a charming sea creature Pokemon with an emphasis on playful behavior.",
+    "Show me a starter Pokemon that evolves into a graceful sea-themed creature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Blue",
+      "accent": "Pink"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round face with a prominent pink nose",
+      "Flippers for swimming",
+      "Collar-like ruff around the neck",
+      "Expressive eyes",
+      "Small, playful posture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Curious"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Popplio/0.png",
+  "pokemon_name": "Popplio"
+}

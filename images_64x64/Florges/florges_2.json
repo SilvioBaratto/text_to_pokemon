@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a flower-themed Pokemon with elegant petals and vibrant colors.",
+    "Show me a magical Pokemon that embodies the essence of nature and beauty.",
+    "Design a graceful fairy Pokemon that can heal other creatures.",
+    "Imagine a Pokemon with floral motifs and a gentle, serene demeanor.",
+    "Generate an enchanting Pokemon with a floral crown and flowing features.",
+    "Make a whimsical Pokemon that thrives in lush environments and gardens.",
+    "Give me a fairy-type Pokemon that spreads joy and positivity in its habitat."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Pink"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Pink",
+      "accent": "White"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Floral crown",
+      "Petal-like wings",
+      "Long flowing hair",
+      "Elegant posture",
+      "Leafy limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Kind",
+      "Graceful"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Florges/2.png",
+  "pokemon_name": "Florges"
+}

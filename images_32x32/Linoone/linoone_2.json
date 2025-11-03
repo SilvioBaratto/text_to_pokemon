@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a sleek, white Pokemon with a fluffy tail and agile movements.",
+    "I want a Pokemon resembling a small, swift mammal with piercing blue eyes.",
+    "Generate a quadrupedal creature with a mix of brown and white fur patterns.",
+    "Make a Normal-type Pokemon that thrives in forest and urban environments.",
+    "Imagine a Pokemon that has a playful personality and enjoys exploring grasslands.",
+    "Design a Pokemon that resembles an agile runner, perfect for fast-paced battles.",
+    "Show me a furry creature with a keen sense of smell and quick reflexes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy tail",
+      "Pointed ears",
+      "Blue eyes",
+      "Sleek body",
+      "Brown stripe along back"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Agile",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Linoone/2.png",
+  "pokemon_name": "Linoone"
+}

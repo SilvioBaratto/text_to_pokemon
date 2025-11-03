@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a bird Pokemon that has a large beak and bright feathers.",
+    "I want a flying-type Pokemon that looks like a toucan, with a colorful body.",
+    "Generate a Pokemon design inspired by tropical birds, featuring bold colors.",
+    "Make a cartoonish bird Pokemon with a playful demeanor and striking features.",
+    "Imagine a Pokemon that resembles a woodpecker, with a unique color palette.",
+    "Design a fashionable bird Pokemon that stands out in any environment.",
+    "Show me a Pokemon that embodies the spirit of the jungle, complete with vibrant colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "White",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "White",
+      "accent": "Red"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, pointed beak",
+      "Distinctive black and white feather pattern",
+      "Bright red accents",
+      "Blue eye markings",
+      "Winged body with a slender form"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Energetic"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Supportive and evasive"
+  },
+  "image_path": "images/Trumbeak/0.png",
+  "pokemon_name": "Trumbeak"
+}

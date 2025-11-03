@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a dessert with a unique twist and a whimsical design.",
+    "Imagine a bug-type Pokemon with a playful personality and a creative appearance.",
+    "Design a Pokemon that combines elements of nature and urban life in a quirky way.",
+    "Generate a Pokemon that has features resembling a pastry, with a touch of elegance.",
+    "Show me a Pokemon that can blend into both forest and urban environments seamlessly.",
+    "Give me a visual of a Pokemon with a mix of colors reminiscent of autumn and a playful demeanor.",
+    "Make a Pokemon that looks like it came straight from a whimsical bakery with a charming personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Yellow",
+      "accent": "Red"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Pastry-like body shape",
+      "Eiffel Tower-inspired feature",
+      "Decorative round shapes resembling toppings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Grass",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Creative",
+      "Adaptable"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Wormadam/4.png",
+  "pokemon_name": "Wormadam"
+}

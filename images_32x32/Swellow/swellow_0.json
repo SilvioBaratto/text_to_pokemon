@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a flying-type Pokemon with sleek blue feathers and a striking red chest.",
+    "Design a Pokemon that embodies speed and agility, with a long tail and sharp wings.",
+    "Imagine a bird-like creature that can soar through urban landscapes with ease.",
+    "Generate a Pokemon with vibrant colors that stands out in both forests and grasslands.",
+    "Make a Pokemon that resembles a swift swallow, known for its quick movements and grace.",
+    "Show me a Pokemon that has a mix of red and blue, representing both power and elegance.",
+    "Give me a design for a Pokemon that is perfect for aerial battles and swift escapes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Red"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long pointed wings",
+      "Streamlined body",
+      "Red throat and chest",
+      "Sharp beak",
+      "Tail feathers that split into two"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Playful",
+      "Loyal"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Swellow/0.png",
+  "pokemon_name": "Swellow"
+}

@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a small dinosaur with purple scales and large ears.",
+    "I want a creature that has spiky backs and sharp claws, primarily in shades of violet.",
+    "Generate a bipedal Pokemon with a unique horn and a fierce expression, mostly purple.",
+    "Make a Pokemon that looks like a mini dragon with a tough exterior and sharp spikes.",
+    "Imagine a creature that is agile and feisty, showcasing vibrant purple and teal colors.",
+    "Design a Pokemon with a muscular build and a striking appearance that stands out in battles.",
+    "Show me a Pokemon that embodies both elegance and strength, featuring a spiky silhouette."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Prominent ear fins",
+      "Large horn",
+      "Spiky back",
+      "Thick legs",
+      "Pointed tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": "Ground",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Playful",
+      "Courageous"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Nidorino/0.png",
+  "pokemon_name": "Nidorino"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with a shiny blue shell and multiple glowing eyes.",
+    "I want a Pokemon that resembles a giant ladybug with vibrant red and black colors.",
+    "Generate a creature that is both insectoid and psychic, with intricate patterns on its wings.",
+    "Make a Pokemon inspired by a beetle, featuring blue accents and a round, shiny body.",
+    "Imagine a mystical bug Pokemon that can control light, with a striking color palette.",
+    "Design an elegant bug-type Pokemon with a sleek body and a mesmerizing pattern.",
+    "Show me a Pokemon that combines elements of nature and intelligence, with a colorful appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Blue",
+      "accent": "Black"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Multiple eyes",
+      "Round body shape",
+      "Symmetrical wing patterns",
+      "Shiny exoskeleton",
+      "Antennas"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Psychic",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Curious",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Support and strategic"
+  },
+  "image_path": "images/Orbeetle/1.png",
+  "pokemon_name": "Orbeetle"
+}

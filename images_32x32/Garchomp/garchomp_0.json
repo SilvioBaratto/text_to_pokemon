@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with sharp fins and a fierce expression.",
+    "I want a Pokemon that resembles a land shark with blue scales and red accents.",
+    "Generate an aggressive-looking Pokemon with a muscular build and unique wing shape.",
+    "Make a powerful dragon Pokemon that can navigate both land and air effortlessly.",
+    "Imagine a Pokemon with a streamlined body and strong claws, perfect for battles.",
+    "Design a Pokemon that embodies speed and strength, with a striking color palette.",
+    "Show me a dual-type Pokemon combining ground and dragon elements in its design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Sharp fins on head",
+      "Muscular build",
+      "Wing-like arms",
+      "Long tail",
+      "Spiked back"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Ground",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Confident",
+      "Competitive"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Physical attacker"
+  },
+  "image_path": "images/Garchomp/0.png",
+  "pokemon_name": "Garchomp"
+}

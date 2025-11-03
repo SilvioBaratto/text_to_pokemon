@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that has a sleek body and vibrant colors.",
+    "Show me a legendary Pokemon with unique abilities and an eye-catching design.",
+    "Imagine a mythical creature that embodies the spirit of both water and fighting types.",
+    "Design a Pokemon that features flowing mane-like elements and a powerful presence.",
+    "Generate a small Pokemon with a blend of blue and orange hues that represents agility.",
+    "Make a quadrupedal Pokemon that thrives in various terrains and has striking visual traits.",
+    "Give me a Pokemon that has elegant features, with a color palette that stands out."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": "Red"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flowing mane resembling a crest",
+      "Equine-like body structure",
+      "Distinctive blue and yellow color pattern",
+      "Prominent hooves",
+      "Tail that resembles water waves"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Fighting",
+    "generation": 5,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Noble",
+      "Determined",
+      "Compassionate"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Agile and strategic"
+  },
+  "image_path": "images/Keldeo/0.png",
+  "pokemon_name": "Keldeo"
+}

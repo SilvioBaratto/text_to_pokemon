@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a mystical Pokemon with a sleek body and vibrant purple and pink patterns.",
+    "I want a unique creature that embodies the essence of poison and flying types with mesmerizing colors.",
+    "Generate a Pokemon with sharp features and a whimsical design, perfect for a fantasy setting.",
+    "Make a legendary Pokemon that glows in the dark, showcasing an ethereal mix of purple and blue.",
+    "Imagine a fantastical creature that combines elegance with a playful spirit, primarily in shades of violet.",
+    "Design a Pokemon that thrives in urban environments, featuring a mysterious aura and vibrant coloration.",
+    "Show me a unique Pokemon with a charming personality and a body that resembles a jellyfish."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Pink",
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Pink",
+      "accent": "Blue"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, antenna-like spikes",
+      "Glowing blue eyes",
+      "Swirling patterns on the body",
+      "Tentacle-like appendages"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": "Flying",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Mischievous"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Poipole/0.png",
+  "pokemon_name": "Poipole"
+}

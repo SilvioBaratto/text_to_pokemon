@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a green plant on its back and bright blue skin.",
+    "I want a cute Pokemon that evolves into something more powerful with a nature theme.",
+    "Generate a small, friendly Pokemon that thrives in forest habitats and has a unique plant feature.",
+    "Make a Pokemon design that features a blue body and a distinct yellow-green flower.",
+    "Imagine a Pokemon that embodies both water and grass elements with a playful personality.",
+    "Design a quadruped Pokemon with a bulb-like plant on its back, perfect for urban settings.",
+    "Show me a Pokemon that has a blend of blue and green colors with a curious expression."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Green",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Bulbous plant on back",
+      "Large red eyes",
+      "Short limbs",
+      "Rounded body shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Friendly",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Bulbasaur/1.png",
+  "pokemon_name": "Bulbasaur"
+}

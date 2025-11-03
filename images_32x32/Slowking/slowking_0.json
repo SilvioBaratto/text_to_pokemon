@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that embodies wisdom and has a regal appearance.",
+    "Imagine a Pokemon that uses psychic abilities and has a unique crown-like feature.",
+    "Design a bipedal creature that thrives near water and is known for its intelligence.",
+    "Generate a Slowking-inspired character that showcases a blend of elegance and power.",
+    "Show me a creature with a calm demeanor and distinctive shell-like headgear.",
+    "Give me an aquatic Pokemon that displays a mix of pink and white colors.",
+    "Make a detailed description of a Pokemon that lives in urban and coastal areas."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "White",
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "White",
+      "accent": "Gray"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Crown-like shell on head",
+      "Long tongue",
+      "Large body with a rounded shape",
+      "Prominent whiskers",
+      "Distinctive color pattern"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Psychic",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Wise",
+      "Calm",
+      "Intelligent"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Slowking/0.png",
+  "pokemon_name": "Slowking"
+}

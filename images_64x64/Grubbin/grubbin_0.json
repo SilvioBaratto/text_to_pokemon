@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with vibrant green and yellow patterns on its back.",
+    "Design a small Pokemon that resembles a bug with large pincers and a bright color scheme.",
+    "Imagine a creature that thrives in grassy areas, showcasing unique bug-like features.",
+    "Show me a Pokemon that has a rounded body and large eyes, perfect for a forest setting.",
+    "Generate a tiny insect Pokemon with a friendly demeanor and eye-catching colors.",
+    "Make a Pokemon with a distinctive shell and strong pincers, suitable for urban habitats.",
+    "Give me a bug Pokemon that exhibits playful traits and is often found in grasslands."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": "Yellow"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large pincers",
+      "Rounded body",
+      "Exoskeleton-like shell",
+      "Big eyes",
+      "Small legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Grubbin/0.png",
+  "pokemon_name": "Grubbin"
+}

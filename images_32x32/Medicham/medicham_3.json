@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bipedal Pokemon with a striking red and blue color scheme that emphasizes its fighting abilities.",
+    "I want a psychic/fighting type Pokemon that features unique traits like a large head and slender limbs.",
+    "Generate a Pokemon design that has a humanoid shape with a mix of red, blue, and yellow accents.",
+    "Make a dynamic fighter Pokemon with a strong presence, showcasing its agility and combat skills.",
+    "Imagine a Pokemon that blends fighting and psychic elements, featuring distinctive elongated limbs and a meditative aura.",
+    "Design a unique Pokemon that thrives in forest habitats, showcasing its agility and combat prowess.",
+    "Show me a Pokemon that embodies both strength and grace, with vibrant colors and a captivating design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Blue",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Distinctive elongated arms and legs",
+      "Meditative pose",
+      "Unique head shape with a red gem",
+      "Short torso with a wide lower body",
+      "Colorful baggy pants"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": "Psychic",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Focused",
+      "Disciplined"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Martial Arts"
+  },
+  "image_path": "images/Medicham/3.png",
+  "pokemon_name": "Medicham"
+}

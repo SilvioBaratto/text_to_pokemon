@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a Psychic-type Pokemon that looks like a sleepy creature with yellow fur.",
+    "Imagine a large, round Pokemon with a sleepy expression and brown bottom half.",
+    "Show me a Pokemon that uses hypnosis, featuring a unique yellow and brown color scheme.",
+    "Generate a bipedal Pokemon that combines a bear and a dream catcher in its design.",
+    "Make a Pokemon with a round body and a tendency to be lazy and sleepy.",
+    "Design a Pokemon that has an interesting combination of yellow and brown colors.",
+    "Give me a Pokemon that could be found in grassy areas and is known for its psychic abilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large ears",
+      "Round body shape",
+      "Sleepy expression",
+      "Bowl-like nose",
+      "Short limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Sleepy",
+      "Calm",
+      "Laid-back"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Status"
+  },
+  "image_path": "images/Drowzee/2.png",
+  "pokemon_name": "Drowzee"
+}

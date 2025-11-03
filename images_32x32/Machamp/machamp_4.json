@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a muscular Pokemon with four arms and a confident smile, perfect for a fighting theme.",
+    "I want a Pokemon that showcases strength and agility, with a blue color palette and striking features.",
+    "Generate a character that embodies determination and power, featuring a strong bipedal stance and unique traits.",
+    "Make a powerful bipedal Pokemon with an impressive physique and an energetic personality.",
+    "Imagine a robust fighting Pokemon with a cool demeanor, combining shades of blue and unique arm positions.",
+    "Design a Pokemon that represents physical prowess, with a strong presence and eye-catching features.",
+    "Show me a fierce and determined Pokemon, with a muscular build and a color scheme of blue and gray."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Gray",
+      "accent": null
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Four muscular arms",
+      "Defined musculature",
+      "Wide stance",
+      "Cheerful expression",
+      "Belt with a yellow accent"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Confident",
+      "Energetic",
+      "Competitive"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Common",
+    "combat_style": "Close-quarters combat"
+  },
+  "image_path": "images/Machamp/4.png",
+  "pokemon_name": "Machamp"
+}

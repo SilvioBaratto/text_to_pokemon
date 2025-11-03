@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a whimsical Pokemon that resembles a floating plant with vibrant colors and a cheerful expression.",
+    "I want a Grass-type Pokemon with round features and playful vibes, perfect for a sunny day in the park.",
+    "Generate a cute Pokemon with pink fur and green leaves that seems to float gently in the air.",
+    "Make a Pokemon that embodies the essence of spring, with soft colors and a light-hearted personality.",
+    "Imagine a small, fluffy creature with a joyful demeanor and plant-like accessories, ready for adventure.",
+    "Design a Pokemon that looks like a soft pink ball with leafy accents, ideal for a nature-themed game.",
+    "Show me a playful Pokemon with charming features and a color palette that reflects a sunny meadow."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round body",
+      "Two green leaves on top",
+      "Big expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Hoppip/0.png",
+  "pokemon_name": "Hoppip"
+}

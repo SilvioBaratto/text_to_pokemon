@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a sleek, shark-like appearance and vibrant blue scales.",
+    "I want to design a powerful aquatic creature that has a fierce expression and sharp teeth.",
+    "Generate an intimidating Pokemon that thrives in ocean habitats and has a streamlined body.",
+    "Show me a Pokemon inspired by sharks, featuring a mix of blue and gray colors.",
+    "Imagine a formidable water Pokemon with a unique fin structure and a bold personality.",
+    "Make a sharp-toothed Pokemon that is known for its speed and agility in battles.",
+    "Give me a cool Pokemon design that embodies the essence of a predator in the sea."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "White",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Gray",
+      "accent": "Red"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Sharp teeth",
+      "Streamlined body",
+      "Dorsal fin",
+      "Bold coloration",
+      "Large mouth"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Dark",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Predatory",
+      "Confident"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Sharpedo/2.png",
+  "pokemon_name": "Sharpedo"
+}

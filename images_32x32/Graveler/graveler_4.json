@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon that looks like a boulder with arms and a smiling face.",
+    "Show me a Pokemon resembling a mountain rock that uses its weight to battle foes.",
+    "Generate a creature inspired by geology, featuring a tough exterior and playful demeanor.",
+    "Imagine a Pokemon that embodies the essence of earth and stone, with a sturdy build.",
+    "Design a Pokemon with a rocky appearance, known for its resilience and strength in combat.",
+    "Give me a Pokemon that merges the features of a rock and a playful spirit.",
+    "Make a Pokemon that thrives in mountainous regions and has a sturdy, grounded personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": null,
+      "accent": "Red"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Rock-like body",
+      "Two arms",
+      "Facial features resembling a smile",
+      "Rugged texture",
+      "Red gem on the chest"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Ground",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Sturdy",
+      "Reliable"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Graveler/4.png",
+  "pokemon_name": "Graveler"
+}

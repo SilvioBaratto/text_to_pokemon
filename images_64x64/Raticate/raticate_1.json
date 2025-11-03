@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a sleek, medium-sized Pokemon with a bushy tail and sharp teeth.",
+    "Imagine a playful, gray-furred creature that scurries around urban areas.",
+    "Design a Pokemon that resembles a small rodent with large whiskers and a fierce look.",
+    "Generate a Pokemon with a chunky body and strong hind legs for quick escapes.",
+    "Show me a normal-type Pokemon that thrives in forest and urban environments.",
+    "Give me a depiction of a Pokemon that has distinctive yellow teeth and a friendly demeanor.",
+    "Make a round-bodied creature with a gray color palette and expressive eyebrows."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large front teeth",
+      "Long tail",
+      "Thick fur",
+      "Round body",
+      "Pointed ears"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Playful",
+      "Resourceful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Raticate/1.png",
+  "pokemon_name": "Raticate"
+}

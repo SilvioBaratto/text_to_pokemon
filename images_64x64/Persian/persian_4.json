@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a sleek, elegant cat Pokemon with a shiny golden coat and vibrant green eyes.",
+    "Design a feline Pokemon that embodies grace and agility, with a long, curled tail.",
+    "Imagine a Pokemon with a luxurious fur pattern, perfect for urban environments and stealth.",
+    "Generate a friendly, approachable cat Pokemon that can charm its way into any trainer's heart.",
+    "Show me a Pokemon that blends into its surroundings effortlessly, with a soft, sandy color scheme.",
+    "Make a Pokemon that has a playful demeanor and loves exploring urban landscapes.",
+    "Give me a feline Pokemon that showcases both beauty and strength in battle."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Sleek, elongated body",
+      "Curled tail",
+      "Pointed ears",
+      "Red gem on forehead",
+      "Sharp whiskers"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Affectionate"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Persian/4.png",
+  "pokemon_name": "Persian"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a strong and sturdy Pokemon that resembles a large horse with earthy colors.",
+    "I want a powerful Pokemon that can excel in battles with a solid ground-type design.",
+    "Generate a Pokemon with a majestic mane and strong legs, perfect for traversing rugged terrain.",
+    "Make a Pokemon that embodies resilience and power, with a robust body and unique coloration.",
+    "Imagine a Pokemon that stands tall and proud, showcasing its earthy brown and fiery orange tones.",
+    "Design a Pokemon that blends seamlessly into grassy hills with its earthy colors and strong physique.",
+    "Show me a Pokemon that represents strength and endurance, with a combination of brown and black shades."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Black",
+      "accent": "Red"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Muscular build",
+      "Long, flowing mane",
+      "Hooved feet",
+      "Large, sturdy legs",
+      "Prominent tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Sturdy",
+      "Loyal",
+      "Determined"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Mudsdale/1.png",
+  "pokemon_name": "Mudsdale"
+}

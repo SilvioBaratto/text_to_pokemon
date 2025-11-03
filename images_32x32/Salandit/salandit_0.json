@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a dual-type Pokemon that resembles a lizard with fiery patterns on its body.",
+    "Imagine a small reptilian Pokemon that thrives in volcanic environments with vibrant colors.",
+    "Design a cunning fire and poison Pokemon that can camouflage in its surroundings.",
+    "Generate an image of a lizard-like Pokemon with unique elemental abilities and a sleek design.",
+    "Show me a Pokemon that has dark scales with bright orange accents, ready to battle!",
+    "Make a detailed description of a Pokemon that has a mischievous personality and loves to explore.",
+    "Give me a Pokemon that can adapt to both forest and urban habitats with its stealthy movements."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Sleek, elongated body",
+      "Bright red markings on the back",
+      "Long, thin tail",
+      "Sharp claws",
+      "Bright purple eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Poison",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Mischievous",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Agile and stealthy, utilizing hit-and-run tactics"
+  },
+  "image_path": "images/Salandit/0.png",
+  "pokemon_name": "Salandit"
+}

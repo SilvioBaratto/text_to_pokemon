@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a sleek cat-like Pokemon that is primarily blue with white accents.",
+    "I want a psychic-type Pokemon with elegant features and a playful attitude.",
+    "Generate a bipedal Pokemon that has striking yellow eyes and large ears.",
+    "Make a unique Pokemon with psychic abilities that loves to explore urban areas.",
+    "Imagine a Pokemon that resembles a mystical creature, combining blue and white colors.",
+    "Design a Pokemon that is agile and prefers to live in grassy regions.",
+    "Show me a cute and clever Pokemon with a distinct personality and whimsical charm."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large ears",
+      "Prominent whiskers",
+      "Yellow eyes",
+      "Elegant tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Clever",
+      "Playful",
+      "Mischievous"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Meowstic/1.png",
+  "pokemon_name": "Meowstic"
+}

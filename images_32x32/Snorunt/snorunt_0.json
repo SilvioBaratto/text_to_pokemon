@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a snow-themed Pokemon with icy blue colors and a cute, round face.",
+    "I want a Pokemon that resembles a small creature hiding under a large ice cap.",
+    "Generate an adorable Ice-type Pokemon with a triangular shape and a playful personality.",
+    "Make a Pokemon that thrives in snowy mountains and has a playful demeanor.",
+    "Imagine a Pokemon with a unique ice shell and a cheerful expression.",
+    "Design a small, chubby Pokemon that loves to play in the snow.",
+    "Show me a Pokemon that looks like it could be a snowman with its ice features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Black",
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Triangular head shape",
+      "Large, toothy grin",
+      "Ice-like shell covering",
+      "Small, blue eyes",
+      "Short arms"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Curious"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Snorunt/0.png",
+  "pokemon_name": "Snorunt"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that has a relaxed demeanor and enjoys lounging by the lake.",
+    "Show me a pink aquatic Pokemon that has a lazy personality and loves to sunbathe on rocks.",
+    "Imagine a Pokemon that resembles a slow-moving creature with a rounded body and cute facial features.",
+    "Design a Pokemon with a calm expression and gentle mannerisms, perfect for a beach setting.",
+    "Generate a creature that looks like a pink, sleepy animal, with a cozy vibe and simple charm.",
+    "Make a Pokemon that embodies tranquility and is often found in serene environments like marshes.",
+    "Give me a laid-back Pokemon with a soft appearance that enjoys spending time near water."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body shape",
+      "Large, expressive eyes",
+      "Floppy ears",
+      "Tail resembling a wave",
+      "Relaxed mouth expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Psychic",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Laid-back",
+      "Carefree",
+      "Playful"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Slowpoke/3.png",
+  "pokemon_name": "Slowpoke"
+}

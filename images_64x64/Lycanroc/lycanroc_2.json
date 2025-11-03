@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a wolf-like Pokemon that has a mix of orange and gray colors and a fierce expression.",
+    "Design a rock-type Pokemon with sharp features, primarily orange fur, and a powerful stance.",
+    "Show me a Pokemon that resembles a dog, with unique traits and vivid colors like orange and gray.",
+    "Imagine a Pokemon with a muscular build, orange fur, and striking gray accents that stands out in the wild.",
+    "Generate a Pokemon that embodies speed and agility, featuring orange and gray colors and a wolf-like appearance.",
+    "Make a fierce creature inspired by wolves, showcasing a unique color palette and dynamic features.",
+    "Give me a Pokemon that blends strength and elegance, primarily in orange tones with gray highlights."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Gray",
+      "accent": "Black"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Wolf-like appearance",
+      "Sharp, pointed ears",
+      "Prominent fangs",
+      "Ruffled fur",
+      "Aggressive stance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Loyal",
+      "Agile"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Lycanroc/2.png",
+  "pokemon_name": "Lycanroc"
+}

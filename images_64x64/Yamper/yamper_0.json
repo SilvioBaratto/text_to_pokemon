@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a playful electric-type Pokemon that resembles a small dog with fluffy ears and a wagging tail.",
+    "I want a cute Pokemon design that combines yellow and brown colors, showcasing a joyful expression.",
+    "Generate an adorable Pokemon that has a round body shape and is known for its friendly demeanor.",
+    "Make a chubby electric-type Pokemon with distinctive features like a fluffy collar and bright eyes.",
+    "Imagine a Pokemon that loves to play in urban areas, featuring a mix of yellow and brown tones.",
+    "Design a small, energetic Pokemon that embodies the spirit of companionship and loyalty.",
+    "Show me a Pokemon with a vibrant color palette and endearing traits that make it a beloved companion."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Brown"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": null,
+      "accent": "Brown"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy yellow collar",
+      "Large ears",
+      "Wagging tail",
+      "Round body shape",
+      "Bright eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Loyal",
+      "Friendly"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Yamper/0.png",
+  "pokemon_name": "Yamper"
+}

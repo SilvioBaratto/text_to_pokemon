@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a small bat-like Pokemon with vibrant purple wings and a blue body.",
+    "Imagine a flying-type Pokemon that thrives in caves and forests with a sleek design.",
+    "Design a Pokemon resembling a bat, featuring large wings and a playful personality.",
+    "Give me a Pokemon that is primarily blue with purple accents and loves to explore urban areas.",
+    "Show me a creature that can hide in the shadows, with a unique mix of blue and purple colors.",
+    "Generate a Pokemon that flits through the air, showcasing its distinct bat-like features and vibrant colors.",
+    "Make an adorable bat Pokemon that can be found in mountainous regions and has a curious nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Purple",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large wings",
+      "Pointed ears",
+      "Small fangs",
+      "Black eyes",
+      "Streamlined body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Nocturnal"
+    ],
+    "habitat": "Cave",
+    "rarity": "Common",
+    "combat_style": "Agile and evasive"
+  },
+  "image_path": "images/Zubat/0.png",
+  "pokemon_name": "Zubat"
+}

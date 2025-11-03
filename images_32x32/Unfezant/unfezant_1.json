@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a bird-like Pokemon with colorful feathers and a majestic crest.",
+    "Generate a Pokemon that resembles a peacock but with unusual colors.",
+    "Show me a flying-type Pokemon with a sleek body and vibrant plumage.",
+    "Imagine a Pokemon that can camouflage in urban areas with its unique patterns.",
+    "Design a Pokemon that uses its long tail for balance while soaring through the skies.",
+    "Make a Pokemon that combines elegance and fierceness in its visual appearance.",
+    "Give me a Pokemon that embodies grace and agility, perfect for aerial battles."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Green",
+      "accent": "Red"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, colorful crest",
+      "Sharp, elongated beak",
+      "Distinctive tail feathers",
+      "Wing patterns",
+      "Bright eye markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Graceful",
+      "Proud",
+      "Alert"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Aerial Attacker"
+  },
+  "image_path": "images/Unfezant/1.png",
+  "pokemon_name": "Unfezant"
+}

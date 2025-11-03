@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that resembles a cocoon, with a shiny golden exterior.",
+    "Imagine a Pokemon evolution that transforms Kakuna into a majestic butterfly-like creature.",
+    "Design a Pokemon that has a protective shell and can blend into its forest surroundings.",
+    "Give me a detailed description of a Kakuna-inspired Pokemon with vibrant yellow and subtle accents.",
+    "Generate a Pokemon that embodies tranquility and patience, resembling Kakuna in its cocoon state.",
+    "Show me a unique evolution for Kakuna that incorporates elements of nature and growth.",
+    "Make a concept for a Pokemon that evolves from Kakuna and has the power of flight."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Cocoon-like shape",
+      "Smooth surface",
+      "Rounded edges",
+      "Small appendages",
+      "Textured body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Patient",
+      "Defensive"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Kakuna/0.png",
+  "pokemon_name": "Kakuna"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a cute, nature-loving Pokemon that resembles a small deer with bright colors.",
+    "Show me a Pokemon that embodies the essence of spring with floral patterns.",
+    "I want to see a playful, gentle creature that thrives in grassy fields.",
+    "Imagine a Pokemon with a soft, furry body and cheerful, vibrant hues.",
+    "Generate a Pokemon that symbolizes the changing seasons, particularly springtime.",
+    "Design a whimsical Pokemon that looks like it belongs in a serene forest.",
+    "Make a Pokemon that is a blend of elegance and cuteness, suitable for young trainers."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy tail",
+      "Large, expressive eyes",
+      "Pointed ears",
+      "Delicate, flower-like decoration on the head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Grass",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Deerling/5.png",
+  "pokemon_name": "Deerling"
+}

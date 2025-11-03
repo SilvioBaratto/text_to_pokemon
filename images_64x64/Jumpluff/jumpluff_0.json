@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a cute, fluffy Pokemon that can float and has a serene expression.",
+    "Design a grass-type Pokemon with a round body and whimsical clouds on its head.",
+    "Imagine a whimsical creature that dances in the wind with adorable, fluffy features.",
+    "Show me a Pokemon that embodies the essence of spring with delicate colors and soft shapes.",
+    "Generate a Pokemon that resembles a playful balloon with a joyful demeanor and light colors.",
+    "Give me a Pokemon that has a gentle, carefree personality and floats on soft winds.",
+    "Make a Pokemon that thrives in grassy areas and has a round, cuddly appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy, cloud-like structures on top",
+      "Round body shape",
+      "Small, red eyes",
+      "Green leaf-like appendage",
+      "Soft, rounded features"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Carefree",
+      "Playful",
+      "Gentle"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Jumpluff/0.png",
+  "pokemon_name": "Jumpluff"
+}

@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a sleek blue body and a long tail.",
+    "Generate a Pokemon that resembles a chameleon, featuring various shades of blue and green.",
+    "Make a design for a Pokemon that can blend into its environment with a stealthy appearance.",
+    "Imagine a Pokemon that has a unique sniper-like ability, showcasing a streamlined body.",
+    "Show me a Pokemon that is agile and graceful, with a distinctive elongated shape.",
+    "Give me a water-type Pokemon that has a camouflage feature and a charming personality.",
+    "Design a Pokemon that excels in stealth and is known for its clever tactics in battles."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Blue",
+      "accent": "Blue"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, slender body",
+      "Elegant tail that resembles a sniper's rifle",
+      "Large, expressive eyes",
+      "Camouflage patterns",
+      "Pointed snout"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Cunning",
+      "Stealthy"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Rare",
+    "combat_style": "Ranged attacks and stealth tactics"
+  },
+  "image_path": "images/Inteleon/1.png",
+  "pokemon_name": "Inteleon"
+}

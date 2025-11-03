@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a muscular build and a vibrant blue body.",
+    "Show me an amphibious Pokemon that has orange accents and a powerful stance.",
+    "Imagine a creature that thrives in wetlands, showcasing a mix of blue and orange hues.",
+    "Generate a Pokemon that resembles a large, confident swimmer with unique features.",
+    "Design a sturdy Pokemon with a blend of aquatic and terrestrial traits.",
+    "Give me a Pokemon that can traverse both land and water with ease.",
+    "Make a creature that embodies strength and agility, perfect for battling in various terrains."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Orange",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Powerful limbs",
+      "Broad snout",
+      "Spiky dorsal fins",
+      "Webbed feet",
+      "Mud-like texture on skin"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Ground",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Adaptable",
+      "Confident"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Swampert/1.png",
+  "pokemon_name": "Swampert"
+}

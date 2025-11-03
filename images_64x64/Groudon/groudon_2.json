@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a legendary ground-type Pokemon with massive claws and a fiery demeanor.",
+    "Imagine a Pokemon that embodies the power of the earth with red rocky skin.",
+    "Generate a colossal, quadrupedal Pokemon that rules the desert with fierce intensity.",
+    "Show me an ancient Pokemon with a volcanic theme and quaking strength.",
+    "Make a Pokemon with a strong connection to nature and a fiery personality.",
+    "Design a creature that can manipulate the ground and has a fierce gaze.",
+    "Give me a Pokemon that thrives in arid environments with a powerful presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Huge",
+    "distinctive_features": [
+      "Large, clawed hands",
+      "Rocky, armored skin",
+      "Prominent back spikes",
+      "Powerful legs",
+      "Intense facial expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Fierce",
+      "Protective"
+    ],
+    "habitat": "Desert",
+    "rarity": "Rare",
+    "combat_style": "Powerful and aggressive"
+  },
+  "image_path": "images/Groudon/2.png",
+  "pokemon_name": "Groudon"
+}

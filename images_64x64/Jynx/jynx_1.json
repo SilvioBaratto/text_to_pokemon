@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with flowing hair and a regal outfit.",
+    "Imagine a humanoid creature with ice powers and a striking color palette.",
+    "Design a Pokemon that combines elegance with a touch of mystique.",
+    "Generate a character that embodies grace and has a playful personality.",
+    "Make a Pokemon that thrives in urban areas and has unique psychic abilities.",
+    "Show me a creature that uses charm and intelligence in battles.",
+    "Give me a Pokemon that stands out with its unusual attire and captivating colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Red",
+      "accent": "Blue"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long hair",
+      "Robes",
+      "Facial features resembling a humanoid",
+      "Distinctive ice-like pattern",
+      "Hands with no visible fingers"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": "Psychic",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Sassy",
+      "Charming"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Jynx/1.png",
+  "pokemon_name": "Jynx"
+}

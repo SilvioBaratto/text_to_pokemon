@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a fierce fire-type Pokemon with a fiery tail and sharp claws.",
+    "I want a bipedal Pokemon that has orange scales and can breathe fire.",
+    "Generate a Pokemon design that features a dragon-like shape and glowing embers.",
+    "Make a dynamic fire-type creature that has a playful personality and orange hues.",
+    "Imagine a Pokemon with a sleek body, vibrant colors, and a flame motif.",
+    "Design a Pokemon that embodies both charm and ferocity with its striking appearance.",
+    "Show me a fiery creature with a confident stance and a unique tail design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Yellow",
+      "accent": "Red"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flame on tail",
+      "Lizard-like face",
+      "Sharp claws",
+      "Long neck",
+      "Pointed ears"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Confident",
+      "Playful",
+      "Aggressive"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Charmeleon/1.png",
+  "pokemon_name": "Charmeleon"
+}

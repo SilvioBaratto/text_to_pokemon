@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that has a shell and a relaxed demeanor.",
+    "Show me a pink Pokemon with a green tail that enjoys lounging by the ocean.",
+    "Generate a Pokemon with a unique shell on its back, embodying a laid-back personality.",
+    "Imagine a bipedal creature with a large green appendage and a calm expression.",
+    "Design a Pokemon that exemplifies tranquility, featuring a pink body and a shell-like tail.",
+    "Give me an illustration of a water/psychic type Pokemon that looks like it's always daydreaming.",
+    "Make a character that combines aquatic features with a cute, round body shape."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Green",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Shell on its back",
+      "Large, round body",
+      "Lopsided grin",
+      "Pink coloration",
+      "Green aquatic tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Psychic",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Laid-back",
+      "Calm",
+      "Friendly"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Slowbro/3.png",
+  "pokemon_name": "Slowbro"
+}

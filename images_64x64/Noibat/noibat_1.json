@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a small, purple bat-like Pokemon with big ears and a mischievous grin.",
+    "I want a Pokemon that can fly stealthily through forests and has a sonic attack.",
+    "Generate a cute, winged creature with bright yellow eyes and a purple body.",
+    "Make a tiny, dragon-type Pokemon that evolves into a larger, more powerful form.",
+    "Imagine a Pokemon that uses sound waves to navigate and communicate with others.",
+    "Design a nocturnal Pokemon that thrives in urban environments and has a playful nature.",
+    "Show me a dual-type Pokemon that can master both flying and dragon abilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Black",
+      "accent": "Yellow"
+    },
+    "body_shape": "Winged",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large ears",
+      "Bat-like wings",
+      "Small body",
+      "Bright yellow eyes",
+      "Pointed fangs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Flying",
+    "type2": "Dragon",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Mischievous"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Speed-focused"
+  },
+  "image_path": "images/Noibat/1.png",
+  "pokemon_name": "Noibat"
+}

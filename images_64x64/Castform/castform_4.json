@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a weather-themed Pokemon that can change its form based on the environment.",
+    "Imagine a cute, round Pokemon with a flower-like design and friendly expression.",
+    "Design a Pokemon that embodies different weather patterns, showcasing its unique abilities.",
+    "Show me a playful Pokemon with a sunny disposition and vibrant colors.",
+    "Make a Pokemon that can adapt to various climates while retaining its charming appearance.",
+    "Generate a small Pokemon that resembles a flower, perfect for sunny environments.",
+    "Give me a whimsical Pokemon that can change colors according to the season."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Yellow",
+      "accent": "Red"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Flower-like appearance",
+      "Round face",
+      "Large petal-like structures",
+      "Small eyes",
+      "Curved body shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Adaptable",
+      "Playful"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Castform/4.png",
+  "pokemon_name": "Castform"
+}

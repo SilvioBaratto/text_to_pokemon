@@ -1,0 +1,50 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that has a playful demeanor and a round body shape.",
+    "Generate a quirky Pokemon with a yellow color scheme and a unique feature on its head.",
+    "Imagine a small aquatic creature with a laid-back personality and a soft, rounded appearance.",
+    "Show me a funny Pokemon that loves to swim and has a distinctive duck-like face.",
+    "Make a Pokemon design that embodies relaxation and is found near water bodies.",
+    "Give me a detailed illustration of a friendly yellow Pokemon that enjoys lounging by lakes.",
+    "Design a cute, small creature that has a unique feature and a cheerful expression."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Duck-like face",
+      "Round body",
+      "Small tuft of hair on top of head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Laid-back",
+      "Curious",
+      "Playful"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Psyduck/0.png",
+  "pokemon_name": "Psyduck"
+}

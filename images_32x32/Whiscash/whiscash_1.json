@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a blue body and a yellow accent.",
+    "Imagine a creature that thrives in wetlands, blending shades of blue and white.",
+    "Design a Pokemon that has a distinct whisker-like feature and is aquatic in nature.",
+    "Generate an adorable Pokemon with a round shape, featuring blue and yellow colors.",
+    "Show me a playful water Pokemon that resembles a catfish with unique whisker traits.",
+    "Make a Pokemon that can live in both urban and wetland areas, with vibrant blue hues.",
+    "Give me a Pokemon that evokes a sense of calm and has a rounded, smooth body."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Whiskers",
+      "Rounded body",
+      "Large fins",
+      "Yellow star-shaped pattern",
+      "Smooth skin"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Ground",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Playful",
+      "Adaptable"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Whiscash/1.png",
+  "pokemon_name": "Whiscash"
+}

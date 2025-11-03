@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a colorful bird Pokemon that has striking red and green feathers.",
+    "I want a design for a flying-type Pokemon with unique wing patterns and a vibrant color palette.",
+    "Generate an elegant Pokemon with a long neck and distinct facial features inspired by birds.",
+    "Make a majestic Pokemon that embodies the spirit of freedom and grace in the sky.",
+    "Imagine a Pokemon that thrives in urban environments, showcasing its intelligence and adaptability.",
+    "Design a Pokemon that is both fierce and beautiful, with a unique color scheme and personality.",
+    "Show me a Pokemon that combines elegance and strength, perfect for aerial battles and competitions."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Green",
+      "accent": "Black"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long neck",
+      "Winged body",
+      "Colorful plumage",
+      "Distinctive crest",
+      "Prominent beak"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Proud",
+      "Elegant",
+      "Intelligent"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Aerial"
+  },
+  "image_path": "images/Unfezant/2.png",
+  "pokemon_name": "Unfezant"
+}

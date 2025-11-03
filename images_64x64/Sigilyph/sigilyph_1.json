@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a unique Psychic-type Pokemon that resembles an ancient artifact with vibrant colors.",
+    "I want a design for a winged Pokemon that has tribal patterns and a mystical aura.",
+    "Generate a creature that embodies the essence of both psychic energy and ancient symbols.",
+    "Make a colorful Pokemon inspired by Egyptian art, featuring wings and a mysterious personality.",
+    "Imagine a legendary Pokemon with an intricate design, combining bright yellows and blues.",
+    "Design an elegant bird-like Pokemon with striking colors and a mystical significance.",
+    "Give me a picture of a Psychic-type Pokemon that has a blend of modern and ancient styles."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Blue",
+      "accent": "Red"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Intricate wing patterns",
+      "Large, round eyes",
+      "Tribal-like markings",
+      "Central orb",
+      "Symmetrical shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Flying",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Curious",
+      "Ethereal"
+    ],
+    "habitat": "Desert",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Sigilyph/1.png",
+  "pokemon_name": "Sigilyph"
+}

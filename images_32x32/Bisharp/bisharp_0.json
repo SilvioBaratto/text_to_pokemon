@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a steel-type Pokemon with a sleek design and a sharp appearance.",
+    "I want a dark-type Pokemon that combines elegance with a menacing presence.",
+    "Generate a humanoid Pokemon that has a blend of red and silver colors.",
+    "Make a Pokemon characterized by its sharp blades and armored features.",
+    "Imagine a warrior-like Pokemon that thrives in urban environments.",
+    "Design a Pokemon with a strong combat style and a striking color palette.",
+    "Show me a Pokemon that embodies both grace and ferocity in its design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Black"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Armored plating",
+      "Sharp blades on arms",
+      "Long pointed ears",
+      "Angular facial features",
+      "Strong stance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": "Steel",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Strategic",
+      "Determined",
+      "Bold"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Bisharp/0.png",
+  "pokemon_name": "Bisharp"
+}

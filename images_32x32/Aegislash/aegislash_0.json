@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon with a shield and sword-like features.",
+    "Show me a Pokemon that combines steel and ghost elements in its design.",
+    "Generate an elegant and mysterious Pokemon resembling a knight or sentry.",
+    "Imagine a powerful ghost warrior Pokemon with a unique battle stance.",
+    "Design a dual-type Pokemon that embodies protection and strength.",
+    "Give me an image of a Pokemon that has both offensive and defensive traits.",
+    "Make a Pokemon that looks like a guardian spirit with a regal appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Purple",
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Purple",
+      "accent": null
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Sword and shield motif",
+      "Cloak-like wings",
+      "Knight-like appearance",
+      "Facial mask",
+      "Dual forms"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Ghost",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Noble",
+      "Guarding",
+      "Strategic"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Defensive and Offensive"
+  },
+  "image_path": "images/Aegislash/0.png",
+  "pokemon_name": "Aegislash"
+}

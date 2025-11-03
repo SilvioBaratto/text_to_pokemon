@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon with striking yellow fur and powerful arms.",
+    "I want a Pokemon that resembles a muscular humanoid with lightning motifs.",
+    "Generate a bold, bipedal creature boasting bright yellow and black stripes.",
+    "Make a Pokemon inspired by electrical energy, featuring unique arm appendages.",
+    "Imagine a creature that excels in urban environments, radiating electric power.",
+    "Design a Pokemon known for its strength and agility in battles.",
+    "Show me a Pokemon that embodies the essence of electricity and speed."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Muscular build",
+      "Long, curved horns",
+      "Electrical cables on arms",
+      "Yellow and black stripes",
+      "Large hands with claw-like fingers"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Aggressive",
+      "Confident"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attack and Physical Attack"
+  },
+  "image_path": "images/Electivire/1.png",
+  "pokemon_name": "Electivire"
+}

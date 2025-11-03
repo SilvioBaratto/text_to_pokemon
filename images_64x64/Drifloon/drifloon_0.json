@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that floats in the air with a balloon-like body.",
+    "Design a Pokemon with a purple color scheme and a cute, whimsical appearance.",
+    "Generate an eerie Pokemon that has both ghostly features and a playful personality.",
+    "Imagine a Pokemon that combines the essence of a balloon and a playful spirit.",
+    "Make a Pokemon that resembles a floating creature with distinct yellow accents.",
+    "Show me a Pokemon that embodies both the ghost and flying types in its design.",
+    "Give me a Pokemon that has a unique blend of purple and white colors with a friendly demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "White",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Balloon-like body",
+      "Ghostly face",
+      "Thin string-like appendages",
+      "Yellow feet",
+      "Cloud-like top"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Flying",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Friendly"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Drifloon/0.png",
+  "pokemon_name": "Drifloon"
+}

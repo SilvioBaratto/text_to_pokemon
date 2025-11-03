@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a fire-type Pokemon with a mischievous grin and fiery eyebrows.",
+    "I want a robust Pokemon that can thrive in both mountains and urban settings.",
+    "Generate a creature with a big smile, red fur, and powerful legs for battles.",
+    "Make a Pokemon that embodies strength and playfulness, with bright red colors.",
+    "Imagine a fiery creature with a strong build and a playful personality.",
+    "Design a Pokemon that can adapt to various environments, particularly forests.",
+    "Show me a Pokemon that combines humor and power, with a unique body shape."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Orange",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large fiery eyebrows",
+      "Wide grin",
+      "Powerful limbs",
+      "Robust body",
+      "Tail resembling a flame"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Energetic"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Darmanitan/0.png",
+  "pokemon_name": "Darmanitan"
+}

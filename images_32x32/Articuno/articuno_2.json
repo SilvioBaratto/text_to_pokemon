@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create an ice-type Pokemon with elegant wings and a serene expression.",
+    "I want a majestic bird Pokemon soaring through a snowy landscape.",
+    "Generate a legendary Pokemon that embodies the essence of winter and freedom.",
+    "Make a Pokemon that resembles a beautiful ice fairy with flowing feathers.",
+    "Imagine a powerful ice-themed creature with sharp, glacial features and a calm demeanor.",
+    "Design a Pokemon that has a bright blue color palette and a graceful flight.",
+    "Give me an icy avian Pokemon that commands the respect of its territory."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large wings",
+      "Icicle-like crest",
+      "Sharp beak",
+      "Elegant tail feathers"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Majestic",
+      "Protective"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Special Attack"
+  },
+  "image_path": "images/Articuno/2.png",
+  "pokemon_name": "Articuno"
+}

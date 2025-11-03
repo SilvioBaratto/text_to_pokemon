@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with swirling tentacles and a mysterious aura.",
+    "Generate a dark-type creature that has a hypnotic gaze and multiple limbs.",
+    "Design a Pokemon that embodies both intelligence and mischief with vibrant colors.",
+    "Imagine a Pokemon with a unique body shape and an eccentric personality.",
+    "Show me a creature that blends aquatic and terrestrial features with an enchanting look.",
+    "Make a Pokemon that has a mesmerizing color palette and captivating abilities.",
+    "Give me a nocturnal Pokemon that thrives in dark environments and has psychic powers."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Pink",
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Pink",
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Tentacle-like appendages",
+      "Hypnotic eye patterns",
+      "Swirling body shape",
+      "Colorful frills",
+      "Unique head crest"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": "Psychic",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Mischievous",
+      "Intelligent"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Psychic manipulation"
+  },
+  "image_path": "images/Malamar/1.png",
+  "pokemon_name": "Malamar"
+}

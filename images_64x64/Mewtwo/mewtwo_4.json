@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon that has a sleek, humanoid form and glowing features.",
+    "Imagine a powerful Pokemon with a purple color scheme and strong, muscular arms.",
+    "Design a legendary Pokemon with a mysterious aura, featuring psychic abilities and elegant movements.",
+    "Generate a unique Pokemon that blends technology and psychic powers with a futuristic appearance.",
+    "Show me a bipedal Pokemon with psychic abilities and a regal stance, exuding confidence.",
+    "Make a creature that embodies the essence of psychic energy with a majestic, ethereal look.",
+    "Give me a Pokemon that showcases both strength and intelligence in its design and color palette."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Gray",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Long, pointed ears",
+      "Tail with a unique shape",
+      "Muscular arms",
+      "Large, expressive eyes",
+      "Smooth, sleek body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Confident",
+      "Mysterious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Mewtwo/4.png",
+  "pokemon_name": "Mewtwo"
+}

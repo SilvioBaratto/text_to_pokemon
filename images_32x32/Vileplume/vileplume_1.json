@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a flower-based Pokemon that thrives in lush environments and has a vibrant color palette.",
+    "I want a Pokemon that features a large, colorful bloom and a sturdy body, perfect for forest habitats.",
+    "Generate a Pokemon with a round body and a huge flower on its head, showcasing bright colors.",
+    "Make a nature-inspired Pokemon with a unique design that reflects its Grass/Poison typing.",
+    "Imagine a creature that embodies the essence of a blooming flower, with distinct colors and features.",
+    "Design a Pokemon that symbolizes growth and nature, complete with a large, eye-catching flower.",
+    "Show me a whimsical Pokemon that has a cheerful demeanor and is adorned with a colorful flower."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "White"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "White",
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large red flower on top",
+      "Blue body",
+      "Round shape",
+      "Leaf-like structures",
+      "Vibrant colors"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Friendly",
+      "Supportive"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Vileplume/1.png",
+  "pokemon_name": "Vileplume"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a whimsical poison-type Pokemon that has a bubbly body and emits colorful fumes.",
+    "Show me a unique Pokemon with an unusual shape, primarily purple with hints of yellow accents.",
+    "Imagine a creature that thrives in urban areas, with a round body and a mischievous personality.",
+    "Design a Pokemon that looks like a floating gas ball, with a playful demeanor and toxic traits.",
+    "Generate an image of a dual-type Pokemon that embodies both poison and fairy elements in its design.",
+    "I want to see a Pokemon that combines a polluted city vibe with an adorable appearance.",
+    "Make a character that represents the essence of pollution, with a charming yet eerie look."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Two large spherical bodies",
+      "Floating gas clouds",
+      "Facial features resembling cartoon eyes",
+      "Small fume-like tails"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Eccentric"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Weezing/3.png",
+  "pokemon_name": "Weezing"
+}

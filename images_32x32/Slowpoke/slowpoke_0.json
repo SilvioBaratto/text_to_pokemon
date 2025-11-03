@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a unique Water-type Pokemon that has a pink body and a sleepy expression.",
+    "Imagine a Pokemon that resembles a large, pink creature lounging by a riverbank.",
+    "Design a Pokemon with a round shape, soft features, and a calm demeanor.",
+    "Generate a creature with a small, chubby body and a cute face, primarily colored in pink.",
+    "Give me a concept for a Pokemon that has a tail resembling a wave and loves to relax.",
+    "Show me a Pokemon with a gentle personality, featuring a smooth, rounded form in pastel colors.",
+    "Make a design for a Pokemon that often daydreams and enjoys spending time near water."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, round body",
+      "Prominent, round eyes",
+      "Wide mouth with a relaxed expression",
+      "Curved tail resembling a wave",
+      "Short limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Psychic",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Laid-back",
+      "Sleepy",
+      "Gentle"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Slowpoke/0.png",
+  "pokemon_name": "Slowpoke"
+}

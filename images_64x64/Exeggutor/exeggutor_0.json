@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a tree with multiple heads and has a playful, friendly nature.",
+    "Imagine a giant plant Pokemon with a strong connection to nature and a serene personality.",
+    "Design an oversized Pokemon that combines elements of palm trees and coconuts, perfect for tropical regions.",
+    "Show me a Grass-type Pokemon with multiple faces and a happy demeanor, thriving in lush environments.",
+    "Generate a Pokemon that has a large, plant-like body and a calm, wise personality, ideal for forest habitats.",
+    "Make a creature that has a tall, tree-like appearance with round heads, representing harmony and growth.",
+    "Give me a visual of a Pokemon that embodies the spirit of nature with a fun and carefree attitude."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Three heads with faces",
+      "Tall palm-like body",
+      "Thick trunk-like legs",
+      "Leaves as hair",
+      "Coconut-like appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Psychic",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Playful",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Exeggutor/0.png",
+  "pokemon_name": "Exeggutor"
+}

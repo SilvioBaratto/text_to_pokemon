@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a muscular Pokemon with four arms and a fierce expression.",
+    "I want a Pokemon that can lift heavy objects and has a blue-gray body.",
+    "Generate a fighting-type Pokemon known for its incredible strength and speed.",
+    "Make a character design for a Pokemon that excels in hand-to-hand combat.",
+    "Imagine a Pokemon with a confident stance and a strong personality.",
+    "Design a Pokemon that thrives in mountainous regions and is highly competitive.",
+    "Show me a powerful Pokemon with bulging muscles and a determined look."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Gray",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Four muscular arms",
+      "Belt with a yellow stripe",
+      "Bulging muscles",
+      "Confident facial expression",
+      "Large feet"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Confident",
+      "Determined",
+      "Strong"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Machamp/0.png",
+  "pokemon_name": "Machamp"
+}

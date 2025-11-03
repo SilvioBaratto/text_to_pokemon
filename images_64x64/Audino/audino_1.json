@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a cute Pokemon that has fluffy ears and a gentle expression.",
+    "I want a pink and white Pokemon with soft features and a caring personality.",
+    "Generate a Normal-type Pokemon that looks like a small mammal with long ears.",
+    "Make an adorable fairy-like creature that is friendly and loves to help others.",
+    "Imagine a Pokemon that resembles a small rabbit, with pastel colors and a sweet demeanor.",
+    "Design a Pokemon known for its healing abilities, featuring soft fur and a cheerful vibe.",
+    "Show me a fluffy Pokemon that enjoys living in peaceful forest environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "White"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Brown",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long ears",
+      "Fluffy body",
+      "Large eyes",
+      "Round face",
+      "Soft, rounded limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Fairy",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Caring",
+      "Gentle",
+      "Friendly"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Audino/1.png",
+  "pokemon_name": "Audino"
+}

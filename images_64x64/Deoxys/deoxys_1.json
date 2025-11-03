@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a sleek body and vibrant colors that stand out.",
+    "Show me a Pokemon that has a humanoid shape and features a unique mix of orange and blue.",
+    "Imagine a legendary creature with long, flowing tentacle-like appendages and a cosmic appearance.",
+    "Generate a Pokemon with a striking orange and blue color palette, perfect for battles.",
+    "Design a mythical Pokemon that embodies speed and agility, with a distinctive alien look.",
+    "Give me a Pokemon that represents the evolution of psychic powers, with a futuristic vibe.",
+    "Make a creature that looks both powerful and mysterious, featuring a blend of colors and shapes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Tentacle-like arms",
+      "Unique head shape",
+      "Vibrant color contrast",
+      "Central gemstone",
+      "Streamlined body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Mysterious",
+      "Adaptable"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Speed-focused"
+  },
+  "image_path": "images/Deoxys/1.png",
+  "pokemon_name": "Deoxys"
+}

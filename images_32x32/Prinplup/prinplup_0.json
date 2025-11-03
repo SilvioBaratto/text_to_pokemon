@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a blue and white color scheme and a penguin-like appearance.",
+    "Design a Pokemon resembling a bird with unique fins and a charming personality.",
+    "Imagine a Pokemon that swims gracefully through the ocean, showcasing vibrant colors and a sleek shape.",
+    "Generate a Pokemon that has a playful demeanor, with aquatic features and striking blue hues.",
+    "Show me a Pokemon that embodies the essence of icy waters, with a rounded body and a curious expression.",
+    "Make a Pokemon that can blend into both sea and land environments, featuring distinctive markings.",
+    "Give me a starter Pokemon that evolves into a majestic creature, with a unique color palette."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Penguin-like body",
+      "Flipper-like wings",
+      "Distinctive yellow beak",
+      "White belly with blue spots",
+      "Pointed tuft on head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Sociable",
+      "Curious"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Prinplup/0.png",
+  "pokemon_name": "Prinplup"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a playful water-type Pokemon with a round body and large ears.",
+    "I want a cute, small Pokemon that resembles an elephant with vibrant colors.",
+    "Generate a Pokemon that enjoys playing in grasslands and has a cheerful demeanor.",
+    "Make a Pokemon that is predominantly blue with hints of orange, perfect for a forest setting.",
+    "Imagine a tiny creature that loves to explore mountains and has a friendly personality.",
+    "Design a Pokemon that has a unique trunk-like feature and is great for ground battles.",
+    "Show me an adorable Pokemon that has big eyes and loves to play in urban environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Orange",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large ears",
+      "Short trunk",
+      "Round body",
+      "Small legs",
+      "Cheerful expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Phanpy/0.png",
+  "pokemon_name": "Phanpy"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with vibrant green tones and a leaf-inspired design.",
+    "I want a Pokemon that resembles an insect, featuring bright colors and a humanoid shape.",
+    "Generate a nature-themed Pokemon with unique features that highlight its connection to plants.",
+    "Make an elegant bug Pokemon with long limbs and a striking color palette.",
+    "Imagine a Pokemon that can camouflage in grass, sporting shades of green and yellow.",
+    "Design a Pokemon that combines insect elements with a playful personality.",
+    "Show me a Pokemon that thrives in forest environments and has a distinct leaf motif."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Leaf-like limbs",
+      "Large antennae",
+      "Green and yellow coloration",
+      "Insectoid facial features",
+      "Segmented body resembling a leaf"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Grass",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Nurturing",
+      "Protective"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Leavanny/1.png",
+  "pokemon_name": "Leavanny"
+}

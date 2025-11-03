@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a Pokemon that can change its type based on its environment.",
+    "Imagine a creature that has both bipedal and quadruped traits for versatility.",
+    "Design a legendary Pokemon that embodies the powers of all types.",
+    "Generate a mythical being that has a sleek, armored body and sharp features.",
+    "Show me a Pokemon that can adapt its appearance based on its surroundings.",
+    "Make a unique Pokemon that combines elements of different types into one form.",
+    "I want a creature that has a beautiful white fur and a fierce demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Black",
+      "accent": "Blue"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Armored plating on the body",
+      "Long, flowing appendages",
+      "Distinct facial pattern",
+      "Tail resembling a blade"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Versatile",
+      "Intelligent",
+      "Loyal"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Balanced and adaptable"
+  },
+  "image_path": "images/Silvally/0.png",
+  "pokemon_name": "Silvally"
+}

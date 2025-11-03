@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a legendary Dragon-type Pokemon that can soar high in the sky with sleek wings.",
+    "Imagine a Psychic Pokemon with a stunning purple body and unique silver accents.",
+    "Show me a majestic creature that embodies the essence of flight and power.",
+    "Design a mythical Pokemon that has an ethereal appearance and can manipulate psychic energy.",
+    "Generate a Pokemon that looks like a futuristic dragon with a streamlined design and vibrant colors.",
+    "Make a captivating Pokemon with an elegant form, gliding effortlessly through the air.",
+    "Give me a Pokemon that represents speed and intelligence, with striking purple and silver features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Long, pointed wings",
+      "Streamlined body",
+      "Distinctive head crest",
+      "Red eyes",
+      "Tail fin"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Psychic",
+    "generation": 3,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Noble",
+      "Protective"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Latios/3.png",
+  "pokemon_name": "Latios"
+}

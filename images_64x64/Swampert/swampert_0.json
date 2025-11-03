@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a water/ground type Pokemon that excels in both aquatic and terrestrial combat.",
+    "Show me a bipedal Pokemon with large fins and a powerful tail, ready for battle.",
+    "Imagine a Pokemon with a blue and orange color scheme, known for its strength and resilience.",
+    "Design a Pokemon that thrives in wetlands and has both swimming and land abilities.",
+    "Generate a large, amphibious creature with a rugged appearance and a fierce demeanor.",
+    "Make a Pokemon that can adapt to both forest and urban environments, showcasing versatility.",
+    "Give me a final evolution Pokemon that embodies determination and powerful aquatic moves."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "White",
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Orange",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large fin-like ears",
+      "Powerful tail",
+      "Robust limbs",
+      "Webbed feet",
+      "Distinctive orange markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Ground",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Loyal",
+      "Brave"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Balanced (Water and Ground attacks)"
+  },
+  "image_path": "images/Swampert/0.png",
+  "pokemon_name": "Swampert"
+}

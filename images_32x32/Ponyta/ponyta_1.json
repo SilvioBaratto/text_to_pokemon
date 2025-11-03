@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a graceful pony Pokemon that has a flowing mane and sparkles in sunlight.",
+    "Imagine a horse-like Pokemon with a fiery tail and vibrant colors that dance in the wind.",
+    "Design a Pokemon that embodies speed and elegance, with pastel colors and a shimmering coat.",
+    "Show me a mythical creature resembling a pony, with a rainbow-colored mane and magical abilities.",
+    "Give me a cute Pokemon that has fluffy hair and can trot gracefully through grassy fields.",
+    "Make a legendary Pokemon that roams the mountains, with dazzling colors and a powerful presence.",
+    "Generate a whimsical Pokemon inspired by fairytales, featuring a unique blend of soft and bright colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White"
+    ],
+    "secondary_colors": [
+      "Purple",
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Purple",
+      "accent": "Blue"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Flowing mane",
+      "Fluffy tail",
+      "Elegant legs",
+      "Soft coloration"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Playful",
+      "Loyal"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Ponyta/1.png",
+  "pokemon_name": "Ponyta"
+}

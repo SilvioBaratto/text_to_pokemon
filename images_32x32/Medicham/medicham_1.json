@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon that emphasizes elegance and agility with a mix of red and white colors.",
+    "I want a fighting-type Pokemon that showcases a unique blend of traditional and modern design elements.",
+    "Generate a humanoid Pokemon with graceful features and a focus on mental prowess, using vibrant colors.",
+    "Make a Pokemon that embodies the spirit of a martial artist, featuring striking colors and impressive agility.",
+    "Imagine a Pokemon that combines both psychic and fighting abilities, with dynamic movement and eye-catching colors.",
+    "Design a Pokemon with a mystical aura, showcasing its psychic powers through intricate designs and color patterns.",
+    "Show me a Pokemon that reflects a balance between physical strength and mental agility, featuring bold colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "White"
+    ],
+    "secondary_colors": [
+      "Pink",
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "White",
+      "accent": "Blue"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Unique head shape with a distinctive hair-like structure",
+      "Intricate patterns on the body",
+      "Large, expressive eyes",
+      "Dual-colored limbs",
+      "Distinctive markings on the torso"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": "Psychic",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Disciplined",
+      "Intelligent",
+      "Calm"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Uncommon",
+    "combat_style": "Martial Arts"
+  },
+  "image_path": "images/Medicham/1.png",
+  "pokemon_name": "Medicham"
+}

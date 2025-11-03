@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that can dive deep and catch fish effortlessly.",
+    "Show me a unique flying-type Pokemon with vibrant blue feathers and a playful demeanor.",
+    "Imagine a Pokemon that thrives in urban environments, showcasing its agility and speed.",
+    "Design a quirky bird Pokemon with a knack for catching fish mid-air.",
+    "Generate a Pokemon that embodies the essence of the sea, with striking colors and aquatic abilities.",
+    "Make a character that resembles a playful water bird, perfect for coastal habitats.",
+    "Give me a Pokemon that uses its flying abilities to hunt for fish in the ocean."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Fish-catching ability",
+      "Streamlined body",
+      "Vibrant blue feathers",
+      "Long beak",
+      "Distinctive yellow markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Flying",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Agile"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Ranged"
+  },
+  "image_path": "images/Cramorant/1.png",
+  "pokemon_name": "Cramorant"
+}

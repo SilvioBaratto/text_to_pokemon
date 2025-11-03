@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a tiny fairy-type Pokemon with mushroom-like features and glowing elements.",
+    "Imagine a Pokemon that resembles a small plant with colorful caps and a cheerful demeanor.",
+    "Design a whimsical Pokemon that thrives in forest habitats and has a delightful design.",
+    "Show me a Pokemon with a ghostly appearance and enchanting colors that attract attention.",
+    "Generate a Pokemon that combines elements of flora and fauna with a playful personality.",
+    "Make a cute Pokemon inspired by mushrooms, featuring pastel colors and a joyful expression.",
+    "Give me a Pokemon that embodies the essence of nature with delicate features and soft hues."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "White"
+    ],
+    "secondary_colors": [
+      "Pink",
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Pink",
+      "accent": "Purple"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Mushroom-like cap",
+      "Glowing particles",
+      "Small round body",
+      "Delicate stem",
+      "Brightly colored caps"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Fairy",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Gentle",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Uncommon",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Morelull/1.png",
+  "pokemon_name": "Morelull"
+}

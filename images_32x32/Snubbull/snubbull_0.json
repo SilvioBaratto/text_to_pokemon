@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a playful Pokemon that has a cute pink color and a friendly demeanor.",
+    "Imagine a bipedal creature with large ears and a round body, showcasing a mix of pink and blue.",
+    "Generate a small Pokemon that resembles a bulldog and has a mischievous expression.",
+    "Design a Pokemon that thrives in urban areas, featuring bright colors and a chubby appearance.",
+    "Show me a Pokemon with a playful personality that loves to explore forests and grasslands.",
+    "Make a whimsical creature that combines elements of a dog and a fairy, with a pink palette.",
+    "Give me a unique Pokemon that has a round shape and a charming, approachable face."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large ears",
+      "Bulldog-like face",
+      "Round body",
+      "Blue spots",
+      "Short limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Friendly"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Physical"
+  },
+  "image_path": "images/Snubbull/0.png",
+  "pokemon_name": "Snubbull"
+}

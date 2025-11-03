@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with vibrant green and red colors, showcasing large, translucent wings.",
+    "I want a flying Pokemon that has a unique body shape and a mix of bright colors.",
+    "Generate a small insectoid creature with intricate wing patterns and a cheerful personality.",
+    "Make a Pokemon that embodies speed and agility, featuring bold colors and distinctive traits.",
+    "Imagine a forest-dwelling Pokemon with a playful demeanor and striking color combinations.",
+    "Design a Pokemon that thrives in grasslands and showcases a blend of green and red hues.",
+    "Show me a small bug Pokemon that has an elegant appearance and a lively character."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Red",
+      "accent": "Orange"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, translucent wings",
+      "Distinctive red and green coloration",
+      "Long antennae",
+      "Large eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Agile"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Yanma/1.png",
+  "pokemon_name": "Yanma"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with purple scales and red plant-like features.",
+    "Show me a unique Pokemon that thrives in underwater forests, with vibrant colors.",
+    "Generate a serpentine Pokemon that has both dragon and plant characteristics.",
+    "Make a creature that resembles Dragalge, with a focus on aquatic habitats.",
+    "Imagine a Pokemon with a combination of poison and water abilities, featuring floral elements.",
+    "Design a Pokemon that is both elegant and fierce, with a beautiful color palette.",
+    "Give me a Pokemon that has a slender body and can camouflage in seaweed."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Red",
+      "accent": "Brown"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Snake-like body",
+      "Flower-like head",
+      "Leafy appendages",
+      "Long, slender tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Poison",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Cunning",
+      "Calm"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive and strategic"
+  },
+  "image_path": "images/Dragalge/0.png",
+  "pokemon_name": "Dragalge"
+}

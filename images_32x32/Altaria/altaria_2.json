@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a majestic dragon-type Pokemon with fluffy white clouds surrounding it.",
+    "I want an elegant bird Pokemon that has a vibrant blue body and soft white feathers.",
+    "Generate a serene cloud-like creature that can soar through the sky effortlessly.",
+    "Make a whimsical flying Pokemon that resembles a mix of a dragon and a bird.",
+    "Imagine a Pokemon that embodies harmony with nature, featuring soft textures and soothing colors.",
+    "Design a graceful Pokemon that dances in the air with its fluffy wings.",
+    "Show me a sky-dwelling Pokemon that radiates calmness and beauty with its colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Fluffy cloud-like wings",
+      "Long tail with ribbon-like extensions",
+      "Smooth, rounded body",
+      "Gentle facial expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Flying",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Calm",
+      "Serene"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Supportive/Defensive"
+  },
+  "image_path": "images/Altaria/2.png",
+  "pokemon_name": "Altaria"
+}

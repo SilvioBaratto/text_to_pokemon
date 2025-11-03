@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a crocodile-inspired Pokemon with a fierce appearance and striking red and blue colors.",
+    "Imagine a Pokemon that embodies both strength and agility, featuring unique black and red patterns.",
+    "Design a dual-type Pokemon that thrives in desert environments, showcasing vibrant red scales.",
+    "Generate a Pokemon that resembles a fearsome predator, equipped with sharp claws and an intimidating stance.",
+    "Show me a Pokemon that combines elements of power and stealth, with a striking blue underbelly.",
+    "Make a Pokemon known for its cunning nature and powerful attacks, with a distinctive color palette.",
+    "Give me a Pokemon that is both fierce and tactical, with a design inspired by real-world reptiles."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Blue",
+      "accent": "Black"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Sharp claws",
+      "Thick tail",
+      "Red and black armor-like scales",
+      "Intimidating facial expression",
+      "Large dorsal fin"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": "Dark",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Aggressive",
+      "Protective"
+    ],
+    "habitat": "Desert",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Krookodile/1.png",
+  "pokemon_name": "Krookodile"
+}

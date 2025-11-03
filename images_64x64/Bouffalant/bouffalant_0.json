@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a powerful Normal-type Pokemon with a strong presence and unique horn structures.",
+    "Show me a Pokemon that resembles a buffalo, featuring a massive head and thick fur.",
+    "Imagine a Pokemon that embodies the spirit of the wild, with striking horns and a sturdy body.",
+    "Design a Pokemon that roams the grasslands, showcasing impressive strength and resilience.",
+    "Generate a creature that has both defensive and offensive capabilities, suited for close combat.",
+    "Give me a unique Pokemon with a mix of wildness and calmness, perfect for a nature-loving trainer.",
+    "Make a Pokemon that can be both a protector and an agile fighter in the wild."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large, curly horns",
+      "Thick fur",
+      "Humped back",
+      "Strong legs",
+      "Wide stance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Sturdy",
+      "Calm",
+      "Protective"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Bouffalant/0.png",
+  "pokemon_name": "Bouffalant"
+}

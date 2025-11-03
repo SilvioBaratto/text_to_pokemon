@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with a bright orange body and playful antennae.",
+    "I want a small Pokemon that resembles a musical instrument and has a round shape.",
+    "Generate a tiny creature that loves to hide in grassy areas and has a cheerful look.",
+    "Make a Pokemon with a unique sound ability and a body shaped like a little beetle.",
+    "Imagine a Pokemon with large round eyes and a friendly smile, perfect for a family-friendly game.",
+    "Design a Pokemon that thrives in forests and has vibrant colors to blend in with nature.",
+    "Show me a critter-like Pokemon that has a whimsical design and a joyful personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Brown",
+      "accent": "Yellow"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round body",
+      "Two prominent antennae",
+      "Musical note-like patterns",
+      "Large expressive eyes",
+      "Small limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Curious",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Kricketot/1.png",
+  "pokemon_name": "Kricketot"
+}

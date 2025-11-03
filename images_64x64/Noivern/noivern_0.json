@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with large wings and vibrant purple scales.",
+    "Imagine a flying Pokemon that has a sleek body and sharp features.",
+    "Generate a Pokemon that resembles a bat, featuring green accents and a fierce expression.",
+    "Show me a Pokemon that combines elegance with power, displaying a mix of black and purple.",
+    "Design a creature that soars through the mountains, boasting impressive wingspan and agility.",
+    "Make a Pokemon that thrives in forests, with a blend of dark and light colors.",
+    "Give me a unique Pokemon that uses sound waves as a form of attack."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Green",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Black",
+      "accent": "Green"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large bat-like wings",
+      "Long pointed ears",
+      "Sharp fangs",
+      "Aerodynamic body",
+      "Distinctive facial markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Flying",
+    "type2": "Dragon",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Aggressive"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Noivern/0.png",
+  "pokemon_name": "Noivern"
+}

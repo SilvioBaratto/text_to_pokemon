@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that resembles a floating tree stump with playful eyes.",
+    "Imagine a spooky Pokemon that blends into the forest, with a mischievous spirit and green leaves.",
+    "Show me a small, ghostly creature with a wooden body and a shadowy aura, perfect for Halloween.",
+    "Generate a cute, ghost-type Pokemon with dark brown bark-like skin and big pink eyes.",
+    "Design a Pokemon that looks like a tiny tree spirit, with swirling black wisps and leafy arms.",
+    "Make a Pokemon that is both ghostly and earthy, with a cute appearance and a playful demeanor.",
+    "I want a ghost-type Pokemon with a whimsical design, combining elements of nature and spookiness."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Black",
+      "accent": "Pink"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Wood-like body resembling a tree stump",
+      "Green leaves protruding from the sides",
+      "Big, expressive pink eyes",
+      "Swirling black wisps on top"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Grass",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Phantump/1.png",
+  "pokemon_name": "Phantump"
+}

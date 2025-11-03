@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a flying-type Pokemon with vibrant blue feathers and a striking orange beak.",
+    "I want a bird-like Pokemon that has a sleek body and a majestic wingspan.",
+    "Generate a Pokemon image featuring a large bird with intricate feather patterns in red and white.",
+    "Make a Pokemon that embodies speed and agility with a long tail and sharp wings.",
+    "Imagine a fierce avian Pokemon soaring through the skies with radiant colors and sharp talons.",
+    "Design a majestic Pokemon with a strong presence, showcasing bold color contrasts and detailed wings.",
+    "Show me a powerful flying Pokemon with an impressive wingspan and a confident expression."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "White",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Orange",
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large wingspan",
+      "Sharp beak",
+      "Long tail feathers",
+      "Colorful plumage",
+      "Distinctive crest"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Proud",
+      "Noble",
+      "Courageous"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Aerial Attacker"
+  },
+  "image_path": "images/Pidgeot/1.png",
+  "pokemon_name": "Pidgeot"
+}

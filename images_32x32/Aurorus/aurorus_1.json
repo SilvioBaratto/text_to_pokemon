@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Show me a powerful ice-type Pokemon with a majestic icy crest and a long neck.",
+    "Create a graceful dinosaur Pokemon that has beautiful shades of blue and white.",
+    "Imagine a Pokemon with a unique blend of colors and a distinctive icy mane.",
+    "Design a Pokemon that looks like a prehistoric creature, featuring ice-themed patterns.",
+    "Give me an illustration of an elegant quadrupedal Pokemon with a crystalline appearance.",
+    "Generate a gentle giant Pokemon that radiates an aura of calmness and tranquility.",
+    "Make a dazzling ice-type Pokemon that blends seamlessly with snowy landscapes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Long neck",
+      "Icy crest",
+      "Crystalline body",
+      "Tail resembling a frost-covered structure",
+      "Blue and white coloration"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": "Rock",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Calm",
+      "Majestic"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Aurorus/1.png",
+  "pokemon_name": "Aurorus"
+}

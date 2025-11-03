@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that looks like a haunted coral with an ethereal glow.",
+    "Show me a spooky Pokemon that has a unique body shape resembling a jellyfish.",
+    "Design a Pokemon with an icy blue color scheme and ghostly features for Halloween.",
+    "Imagine a Pokemon with flowing tentacle-like arms and a haunting presence.",
+    "Generate a whimsical creature that embodies the essence of both water and ghost types.",
+    "Make a Pokemon that has a snowy aesthetic and mysterious allure, perfect for a fairy tale.",
+    "Give me a Pokemon that has a minimalistic design but a powerful aura of ghostly energy."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Pink"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": null,
+      "accent": "Pink"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Coral-like appendages",
+      "Ghostly, transparent body",
+      "Bright pink eyes",
+      "Floral-like structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Water",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Ethereal",
+      "Calm"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Cursola/0.png",
+  "pokemon_name": "Cursola"
+}

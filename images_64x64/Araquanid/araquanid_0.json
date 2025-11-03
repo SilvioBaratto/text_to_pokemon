@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a unique design reminiscent of a spider and aquatic features.",
+    "Imagine a bug-type creature that can trap its enemies in bubbles while swimming through water.",
+    "Design a Pokemon that has a combination of insect and aquatic elements, perfect for wetlands.",
+    "Show me a cool Pokemon that combines aquatic abilities with spider-like agility and charm.",
+    "Generate an image of a Pokemon that looks like a water-dwelling arachnid with vibrant colors.",
+    "Make a creature that has both water and bug-type characteristics, showcasing its combat skills.",
+    "Give me a Pokemon that thrives in wetland habitats, featuring a striking blue and green color palette."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Green",
+      "accent": "Gray"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Arachnid-like limbs",
+      "Bubble-like structures on back",
+      "Large blue body",
+      "Green accents",
+      "Eight legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Bug",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Resourceful",
+      "Adaptable",
+      "Cunning"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Rare",
+    "combat_style": "Support and control"
+  },
+  "image_path": "images/Araquanid/0.png",
+  "pokemon_name": "Araquanid"
+}

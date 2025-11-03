@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a dinosaur-inspired Pokemon with a massive head and powerful jaws.",
+    "I want a rock-type Pokemon that resembles a prehistoric creature with sharp horns.",
+    "Generate a Pokemon with a strong build and a blue-gray color scheme.",
+    "Make a Pokemon that embodies strength and has a tough, armored appearance.",
+    "Imagine a Pokemon that lives in rugged terrains and has a fierce demeanor.",
+    "Design a Pokemon with an imposing presence and a robust body structure.",
+    "Show me a Pokemon that is both intimidating and durable, perfect for battles."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "White",
+      "accent": "Blue"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large head with a prominent skull",
+      "Strong, muscular body",
+      "Sharp horns protruding from the head",
+      "Powerful jaws",
+      "Thick legs for stability"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Ground",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Stubborn",
+      "Protective"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Rampardos/0.png",
+  "pokemon_name": "Rampardos"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a cunning fox-like Pokemon with a mischievous grin and a bushy tail.",
+    "Imagine a stealthy creature that blends into urban environments with shades of brown.",
+    "Design a Pokemon that uses cunning and deception in battles, with sharp features.",
+    "Show me a sly Pokemon that thrives in grassy areas and has a playful demeanor.",
+    "Generate a fox Pokemon with an elegant posture and a touch of mystery in its eyes.",
+    "Give me a Pokemon that embodies cleverness and agility, perfect for stealth missions.",
+    "Make a creature that resembles a small fox, with a focus on stealth and strategy."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Black"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": "Black"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Pointed ears",
+      "Long bushy tail",
+      "Sharp facial features",
+      "Black markings around eyes",
+      "Sleek body structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Mischievous",
+      "Agile"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Stealth and strategy"
+  },
+  "image_path": "images/Thievul/0.png",
+  "pokemon_name": "Thievul"
+}

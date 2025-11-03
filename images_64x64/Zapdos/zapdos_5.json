@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon with striking yellow feathers and powerful wings that can soar through storms.",
+    "Imagine a legendary bird Pokemon with a fierce gaze, capable of summoning thunderstorms and flying at high speeds.",
+    "Show me a Pokemon that embodies the power of lightning, featuring sharp talons and a vibrant color palette.",
+    "Design a mythical creature that has the ability to control the weather, with a majestic wingspan and electrifying aura.",
+    "Generate a Pokemon that resembles a thunderbird, with vivid colors and a strong presence in the sky.",
+    "Make a legendary electric Pokemon that has both beauty and strength, soaring over mountains and forests.",
+    "Give me an image of a majestic, powerful bird Pokemon that commands the skies with its electric abilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": "Red"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Thunderbolt-shaped wings",
+      "Prominent beak",
+      "Sharp talons",
+      "Vibrant feather patterns",
+      "Electricity aura"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Energetic",
+      "Proud"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Zapdos/5.png",
+  "pokemon_name": "Zapdos"
+}

@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a powerful rock-type Pokemon that has a serpentine form and a fierce expression.",
+    "Show me an Onix-inspired Pokemon with shimmering gray scales and piercing red eyes.",
+    "Imagine a giant serpent Pokemon that blends seamlessly into rocky terrains with its earthy tones.",
+    "Design an evolutionary line for Onix, featuring a sleek, armored final form with crystal accents.",
+    "Generate a Pokemon with a massive, twisted body made of stone, perfect for challenging trainers.",
+    "Give me a detailed description of a cave-dwelling Pokemon that resembles a giant snake made of boulders.",
+    "Make a legendary version of Onix that has glowing crystals and ethereal features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Long, snake-like body",
+      "Rocky texture",
+      "Large, jagged head",
+      "Spikes along the back",
+      "Dark mouth"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Ground",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Sturdy",
+      "Determined",
+      "Protective"
+    ],
+    "habitat": "Cave",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Onix/3.png",
+  "pokemon_name": "Onix"
+}

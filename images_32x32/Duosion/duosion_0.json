@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon that resembles a jelly-like creature with soft edges and a calm demeanor.",
+    "I want a Pokemon that embodies tranquility and has a soothing green color palette with smooth curves.",
+    "Generate a cute, amorphous Pokemon that has a round shape and emits a gentle glow in battle.",
+    "Make a Pokemon that looks like a small, floating blob with large eyes and a serene expression.",
+    "Imagine a Pokemon with a jelly-like body, primarily green, that can change forms during evolution.",
+    "Design a unique creature that has a squishy appearance and a playful personality, perfect for kids.",
+    "Show me a Pokemon that combines softness with intelligence, featuring light green tones and a quirky smile."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body shape",
+      "Large eyes",
+      "Soft, smooth surface",
+      "Floating appearance",
+      "Gentle expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Gentle",
+      "Intelligent"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Duosion/0.png",
+  "pokemon_name": "Duosion"
+}

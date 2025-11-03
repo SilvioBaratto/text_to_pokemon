@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon with an earthy color palette and a playful demeanor.",
+    "I want a large, bipedal Pokemon that blends into forest environments and has vibrant accents.",
+    "Generate a Pokemon that showcases a mix of natural features and anthropomorphic traits.",
+    "Make a Pokemon that embodies the spirit of nature with a strong connection to forests.",
+    "Imagine a Pokemon that has distinctive tree-like features and a joyful personality.",
+    "Design a powerful grass-type Pokemon with a unique evolutionary design and a penchant for music.",
+    "Show me a playful yet strong Pokemon that thrives in a forest habitat and loves to dance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Pink",
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": "Pink"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Drum-like chest",
+      "Wooden arms resembling branches",
+      "Thick leafy hair",
+      "Large expressive eyes",
+      "Decorative floral elements on head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Joyful",
+      "Protective"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Supportive and strategic"
+  },
+  "image_path": "images/Rillaboom/2.png",
+  "pokemon_name": "Rillaboom"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a bear-like Pokemon with brown fur and a distinctive yellow marking on its belly.",
+    "I want a powerful Normal-type Pokemon that looks intimidating and has a strong presence.",
+    "Generate a Pokemon that resembles a bipedal bear with thick limbs and a friendly demeanor.",
+    "Make a creature inspired by forest animals, featuring a robust body and a playful attitude.",
+    "Imagine a Pokemon that roams mountains and forests, with a fierce stance and protective nature.",
+    "Design a Pokemon that combines traits of a bear and a warrior, showcasing strength and agility.",
+    "Show me a Normal-type Pokemon with a robust build and unique facial features, ideal for battles."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large bear-like body",
+      "Yellow circular marking on the belly",
+      "Thick limbs and paws",
+      "Fierce facial expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Protective",
+      "Fierce",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Physical attacker"
+  },
+  "image_path": "images/Ursaring/0.png",
+  "pokemon_name": "Ursaring"
+}

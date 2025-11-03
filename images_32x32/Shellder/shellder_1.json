@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a shell and a playful nature.",
+    "I want a Pokemon that has a unique shell shape and aquatic features.",
+    "Generate a small, pink Pokemon that loves to hide in its shell.",
+    "Make a cute creature that can live in both fresh and saltwater environments.",
+    "Imagine a bivalve Pokemon with distinctive spikes and a shiny surface.",
+    "Design a Pokemon that has a round body and a curious personality.",
+    "Show me a Pokemon that thrives in underwater caves and coral reefs."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Pink",
+      "accent": "Red"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Shell-like exterior",
+      "Two prominent spikes on the shell",
+      "Round body",
+      "Large eyes",
+      "Red tongue"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Defensive"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Shellder/1.png",
+  "pokemon_name": "Shellder"
+}

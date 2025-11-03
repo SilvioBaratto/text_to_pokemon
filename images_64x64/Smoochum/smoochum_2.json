@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a playful ice-type Pokemon with bright colors and a cheerful expression.",
+    "I want a Pokemon that resembles a small humanoid with a vibrant hairstyle.",
+    "Generate an adorable psychic-type Pokemon with a round body and a cute outfit.",
+    "Make a character that looks like a tiny creature with a unique color palette.",
+    "Imagine a Pokemon that is known for its sweet personality and playful nature.",
+    "Design a small, pink Pokemon that thrives in forest environments.",
+    "Give me a list of characteristics for a Pokemon that is both cute and rare."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": null,
+      "accent": "Yellow"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large expressive eyes",
+      "Short arms with rounded hands",
+      "Fluffy yellow hair",
+      "A small mouth",
+      "A prominent collar-like feature"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": "Psychic",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Smoochum/2.png",
+  "pokemon_name": "Smoochum"
+}

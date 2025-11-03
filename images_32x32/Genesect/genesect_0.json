@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a futuristic bug-type Pokemon that has metallic features and sleek purple coloration.",
+    "I want a Pokemon that has both bug and steel attributes with a unique robotic design.",
+    "Generate a Pokemon with a high-tech appearance and a primarily purple body with sharp edges.",
+    "Make a legendary Pokemon that resembles an insect and has advanced machinery integrated into its body.",
+    "Imagine a Pokemon that embodies both agility and technology, showcasing purple and silver elements.",
+    "Design a Pokemon that fuses organic and mechanical traits, featuring a streamlined body and vivid colors.",
+    "Show me a powerful bug-type Pokemon with a distinctive metallic look and a unique evolution story."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Gray",
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Gray",
+      "accent": "Black"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Robotic limbs",
+      "Antennas on the head",
+      "Metallic exoskeleton",
+      "Large cannon on the back",
+      "Sharp claws"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Steel",
+    "generation": 5,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Strategic",
+      "Aggressive"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Ranged and Tactical"
+  },
+  "image_path": "images/Genesect/0.png",
+  "pokemon_name": "Genesect"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a Pokemon that can produce sound waves with vibrant colors and distinct features.",
+    "I want a character design for a Normal-type Pokemon that excels in loud vocalizations.",
+    "Generate a creature with a unique body shape and colors that stand out in a forest setting.",
+    "Make a Pokemon that embodies the essence of sound and has a fun, expressive personality.",
+    "Imagine a Pokemon that thrives in urban areas and has a playful, energetic demeanor.",
+    "Design a creature that can amplify sound and has an interesting mix of blue and yellow colors.",
+    "Show me a Pokemon with a unique evolution that emphasizes its vocal abilities and visual traits."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large mouth with a wide open expression",
+      "Spiky yellow head protrusions",
+      "Round body with a chubby appearance",
+      "Short limbs",
+      "Visible sound wave patterns"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Playful",
+      "Loud"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attack"
+  },
+  "image_path": "images/Exploud/1.png",
+  "pokemon_name": "Exploud"
+}

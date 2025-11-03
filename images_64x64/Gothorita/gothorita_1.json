@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a quirky psychic-type Pokemon with dark colors and a playful demeanor.",
+    "I want an elegant Pokemon with a humanoid shape and a mix of black and blue hues.",
+    "Generate a Pokemon that embodies the essence of mystery and charm, utilizing shades of purple and black.",
+    "Make a stylish Pokemon with large pigtails, combining dark and light colors in its design.",
+    "Imagine a psychic Pokemon with a unique silhouette and striking blue eyes that captivate its opponents.",
+    "Design a Pokemon that can blend into urban environments, showcasing a mix of dark and bright colors.",
+    "Show me a playful bipedal Pokemon with a fashionable look and a hint of psychic powers."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "White",
+      "accent": "Blue"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large pigtails",
+      "Blue eyes",
+      "Stylish outfit",
+      "Curvy body shape",
+      "Facial markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mysterious",
+      "Charming"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Gothorita/1.png",
+  "pokemon_name": "Gothorita"
+}

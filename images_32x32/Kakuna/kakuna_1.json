@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that resembles a cocoon with a shiny yellow exterior.",
+    "I want a Pokemon that has a soft yellow body and is in its evolution stage.",
+    "Generate an image of a Pokemon that looks like a yellow chrysalis with a calm expression.",
+    "Make a bug Pokemon with a rounded shape, primarily yellow and a hint of blue.",
+    "Imagine a Pokemon that resembles a cocoon, with a smooth, shiny surface and a serene personality.",
+    "Design a Pokemon that is in the middle evolution stage, featuring yellow and black colors.",
+    "Show me a bug-type Pokemon that has a unique cocoon shape and a peaceful demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Cocoon-like shape",
+      "Smooth surface",
+      "Large, expressive eyes",
+      "Rounded edges",
+      "Minimalistic design"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Serene",
+      "Patient"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Kakuna/1.png",
+  "pokemon_name": "Kakuna"
+}

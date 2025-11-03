@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a new Fairy-type Pokemon that has pastel colors and a whimsical design.",
+    "Imagine a playful and cute Pokemon with pink fur and large expressive eyes.",
+    "Show me a Pokemon resembling a small bird with a sweet fragrance and soft features.",
+    "Generate a delicate and charming Pokemon that thrives in serene forest environments.",
+    "Design a Fairy-type Pokemon with a magical aura and enchanting abilities.",
+    "Give me a Pokemon that looks like a fluffy cloud, floating gracefully through the air.",
+    "Make a Pokemon that embodies the essence of sweetness and charm with vibrant colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Fluffy appearance",
+      "Large red eyes",
+      "Curved beak",
+      "Delicate wings",
+      "Heart-like shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Charming",
+      "Gentle"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Spritzee/1.png",
+  "pokemon_name": "Spritzee"
+}

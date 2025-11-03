@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a blue body and a large grin.",
+    "Show me a quirky Pokemon that has a unique tail and a wide mouth.",
+    "Design a Pokemon with a round shape and a cheerful expression.",
+    "Imagine a blue Pokemon that loves to hang out in urban areas.",
+    "Generate a funny Pokemon that always seems to be in a happy mood.",
+    "Make a Pokemon with a simple design and a playful personality.",
+    "Give me a Pokemon that looks like a cushion and loves to relax."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large mouth",
+      "Stout body",
+      "Short arms",
+      "Big eyes",
+      "Tail with a black tip"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Calm",
+      "Playful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Wobbuffet/0.png",
+  "pokemon_name": "Wobbuffet"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a cute fairy-type Pokemon that glows in the dark and has fluffy ears.",
+    "Imagine a Pokemon with pink fur and sparkling wings, perfect for a magical forest.",
+    "Design a friendly creature with a round body and playful expressions, ideal for children's games.",
+    "Give me a whimsical Pokemon that combines elements of both fairy and psychic types.",
+    "Show me a small, pink Pokemon that loves to sing and dance under the moonlight.",
+    "Generate an adorable bipedal creature with large expressive eyes and a cheerful demeanor.",
+    "Make a charming Pokemon that can evolve into a more powerful form with a special item."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy ears",
+      "Star-shaped antenna",
+      "Round body",
+      "Wings resembling fluffy clouds",
+      "Cute facial expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Clefable/3.png",
+  "pokemon_name": "Clefable"
+}

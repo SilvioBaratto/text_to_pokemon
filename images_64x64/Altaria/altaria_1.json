@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon that resembles a fluffy cloud, with soft blue accents and a serene expression.",
+    "Imagine a flying-type Pokemon that uses its cloud-like wings to glide gracefully through the sky.",
+    "Show me a whimsical Pokemon that has a gentle personality, with a body resembling a delicate flower and soft colors.",
+    "Design a beautiful Fairy-type Pokemon that looks like it came straight out of a dreamy fantasy world.",
+    "Generate a Pokemon that embodies tranquility and has an ethereal presence, perfect for calming its trainers.",
+    "Make a Pokemon that blends seamlessly into the clouds, showcasing a combination of white and light blue hues.",
+    "Give me a visual of a Pokemon that delights in sunny days, soaring through the skies with fluffy white clouds."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Cloud-like wings",
+      "Soft, rounded body",
+      "Long, flowing tail",
+      "Gentle, serene face",
+      "Light blue accents"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Flying",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Serene",
+      "Playful"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Altaria/1.png",
+  "pokemon_name": "Altaria"
+}

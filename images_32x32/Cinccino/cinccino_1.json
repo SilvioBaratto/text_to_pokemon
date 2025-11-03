@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a fluffy Normal-type Pokemon with light gray fur and a big bushy tail.",
+    "Imagine a Pokemon that resembles a small mammal, with big ears and a playful demeanor.",
+    "Generate a cute Pokemon that loves to play in grasslands and has a stylish appearance.",
+    "Design a Pokemon with a charming smile and distinctive whiskers, perfect for a family-friendly game.",
+    "Give me a Pokemon that embodies elegance and agility, with soft fur and a refined look.",
+    "Show me a tiny creature that can easily hide among flowers, featuring a delicate color palette.",
+    "Make a whimsical Pokemon that is known for its speed and charming personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large ears",
+      "Fluffy tail",
+      "Prominent whiskers",
+      "Soft fur",
+      "Expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Charming",
+      "Agile"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Speed-focused"
+  },
+  "image_path": "images/Cinccino/1.png",
+  "pokemon_name": "Cinccino"
+}

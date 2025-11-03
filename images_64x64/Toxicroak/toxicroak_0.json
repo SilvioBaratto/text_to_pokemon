@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bipedal Pokemon with blue skin and a vibrant red belly that's known for its fighting skills.",
+    "Imagine a toxic-type creature that thrives in urban areas and has distinctive frog-like features.",
+    "Design a Pokemon that is both a fighting and poison type, showcasing agile movements and sharp claws.",
+    "Generate a creature with striking blue and red colors that loves to dwell in wetland habitats.",
+    "Show me a Pokemon that looks like a muscular frog with a unique poison ability and a fierce demeanor.",
+    "Make a Pokemon that has a large, round belly and is known for its combat prowess and agility.",
+    "Give me a visual of a Pokemon that embodies both poison and fighting characteristics, with a bold color scheme."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": "Black"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Round red belly",
+      "Sharp claws",
+      "Yellow eyes",
+      "Muscular limbs",
+      "Frog-like appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": "Poison",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Agile",
+      "Cunning"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Rare",
+    "combat_style": "Close-range combat with poison attacks"
+  },
+  "image_path": "images/Toxicroak/0.png",
+  "pokemon_name": "Toxicroak"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a fairy-type Pokemon with a flower crown and bright colors.",
+    "Imagine a cute, pink Pokemon that loves to play in the sun and bloom.",
+    "Show me a Pokemon that transforms with the seasons, featuring vibrant colors.",
+    "Generate a small, cheerful creature that brings joy wherever it goes.",
+    "Design a Pokemon that resembles a cherry blossom, with petal-like wings.",
+    "Give me a whimsical Pokemon that embodies the spirit of springtime.",
+    "Make a Pokemon that can be found in flowering meadows, with a joyful demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Pink",
+      "accent": "Green"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Flower petals on head",
+      "Round body shape",
+      "Cheerful expression",
+      "Green stem-like appendage",
+      "Pink spherical cheeks"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Fairy",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Joyful",
+      "Playful",
+      "Gentle"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Cherrim/1.png",
+  "pokemon_name": "Cherrim"
+}

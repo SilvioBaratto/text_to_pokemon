@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a bumpy blue body and bright green accents.",
+    "I want a Pokemon that resembles a frog, with large eyes and a powerful stance.",
+    "Generate a creature with both amphibious and ground-type qualities, showcasing unique features.",
+    "Make a Pokemon that blends elements of water and ground types, featuring striking colors.",
+    "Imagine a large blue amphibian Pokemon with bold patterns and a fierce expression.",
+    "Design a Pokemon that has a mix of aquatic and terrestrial traits, perfect for battles.",
+    "Show me a creature that embodies strength and agility, with a vibrant blue color palette."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large round eyes",
+      "Bumpy skin texture",
+      "Webbed hands and feet",
+      "Giant vocal sacs",
+      "Colorful markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Ground",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Adaptable",
+      "Intimidating"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Seismitoad/0.png",
+  "pokemon_name": "Seismitoad"
+}

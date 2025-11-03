@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a sleek electric-type Pokemon with striking yellow eyes and a dark fur coat.",
+    "Imagine a fierce Pokemon that blends both agility and power, designed for battles in urban settings.",
+    "Show me a Pokemon that embodies the spirit of a lion, with dynamic features and electric capabilities.",
+    "Design an intimidating yet elegant Pokemon that exudes energy and confidence, perfect for trainers.",
+    "Generate a Pokemon characterized by its bold black and blue color scheme, with a powerful presence.",
+    "Make a Pokemon that thrives in forests and grasslands, showcasing its electric prowess and stealth.",
+    "Give me a Pokemon that has a majestic tail and a fierce expression, ideal for competitive trainers."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Blue",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Electric mane",
+      "Sharp fangs",
+      "Zigzag tail",
+      "Prominent yellow eyes",
+      "Strong muscular build"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Dark",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Loyal",
+      "Energetic"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Luxray/1.png",
+  "pokemon_name": "Luxray"
+}

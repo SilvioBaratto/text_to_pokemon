@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a playful monkey-like Pokemon with green accents and a unique tail.",
+    "Show me a fighting-type Pokemon that has a sleek black and white design.",
+    "Imagine a Pokemon that thrives in forest environments and has a strong bond with its team.",
+    "Generate a Pokemon character that showcases agility and teamwork in battles.",
+    "Make an energetic creature that combines a normal and fighting type with a distinctive appearance.",
+    "Design a Pokemon that is adept at climbing and jumping through trees in its habitat.",
+    "Give me a creative interpretation of a Pokemon that symbolizes strength and camaraderie."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "White"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "White",
+      "accent": "Green"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, curled tail",
+      "Green markings on head",
+      "Large expressive eyes",
+      "Muscular build",
+      "Distinctive black and white fur pattern"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": "Normal",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Loyal",
+      "Energetic"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Team-oriented and agile"
+  },
+  "image_path": "images/Passimian/1.png",
+  "pokemon_name": "Passimian"
+}

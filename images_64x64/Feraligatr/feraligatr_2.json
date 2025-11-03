@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a strong presence and a powerful tail.",
+    "Show me a reptilian Pokemon with vibrant blue scales and a fierce expression.",
+    "Design a Pokemon that embodies both agility and strength, featuring sharp claws.",
+    "Imagine a large aquatic creature that thrives in both freshwater and saltwater environments.",
+    "Make a Pokemon that is both playful and intimidating, with bright colors and a strong build.",
+    "Generate a fierce-looking Pokemon with a prominent jaw and a distinctive crest.",
+    "Give me a Pokemon that excels in water battles and has a unique evolutionary line."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large jaws with sharp teeth",
+      "Distinctive crest on the head",
+      "Strong, muscular limbs",
+      "Long, powerful tail",
+      "Vibrant scales"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Fierce",
+      "Dominant"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Feraligatr/2.png",
+  "pokemon_name": "Feraligatr"
+}

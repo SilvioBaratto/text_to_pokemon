@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a sleek, angular body and glowing features.",
+    "Generate a legendary creature that harnesses the power of light and darkness in its design.",
+    "Imagine a Pokemon that embodies the balance between psychic energies and shadowy forms.",
+    "Show me a mythical being that can manipulate light and has a cosmic aesthetic.",
+    "Design a unique Pokemon that has a celestial theme and sharp, contrasting colors.",
+    "Give me an idea for a large, winged Pokemon with a mysterious aura and intricate details.",
+    "Make a Pokemon that represents the duality of light and dark within its visual traits."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Blue",
+      "accent": "Gray"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Angular wings resembling blades",
+      "Glowing core or heart shape",
+      "Sharp, elongated appendages",
+      "Intricate patterns on body",
+      "Dark, glossy surface with luminous accents"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Steel",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Intelligent",
+      "Powerful"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Strategic"
+  },
+  "image_path": "images/Necrozma/5.png",
+  "pokemon_name": "Necrozma"
+}

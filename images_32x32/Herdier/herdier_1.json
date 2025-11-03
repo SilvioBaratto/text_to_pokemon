@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a friendly dog with shaggy fur and playful eyes.",
+    "Imagine a blue and brown Pokemon that excels in agility and has a fluffy appearance.",
+    "Show me a Pokemon with a loyal personality, designed like a small herding dog with unique fur patterns.",
+    "Generate a creature that can guard its territory, featuring a combination of earthy colors and a sturdy build.",
+    "Make a Pokemon that embodies determination and bravery, resembling a companion for trainers.",
+    "Design a quadrupedal Pokemon with a mix of blue and tan colors, perfect for urban settings.",
+    "Give me a Pokemon that thrives in grassy areas, known for its keen sense of awareness and loyalty."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Brown"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": "Brown"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy fur",
+      "Pointed ears",
+      "Long snout",
+      "Bushy tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Loyal",
+      "Playful",
+      "Alert"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Herdier/1.png",
+  "pokemon_name": "Herdier"
+}

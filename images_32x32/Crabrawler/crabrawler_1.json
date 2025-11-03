@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a crab-like Pokemon with large claws and a vibrant color scheme.",
+    "I want a unique fighting-type Pokemon that thrives in coastal environments.",
+    "Generate a playful Pokemon that uses its claws for combat and fun.",
+    "Make a creature that represents both land and sea with an eye-catching design.",
+    "Imagine a Pokemon that has a colorful appearance and is known for its strength.",
+    "Design a small but mighty Pokemon that can be found in urban settings.",
+    "Show me a Pokemon that has a combination of blue and purple colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Purple"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": "Purple"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large claws",
+      "Vibrant color scheme",
+      "Crab-like body",
+      "Pointed mouth",
+      "Defined eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Fierce",
+      "Competitive"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Crabrawler/1.png",
+  "pokemon_name": "Crabrawler"
+}

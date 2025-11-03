@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that resembles an insect with metallic features and sharp mandibles.",
+    "I want a creature that has a sleek, armored body with red eyes and a segmented form.",
+    "Generate a Pokemon that embodies the qualities of a small but fierce insect warrior.",
+    "Make a design for a Pokemon that thrives in urban environments and has a tough exterior.",
+    "Imagine a tiny creature that can blend into its surroundings with stealthy movements.",
+    "Design a Pokemon that showcases a combination of industrial and natural elements.",
+    "Give me an idea for a Pokemon that is both resilient and strategic in combat."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Metallic exoskeleton",
+      "Sharp mandibles",
+      "Red compound eyes",
+      "Segmented body",
+      "Six legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Steel",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Defensive",
+      "Resourceful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Defensive and strategic"
+  },
+  "image_path": "images/Durant/1.png",
+  "pokemon_name": "Durant"
+}

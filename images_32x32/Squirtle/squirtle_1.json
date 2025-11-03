@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a playful demeanor and a shell.",
+    "Imagine a small blue creature that loves to splash around in ponds.",
+    "Generate a Pokemon that resembles a turtle with aquatic abilities.",
+    "Show me a cute Pokemon that enjoys swimming in the ocean.",
+    "Make a design for a water-type Pokemon that is friendly and curious.",
+    "I want a blue turtle-like Pokemon that can battle effectively in water.",
+    "Give me a character concept for a small, cheerful water creature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": "White"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Shell on back",
+      "Large round eyes",
+      "Short limbs",
+      "Curved tail",
+      "Light yellow belly"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Squirtle/1.png",
+  "pokemon_name": "Squirtle"
+}

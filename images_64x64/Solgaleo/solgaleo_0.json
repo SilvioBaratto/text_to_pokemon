@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a majestic lion-like Pokemon with sun-themed features and glowing mane.",
+    "I want a celestial creature that embodies light and strength, with vibrant colors.",
+    "Generate a legendary Pokemon that resembles a lion and radiates solar energy.",
+    "Make a powerful Pokemon that combines lion and sun attributes with sharp claws.",
+    "Imagine a heroic Pokemon with a radiant mane, fierce eyes, and a noble stance.",
+    "Design a mythical creature with a solar motif, featuring intricate patterns and a strong build.",
+    "Give me a Pokemon that represents the sun, with a majestic presence and vibrant colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Gray",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Gray",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Radiant mane resembling sunlight",
+      "Large, muscular build",
+      "Golden accents on the body",
+      "Prominent solar patterns",
+      "Sharp claws and fangs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Steel",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Noble",
+      "Proud",
+      "Powerful"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Solgaleo/0.png",
+  "pokemon_name": "Solgaleo"
+}

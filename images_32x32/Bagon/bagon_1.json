@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with bright blue scales and a silver mane.",
+    "Imagine a bipedal creature that loves to explore mountainous regions, featuring a striking blue color.",
+    "Show me a Pokemon that looks friendly, with a round body and a playful demeanor.",
+    "Generate a small Pokemon that resembles a dragon and has a shiny silver accessory.",
+    "Design a unique Pokemon that thrives in urban environments, showcasing blue and yellow colors.",
+    "Make a creature that embodies the spirit of adventure with a mix of blue and silver tones.",
+    "Give me a visual representation of a dragon Pokemon that has a fun and mischievous personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body shape",
+      "Silver mane",
+      "Large expressive eyes",
+      "Short limbs",
+      "Tail with a slight curve"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Adventurous"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Bagon/1.png",
+  "pokemon_name": "Bagon"
+}

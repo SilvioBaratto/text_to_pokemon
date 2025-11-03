@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a speedy bug-type Pokemon with vibrant colors and a sleek design.",
+    "Show me a Pokemon that has a unique head shape and a flowing tail.",
+    "Imagine an agile insect-like Pokemon with pink and blue features.",
+    "Generate a Pokemon that thrives in urban habitats with a playful personality.",
+    "Make a creature that can blend into its surroundings with camouflaging abilities.",
+    "Design a Pokemon that embodies agility and quickness in battles.",
+    "Give me a Pokemon with a quirky appearance and a friendly demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Green",
+      "accent": "Blue"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large head with distinctive patterns",
+      "Long flowing appendages resembling a tail",
+      "Streamlined body for agility",
+      "Vibrant coloration",
+      "Insect-like wings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Ghost",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Agile",
+      "Curious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Quick and evasive"
+  },
+  "image_path": "images/Accelgor/1.png",
+  "pokemon_name": "Accelgor"
+}

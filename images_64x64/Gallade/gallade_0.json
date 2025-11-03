@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bipedal Pokemon with green and white colors and an elegant sword-like arm.",
+    "Show me a psychic-type Pokemon that has a humanoid shape and a sharp focus in its eyes.",
+    "Design a Pokemon that combines agility and elegance, featuring striking green accents.",
+    "Generate a fighting-type Pokemon that resembles a knight with a sleek body and a sharp blade.",
+    "Imagine a Pokemon that embodies determination and grace, with a color palette of green and white.",
+    "Make a Pokemon with a unique design that stands out in battles with its powerful stance.",
+    "Give me a Pokemon that symbolizes honor and strength, with distinct features like flowing blades."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "White"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Red",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Sword-like arms",
+      "Pointed head crest",
+      "Streamlined body",
+      "Red sash around the waist",
+      "Sharp, angular features"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": "Psychic",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Honorable",
+      "Courageous"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Gallade/0.png",
+  "pokemon_name": "Gallade"
+}

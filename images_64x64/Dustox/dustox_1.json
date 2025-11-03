@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with iridescent wings and vibrant patterns.",
+    "I want a Pokemon that has a mysterious aura and can blend into forest surroundings.",
+    "Generate a whimsical insect Pokemon with colorful markings and a gentle demeanor.",
+    "Make a captivating creature that flutters gracefully and has a soothing color palette.",
+    "Imagine a Pokemon that thrives in lush environments and has a playful personality.",
+    "Design a unique bug Pokemon that features a combination of purple and green hues.",
+    "Show me an enchanting Pokemon with large wings and a penchant for pollination."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Purple",
+      "accent": "Pink"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large wings with unique patterns",
+      "Prominent antennae",
+      "Green body with purple accents",
+      "Pink circular markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Gentle",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Dustox/1.png",
+  "pokemon_name": "Dustox"
+}

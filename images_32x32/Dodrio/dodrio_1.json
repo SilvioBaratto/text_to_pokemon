@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a dual-headed bird Pokemon with striking orange feathers and a fierce expression.",
+    "Generate a Pokemon that can run at incredible speeds with a unique color pattern.",
+    "Show me an agile bird Pokemon with three heads and a playful personality.",
+    "Imagine a Pokemon that thrives in forests and grasslands, with vibrant colors.",
+    "Design a whimsical flying Pokemon with a mix of orange and black colors.",
+    "Give me an image of a Pokemon with a sleek body and a strong stance.",
+    "Make a Pokemon that embodies speed and agility with distinct features and colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Black"
+    ],
+    "secondary_colors": [
+      "White",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Three heads",
+      "Long legs",
+      "Feathered body",
+      "Sharp beaks",
+      "Distinctive tail feathers"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Agile",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Dodrio/1.png",
+  "pokemon_name": "Dodrio"
+}

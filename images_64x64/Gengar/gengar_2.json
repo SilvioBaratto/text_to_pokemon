@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon with a mischievous grin and shadowy form.",
+    "I want a spooky Pokemon that thrives in dark caves and scares its foes.",
+    "Generate a playful ghost with a purple body and haunting yellow eyes.",
+    "Make a ghostly creature that can phase through walls and appears in urban areas.",
+    "Imagine a Pokemon that uses illusions to trick opponents, featuring a unique color palette.",
+    "Design a Pokemon with a round body and long tongue that loves to haunt forests.",
+    "Show me a Pokemon that embodies both ghostly and poison traits, with a chilling presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Black",
+      "accent": "Pink"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Round body shape",
+      "Pointed ears",
+      "Wide, mischievous grin",
+      "Long tongue",
+      "Floating appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Cunning"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Trickster"
+  },
+  "image_path": "images/Gengar/2.png",
+  "pokemon_name": "Gengar"
+}

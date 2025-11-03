@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a cluster of eggs with pink and white patterns.",
+    "Design a Pokemon with a peaceful nature, living in lush forests and meadows.",
+    "Generate a cute, round-shaped Pokemon that loves to gather in sunny fields.",
+    "Imagine a group of small, egg-like creatures that can communicate through telepathy.",
+    "Make a Pokemon that evolves into a powerful psychic type from a simple egg form.",
+    "Show me a playful Pokemon that enjoys rolling around in grassy areas.",
+    "I want a Pokemon that has a calm demeanor, often found near water sources."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Egg-like shape",
+      "Cluster formation",
+      "Pink spots",
+      "Simple facial expressions",
+      "Small size"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Psychic",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Gentle",
+      "Playful"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Exeggcute/1.png",
+  "pokemon_name": "Exeggcute"
+}

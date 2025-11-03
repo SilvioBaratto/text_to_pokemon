@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a Pokemon with green foliage and a sturdy body, resembling a goat.",
+    "Show me a creature that combines the strength of a mountain goat with lush greenery.",
+    "Imagine a Pokemon that thrives in grassy areas and has a unique horned appearance.",
+    "Generate a design for a Pokemon that symbolizes nature and stability with earthy colors.",
+    "Make a Pokemon that has a friendly demeanor and looks like it belongs in the forest.",
+    "Give me a Pokemon that embodies the essence of grasslands and has a robust physique.",
+    "Design a creature that blends agricultural elements with a powerful quadrupedal form."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "White",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": "Red"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Curved horns",
+      "Leafy mane",
+      "Strong legs",
+      "Hooves"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Normal",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Sturdy",
+      "Loyal"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Gogoat/1.png",
+  "pokemon_name": "Gogoat"
+}

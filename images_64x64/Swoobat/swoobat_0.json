@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a Pokemon that combines a bat-like appearance with a charming personality and vibrant colors.",
+    "I want a flying-type Pokemon that has a unique shape and looks friendly yet mysterious.",
+    "Generate an adorable Pokemon with blue hues and large wings, suitable for forest environments.",
+    "Make a whimsical creature that resembles a bat but has a playful demeanor and bright colors.",
+    "Imagine a Pokemon that has a mix of blue and black colors, perfect for urban settings and quick movements.",
+    "Design a Psychic-type Pokemon that has an unusual body shape and standout features like heart-shaped accents.",
+    "Show me a small Pokemon with a combination of bat-like wings and a round, cute body."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": "Pink"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Heart-shaped nose",
+      "Large bat-like wings",
+      "Round body",
+      "Pointed ears",
+      "Small feet"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Flying",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Affectionate",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Swoobat/0.png",
+  "pokemon_name": "Swoobat"
+}

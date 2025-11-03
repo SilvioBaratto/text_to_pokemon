@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a ground-type Pokemon that burrows underground and has a playful personality.",
+    "Imagine a trio of small creatures that work together to dig tunnels in the earth.",
+    "Design a Pokemon that resembles a mole and is known for its teamwork skills.",
+    "Generate a cute Pokemon with a round body shape and a friendly demeanor.",
+    "Show me a Pokemon that is active in caves and has a knack for surprising its foes.",
+    "Give me a unique Pokemon that thrives in urban environments and loves to dig.",
+    "Make a small, adorable Pokemon that can create intricate tunnel systems underground."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Three heads",
+      "Small round body",
+      "Red noses",
+      "Visible underground burrowing",
+      "Ear-like structures"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Sociable",
+      "Energetic"
+    ],
+    "habitat": "Cave",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Dugtrio/2.png",
+  "pokemon_name": "Dugtrio"
+}

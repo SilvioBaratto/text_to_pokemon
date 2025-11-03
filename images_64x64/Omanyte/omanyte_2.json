@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a spiral shell and large, expressive eyes.",
+    "Imagine a prehistoric Pokemon that resembles a small aquatic creature with a smooth body.",
+    "Design a cute fossil Pokemon that has a spiral shell and a friendly demeanor.",
+    "Show me a small aquatic Pokemon with a shell that looks like a nautilus.",
+    "Generate a Pokemon that has a blue body and a creamy shell, perfect for a sea habitat.",
+    "Make a unique Pokemon inspired by ancient sea creatures with a soft, gentle personality.",
+    "Give me a Pokemon that combines elements of a mollusk and a dinosaur in its appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Spiral shell",
+      "Large eyes",
+      "Soft body",
+      "Tentacle-like appendages"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Water",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Curious",
+      "Innocent"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Omanyte/2.png",
+  "pokemon_name": "Omanyte"
+}

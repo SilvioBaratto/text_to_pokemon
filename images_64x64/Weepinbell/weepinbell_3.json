@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon with a bell-shaped body and vibrant green leaves.",
+    "I want a whimsical Pokemon that looks like a plant with a playful personality.",
+    "Generate a Pokemon that thrives in wetlands, featuring bright yellow and pink colors.",
+    "Make a Pokemon resembling a flower with distinct facial features and a round body.",
+    "Imagine a creature that can blend into forest habitats, showcasing shades of green.",
+    "Design a small Pokemon that uses its bell shape to attract prey in nature.",
+    "Show me an adorable grass/poison type Pokemon that has a curious and lively demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Green",
+      "accent": "Pink"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Bell-shaped body",
+      "Large, round mouth",
+      "Leaf-like appendages",
+      "Bright, vibrant colors"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful",
+      "Lively"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Strategic"
+  },
+  "image_path": "images/Weepinbell/3.png",
+  "pokemon_name": "Weepinbell"
+}

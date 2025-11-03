@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with bright red wings and a cheerful expression.",
+    "I want a Pokemon that resembles a small insect with blue eyes and a playful demeanor.",
+    "Generate a flying Pokemon that has a mix of red and yellow colors and can be found in forests.",
+    "Make a Pokemon that has a unique insectoid shape and combines red and cream colors.",
+    "Imagine a Pokemon that is small, agile, and known for its friendly personality in urban areas.",
+    "Design a vibrant bug-type Pokemon with distinctive features like large wings and a happy face.",
+    "Show me a Pokemon that showcases a combination of red, yellow, and blue, emphasizing its bug type."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Yellow",
+      "accent": "Blue"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large wings",
+      "Blue eyes",
+      "Unique antennae",
+      "Cream-colored body",
+      "Insect-like legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Agile",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Ledian/0.png",
+  "pokemon_name": "Ledian"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a fiery rabbit Pokemon that excels in speed and agility.",
+    "Design a Pokemon that embodies the spirit of a soccer player.",
+    "Imagine a bipedal creature with a passion for competition and sports.",
+    "Generate an energetic Pokemon with a flame-like tail and athletic build.",
+    "I want a Pokemon that can kick fireballs and is always on the move.",
+    "Show me a fierce fire-type Pokemon that loves to play games.",
+    "Make a vibrant, charismatic Pokemon with bright colors and a playful personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Red"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "White",
+      "accent": "Red"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flame-like tail",
+      "Athletic build",
+      "Long ears",
+      "Soccer ball motif",
+      "Energetic expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Competitive",
+      "Playful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Speed and agility focused"
+  },
+  "image_path": "images/Cinderace/2.png",
+  "pokemon_name": "Cinderace"
+}

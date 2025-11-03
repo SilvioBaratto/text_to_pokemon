@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with striking green and pink colors and large wings.",
+    "I want an insectoid Pokemon that has a predatory look and vibrant features.",
+    "Generate a Pokemon with a sleek body shape and a mix of green and pink accents.",
+    "Make a Pokemon that embodies speed and agility, showcasing beautiful wing patterns.",
+    "Imagine a Pokemon that thrives in forests with a unique color palette of green and pink.",
+    "Design a Pokemon known for its swift movements and dazzling wings.",
+    "Show me a Pokemon that combines elements of both bug and flying types with vivid colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Pink",
+      "accent": "Black"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large, transparent wings",
+      "Long, slender body",
+      "Distinctive green coloration with pink accents",
+      "Prominent compound eyes",
+      "Spiked back structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Agile",
+      "Predatory",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Speed-oriented"
+  },
+  "image_path": "images/Yanmega/1.png",
+  "pokemon_name": "Yanmega"
+}

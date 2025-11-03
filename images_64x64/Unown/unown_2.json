@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a mysterious Pokemon that resembles a letter and has a ghostly aura.",
+    "I want a unique psychic-type Pokemon that embodies the essence of ancient symbols.",
+    "Generate a Pokemon that looks like a floating letter, with dark colors and mystical eyes.",
+    "Make a simple yet intriguing Pokemon that represents knowledge and secrets in its design.",
+    "Imagine a ghost-type Pokemon that appears as an enigmatic character with an eye motif.",
+    "Design a creature that symbolizes communication and hidden messages with its unique shape.",
+    "Give me a Pokemon that looks like a letter and has a subtle, haunting presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Letter-like shape",
+      "Single eye motif",
+      "Smooth, rounded body",
+      "Minimalistic design"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Intelligent",
+      "Curious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Unown/2.png",
+  "pokemon_name": "Unown"
+}

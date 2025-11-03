@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon with a large tree on its back and a sturdy shell.",
+    "Design a creature resembling a turtle, featuring green foliage and earthy colors.",
+    "Make a Pokemon that embodies nature, with elements of a forest and a robust physique.",
+    "Imagine a Pokemon that can camouflage in the forest, showcasing shades of green and brown.",
+    "Generate an evolutionary line starting from a small seed and growing into a giant tortoise-like Pokemon.",
+    "Show me a Pokemon that blends seamlessly into its grassy habitat, with distinctive earthy features.",
+    "Give me a depiction of a Pokemon that thrives in mountainous terrains, with a solid, grounded appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": "Gray"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large tree on its back",
+      "Shell-like body",
+      "Leafy textures",
+      "Earthy color palette"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Ground",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Protective",
+      "Wise"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Torterra/0.png",
+  "pokemon_name": "Torterra"
+}

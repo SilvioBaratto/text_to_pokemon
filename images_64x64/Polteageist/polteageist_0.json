@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that resembles a vintage teapot with a spooky twist.",
+    "Show me a playful ghost Pokemon with a charming teapot design and whimsical colors.",
+    "Imagine a Pokemon that embodies both elegance and eeriness, inspired by a tea set.",
+    "Generate a unique ghost Pokemon featuring a delightful teapot shape and haunting vibes.",
+    "Design a playful yet spooky Pokemon that looks like a haunted teapot.",
+    "Make a whimsical ghost Pokemon with a vintage tea aesthetic and vibrant colors.",
+    "Give me a ghostly creature resembling a teapot, with a mischievous personality and charming features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Blue",
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Teapot body shape",
+      "Spout resembling a ghostly figure",
+      "Decorative lid with a mysterious aura",
+      "Base has a rounded and plump appearance",
+      "Eyes that appear playful yet eerie"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Charming"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Tricky"
+  },
+  "image_path": "images/Polteageist/0.png",
+  "pokemon_name": "Polteageist"
+}

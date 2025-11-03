@@ -1,0 +1,50 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a strong shell and oversized cannons on its back.",
+    "Imagine a Pokemon that can shoot powerful water blasts with its massive shoulders.",
+    "Show me a bulky Pokemon built for both defense and offense with aquatic features.",
+    "Generate a Pokemon that thrives in aquatic environments and has a calm demeanor.",
+    "Design a Pokemon that evolves from a small turtle into a large water master.",
+    "Make a creature that embodies strength and resilience, with a blue and beige color scheme.",
+    "Give me a Pokemon that is a great swimmer, with a sturdy body and big eyes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Three water cannons on the back",
+      "Thick shell",
+      "Large, muscular limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Determined",
+      "Protective"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Defensive and offensive using water attacks"
+  },
+  "image_path": "images/Blastoise/3.png",
+  "pokemon_name": "Blastoise"
+}

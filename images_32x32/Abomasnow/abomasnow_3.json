@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a frosty Pokemon that resembles an icy mountain creature with fur made of snow.",
+    "Imagine a powerful Ice/Grass type Pokemon that blends in perfectly with snowy forests.",
+    "Generate a Pokemon that looks like a snowman decorated with icy blue accents and sharp claws.",
+    "Show me a Pokemon that thrives in cold climates, featuring a mix of white and teal colors.",
+    "Design a mythical creature with a majestic ice crown and a forest guardian personality.",
+    "Give me an evolution of a snow-related Pokemon with impressive ice powers and unique features.",
+    "Make a Pokemon that can control winter storms, marked by its snowy appearance and strong presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": null,
+      "accent": "Gray"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Snowy fur-like protrusions",
+      "Hunched back",
+      "Large claws",
+      "Icicle-like structures",
+      "Pointed ears"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": "Grass",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Protective",
+      "Stubborn",
+      "Tenacious"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Abomasnow/3.png",
+  "pokemon_name": "Abomasnow"
+}

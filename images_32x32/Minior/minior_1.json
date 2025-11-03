@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a Pok\u00e9mon that resembles a small, star-shaped creature with a pastel color palette.",
+    "I want a Pok\u00e9mon that looks playful and cheerful, with large, expressive eyes and soft curves.",
+    "Generate a cute Pok\u00e9mon that has a bubbly texture and a whimsical design.",
+    "Make a Pok\u00e9mon with a starry theme, featuring pink and white colors with a hint of shine.",
+    "Imagine a creature that embodies joy and lightness, with a fluffy appearance and a dynamic pose.",
+    "Design a pink, star-shaped Pok\u00e9mon that floats gracefully and has a gentle expression.",
+    "Show me a whimsical Pok\u00e9mon that captures the essence of a star in a cartoonish style."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Star-shaped body",
+      "Large round eyes",
+      "Bubbly texture",
+      "Soft curves",
+      "Pastel color scheme"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Gentle"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Minior/1.png",
+  "pokemon_name": "Minior"
+}

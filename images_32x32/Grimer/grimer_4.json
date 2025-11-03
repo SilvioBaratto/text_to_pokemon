@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a Pokemon that oozes colorful slime and has a mischievous expression.",
+    "Design a creature made of toxic waste with a playful personality and a unique color palette.",
+    "Show me a Pokemon that thrives in urban environments and has a gooey, amorphous body.",
+    "Imagine a living pile of sludge that can blend into its surroundings effortlessly.",
+    "Make a Pokemon that looks like it's made from purple goo and has an intriguing design.",
+    "Generate a creature with a round, blob-like shape and a quirky demeanor.",
+    "Give me a Pokemon that embodies the essence of pollution but still looks cute."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Sludge-like body",
+      "Large mouth with a tongue sticking out",
+      "Irregular shape with protrusions",
+      "Eyes positioned high on the body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Grimer/4.png",
+  "pokemon_name": "Grimer"
+}

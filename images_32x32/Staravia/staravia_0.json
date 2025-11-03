@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bird-like Pokemon with a sleek body and sharp wings, set in a vibrant forest.",
+    "Generate a dual-type Pokemon that resembles a small avian creature with a unique crest.",
+    "Show me a Pokemon that combines brown and gray colors, known for its speed and agility.",
+    "Imagine a Pokemon with a rounded body shape and impressive flying abilities, found in urban areas.",
+    "Design a Pokemon that thrives in grasslands, featuring distinctive feather patterns and a friendly demeanor.",
+    "Give me a Pokemon that has a charming expression and a cute, stout body, perfect for trainers.",
+    "Make a Pokemon that looks like a small bird but has a fierce personality and competitive spirit."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "White",
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Gray",
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Short beak",
+      "Prominent crest",
+      "Streamlined body",
+      "Sharp wings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Playful"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Staravia/0.png",
+  "pokemon_name": "Staravia"
+}

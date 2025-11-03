@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a whimsical psychic-type Pokemon with soft ears and a gentle expression.",
+    "I want a Pokemon that embodies kindness, with a cute design and friendly features.",
+    "Generate a fairy Pokemon with a playful demeanor and charming attributes.",
+    "Make a small, bipedal Pokemon that has a soothing appearance and pastel colors.",
+    "Imagine a Pokemon that looks like a plush toy, with oversized features and bright eyes.",
+    "Design a Pokemon that radiates joy, with a round body and fluffy tail.",
+    "Give me a character that can support allies in battle, with a unique psychic ability."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Floppy ears",
+      "Round body",
+      "Cute facial expression",
+      "Short limbs",
+      "Fluffy tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Fairy",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Supportive",
+      "Friendly"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Indeedee/1.png",
+  "pokemon_name": "Indeedee"
+}

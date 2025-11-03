@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a wolf-like Pokemon with a striking red mane and gray fur for a fierce appearance.",
+    "Design a dual-type Pokemon that embodies the spirit of the night with dark colors and sharp features.",
+    "Show me a Pokemon that evolves from a small dog into a powerful wolf with a muscular build.",
+    "Imagine a Pokemon that thrives in mountainous regions, combining strength and agility with earthy tones.",
+    "Generate a fierce fighter Pokemon with a rocky texture and glowing eyes that symbolize its determination.",
+    "Make a Pokemon that can harness the power of the moon, featuring unique markings and a swift body.",
+    "Give me a Pokemon that is known for its loyalty and courage, with a mix of dark and red hues."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Black",
+      "accent": "Red"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Sharp claws",
+      "Pointed ears",
+      "Glowing red eyes",
+      "Spiky mane",
+      "Muscular build"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Loyal",
+      "Brave",
+      "Agile"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Lycanroc/1.png",
+  "pokemon_name": "Lycanroc"
+}

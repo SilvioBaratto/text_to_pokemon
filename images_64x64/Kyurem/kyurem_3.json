@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a legendary ice-type Pokemon with a sleek, dragon-like design and blue accents.",
+    "Show me a mythical creature resembling a giant ice dragon with sharp, icy features.",
+    "Imagine a powerful Pokemon with a majestic ice-blue color scheme and glowing elements.",
+    "Design an ice-type Pokemon that embodies the essence of winter and has a fierce expression.",
+    "Generate a large Pokemon with dragon-like wings and a frosty appearance, perfect for a snowy environment.",
+    "Give me a Pokemon that looks like a crystallized dragon with icy blue and black tones.",
+    "Make a fierce ice dragon Pokemon with unique glowing patterns across its body."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Black"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Dragon-like head",
+      "Icy blue horns",
+      "Glowing blue accents",
+      "Frosted wings",
+      "Sharp, crystalline tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": "Dragon",
+    "generation": 5,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Fierce",
+      "Majestic"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Kyurem/3.png",
+  "pokemon_name": "Kyurem"
+}

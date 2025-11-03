@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a dark-type Pokemon with sharp claws and a sneaky demeanor.",
+    "I want a Pokemon that excels in stealth, featuring blue and red accents.",
+    "Generate a Pokemon that embodies agility and cunning, with a sleek body shape.",
+    "Make a Pokemon that thrives in forests and mountains, with a playful personality.",
+    "Imagine a Pokemon that can blend into urban environments, showcasing unique color patterns.",
+    "Design a Pokemon that evolves through cunning and strategy, emphasizing its dark nature.",
+    "Give me a Pokemon with a playful yet mischievous personality, perfect for adventures."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Red"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": "Red"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Sharp claws",
+      "Pointed ears",
+      "Long, feathered tails",
+      "Sleek body",
+      "Red markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": "Ice",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Playful",
+      "Agile"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Quick and strategic"
+  },
+  "image_path": "images/Sneasel/0.png",
+  "pokemon_name": "Sneasel"
+}

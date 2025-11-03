@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon with a spooky atmosphere and glowing features.",
+    "Show me a bipedal Pokemon that wields a bone as a weapon, with a spectral aura.",
+    "Imagine a Pokemon that haunts caves, with a skeletal appearance and ethereal flames.",
+    "Design a medium-sized Pokemon that has a unique blend of gray and teal colors.",
+    "Generate a Pokemon with a strong connection to its ancestors, showing a fierce yet playful personality.",
+    "Make a ghostly creature that roams the mountains, with a distinctive bone and smoky effects.",
+    "Give me a Pokemon that embodies the spirit of the earth, with a focus on stealth and strategy."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Bone club",
+      "Ghostly flames",
+      "Skeletal structure",
+      "Facial markings",
+      "Tail with smoky effect"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Ground",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Loyal",
+      "Mischievous"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Tactical"
+  },
+  "image_path": "images/Marowak/1.png",
+  "pokemon_name": "Marowak"
+}

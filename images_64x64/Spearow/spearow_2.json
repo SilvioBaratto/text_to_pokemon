@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a small, agile bird Pokemon with bright colors that can swiftly navigate through forests.",
+    "Design a Pokemon resembling a sparrow, with striking yellow feathers and a charming personality.",
+    "Imagine a flying-type Pokemon that has vibrant wings and a playful demeanor, perfect for urban environments.",
+    "Show me a Pokemon with a mix of brown and yellow colors, known for its speed and agility in battles.",
+    "Generate a Pokemon that embodies the spirit of freedom, featuring a sleek body and keen eyesight.",
+    "Make a Pokemon with a cheerful appearance and a love for soaring high in the sky.",
+    "Give me a unique bird-like Pokemon with distinctive pink wings that thrives in grasslands."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Brown",
+      "accent": "Pink"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Short beak",
+      "Small size",
+      "Round body",
+      "Vibrant wings",
+      "Tail feathers"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Energetic"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Spearow/2.png",
+  "pokemon_name": "Spearow"
+}

@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a unique Pokemon that resembles a turtle but has a vibrant, colorful shell.",
+    "Imagine a Pokemon with a tiny, round body and a cheerful expression that loves the forest.",
+    "Generate a Pokemon that combines yellow and red colors, showcasing a playful and shy personality.",
+    "Design a creature with a stout body and an oversized shell, perfect for a nature-themed game.",
+    "Give me a Pokemon that is known for its slow but strategic battle style, featuring distinct markings.",
+    "Show me a small Pokemon that is predominantly yellow, with a red shell, and has a calm demeanor.",
+    "Make a concept for a Pokemon that thrives in various terrains, with a unique appearance and abilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Black",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Red",
+      "accent": "Black"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body",
+      "Large shell with spiral patterns",
+      "Thin neck",
+      "Short limbs",
+      "Big, expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Rock",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Shy",
+      "Playful",
+      "Strategic"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Shuckle/0.png",
+  "pokemon_name": "Shuckle"
+}

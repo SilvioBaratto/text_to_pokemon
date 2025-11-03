@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a dragon-like Pokemon with shimmering pink scales and intricate silver patterns.",
+    "Show me a legendary creature that has a majestic presence, combining elegance and power.",
+    "Generate a water-type Pokemon that embodies the essence of space and time with celestial designs.",
+    "Imagine a Pokemon with a sleek, elongated body, adorned with radiant gems and intricate wings.",
+    "Design a mythical Pokemon that features a striking color palette of pink and silver, exuding grace.",
+    "Give me a legendary Pokemon that has both dragon and water characteristics, with a unique silhouette.",
+    "Make a Pokemon that appears to manipulate time and space, with ethereal features and a majestic aura."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Red"
+    ],
+    "secondary_colors": [
+      "White",
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Red",
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Long, sleek body",
+      "Large, ornate wings",
+      "Unique spatial orbs around its body",
+      "Prominent horn-like structures",
+      "Streamlined tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Dragon",
+    "generation": 4,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Noble",
+      "Mysterious",
+      "Intelligent"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Defensive and strategic"
+  },
+  "image_path": "images/Palkia/3.png",
+  "pokemon_name": "Palkia"
+}

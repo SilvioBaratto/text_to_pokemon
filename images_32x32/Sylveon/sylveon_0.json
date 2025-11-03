@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a fairy-type Pokemon with soft pink fur and bright blue ribbons.",
+    "I want a Pokemon that embodies the spirit of joy and friendship with elegant features.",
+    "Generate a creature that resembles a magical guardian with enchanting colors and graceful limbs.",
+    "Make an adorable Pokemon with a whimsical appearance and sparkling blue eyes.",
+    "Imagine a character that can charm its opponents with its playful and friendly demeanor.",
+    "Design a Pokemon that thrives in lush environments, showcasing beautiful pink and white hues.",
+    "Show me a mystical creature with unique ribbons and a captivating presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "White"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Pink",
+      "accent": "Blue"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long, ribbon-like appendages",
+      "Fluffy body",
+      "Large, expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Gentle",
+      "Charming"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Sylveon/0.png",
+  "pokemon_name": "Sylveon"
+}

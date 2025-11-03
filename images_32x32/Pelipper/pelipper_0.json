@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a large bill and a playful demeanor.",
+    "I want a flying Pokemon that resembles a pelican, with bright colors and a friendly face.",
+    "Generate an aquatic creature with a massive beak and distinct blue and yellow colors.",
+    "Make a Pokemon with a big mouth and wings, perfect for aerial battles over the sea.",
+    "Imagine a water/flying type Pokemon with a cheerful expression and a rounded body shape.",
+    "Design a gentle giant Pokemon with a large, bulbous body and a love for fishing.",
+    "Show me a Pokemon that thrives near water, with a unique blend of blue and yellow shades."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large bill",
+      "Rounded body",
+      "Wings",
+      "Pelican-like appearance",
+      "Bright colors"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Flying",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Cheerful"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Supportive and aerial"
+  },
+  "image_path": "images/Pelipper/0.png",
+  "pokemon_name": "Pelipper"
+}

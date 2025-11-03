@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a legendary fire-type Pokemon with fiery fur and a fierce expression.",
+    "Design a majestic creature that roams the mountains, exuding power and confidence.",
+    "Imagine a Pokemon that embodies the spirit of a volcano, with molten orange and grey accents.",
+    "Show me a quadruped Pokemon that stands proudly with a mane of smoke and flame.",
+    "Generate an imposing fire-type beast with a tail that resembles a blazing inferno.",
+    "Make a mythical creature with a strong build, perfect for battling in harsh terrains.",
+    "Give me a fire Pokemon that looks both intimidating and noble at the same time."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Gray",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Orange",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Flame-like mane",
+      "Powerful legs",
+      "Distinctive red markings",
+      "Smoke-emitting tail",
+      "Intense gaze"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Brave",
+      "Noble",
+      "Protective"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Entei/3.png",
+  "pokemon_name": "Entei"
+}

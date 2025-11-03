@@ -1,0 +1,57 @@
+{
+  "prompts": [
+    "Create a majestic Pokemon with rainbow-colored antlers and a sleek black body.",
+    "I want a mythical creature that radiates light and embodies nature's beauty.",
+    "Generate a fairy-type Pokemon that can traverse forests and mountains effortlessly.",
+    "Make a legendary Pokemon that has a unique design with vibrant colors and elegant features.",
+    "Imagine a graceful creature with the ability to heal others, adorned with colorful accents.",
+    "Design a powerful Pokemon known for its connection to life and its mystical abilities.",
+    "Show me a rare Pokemon that thrives in magical environments and has a striking appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Black"
+    ],
+    "secondary_colors": [
+      "White",
+      "Yellow",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Colorful antlers",
+      "Sleek black body",
+      "Glowing patterns",
+      "Elegant posture",
+      "Large, expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Noble",
+      "Gentle",
+      "Protective"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Supportive and defensive"
+  },
+  "image_path": "images/Xerneas/1.png",
+  "pokemon_name": "Xerneas"
+}

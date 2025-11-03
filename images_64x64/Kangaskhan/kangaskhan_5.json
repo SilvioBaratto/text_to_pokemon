@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bipedal Pokemon that has a strong maternal instinct and stands tall in any environment.",
+    "I want a Pokemon that can protect its young fiercely while also showing a playful side.",
+    "Generate a creature that embodies both strength and nurturing qualities, perfect for a forest setting.",
+    "Make a Pokemon that has a unique blend of brown and yellow colors, showcasing its protective nature.",
+    "Imagine a Pokemon that exudes confidence and warmth, ideal for trainers looking for a loyal companion.",
+    "Design a Pokemon that thrives in grasslands and mountains, with a powerful physique and caring demeanor.",
+    "Show me a Pokemon that balances toughness with tenderness, making it a favorite among trainers."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Gray",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large pouch for carrying young",
+      "Powerful legs",
+      "Distinctive helmet-like head",
+      "Muscular physique",
+      "Prominent tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Protective",
+      "Nurturing",
+      "Confident"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Kangaskhan/5.png",
+  "pokemon_name": "Kangaskhan"
+}

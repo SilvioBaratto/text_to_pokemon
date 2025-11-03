@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that can hide in its shell and has a long tongue.",
+    "Show me a Pokemon with a purple shell and a black base, perfect for underwater battles.",
+    "Design a small aquatic creature that has a playful personality and loves to surf.",
+    "Imagine a Pokemon with a unique clam shape, known for its defensive skills in battles.",
+    "Generate a Pokemon that thrives in coastal areas and has a distinctive purple hue.",
+    "Make a character inspired by a mollusk, with vibrant colors and a tough exterior.",
+    "Give me a Pokemon that has a tongue sticking out, showcasing its playful nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Black",
+      "accent": "Pink"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Shell covering",
+      "Long, protruding tongue",
+      "Large white eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Defensive"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Shellder/0.png",
+  "pokemon_name": "Shellder"
+}

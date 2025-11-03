@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with flowing hair and a gentle smile.",
+    "I want a Pokemon that looks like a fairy with pastel colors and elegant curves.",
+    "Generate a Pokemon image featuring a mystical creature with a calming aura.",
+    "Make a design for a Pokemon that embodies tranquility and has soft, round features.",
+    "Imagine a bipedal Pokemon with a whimsical appearance and a serene expression.",
+    "Show me a Pokemon that combines elements of magic and tranquility in its design.",
+    "Give me a fairy-type Pokemon with a unique hairstyle and soothing color palette."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Blue",
+      "accent": "Purple"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, flowing hair",
+      "Round body shape",
+      "Large expressive eyes",
+      "Decorative accessories on arms",
+      "Soft, rounded facial features"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Fairy",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Gentle",
+      "Mysterious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Hatterene/0.png",
+  "pokemon_name": "Hatterene"
+}

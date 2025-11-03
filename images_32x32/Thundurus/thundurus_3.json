@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon with a sleek blue body and dynamic lightning features.",
+    "I want a mythical creature that embodies the power of storms, with vivid colors and agile movements.",
+    "Generate a Pokemon that represents both wind and thunder, showcasing impressive electric abilities.",
+    "Make a unique design for an electric Pokemon that has a fierce expression and a swirling tail.",
+    "Imagine a Pokemon with a majestic aura, combining shades of blue and black with a striking horn.",
+    "Design a creature that thrives in mountainous regions, capturing the essence of electricity in its form.",
+    "Show me a legendary Pokemon that commands the skies with its electric powers and agile flight."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Thunderbolt-shaped tail",
+      "Spiky cloud-like features on head",
+      "Prominent horn",
+      "Electric sparks around body",
+      "Agile posture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Flying",
+    "generation": 5,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Playful",
+      "Mischievous"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Thundurus/3.png",
+  "pokemon_name": "Thundurus"
+}

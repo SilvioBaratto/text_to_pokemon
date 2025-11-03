@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a giant aquatic Pokemon that resembles a whale with a friendly expression.",
+    "Imagine a blue and gray Pokemon that can glide through the ocean like a gentle giant.",
+    "Design a Pokemon with a streamlined shape and a playful demeanor, perfect for water battles.",
+    "Show me a huge water-type Pokemon that is known for its cheerful personality and calm nature.",
+    "Generate a Pokemon that has a whale-like appearance and features a sleek blue body.",
+    "Give me a visual of a Pokemon that thrives in the ocean and has a massive size.",
+    "Make a water-based Pokemon that looks majestic and has a soothing presence in its habitat."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Gray"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Huge",
+    "distinctive_features": [
+      "Large, streamlined body",
+      "Prominent dorsal fin",
+      "Wide mouth with a friendly expression",
+      "Smooth texture",
+      "Tail fin resembling a whale's fluke"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Playful",
+      "Calm"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Wailord/0.png",
+  "pokemon_name": "Wailord"
+}

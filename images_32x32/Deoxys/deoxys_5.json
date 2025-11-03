@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with sleek, futuristic features and bold colors.",
+    "Show me a mythical creature with a unique design, combining elements of technology and nature.",
+    "Imagine a legendary Pokemon that embodies speed and intelligence, with a striking color palette.",
+    "Generate a humanoid Pokemon with flowing shapes and a dynamic pose, showcasing its psychic powers.",
+    "Design a Pokemon that looks like it defies gravity, with an eye-catching mix of colors.",
+    "Give me a concept for a Pokemon that blends organic and robotic features seamlessly.",
+    "Make a depiction of a psychic Pokemon that has a mysterious aura and vibrant colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": "Gray"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Elongated limbs",
+      "Distinctive head shape",
+      "Futuristic design elements",
+      "Flowing appendages",
+      "Vibrant color contrast"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Mysterious",
+      "Strategic"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Speed and agility-focused"
+  },
+  "image_path": "images/Deoxys/5.png",
+  "pokemon_name": "Deoxys"
+}

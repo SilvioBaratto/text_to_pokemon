@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a unique Pokemon that can blend into its surroundings with a calm demeanor.",
+    "Imagine a psychic-type Pokemon that has a large, round body and a soothing smile.",
+    "Show me a Pokemon that can absorb attacks and reflects energy back at its opponents.",
+    "Generate a creature with a soft blue color that evokes a sense of tranquility and peace.",
+    "Design a Pokemon known for its resilience and determination, with an amusingly simple appearance.",
+    "Give me a quirky Pokemon that looks like a blue blob but has a deep psychic power.",
+    "Make a Pokemon that stands out with its unique tail and gentle expression."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, round body",
+      "Simple facial expression",
+      "Tail resembling a key",
+      "Absence of limbs",
+      "Soft, smooth surface"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Resilient",
+      "Reflective"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Wobbuffet/1.png",
+  "pokemon_name": "Wobbuffet"
+}

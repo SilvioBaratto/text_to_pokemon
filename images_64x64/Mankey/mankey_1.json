@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a playful monkey-like Pokemon with bright colors and a mischievous look.",
+    "I want a small, agile Pokemon that can climb trees and throw objects.",
+    "Generate a fighting-type Pokemon with a fierce expression and a strong stance.",
+    "Make a Pokemon that loves to play in the forests and has a cheeky personality.",
+    "Imagine a bipedal creature with a vibrant tail and energetic movements.",
+    "Design a Pokemon that is quick and competitive, perfect for battles.",
+    "Show me a Pokemon that embodies agility and has a knack for mischief."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Orange",
+      "accent": "Green"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long tail",
+      "Mischievous facial expression",
+      "Strong limbs",
+      "Clenched fists"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Energetic",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Mankey/1.png",
+  "pokemon_name": "Mankey"
+}

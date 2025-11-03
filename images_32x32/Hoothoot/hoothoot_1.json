@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create an owl-like Pokemon with a green body and big, expressive eyes.",
+    "Show me a small bird Pokemon that blends well in forest habitats.",
+    "Design a playful nocturnal Pokemon that has a round shape and unique feathers.",
+    "Imagine a cute flying Pokemon with a bright yellow belly and distinct black accents.",
+    "Generate a whimsical creature that resembles an owl and has vibrant eye colors.",
+    "Make a Pokemon that showcases both normal and flying types with earthy colors.",
+    "Give me a small, round bird-like Pokemon that is friendly and loves to explore."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Yellow",
+      "accent": "Black"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large expressive eyes",
+      "Round body shape",
+      "Prominent feather tufts",
+      "Yellow belly",
+      "Small wings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful",
+      "Alert"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Hoothoot/1.png",
+  "pokemon_name": "Hoothoot"
+}

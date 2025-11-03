@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon resembling a sandcastle with a spooky face and hidden treasures.",
+    "I want a water-type Pokemon that can manipulate sand and has a playful personality.",
+    "Generate a unique Pokemon that thrives in desert habitats and is made of sand.",
+    "Make a spooky sand-based Pokemon with a castle-like structure and glowing eyes.",
+    "Imagine a Pokemon that can summon sandstorms and has a friendly demeanor.",
+    "Design a Pokemon that looks like a giant sandcastle with a mischievous grin.",
+    "Show me a playful sand-type Pokemon that loves to hide in the dunes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Brown"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": null,
+      "accent": "Red"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Resembles a sandcastle",
+      "Has a red flag on top",
+      "Facial features resembling a ghost"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Ground",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Protective"
+    ],
+    "habitat": "Desert",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Palossand/1.png",
+  "pokemon_name": "Palossand"
+}

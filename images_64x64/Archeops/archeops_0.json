@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a flying-type Pokemon with vibrant blue feathers and a striking red belly.",
+    "Generate a prehistoric bird Pokemon that showcases a mix of colors and impressive wings.",
+    "Design a Pokemon that resembles a fierce avian creature, combining both elegance and power.",
+    "Show me a powerful flying Pokemon with a unique color palette, perfect for aerial battles.",
+    "Imagine a Pokemon that has an agile body and extraordinary wings, designed for speed and agility.",
+    "Make a Pokemon that embodies the spirit of ancient creatures, featuring bright colors and dynamic poses.",
+    "Give me a Pokemon with striking features and a combination of blue and red colors that stands out."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Red",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large wings with feather detailing",
+      "Distinctive crest on the head",
+      "Prominent beak shape",
+      "Colorful tail feathers",
+      "Strong leg structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Flying",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Intelligent",
+      "Noble"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Aerial Attacker"
+  },
+  "image_path": "images/Archeops/0.png",
+  "pokemon_name": "Archeops"
+}

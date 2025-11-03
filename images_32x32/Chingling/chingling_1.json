@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a playful Pokemon with a bell-like body and vibrant colors that reflects happiness.",
+    "I want a small, round Pokemon with unique features that can be found in urban environments.",
+    "Generate a cheerful creature that has a bright yellow color and pink accents.",
+    "Make a whimsical Pokemon that looks like it could be a musical instrument.",
+    "Imagine a cute, tiny Pokemon that loves to play and has a friendly demeanor.",
+    "Design a Pokemon that embodies the spirit of joy and is often found in forests.",
+    "Give me a Pokemon that has a bell shape and a bubbly personality, perfect for kids."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Bell-shaped body",
+      "Large, expressive eyes",
+      "Two pink appendages resembling musical bells"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Joyful",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Chingling/1.png",
+  "pokemon_name": "Chingling"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with sleek, blue and white features that resemble a stealthy spy.",
+    "Imagine a Pokemon that can blend into its surroundings, featuring shades of blue and purple.",
+    "Design a Pokemon with a long, elegant body, perfect for sneaking through its environment.",
+    "Show me a Pokemon that is both agile and intelligent, with distinctive markings that hint at its abilities.",
+    "Generate a water-type Pokemon that excels in stealth and has a unique sniper-like appearance.",
+    "Give me a Pokemon that has a sleek, streamlined body shape and utilizes water in its attacks.",
+    "Make a Pokemon that embodies the essence of a master spy, with colors that reflect a watery habitat."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Sleek, elongated body",
+      "Sharp, pointed snout",
+      "Tail resembling a sniper rifle",
+      "Large, expressive eyes",
+      "Distinctive crest on the head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Stealthy",
+      "Intelligent"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Sniper"
+  },
+  "image_path": "images/Inteleon/2.png",
+  "pokemon_name": "Inteleon"
+}

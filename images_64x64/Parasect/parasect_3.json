@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with bright red and orange colors and large mushroom features.",
+    "Imagine a forest-dwelling Pokemon with a round body and crab-like claws.",
+    "Generate a small Pokemon that has a unique mushroom shell and is often found in caves.",
+    "Show me an insect-like creature with vibrant colors and a playful personality.",
+    "Design a Pokemon that resembles a crab with distinctive mushroom growths on its back.",
+    "Make a tiny Pokemon that thrives in grasslands and has a unique color pattern.",
+    "Give me a Pokemon that has a mix of red and brown colors and an unusual body shape."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Brown",
+      "accent": "Orange"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Mushroom cap on back",
+      "Crab-like claws",
+      "Round body",
+      "Large white eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Grass",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Timid",
+      "Social"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Status infliction"
+  },
+  "image_path": "images/Parasect/3.png",
+  "pokemon_name": "Parasect"
+}

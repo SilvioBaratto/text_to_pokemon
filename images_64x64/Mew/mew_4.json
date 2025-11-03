@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon that floats gracefully with a slender body and large expressive eyes.",
+    "Imagine a legendary creature with a soft pink hue and a long, flexible tail, filled with mystery.",
+    "Generate a cute, small Pokemon with playful blue eyes and a unique ability to use psychic powers.",
+    "Design a mythical creature resembling a small cat, featuring a charming expression and a whimsical tail.",
+    "Show me a rare Pokemon that embodies tranquility and possesses the power to influence dreams and thoughts.",
+    "Give me a Pokemon that thrives in mystical forests, showcasing a light, ethereal appearance.",
+    "Make a tiny Pokemon with a sleek body, known for its elusive nature and incredible agility."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large blue eyes",
+      "Long, slender tail",
+      "Soft, rounded body",
+      "Pointed ears"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": true,
+    "is_mythical": true,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mysterious",
+      "Gentle"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Mew/4.png",
+  "pokemon_name": "Mew"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon with a sturdy shell and powerful claws.",
+    "I want a bug-type creature that resembles a crab with earthy tones.",
+    "Generate a Pokemon that has a massive wooden back and sharp pincers.",
+    "Make a creature featuring a rugged exterior and a tough personality.",
+    "Imagine a Pokemon that thrives in rocky terrains and has a unique shell.",
+    "Design a Pokemon that combines red and brown colors with a fierce look.",
+    "Show me a Pokemon that has an interesting mix of crab-like features and rock attributes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large wooden shell",
+      "Sharp pincers",
+      "Red legs",
+      "Yellow line across the shell",
+      "Facial features resembling a crab"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Rock",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Defensive",
+      "Sturdy",
+      "Resilient"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive and strategic"
+  },
+  "image_path": "images/Crustle/1.png",
+  "pokemon_name": "Crustle"
+}

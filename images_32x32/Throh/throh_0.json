@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a fighting-type Pokemon with a muscular build and a martial arts uniform.",
+    "Show me a Pokemon that embodies strength and discipline, inspired by martial arts.",
+    "Design a Pokemon that is skilled in hand-to-hand combat and has an intense aura.",
+    "Imagine a bipedal creature with a red face and a black belt, representing bravery.",
+    "Generate a Pokemon that looks fierce and determined, with a focus on combat techniques.",
+    "Give me a Pokemon that showcases power and agility, perfect for martial arts battles.",
+    "Make a Pokemon that has a unique, anthropomorphic design with a fighting style."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "White"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Red face",
+      "Martial arts gi",
+      "Black belt",
+      "Muscular build",
+      "Defined fists"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Disciplined",
+      "Fierce",
+      "Determined"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Close combat"
+  },
+  "image_path": "images/Throh/0.png",
+  "pokemon_name": "Throh"
+}

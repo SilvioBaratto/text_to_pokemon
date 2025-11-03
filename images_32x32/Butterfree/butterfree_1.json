@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a butterfly Pokemon that has iridescent wings and a gentle demeanor.",
+    "Show me a bug-type Pokemon that resembles a colorful butterfly flitting through a garden.",
+    "Design a Pokemon with beautiful wings that reflect shades of blue and green.",
+    "Imagine a mythical butterfly Pokemon that can control the weather with its wings.",
+    "Generate an elegant Pokemon with pastel colors and intricate patterns on its wings.",
+    "Make a Pokemon that embodies the beauty and fragility of a butterfly in nature.",
+    "Give me a detailed description of a Pokemon that dances among flowers with vibrant wings."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Blue",
+      "accent": "Pink"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, colorful wings",
+      "Delicate body structure",
+      "Compound eyes",
+      "Antennae",
+      "Soft patterns on wings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Special attacker with focus on status effects"
+  },
+  "image_path": "images/Butterfree/1.png",
+  "pokemon_name": "Butterfree"
+}

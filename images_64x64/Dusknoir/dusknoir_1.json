@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that haunts the night with eerie whispers and floating abilities.",
+    "Imagine a spooky creature that can manipulate shadows and has a haunting presence.",
+    "Design an intimidating Pokemon with a menacing grin and a dark color palette.",
+    "Show me a Pokemon that can travel through dimensions and has a skeletal appearance.",
+    "Generate a Pokemon with a mysterious aura, known to guard ancient secrets and treasures.",
+    "Make a ghostly figure with glowing eyes and a body that resembles a shadowy cloak.",
+    "Give me a dark-type Pokemon that thrives in abandoned places and has a playful yet eerie personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Gray",
+      "accent": "Yellow"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Skeletal appearance",
+      "Large hands with a ghostly aura",
+      "Floating abilities",
+      "Eerie eyes",
+      "Cloaked body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Dark",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Eerie",
+      "Protective"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Defensive and strategic"
+  },
+  "image_path": "images/Dusknoir/1.png",
+  "pokemon_name": "Dusknoir"
+}

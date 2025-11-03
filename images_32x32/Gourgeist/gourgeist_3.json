@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon with a spooky atmosphere and a pumpkin-like body.",
+    "Design a Pokemon that embodies the spirit of Halloween with vibrant colors and a playful demeanor.",
+    "Imagine a creature that combines the features of a pumpkin and a ghost, perfect for autumn.",
+    "Generate a Pokemon with a whimsical, haunting appearance, featuring a flowing scarf and eerie eyes.",
+    "Make a ghostly Pokemon that roams forests, adorned with a spooky jack-o'-lantern face.",
+    "Show me a Pokemon that represents both the darkness of the night and the warmth of a pumpkin.",
+    "Give me a unique Pokemon inspired by Halloween traditions, with a blend of eerie and cute elements."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Brown",
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Pumpkin-like body",
+      "Ghostly scarf-like tendrils",
+      "Glowing yellow eyes",
+      "Jack-o'-lantern face"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Grass",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Eerie"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Gourgeist/3.png",
+  "pokemon_name": "Gourgeist"
+}

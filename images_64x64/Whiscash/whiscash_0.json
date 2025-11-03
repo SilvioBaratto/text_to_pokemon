@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a unique water-type Pokemon with a smooth body and long whiskers.",
+    "Imagine a fish-like creature that thrives in muddy waters and has vibrant blue patterns.",
+    "Design a Pokemon that can swim swiftly with its powerful fins and agile movements.",
+    "Give me a character that is playful and loves to splash around in wetlands.",
+    "Show me a whimsical water Pokemon with a round body and a cheerful expression.",
+    "Generate a Pokemon that resembles a catfish, featuring colorful scales and an interesting shape.",
+    "Make a Pokemon known for its ability to sense vibrations in the water and react quickly."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": "Gray"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long whiskers",
+      "Wide mouth",
+      "Flat body",
+      "Fins on the sides",
+      "Swirling tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Ground",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Adaptable"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Whiscash/0.png",
+  "pokemon_name": "Whiscash"
+}

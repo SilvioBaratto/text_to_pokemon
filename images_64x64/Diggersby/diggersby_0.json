@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a large, earthy-toned Pokemon that resembles a strong rabbit with big ears.",
+    "I want a playful and robust bunny Pokemon that can dig through tough terrain.",
+    "Generate a Pokemon that incorporates both ground and normal types with unique physical traits.",
+    "Make a Pokemon that has a muscular build and prefers to live in grassy fields.",
+    "Imagine a Pokemon with oversized claws, capable of burrowing into the ground swiftly.",
+    "Design an adorable yet powerful bunny Pokemon that excels in combat with strong attacks.",
+    "Show me a Pokemon that has a mix of brown and gray colors, embodying a rugged appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Gray",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large ears",
+      "Muscular arms",
+      "Prominent front claws",
+      "Round body",
+      "Short tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Ground",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Determined",
+      "Loyal"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Diggersby/0.png",
+  "pokemon_name": "Diggersby"
+}

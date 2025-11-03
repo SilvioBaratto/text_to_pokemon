@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that has a shadowy appearance and eerie glowing eyes.",
+    "Imagine a Pokemon with a unique design that combines ancient runes and a mystical aura.",
+    "Generate a spooky Pokemon that thrives in dark and mysterious environments.",
+    "Design a Pokemon that has a hauntingly beautiful appearance with intricate patterns.",
+    "Give me a Pokemon that embodies the spirit of ancient legends and folklore.",
+    "Make a creature with a ghostly form and a connection to hidden realms.",
+    "Show me a Pokemon with a blend of dark colors and a mysterious backstory."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Ancient rune patterns on body",
+      "Glowing eyes",
+      "Floating appearance",
+      "Long, ghostly limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Ground",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Eerie",
+      "Protective"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Runerigus/0.png",
+  "pokemon_name": "Runerigus"
+}

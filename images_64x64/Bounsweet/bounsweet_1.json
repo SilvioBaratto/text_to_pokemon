@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a cheerful Grass-type Pokemon with a round body and leafy accents.",
+    "Show me a cute Pokemon that thrives in forests and has bright pink features.",
+    "Imagine a small, playful Pokemon with green leaves and a happy expression.",
+    "Generate a tiny, berry-themed Pokemon that enjoys sunny grasslands and flowers.",
+    "Design a Pokemon that looks like a fruit, complete with vibrant colors and a joyful face.",
+    "Make a whimsical creature that loves to play in urban parks, with a friendly demeanor.",
+    "Give me a Pokemon that's perfect for kids, featuring soft curves and a bright smile."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Green"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": null,
+      "accent": "Green"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round body",
+      "Leafy appendages",
+      "Smiling face",
+      "Small eyes",
+      "Short stalk"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Friendly",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Bounsweet/1.png",
+  "pokemon_name": "Bounsweet"
+}

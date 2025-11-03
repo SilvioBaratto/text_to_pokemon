@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a large ice-type Pokemon with a rugged, blocky appearance and a snowy texture.",
+    "Generate a creature resembling a massive ice sculpture, with hints of purple accents.",
+    "Design a Pokemon that looks like an iceberg on four legs, perfect for snowy habitats.",
+    "Imagine a Pokemon that embodies the essence of glaciers, with a strong and sturdy build.",
+    "Show me a Pokemon that appears to be made of ice, with a crystalline body and unique shapes.",
+    "Make a Pokemon with a thick, icy body and a majestic, frozen aesthetic.",
+    "Give me a visual of a Pokemon that seems to be carved from ice itself, with a powerful stance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Purple",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Blocky body structure",
+      "Icy surface appearance",
+      "Thick legs resembling ice formations",
+      "Purple-striped patterns on body",
+      "Large, flat top reminiscent of an iceberg"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Sturdy",
+      "Resilient",
+      "Calm"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Avalugg/1.png",
+  "pokemon_name": "Avalugg"
+}

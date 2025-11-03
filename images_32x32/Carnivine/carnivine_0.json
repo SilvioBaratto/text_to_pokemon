@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a plant with large green arms and a sinister smile.",
+    "Imagine a creature with a round, bulbous body and sharp, spiky appendages.",
+    "Design a Pokemon that looks like a carnivorous plant, perfect for ambushing prey.",
+    "Show me a Pokemon that combines both plant and ghostly features for a spooky effect.",
+    "Generate a whimsical creature that thrives in forests with vibrant green colors.",
+    "Make a Pokemon that has a unique mix of plant and monster characteristics.",
+    "Give me a visual of a Pokemon with a fierce expression and colorful vines."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large spiky arms",
+      "Wide mouth with sharp teeth",
+      "Vine-like appendages",
+      "Round body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Ghost",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Lurking",
+      "Cunning"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Ambush"
+  },
+  "image_path": "images/Carnivine/0.png",
+  "pokemon_name": "Carnivine"
+}

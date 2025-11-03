@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a cute ground-type Pokemon that burrows underground with a round body and small features.",
+    "I want a Pokemon that resembles a mole, with a pink nose and earthy colors.",
+    "Generate a small, adorable creature that thrives in caves and has a playful personality.",
+    "Make a Pokemon that has a unique ability to dig through soil effortlessly and is light brown.",
+    "Imagine a Pokemon with a round shape, minimalistic design, and a focus on ground-based combat.",
+    "Design a Pokemon that is often found in urban areas, known for its digging skills and charm.",
+    "Show me a Pokemon with a distinctive pink accent on its face, perfect for underground adventures."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round body",
+      "Small size",
+      "Pink nose",
+      "Burrowing appearance",
+      "Minimalistic design"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Gentle"
+    ],
+    "habitat": "Cave",
+    "rarity": "Common",
+    "combat_style": "Burrowing and surprise attacks"
+  },
+  "image_path": "images/Diglett/0.png",
+  "pokemon_name": "Diglett"
+}

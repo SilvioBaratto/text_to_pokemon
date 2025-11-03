@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a hypnotic gaze and a yellow body.",
+    "Design a Pokemon that uses dreams to battle, featuring a whimsical appearance.",
+    "Show me a bipedal Pokemon with a round head and a soothing color palette.",
+    "Imagine a Pokemon that lulls its opponents to sleep with its abilities.",
+    "Generate a creature with distinct yellow fur and an eerie presence.",
+    "Make a Pokemon that thrives in urban environments and has psychic powers.",
+    "Give me a unique Pokemon with large ears and a mysterious aura."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large ears",
+      "Hypnotic eyes",
+      "Round belly",
+      "Long arms",
+      "Sleep-inducing appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Calm",
+      "Deceptive"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Hypno/1.png",
+  "pokemon_name": "Hypno"
+}

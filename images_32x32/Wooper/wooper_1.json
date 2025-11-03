@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a playful personality and soft blue colors.",
+    "I want a cute, aquatic Pokemon that resembles a small blue creature with unique features.",
+    "Generate a Pokemon design that has a cheerful expression and prominent gills.",
+    "Make a fantasy creature that blends aquatic elements with a bright and friendly appearance.",
+    "Imagine a small, blue Pokemon that thrives in wet environments and loves to play.",
+    "Design a whimsical Pokemon that embodies the essence of water and has a charming smile.",
+    "Show me a playful little creature that is perfect for a water-themed adventure."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Blue",
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Gills on the head",
+      "Round body",
+      "Long tail",
+      "Smiling face",
+      "Short limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Ground",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Wooper/1.png",
+  "pokemon_name": "Wooper"
+}

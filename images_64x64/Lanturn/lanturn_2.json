@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that glows in the dark and has a playful disposition.",
+    "Show me an aquatic creature inspired by both fish and lanterns with bright colors.",
+    "Imagine a blue and yellow Pokemon that is known for its ability to light up underwater.",
+    "Design a Pokemon that combines the features of a whale and a lantern, perfect for ocean adventures.",
+    "Generate a cute, friendly Pokemon that can be found swimming in deep sea caves.",
+    "Make a Pokemon that has a small, rounded body and emits light to attract other sea creatures.",
+    "Give me a creature that has a charming face and uses its light to lure in prey."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long antenna with a light bulb",
+      "Rounded body",
+      "Large eyes",
+      "Fins resembling wings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Electric",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Friendly",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Lanturn/2.png",
+  "pokemon_name": "Lanturn"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with golden scales and a fierce expression.",
+    "I want a bipedal creature that embodies strength and elegance, with metallic accents.",
+    "Generate a Pokemon inspired by ancient warriors, adorned with traditional armor.",
+    "Make a Pokemon that thrives in mountainous regions, showcasing both power and grace.",
+    "Imagine a creature that combines the beauty of a dragon with the might of a warrior.",
+    "Design a Pokemon with intricate patterns and vibrant colors that stand out in battle.",
+    "Show me a majestic Pokemon that balances ferocity with wisdom in its demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Armor-like scales",
+      "Long tail",
+      "Spiked crest on the head",
+      "Distinctive clawed limbs",
+      "Intricate patterns on the body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Fighting",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Brave",
+      "Proud",
+      "Determined"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Kommo-o/0.png",
+  "pokemon_name": "Kommo-o"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that looks like a haunted doll with a spooky grin",
+    "Design a Pokemon that embodies the spirit of a mischievous ghost with playful features",
+    "Imagine a Pokemon that can blend into the shadows, featuring a creepy yet cute design",
+    "Generate a ghostly creature with stitched-up limbs and a haunting presence",
+    "Make a Pokemon with a playful personality and a unique design that resembles a puppet",
+    "Show me a ghost-type Pokemon that has a sinister smile and is known for its playful tricks",
+    "Give me a Pokemon that has a mysterious aura and looks like it came from a haunted house"
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Yellow",
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Yellow",
+      "accent": "Pink"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Stitched appearance",
+      "Wide sinister grin",
+      "Button-like eyes",
+      "Long, flowing limbs",
+      "Ghostly tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Cunning"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Trickster"
+  },
+  "image_path": "images/Banette/2.png",
+  "pokemon_name": "Banette"
+}

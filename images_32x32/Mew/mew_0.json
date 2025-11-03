@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon that glows with a soft pink aura and has big blue eyes.",
+    "I want a small psychic-type Pokemon that can float and has a playful demeanor.",
+    "Generate a unique Pokemon with a rounded body shape and long tail, resembling a cat.",
+    "Make a whimsical Pokemon that can teleport and has a cute, childlike appearance.",
+    "Imagine a legendary creature that has a mystical charm and is known for its elusive nature.",
+    "Design a Pokemon that embodies the essence of dreams, with a gentle color palette.",
+    "Show me an adorable Pokemon that loves to play in grassy fields and explore urban areas."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Purple",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large blue eyes",
+      "Long thin tail",
+      "Small rounded ears",
+      "Sleek body",
+      "Floating posture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": true,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Mischievous"
+    ],
+    "habitat": "Urban",
+    "rarity": "Very Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Mew/0.png",
+  "pokemon_name": "Mew"
+}

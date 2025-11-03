@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon that resembles a round, smiling ball with expressive eyes.",
+    "I want a playful Pokemon with a shiny metallic finish and an energetic personality.",
+    "Generate a Pokemon that is spherical in shape and emits electricity when excited.",
+    "Make a cute, round Pokemon with a cheerful face and a powerful electric attack.",
+    "Imagine a Pokemon that looks like a big electric orb with a mischievous grin.",
+    "Design a Pokemon that is known for its shocking abilities and has a glossy exterior.",
+    "Show me a small, spherical Pokemon with a bright smile and a knack for causing explosions."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Red",
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Spherical shape",
+      "Smiling face",
+      "Large, expressive eyes",
+      "Red markings",
+      "Glossy surface"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Mischievous"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Electrode/0.png",
+  "pokemon_name": "Electrode"
+}

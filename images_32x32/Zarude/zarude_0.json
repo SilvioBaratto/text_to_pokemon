@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a dark-type Pokemon with a muscular build and a mischievous grin.",
+    "Show me a Pokemon that resembles a humanoid monkey with green accents and a fierce expression.",
+    "Imagine a Pokemon that blends into forest environments, using its agility to evade capture.",
+    "Design a Pokemon that uses its powerful arms for both combat and climbing trees.",
+    "Give me an agile creature that embodies the essence of stealth and strength in battle.",
+    "Generate a Pokemon that thrives in mountainous habitats, with a body built for speed and agility.",
+    "Make a Pokemon that showcases a combination of dark fur and vibrant green features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [
+      "Green",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Green",
+      "accent": "Red"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Muscular arms with green accents",
+      "Long, pointed ears",
+      "Fierce red eyes",
+      "Tail resembling a vine"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": "Fighting",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Agile",
+      "Protective"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Zarude/0.png",
+  "pokemon_name": "Zarude"
+}

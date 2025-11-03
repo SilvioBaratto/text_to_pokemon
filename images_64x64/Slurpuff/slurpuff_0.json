@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a fluffy Pokemon with pastel colors and a sweet aroma that captures the essence of desserts.",
+    "Imagine a playful creature that loves to gather berries and has a soft, puffy appearance.",
+    "Design a Fairy-type Pokemon that resembles a tasty treat, with a charming personality and whimsical features.",
+    "Show me a Pokemon that is round and bubbly, with a signature pink color and a cheerful demeanor.",
+    "Generate a cute creature that embodies sweetness, with a scarf and a round, fluffy body.",
+    "Make a whimsical Pokemon that can float and has a big, round head adorned with a cherry.",
+    "I want a Pokemon that looks delicious and is often found in urban areas delighting children."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy, cloud-like body",
+      "Round cherry on top",
+      "Scarf around the neck",
+      "Big, friendly eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Friendly"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Slurpuff/0.png",
+  "pokemon_name": "Slurpuff"
+}

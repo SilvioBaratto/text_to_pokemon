@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that glows in the dark and has a mischievous personality.",
+    "Imagine a Pokemon that can phase through walls and has a playful demeanor.",
+    "Show me a haunting Pokemon with spectral features and a spooky presence.",
+    "Design a ghostly creature that floats and has eerie, glowing eyes.",
+    "Make a Pokemon that can move silently and has a chilling aura.",
+    "Generate a mysterious Pokemon with an ethereal shape and a knack for tricks.",
+    "Give me an image of a shadowy Pokemon that blends into the night."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Floating hands",
+      "Distinctive grin",
+      "Glowing eyes",
+      "Shadowy appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Eerie"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Haunter/3.png",
+  "pokemon_name": "Haunter"
+}

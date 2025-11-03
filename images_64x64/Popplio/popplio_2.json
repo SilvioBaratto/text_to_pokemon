@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a playful water-type Pokemon that has a cute seal-like appearance and a vibrant blue color.",
+    "I want a whimsical Pokemon that can use water attacks and has a charming personality.",
+    "Generate a friendly aquatic creature with a round body and a signature pink nose.",
+    "Make a unique Pokemon that thrives in the sea with a blue and white color palette.",
+    "Imagine a starter Pokemon that evolves into a majestic sea creature with a clown-like aesthetic.",
+    "Design a Pokemon with distinct aquatic features and a clownish flair, perfect for a playful environment.",
+    "Show me a Pokemon that embodies joy and water, with a colorful appearance and playful nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White",
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": "Pink"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Clown-like nose",
+      "Frill around the neck",
+      "Fin-like flippers",
+      "Round, soft body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Curious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Popplio/2.png",
+  "pokemon_name": "Popplio"
+}

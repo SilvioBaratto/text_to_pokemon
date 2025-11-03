@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a forest-dwelling Pokemon that resembles a deer with branches for antlers.",
+    "Imagine a Pokemon that changes its appearance with the seasons, showcasing vibrant colors.",
+    "Show me a quadruped Pokemon that has a graceful stance and leafy decorations.",
+    "Design a Normal-type Pokemon that embodies the essence of nature with earthy tones.",
+    "Generate a Pokemon that is friendly and gentle, often found in grassy fields.",
+    "Make a Pokemon that can blend into its forest habitat, featuring brown and green hues.",
+    "Give me a Pokemon with a unique ability to heal other creatures in its vicinity."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Green",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Branch-like antlers",
+      "Leafy tufts on head",
+      "Brown fur with yellow spots"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Grass",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Friendly",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Sawsbuck/2.png",
+  "pokemon_name": "Sawsbuck"
+}

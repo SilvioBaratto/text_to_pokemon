@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a playful monkey Pok\u00e9mon that excels in teamwork and agility.",
+    "I want a Pok\u00e9mon with a vibrant green headband and a sleek black tail.",
+    "Generate a Pok\u00e9mon that thrives in forest environments and has a sporty appearance.",
+    "Make a Pok\u00e9mon inspired by a playful primate that loves to play ball games.",
+    "Imagine a Pok\u00e9mon that combines agility and strength, suitable for combat.",
+    "Design a Pok\u00e9mon with a unique blend of colors and a focus on teamwork.",
+    "Give me a Pok\u00e9mon that exhibits energetic and friendly personality traits."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "White",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Green",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Green headband",
+      "Long black tail",
+      "Sporty stance",
+      "Yellow markings",
+      "Strong limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": "Normal",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Team-oriented"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Passimian/0.png",
+  "pokemon_name": "Passimian"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with vibrant colors and cheerful expressions.",
+    "Imagine a Pokemon that glows in the dark and loves to dance in the moonlight.",
+    "Show me a small, winged Pokemon that collects flowers and spreads joy.",
+    "Generate a Pokemon with a round body and expressive eyes that can fly gracefully.",
+    "Design a bug-type Pokemon that thrives in lush environments and attracts other creatures.",
+    "Give me a Pokemon that has a unique color scheme, making it stand out in the wild."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Purple",
+      "accent": "Yellow"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large expressive eyes",
+      "Wings resembling a butterfly",
+      "Round, plump body",
+      "Cheerful smile",
+      "Colorful antennae"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Fairy",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Illumise/1.png",
+  "pokemon_name": "Illumise"
+}

@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a bat-like Pokemon with purple wings and red accents that glides through the night.",
+    "I want a Pokemon that resembles a scorpion with large claws and a sleek, gray body.",
+    "Generate a flying Pokemon with sharp fangs and bright yellow eyes, perfect for stealth attacks.",
+    "Make a desert-dwelling Pokemon that has both ground and flying features, with a rugged appearance.",
+    "Imagine a Pokemon with a unique blend of bat and scorpion traits, showcasing agility and power.",
+    "Design a Pokemon that has a mix of gray and black colors, equipped with impressive claws and wings.",
+    "Show me a Pokemon that embodies the essence of both the ground and flying types with striking features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large bat-like wings",
+      "Claw-like hands",
+      "Long scorpion tail",
+      "Yellow eyes",
+      "Red markings on the body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": "Flying",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Stealthy",
+      "Agile",
+      "Cunning"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Gliscor/0.png",
+  "pokemon_name": "Gliscor"
+}

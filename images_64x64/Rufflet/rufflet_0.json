@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bird-like Pokemon with fluffy white feathers and a strong beak.",
+    "Design a Pokemon that looks like a small eagle, complete with blue and red accents.",
+    "Imagine a playful Pokemon that loves to soar through the skies and hunt in forests.",
+    "Show me a cute yet fierce Pokemon that embodies the spirit of a young raptor.",
+    "Generate a Pokemon with a unique feather pattern, showcasing a mix of white and blue.",
+    "Make a Pokemon that stands out with its round body and energetic personality.",
+    "Give me a design for a Pokemon that inspires bravery and loyalty in its trainers."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Blue",
+      "accent": "Red"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy white feathers",
+      "Strong beak",
+      "Round body",
+      "Blue wings",
+      "Red crest"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Brave",
+      "Energetic"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Physical attacker"
+  },
+  "image_path": "images/Rufflet/0.png",
+  "pokemon_name": "Rufflet"
+}

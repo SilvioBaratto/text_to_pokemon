@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that hides its true form under a ragged cloth.",
+    "Imagine a playful Pokemon that uses disguises to interact with others.",
+    "Design a small, mysterious creature that thrives in shadowy environments.",
+    "Generate a unique Pokemon that represents loneliness and longing for friendship.",
+    "Make a cute yet eerie Pokemon that has a hidden face and a spooky vibe.",
+    "Show me a Pokemon that can blend into different environments, like forests or urban areas.",
+    "Give me a whimsical ghost-type Pokemon that appeals to children and sparks curiosity."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Brown",
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Black",
+      "accent": "Orange"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Ragged cloth-like appearance",
+      "Single eye visible through the cloth",
+      "Wooden stick resembling a tail",
+      "Orange markings on the cloth",
+      "Mimics the appearance of Pikachu"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Fairy",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Lonely",
+      "Innocent"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Trickster"
+  },
+  "image_path": "images/Mimikyu/2.png",
+  "pokemon_name": "Mimikyu"
+}

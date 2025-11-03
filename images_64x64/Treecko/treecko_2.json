@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create an agile Pokemon that can blend into forest environments with vibrant green colors.",
+    "Generate a small, bipedal creature with a playful personality and a leaf-like tail.",
+    "Imagine a grass-type Pokemon that can climb trees effortlessly and has a curious demeanor.",
+    "Design a Pokemon with a sleek body and large eyes that loves to explore mountainous regions.",
+    "Give me a cute Pokemon that uses its speed to dodge attacks and is always on the move.",
+    "Show me a dynamic Pokemon that thrives in grasslands and enjoys sunny weather.",
+    "Make a Pokemon that can camouflage itself among leaves and has a cheerful nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Yellow",
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Yellow",
+      "accent": "Brown"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Leaf-like tail",
+      "Large round eyes",
+      "Lizard-like limbs",
+      "Sleek body",
+      "Bright smile"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Agile"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Treecko/2.png",
+  "pokemon_name": "Treecko"
+}

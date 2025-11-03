@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a small, green Pokemon that resembles a sprouting flower with a friendly expression.",
+    "Show me an adorable grass-type Pokemon with a round, happy face and a curled leaf.",
+    "Imagine a tiny Pokemon with a soft green body and bright yellow accents, perfect for a garden.",
+    "Generate a Pokemon that embodies nature, featuring a smooth, green body and a cheerful demeanor.",
+    "Make a cute, grass-type Pokemon that looks like it could blend in with leaves and flowers.",
+    "Design a Pokemon with a round, bulbous shape, primarily green, that thrives in forest environments.",
+    "Give me a visual of a small, playful Pokemon with a leaf-like appearance and a sunny personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": null,
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round, smiling face",
+      "Curled leaf on top of its head",
+      "Smooth, bulbous body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Budew/0.png",
+  "pokemon_name": "Budew"
+}

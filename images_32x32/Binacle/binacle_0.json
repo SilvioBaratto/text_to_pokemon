@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles two hands emerging from a rock.",
+    "I want a Pokemon that looks like a dual-handed creature with a rugged stone base.",
+    "Generate a unique Pokemon inspired by coastal environments with a rocky appearance.",
+    "Make a bipedal Pokemon with two hands and a rocky body, perfect for aquatic habitats.",
+    "Imagine a Pokemon that has hands instead of normal arms and is found in wetlands.",
+    "Design a playful Pokemon that resembles a rock with hands, ideal for sea adventures.",
+    "Show me a Pokemon that embodies the essence of water and earth elements in its design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Yellow",
+      "accent": "Orange"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Two hand-like appendages",
+      "Rocky base",
+      "Facial features with eyes",
+      "Textured surface"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Rock",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Adaptable"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Binacle/0.png",
+  "pokemon_name": "Binacle"
+}

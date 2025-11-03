@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a blue aquatic Pokemon with icy features and a streamlined body shape.",
+    "Design a Pokemon that resembles a prehistoric fish with a frozen appearance.",
+    "Imagine a Pokemon that combines icy powers and an oceanic vibe.",
+    "Generate a creature with a sleek body and cold blue colors, perfect for icy waters.",
+    "Show me a Pokemon that has both swimming abilities and a frosty demeanor.",
+    "Make a Pokemon that embodies the essence of both ice and water elements.",
+    "I want a Pokemon that looks like it came from the depths of an icy ocean."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Frosty head resembling a fish",
+      "Streamlined body",
+      "Tail fin with a distinct shape",
+      "Icy blue coloration",
+      "Large gills"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": "Water",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Adaptive",
+      "Mysterious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Arctovish/0.png",
+  "pokemon_name": "Arctovish"
+}

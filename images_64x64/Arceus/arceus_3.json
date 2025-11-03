@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a legendary Pokemon that embodies the concept of creation and control over space.",
+    "Imagine a unique Pokemon that has a mix of silver and purple colors, representing divine power.",
+    "Show me a mythical Pokemon with a graceful design and the ability to manipulate time.",
+    "Generate a Pokemon that resembles a powerful deity, with intricate details and cosmic elements.",
+    "Design a bipedal Pokemon that radiates a sense of calm and authority, adorned in white and black.",
+    "Give me a Pokemon that can change its form, showcasing its adaptability and strength.",
+    "Make a Pokemon that is both majestic and mysterious, with ethereal features and a serene expression."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Purple",
+      "accent": "Black"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Four floating appendages",
+      "A halo-like structure",
+      "Intricate markings on the body",
+      "Elegant, elongated limbs",
+      "A serene facial expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": true,
+    "is_mythical": true,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Wise",
+      "Mysterious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Very Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Arceus/3.png",
+  "pokemon_name": "Arceus"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that has a playful demeanor and a mischievous grin.",
+    "Imagine a purple spectral creature with floating hands and glowing eyes, perfect for haunting.",
+    "Show me a Pokemon with a ghostly aura and sharp claws, capable of terrifying opponents.",
+    "Generate a spooky Pokemon with a shadowy form and an eerie laugh that echoes in the dark.",
+    "Design a dual-type Pokemon that embodies both ghostly and poison elements, with a haunting appearance.",
+    "Give me a Pokemon that can blend into shadows, with a sleek and agile body for stealth attacks.",
+    "Make a ghost-type Pokemon that can float above the ground, with a mysterious and playful personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Black",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Floating hands",
+      "Glowing eyes",
+      "Sharp claws",
+      "Shadowy form"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Eerie"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Stealth and surprise attacks"
+  },
+  "image_path": "images/Haunter/0.png",
+  "pokemon_name": "Haunter"
+}

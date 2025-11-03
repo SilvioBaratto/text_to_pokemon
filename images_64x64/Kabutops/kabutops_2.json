@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a fossil-type Pokemon that resembles a prehistoric creature with scythe-like arms.",
+    "Imagine a water-dwelling Pokemon that has a sleek, streamlined body and sharp claws.",
+    "Design a Pokemon with a unique combination of stone and shell features, perfect for rocky terrains.",
+    "Show me a creature that blends ancient marine life with modern Pokemon traits, emphasizing agility.",
+    "Make a Pokemon that has a menacing look with sharp edges and a pale color scheme.",
+    "Generate a fierce predator Pokemon that thrives in cave-like habitats, showcasing its hunting skills.",
+    "Give me a Pokemon that has a distinctive exoskeleton and agile limbs, ideal for fast-paced battles."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Gray",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Scythe-like claws",
+      "Pale, shell-like carapace",
+      "Long, pointed head",
+      "Segmented body structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Bug",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Cunning",
+      "Predatory"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Melee"
+  },
+  "image_path": "images/Kabutops/2.png",
+  "pokemon_name": "Kabutops"
+}

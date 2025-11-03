@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with large horns and a tough exoskeleton.",
+    "I want a Pokemon that can fly and has bright yellow wings.",
+    "Generate a creature that resembles an insect, with powerful pincers and a sturdy body.",
+    "Make an intimidating Pokemon with a mix of brown and yellow colors.",
+    "Imagine a Pokemon that thrives in forests and has a strong, aggressive personality.",
+    "Design a Pokemon that is both a fighter and a bug type, showcasing its battle skills.",
+    "Give me a unique Pokemon with a focus on strength and agility in combat."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Black",
+      "accent": "Yellow"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large pincers",
+      "Horns on the head",
+      "Yellow wings",
+      "Robust exoskeleton",
+      "Multi-segmented body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Strong",
+      "Competitive"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Physical attacker"
+  },
+  "image_path": "images/Pinsir/1.png",
+  "pokemon_name": "Pinsir"
+}

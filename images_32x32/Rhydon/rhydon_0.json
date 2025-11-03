@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon with a sturdy build and a fierce expression.",
+    "I want a ground-type Pokemon that resembles a dinosaur and has a robust body.",
+    "Generate a Pokemon that combines elements of strength and durability, perfect for battles.",
+    "Make a Pokemon that thrives in mountainous terrains, featuring rocky textures and earthy colors.",
+    "Imagine a Pokemon that showcases power and resilience with distinct horned features.",
+    "Design a Pokemon that embodies the spirit of adventure in rugged landscapes.",
+    "Show me a Pokemon that has a playful demeanor but is also known for its combat skills."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large horn on the forehead",
+      "Thick, rocky skin",
+      "Strong, muscular build",
+      "Prominent claws",
+      "Large tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": "Rock",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Stubborn",
+      "Brave",
+      "Loyal"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Rhydon/0.png",
+  "pokemon_name": "Rhydon"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a rocky Pokemon that thrives in mountainous habitats with a tough exterior.",
+    "I want a dual-type Pokemon that combines earth and fighting styles with a rugged appearance.",
+    "Generate a Pokemon that resembles a boulder, featuring shades of gray and orange accents.",
+    "Make a sturdy Pokemon that can withstand harsh environments and has a bipedal stance.",
+    "Imagine a creature with a tough shell and sharp features, perfect for rock-type battles.",
+    "Design a Pokemon that embodies strength and resilience, with a color palette of green and gray.",
+    "Give me a Pokemon that stands out in caves and mountains, showcasing unique rock-like traits."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Orange",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Rock-like body",
+      "Multiple arms",
+      "Sharp protrusions",
+      "Bulky physique"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Ground",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Sturdy",
+      "Resilient",
+      "Protective"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Graveler/5.png",
+  "pokemon_name": "Graveler"
+}

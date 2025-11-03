@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a panda-themed Pokemon that specializes in fighting and has a strong, intimidating presence.",
+    "Imagine a dark-type Pokemon with a rugged appearance and a fierce personality, inspired by a bear.",
+    "Show me a powerful bipedal Pokemon that combines elements of strength and agility in its design.",
+    "Generate a Pokemon that thrives in forest habitats, with a unique fighting style and a playful demeanor.",
+    "Design a Pokemon with a heavy build and a dual nature, showcasing both strength and stealth in its moves.",
+    "Give me a character based on a bear that has a mix of dark and fighting types, perfect for a fierce battle.",
+    "Make a Pokemon that's both tough and cuddly, with features that highlight its bear-like qualities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "White",
+      "accent": "Black"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Panda-like facial markings",
+      "Large forearms",
+      "Fur around the waist",
+      "Green bamboo stick in hand",
+      "Thick body structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": "Dark",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Brave",
+      "Playful",
+      "Protective"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Pangoro/1.png",
+  "pokemon_name": "Pangoro"
+}

@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a robust fighting-type Pokemon with powerful arms and a distinct pink color scheme.",
+    "Show me a humanoid Pokemon that carries heavy objects and has a strong physique.",
+    "Imagine a Pokemon that evolves from a more basic form and has a gym-training vibe.",
+    "Design a Pokemon with a unique balance of strength and agility in its battle style.",
+    "Give me a visual of a Pokemon that thrives in urban environments and has a friendly personality.",
+    "Generate a character that symbolizes hard work and determination in the Pokemon world.",
+    "Make a Pokemon that has a playful yet tough demeanor, perfect for training."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Pink"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": null,
+      "accent": "Pink"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Carries a large steel girder",
+      "Muscular arms",
+      "Short legs",
+      "Prominent pink hair"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Hardworking",
+      "Friendly"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Gurdurr/0.png",
+  "pokemon_name": "Gurdurr"
+}

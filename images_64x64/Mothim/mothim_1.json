@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with vibrant yellow wings and orange tips.",
+    "I want a Pokemon that looks like a butterfly with a mix of yellow and orange.",
+    "Generate a flying-type Pokemon featuring large, colorful wings and an insect-like body.",
+    "Make a Pokemon that embodies the essence of a moth with striking yellow and gray colors.",
+    "Imagine a Pokemon with a unique wing design, showcasing yellow and orange hues.",
+    "Design a creature that resembles a moth, with a friendly demeanor and beautiful colors.",
+    "Show me a Pokemon with an elegant wing shape, perfect for fluttering in a sunny meadow."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Orange",
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Orange",
+      "accent": "Gray"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large wings with a unique shape",
+      "Prominent orange tips on wings",
+      "Gray body with a smooth texture",
+      "Insectoid appearance",
+      "Antennae on the head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Gentle",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Agile and evasive"
+  },
+  "image_path": "images/Mothim/1.png",
+  "pokemon_name": "Mothim"
+}

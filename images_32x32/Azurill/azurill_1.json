@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a round body and a playful demeanor.",
+    "Imagine a cute, blue Pokemon that loves to float and play in the water.",
+    "Design a small, bubbly Pokemon that has a big smile and a balloon tail.",
+    "Generate a Pokemon that is friendly, aquatic, and has a vibrant blue color scheme.",
+    "Show me a playful Pokemon with large ears and a cheerful personality!",
+    "Make a tiny Pokemon that enjoys living near water and has a round shape.",
+    "I want a Pokemon with a balloon feature and a joyful expression."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round body",
+      "Balloon-like tail",
+      "Large ears",
+      "Cheerful expression",
+      "White cheeks"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Azurill/1.png",
+  "pokemon_name": "Azurill"
+}

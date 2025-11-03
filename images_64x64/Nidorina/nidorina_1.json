@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a Pokemon that embodies the essence of a forest with vibrant green leaves and sparkling blue accents.",
+    "Show me a unique ice-type Pokemon that features a sleek, serpentine body and shimmering crystalline elements.",
+    "Imagine a small, bipedal Pokemon with a playful personality and a color palette of bright blues and whites.",
+    "Design a mythical creature that combines the elegance of water and the fierceness of ice, with intricate patterns.",
+    "Generate a Pokemon that thrives in urban environments, showcasing a mix of bold colors and modern design elements.",
+    "Make a Pokemon that represents the tundra, with frosty features and an icy demeanor, perfect for cold habitats.",
+    "Give me a combat-ready Pokemon that excels in both agility and strength, featuring dual colors of blue and gray."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Round ears",
+      "Spiky back",
+      "Long tail",
+      "Red eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": "Ground",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cautious",
+      "Protective",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Nidorina/1.png",
+  "pokemon_name": "Nidorina"
+}

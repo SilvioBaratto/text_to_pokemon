@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a glowing star with vibrant colors and whimsical patterns.",
+    "I want a unique Pokemon that embodies the essence of a sunny day and has a cheerful personality.",
+    "Generate a Pokemon with a round, fluffy appearance that captures a playful and energetic vibe.",
+    "Make a whimsical creature that glows bright yellow and has a soft, cloud-like body.",
+    "Imagine a Pokemon that radiates positivity and has a bright, sunny disposition.",
+    "Design a Pokemon that has the shape of a star with swirling patterns and a shiny surface.",
+    "Show me a Pokemon that embodies happiness with a bright yellow color and a charming smile."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Star-like shape",
+      "Glowing appearance",
+      "Swirling patterns",
+      "Soft, cloud-like texture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Flying",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Positive"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Minior/5.png",
+  "pokemon_name": "Minior"
+}

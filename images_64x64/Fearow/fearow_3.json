@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bird-like Pokemon with sharp talons and vibrant feathers.",
+    "Imagine a fierce flying Pokemon with a menacing gaze and elongated wings.",
+    "Design a Pokemon that embodies speed, agility, and a striking color palette.",
+    "Show me a Pokemon that can soar through mountains and hunt in urban areas.",
+    "Make a Pokemon with a sleek body and powerful wings for aerial battles.",
+    "Generate a Pokemon that represents freedom and agility in the skies.",
+    "I want a majestic bird Pokemon that is both beautiful and intimidating."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, pointed beak",
+      "Large wingspan",
+      "Sharp talons",
+      "Prominent crest on the head",
+      "Streamlined body shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Loyal",
+      "Courageous"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Fast and aggressive aerial attacks"
+  },
+  "image_path": "images/Fearow/3.png",
+  "pokemon_name": "Fearow"
+}

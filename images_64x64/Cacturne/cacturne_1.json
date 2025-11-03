@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a cactus-like Pokemon with a green body and a pointy hat, perfect for a desert environment.",
+    "Imagine a Pokemon that blends plant and humanoid features, sporting a vibrant green color scheme.",
+    "Generate a bipedal Pokemon with a quirky personality and distinctive prickly features.",
+    "Show me a Pokemon that resembles a desert dweller with a playful demeanor and a unique silhouette.",
+    "Design a Pokemon with a hat that resembles a cactus flower, featuring green and brown tones.",
+    "Make a Pokemon that thrives in arid environments, showcasing both cuteness and a prickly exterior.",
+    "Give me a Pokemon with an unusual shape that embodies the essence of a desert cactus."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Cactus-like spikes",
+      "Pointed hat",
+      "Arms resembling cactus arms",
+      "Facial expression with a smile"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Dark",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Adaptable"
+    ],
+    "habitat": "Desert",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Cacturne/1.png",
+  "pokemon_name": "Cacturne"
+}

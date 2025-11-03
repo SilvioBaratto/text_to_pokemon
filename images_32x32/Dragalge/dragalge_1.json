@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with sleek purple scales and floral accents.",
+    "Imagine a dragon-like creature that thrives in both seas and forests.",
+    "Design a Pokemon with a serpentine body and vibrant red flowers on its head.",
+    "Show me a unique aquatic Pokemon with a blend of purple and brown colors.",
+    "Generate a creature that embodies the essence of poison and water types.",
+    "Make a Pokemon resembling an eel with striking floral features and bold colors.",
+    "Give me a Pokemon that looks like a mythical sea serpent with elegant decorations."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Brown",
+      "accent": "Red"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Floral decorations on the head",
+      "Long, serpentine body",
+      "Spiny protrusions along the back",
+      "Brownish coloration on the underside",
+      "Elegant fins resembling leaves"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": "Water",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Protective",
+      "Intelligent"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Dragalge/1.png",
+  "pokemon_name": "Dragalge"
+}

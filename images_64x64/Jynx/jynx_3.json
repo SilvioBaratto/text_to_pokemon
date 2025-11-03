@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a humanoid ice-type Pokemon with long hair and a flowing dress.",
+    "Imagine a Pokemon that can freeze its opponents with a single glare.",
+    "Design a character that embodies elegance and coolness in the Pokemon world.",
+    "Show me a Pokemon that uses psychic powers and ice abilities in battle.",
+    "Generate a Pokemon with a striking purple and red color scheme.",
+    "Make a unique Pokemon that exudes mystery and charm in its appearance.",
+    "Give me a Pokemon that thrives in icy environments and has a graceful demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long blonde hair",
+      "Red dress",
+      "Purple skin",
+      "Large expressive eyes",
+      "Gloved hands"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": "Psychic",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Charming",
+      "Mysterious",
+      "Sassy"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Jynx/3.png",
+  "pokemon_name": "Jynx"
+}

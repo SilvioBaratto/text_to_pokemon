@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon that has elegant, serpentine features and vibrant green colors.",
+    "Show me a Pokemon with a long, winding body, showcasing intricate leaf patterns throughout.",
+    "Imagine a Pokemon that embodies royal grace, with emerald scales and a proud posture.",
+    "Generate a Pokemon that uses nature as its ally, featuring a camouflage design in green and white.",
+    "Design a sleek and agile Pokemon that thrives in grassy terrains, with a hint of mythical charm.",
+    "Give me a Pokemon that resembles a regal serpent, with lush green foliage as its distinguishing trait.",
+    "Make a grass-type Pokemon that can blend into its environment, featuring a smooth, elongated body."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "White",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, serpentine body",
+      "Leaf-like patterns on the body",
+      "Elegant, regal posture",
+      "Green, smooth scales",
+      "Distinctive crown-like headpiece"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Proud",
+      "Intelligent",
+      "Noble"
+    ],
+    "habitat": "Forest",
+    "rarity": "Uncommon",
+    "combat_style": "Defensive and tactical"
+  },
+  "image_path": "images/Serperior/1.png",
+  "pokemon_name": "Serperior"
+}

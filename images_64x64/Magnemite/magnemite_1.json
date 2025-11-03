@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a steel-type Pokemon with a round body and magnet-like features.",
+    "I want a Pokemon that can levitate, featuring magnetism and a blue color scheme.",
+    "Generate a cute but metallic Pokemon that looks like a small floating sphere.",
+    "Make a Pokemon that embodies electricity and magnetism, with a shiny metallic finish.",
+    "Imagine a Pokemon that has a unique combination of steel and electric types.",
+    "Design a Pokemon that has a spherical body and is known for its magnetic powers.",
+    "Show me a small Pokemon that is both a steel-type and an electric-type creature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Blue",
+      "accent": "Red"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Two magnets protruding from the sides",
+      "Spherical body",
+      "Shiny metallic surface"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Electric",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Magnemite/1.png",
+  "pokemon_name": "Magnemite"
+}

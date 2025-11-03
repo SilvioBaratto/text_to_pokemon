@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a slithering serpent with a sandy color scheme.",
+    "Imagine a ground-type Pokemon that has unique spiral patterns along its body.",
+    "Design a Pokemon with a soft, smooth texture and a camouflage ability for desert habitats.",
+    "Give me a creature that can blend into sandy environments and has a powerful coil attack.",
+    "Generate a Pokemon with a large, spiraled body that can constrict its prey.",
+    "Show me a sand-dwelling Pokemon with a playful and mischievous personality.",
+    "Make a Pokemon that can create sandstorms and has a calm demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Spiral body shape",
+      "Smooth texture",
+      "Red markings",
+      "Long tail",
+      "Coiled posture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Playful",
+      "Mischievous"
+    ],
+    "habitat": "Desert",
+    "rarity": "Rare",
+    "combat_style": "Defensive/Coiling"
+  },
+  "image_path": "images/Sandaconda/1.png",
+  "pokemon_name": "Sandaconda"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that has a playful expression and long, flowing appendages.",
+    "Imagine a small, blue Pokemon with round features and a cute, friendly demeanor.",
+    "Generate a mythical creature that can manipulate water and has a shimmering blue appearance.",
+    "Show me a Pokemon that looks like it belongs in the ocean, with a soft, rounded body.",
+    "Design a charming Pokemon with aquatic traits, featuring long tentacle-like arms and a gentle smile.",
+    "Give me a legendary Pokemon that embodies the essence of the sea, with vibrant blue colors.",
+    "Make a unique Pokemon that is both enchanting and elusive, with a whimsical design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Blue",
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large blue ears",
+      "Heart-shaped body",
+      "Trailing tentacle-like arms",
+      "Small eyes",
+      "Yellow spots"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": true,
+    "is_mythical": true,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Gentle",
+      "Curious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Manaphy/1.png",
+  "pokemon_name": "Manaphy"
+}

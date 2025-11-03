@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with a segmented body and vibrant colors.",
+    "Imagine a Pokemon that resembles an insect, featuring multiple legs and spiky armor.",
+    "Show me a Pokemon that thrives in forests, with a unique spiral design on its body.",
+    "Design a creature with purple and red accents, known for its fast-paced movements.",
+    "Make a Pokemon that can curl into a ball for protection, showcasing a striking color palette.",
+    "Generate a Pokemon that evolves from a small insect to a larger, more menacing form.",
+    "Give me a Pokemon with a round shape and a fierce expression, perfect for competitive battles."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Red",
+      "accent": "Black"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Spiky exterior",
+      "Segmented body",
+      "Large eyes",
+      "Curled tail",
+      "Red ring patterns"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Defensive",
+      "Cautious",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Whirlipede/1.png",
+  "pokemon_name": "Whirlipede"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a fire-type turtle Pokemon with a rocky shell and a fiery personality.",
+    "Imagine a sturdy, orange turtle-like Pokemon that emits smoke from its shell.",
+    "Design a Pokemon that resembles a tortoise, featuring bright orange and black colors.",
+    "Generate a Pokemon that thrives in warm environments, showcasing a tough exterior.",
+    "Show me a fire-themed Pokemon with unique lava patterns on its back.",
+    "Make a Pokemon that has a round body and a cheerful demeanor, perfect for kids.",
+    "Give me a large, slow-moving Pokemon that is known for its defensive capabilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Black",
+      "accent": "Red"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Rocky, black shell",
+      "Red markings on the shell",
+      "Thick, sturdy legs",
+      "Round body",
+      "Short neck"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Sturdy",
+      "Protective"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Torkoal/1.png",
+  "pokemon_name": "Torkoal"
+}

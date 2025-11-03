@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that resembles a spider with vibrant red and yellow accents.",
+    "Imagine a dark forest creature with a sleek, insectoid appearance and menacing features.",
+    "Design a Pokemon that combines arachnid traits with a striking color scheme of red and blue.",
+    "Show me a unique bug/poison-type Pokemon that can camouflage in its environment.",
+    "Generate a Pokemon that has a body structure similar to a spider but with a colorful twist.",
+    "Give me an image of a Pokemon that is both creepy and colorful, perfect for a spooky forest setting.",
+    "Make a Pokemon that features sharp, metallic legs and a bright red body, ideal for a villainous role."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Yellow",
+      "accent": "Blue"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Eight legs",
+      "Large fangs",
+      "Distinctive red body",
+      "Blue and yellow markings",
+      "Web-spinning abilities"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Agile",
+      "Stealthy"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Traps and ambush tactics"
+  },
+  "image_path": "images/Ariados/2.png",
+  "pokemon_name": "Ariados"
+}

@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create an elegant ice-type Pokemon with shimmering wings and a graceful body.",
+    "I want a Pokemon that blends into snowy environments with white and blue colors.",
+    "Generate a Pokemon that resembles a moth, with intricate patterns on its wings.",
+    "Make a whimsical Pokemon that has the ability to freeze its enemies in battle.",
+    "Imagine a creature that thrives in cold habitats and has a serene personality.",
+    "Design a Pokemon with butterfly-like features and a majestic appearance.",
+    "Show me a Pokemon that can glide gracefully through icy forests."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, delicate wings",
+      "Frosted appearance",
+      "Blue markings on the face",
+      "Insect-like body structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": "Bug",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Graceful",
+      "Gentle"
+    ],
+    "habitat": "Tundra",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Frosmoth/0.png",
+  "pokemon_name": "Frosmoth"
+}

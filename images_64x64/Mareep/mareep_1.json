@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a fluffy Pokemon that resembles a sheep with vibrant colors.",
+    "Imagine a cute Electric-type creature that is soft and cuddly.",
+    "Design a small, round Pokemon with a woolly texture and playful demeanor.",
+    "Generate an adorable Pokemon that has a bright yellow body and blue accents.",
+    "Show me a gentle Electric-type Pokemon with a friendly face and big eyes.",
+    "Make a Pokemon that looks like a baby animal, featuring elements of nature.",
+    "Give me a fluffy, light-colored Pokemon that loves to roam in grassy fields."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy wool",
+      "Curly tail",
+      "Blue face and legs",
+      "Large, round eyes",
+      "Small, round ears"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Gentle",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Mareep/1.png",
+  "pokemon_name": "Mareep"
+}

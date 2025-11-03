@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a purple Pokemon with sharp features and a fierce expression.",
+    "Imagine a small, bipedal creature with spiky ears and a green gem on its back.",
+    "Design a Pokemon that thrives in urban environments with a strong poison affinity.",
+    "Generate a creature that evolves from a cute, small animal into a fierce, powerful beast.",
+    "Show me a Pokemon that resembles a reptile with vibrant colors and a feisty personality.",
+    "Make a bipedal Pokemon with a unique combination of purple and green hues.",
+    "Give me a creature that roams the mountains and is known for its agile combat style."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Spiky ears",
+      "Large, glaring eyes",
+      "Prominent horn on forehead",
+      "Green gemstone-like structure on back",
+      "Thick tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": "Ground",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Aggressive",
+      "Loyal"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Common",
+    "combat_style": "Physical attacker"
+  },
+  "image_path": "images/Nidorino/2.png",
+  "pokemon_name": "Nidorino"
+}

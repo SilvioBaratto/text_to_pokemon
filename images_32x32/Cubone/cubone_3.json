@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a playful bipedal Pokemon that wears a bone helmet and has a unique tail.",
+    "Show me an adorable ground-type Pokemon with a gray body and orange accents.",
+    "Imagine a small Pokemon that loves to explore caves and has a shy personality.",
+    "Generate a Pokemon that is always seen carrying a bone, symbolizing its connection to family.",
+    "Design a creature that thrives in mountainous regions and has a tough exterior.",
+    "Make a Pokemon that beautifully blends gray, orange, and white colors in its design.",
+    "Give me a ground-type Pokemon that has a distinctive look due to its unique skull mask."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "White",
+      "accent": "Orange"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Bone helmet",
+      "Long tail",
+      "Large round eyes",
+      "Short limbs",
+      "Skull motif"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Shy",
+      "Loyal",
+      "Playful"
+    ],
+    "habitat": "Cave",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Cubone/3.png",
+  "pokemon_name": "Cubone"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon with leafy features and a vibrant green color scheme.",
+    "Show me a dynamic Pokemon resembling a tree, with spiky foliage and agile movements.",
+    "Generate an agile creature that blends in with forest surroundings, featuring sharp claws and bright orange accents.",
+    "Design a fierce Pokemon inspired by reptiles, with a long tail and an impressive height.",
+    "Imagine a Pokemon that uses camouflage in the wild, showcasing a mix of green and orange shades.",
+    "Make a Pokemon that can blend into its habitat, with a bipedal stance and vibrant leaf-like structures.",
+    "Give me a Pokemon with a unique blend of grass and reptilian traits, standing tall with vibrant colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Orange",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Orange",
+      "accent": "Red"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Leafy fronds on back",
+      "Long, pointed tail",
+      "Sharp claws",
+      "Reptilian head",
+      "Vibrant color patterns"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Dragon",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Agile",
+      "Stealthy",
+      "Confident"
+    ],
+    "habitat": "Forest",
+    "rarity": "Uncommon",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Sceptile/1.png",
+  "pokemon_name": "Sceptile"
+}

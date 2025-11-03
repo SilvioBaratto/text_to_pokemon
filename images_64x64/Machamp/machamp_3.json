@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a muscular Pokemon that exudes strength and confidence with a vibrant color palette.",
+    "I want a fighting-type Pokemon with multiple arms and a fierce expression, set in an urban backdrop.",
+    "Generate a Pokemon that showcases incredible agility and power, with striking blue and yellow details.",
+    "Make a humanoid Pokemon with a robust build, displaying its skills in an intense battle scene.",
+    "Imagine a Pokemon that represents determination and resilience, featuring eye-catching colors and a dynamic pose.",
+    "Design a Pokemon with an impressive physique, showcasing its fighting prowess against a mountainous landscape.",
+    "Show me a powerful Pokemon with a bold personality, combining elements of strength and speed in its design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Gray",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Gray",
+      "accent": "Yellow"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Four muscular arms",
+      "Defined muscular build",
+      "Wide grin showcasing confidence",
+      "Distinctive yellow waistband",
+      "Red eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Confident",
+      "Powerful",
+      "Determined"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Machamp/3.png",
+  "pokemon_name": "Machamp"
+}

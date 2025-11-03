@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a steel-type Pokemon with a knightly appearance and a shiny silver exterior.",
+    "Imagine a bug-type Pokemon that has a tough shell and sharp appendages for combat.",
+    "Show me a Pokemon that resembles a knight with a lance, featuring bright red and gray colors.",
+    "Design a Pokemon with a sturdy build and a helmet-like head, perfect for defense.",
+    "Generate a creature that combines the elegance of a knight with the toughness of steel.",
+    "Give me a Pokemon that is both a bug and steel type, with distinctive armor plating.",
+    "Make a Pokemon with dual sharp horns and a formidable stance, showcasing strength and determination."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Red",
+      "accent": "Blue"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Knight-like helmet",
+      "Long lance-like appendages",
+      "Armored body",
+      "Red crest on head",
+      "Sharp mandibles"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Steel",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Brave",
+      "Determined",
+      "Stalwart"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Escavalier/0.png",
+  "pokemon_name": "Escavalier"
+}

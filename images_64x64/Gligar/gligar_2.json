@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a pink and blue Pokemon that can glide through the air gracefully",
+    "Imagine a playful Pokemon with sharp claws and expressive eyes that loves to explore caves",
+    "Generate a small, agile creature with wings, known for its ability to evade attacks",
+    "Show me a mischievous Pokemon that thrives in forest habitats and is always on the move",
+    "Design a dual-type Pokemon that combines the stealth of a ninja with the elegance of a bat",
+    "Make a vibrant, energetic Pokemon that uses speed and agility to outmaneuver its opponents",
+    "Give me a unique Pokemon with a playful demeanor, perfect for a fantasy adventure setting"
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Blue",
+      "accent": "Pink"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large wings resembling a bat",
+      "Clawed feet",
+      "Pointed ears",
+      "A large, smiling mouth",
+      "Stinger-like tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Agile"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Hit-and-run"
+  },
+  "image_path": "images/Gligar/2.png",
+  "pokemon_name": "Gligar"
+}

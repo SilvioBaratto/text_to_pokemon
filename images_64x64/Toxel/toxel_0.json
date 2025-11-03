@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a cute Pokemon with a purple body and a tiny tail.",
+    "Imagine a small, playful creature with bright purple skin and large ears.",
+    "Generate a quirky Pokemon that resembles a baby dinosaur with a friendly smile.",
+    "Design a Pokemon that loves to explore forests and has a unique purple pattern.",
+    "Give me a Pokemon that is shy but loves to play around in grassy areas.",
+    "Show me a small, purple Pokemon with an energetic personality and a quirky shape.",
+    "Make a playful creature with a soft purple hue and a striking white mark on its head."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large ears",
+      "Short tail",
+      "Small stature",
+      "White crest on the head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Poison",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Shy",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Toxel/0.png",
+  "pokemon_name": "Toxel"
+}

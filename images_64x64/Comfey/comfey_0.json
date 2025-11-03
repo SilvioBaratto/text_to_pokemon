@@ -1,0 +1,58 @@
+{
+  "prompts": [
+    "Create a flower-themed Pokemon that represents joy and happiness with vibrant colors.",
+    "I want a fairy-type Pokemon that embodies the essence of nature and has a floral design.",
+    "Generate a tiny Pokemon that resembles a floral crown with various colored flowers.",
+    "Make a whimsical Pokemon that can heal others and has a gentle, soothing appearance.",
+    "Imagine a Pokemon that thrives in lush environments and has a charming, flowery look.",
+    "Design a Pokemon that appears as a beautiful garland and promotes good vibes.",
+    "Show me a small, fairy-like creature that brings comfort and cheer to its surroundings."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Yellow",
+      "Red",
+      "Pink"
+    ],
+    "secondary_colors": [
+      "White",
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Yellow",
+      "accent": "Pink"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Floral crown",
+      "Colorful flowers",
+      "Circular shape",
+      "Soft texture",
+      "Delicate appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Supportive",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Comfey/0.png",
+  "pokemon_name": "Comfey"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a cute fairy-type Pokemon with bright yellow colors and playful features.",
+    "I want a small, egg-shaped Pokemon that looks friendly and inviting.",
+    "Generate a whimsical Pokemon with a unique shell design and cheerful expression.",
+    "Make a Pokemon that resembles a tiny creature with bright colors and star-like features.",
+    "Imagine a Pokemon that embodies joy with its vibrant yellow and red patterns.",
+    "Design a Pokemon that appears to be a baby creature with a soft, rounded body.",
+    "Show me a Pokemon that has a playful personality and a charming visual appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Red",
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Egg-shaped body",
+      "Star-like appendages",
+      "Facial expression with large eyes",
+      "Colorful shell patterns"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Joyful",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Togepi/2.png",
+  "pokemon_name": "Togepi"
+}

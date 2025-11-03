@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon that resembles a plant with sharp, angular features.",
+    "Show me a Pokemon that looks like a piece of origami with bright yellow accents.",
+    "Imagine a Pokemon with a humanoid shape made from leaves and blades of grass.",
+    "Give me a Pokemon that appears to be a blend of a sword and a flower.",
+    "Design a Pokemon that has a sleek, sharp silhouette with vibrant colors.",
+    "Generate a creature with a unique body shape that combines plant and metal elements.",
+    "Make a Pokemon that is small but looks deadly with its sharp edges and colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Yellow",
+      "accent": "Red"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Sharp blade-like appendages",
+      "Leafy structures resembling arms",
+      "Angular, origami-like body shape",
+      "Brightly colored accents"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Steel",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Resourceful",
+      "Sharp-witted"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Kartana/1.png",
+  "pokemon_name": "Kartana"
+}

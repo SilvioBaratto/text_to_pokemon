@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a small, metallic Pokemon with magnetic features and a sleek body shape.",
+    "Generate a unique Electric-type Pokemon that resembles a magnet and has a shiny surface.",
+    "Imagine a Pokemon with a round body and two powerful magnets attached, showcasing electricity.",
+    "Design a Pokemon that floats in the air, made of metal and capable of generating electricity.",
+    "Show me a tiny Pokemon with a steel exterior and a magnetic personality, ready for battle.",
+    "Give me a visual of a Pokemon that combines technology and nature with a magnetic twist.",
+    "Make a Pokemon that looks like a magnet but has a cute, friendly expression."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Red",
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Two large magnets on either side",
+      "Circular metallic body",
+      "Central white orb",
+      "Small size",
+      "Glossy finish"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Steel",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful",
+      "Friendly"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Magnemite/0.png",
+  "pokemon_name": "Magnemite"
+}

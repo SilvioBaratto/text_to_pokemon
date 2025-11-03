@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon with a sturdy, stone-like body and vibrant orange accents.",
+    "I want a Pokemon that resembles a small turtle, with dark blue and brown colors.",
+    "Generate a compact Pokemon with a round shape and an eye-catching yellow center.",
+    "Make a Pokemon that thrives in caves and has a tough exterior with earthy tones.",
+    "Imagine a Pokemon that can curl into a ball, featuring shades of blue and brown.",
+    "Design a creature that looks like a rocky shell, perfect for tricking opponents in battle.",
+    "Show me a Pokemon that embodies stability and resilience with a striking color palette."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Brown",
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body shape",
+      "Shell-like exterior",
+      "Hexagonal pattern on the front",
+      "Short limbs",
+      "Solid appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Sturdy",
+      "Protective",
+      "Calm"
+    ],
+    "habitat": "Cave",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Roggenrola/1.png",
+  "pokemon_name": "Roggenrola"
+}

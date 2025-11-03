@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Generate a ghost-type Pokemon that resembles a playful teacup with a mischievous expression.",
+    "Show me a Pokemon that looks like a haunted beverage with ethereal features and a whimsical design.",
+    "Design a tiny ghost-type creature that floats and has a charming, vintage teacup appearance.",
+    "Create a Pokemon inspired by spooky folklore, featuring a cup with spectral characteristics and vibrant colors.",
+    "Imagine a Pokemon that blends elements of whimsy and ghostliness, taking the form of an enchanted teacup.",
+    "Make a cute ghost-type Pokemon that embodies the essence of tea time with a playful twist.",
+    "Give me a design for a Pokemon that is both eerie and adorable, resembling a cup of haunted tea."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Purple"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": "Purple"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Cup shape",
+      "Floating appearance",
+      "Ghostly aura",
+      "Vibrant purple rim",
+      "Eerie facial expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Whimsical"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Sinistea/0.png",
+  "pokemon_name": "Sinistea"
+}

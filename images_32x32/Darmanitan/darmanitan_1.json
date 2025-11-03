@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a powerful fire-type Pokemon with a strong, muscular build and intense flames.",
+    "Generate a quirky ice-type creature that can glide effortlessly over snowy landscapes.",
+    "Design a unique grass-type Pokemon with vibrant green colors and large leafy features.",
+    "Imagine a water-type Pokemon that resembles a sleek dolphin, perfect for ocean adventures.",
+    "Show me an electric-type Pokemon with bright yellow stripes and a lightning bolt tail.",
+    "Make a rock-type Pokemon that looks like a giant boulder with rugged edges and moss.",
+    "I want a flying-type Pokemon that can soar through the skies with colorful feathers."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "White"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "White",
+      "accent": "Blue"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flaming eyebrows",
+      "Large round body",
+      "Thick arms",
+      "Prominent mouth",
+      "Short legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Aggressive"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Darmanitan/1.png",
+  "pokemon_name": "Darmanitan"
+}

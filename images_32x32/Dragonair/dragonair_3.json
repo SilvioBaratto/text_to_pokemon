@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a long, serpentine body and elegant fins.",
+    "I want a blue dragon Pokemon that has fluffy ears and a graceful tail.",
+    "Generate a Pokemon that looks like a mythical sea serpent with shimmering scales.",
+    "Make a beautiful Pokemon that embodies the essence of calm water and gentle breezes.",
+    "Imagine a sleek dragon Pokemon that glides through the skies with ease.",
+    "Design a majestic Dragon-type Pokemon with a smooth, flowing appearance and elegant features.",
+    "Show me a Pokemon that combines elements of a water serpent and a mystical creature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, flowing body",
+      "Fluffy ears",
+      "Elegant tail",
+      "Smooth scales",
+      "Blue coloration"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Water",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Gentle",
+      "Playful"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Special Attack"
+  },
+  "image_path": "images/Dragonair/3.png",
+  "pokemon_name": "Dragonair"
+}

@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon that resembles a plant with a large mouth and vibrant colors.",
+    "Imagine a Pokemon with a bell shape and leaf-like features, perfect for a forest environment.",
+    "Design a whimsical Pokemon with a yellow body and green accents, known for its singing abilities.",
+    "Show me a Pokemon that thrives in wetlands and has a unique blend of green and yellow colors.",
+    "Generate a Pokemon that evolves from a small plant creature into a larger, more intimidating form.",
+    "Make a Pokemon that is both cute and a bit scary, with a distinct bell shape and large mouth.",
+    "Give me a Pokemon that uses its plant-like features to trap prey, with a design that stands out."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Bell-shaped body",
+      "Large mouth",
+      "Leaf-like structures on top",
+      "Smooth, rounded appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Weepinbell/0.png",
+  "pokemon_name": "Weepinbell"
+}

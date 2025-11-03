@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with vibrant green body and striking red wings.",
+    "I want a flying Pokemon that showcases intricate wing patterns and agile movements.",
+    "Generate a Pokemon that blends in with forest environments, featuring camouflage colors.",
+    "Make an insectoid creature with a fierce appearance and agile flight abilities.",
+    "Imagine a Pokemon with a mix of green and red colors that thrives in grasslands.",
+    "Design a Pokemon known for its speed and agility, with an elongated body and large wings.",
+    "Give me a visually stunning bug Pokemon that can navigate urban landscapes effortlessly."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Red",
+      "accent": "Black"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large, transparent wings",
+      "Long, segmented body",
+      "Red and black markings",
+      "Compound eyes",
+      "Spiky appendages"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Agile",
+      "Observant",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Yanmega/0.png",
+  "pokemon_name": "Yanmega"
+}

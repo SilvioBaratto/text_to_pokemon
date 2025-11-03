@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a bird-like Pokemon with striking black and white colors, and a vibrant orange beak.",
+    "Imagine a flying Pokemon that has a friendly and curious personality, perfect for forest habitats.",
+    "Design a Pokemon inspired by a toucan, featuring large wings and a colorful beak.",
+    "Generate a small, agile Pokemon that thrives in grasslands and has a playful demeanor.",
+    "Show me a Pokemon that resembles a woodpecker, with distinctive markings and a sleek body shape.",
+    "Give me a flying-type Pokemon with a unique color scheme that stands out in urban environments.",
+    "Make a Pokemon that can easily navigate mountainous regions, showcasing its strength and agility."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "White"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "White",
+      "accent": "Orange"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long, pointed beak",
+      "Large wings",
+      "Distinctive black and white plumage"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Social"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Trumbeak/1.png",
+  "pokemon_name": "Trumbeak"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a jellyfish-like Pokemon that thrives in the ocean with vibrant colors.",
+    "I want a water-type Pokemon with long tentacles and a sleek, flowing body.",
+    "Generate a creature resembling a deep-sea organism, with glowing features and a mystical aura.",
+    "Make a Pokemon that resembles a jellyfish, featuring unique patterns and a captivating color palette.",
+    "Imagine a dangerous aquatic Pokemon that can shock opponents with its electric tentacles.",
+    "Design a Pokemon that has a bioluminescent quality and can camouflage in underwater settings.",
+    "Give me an inspiration for a Pokemon that embodies the mysterious depths of the ocean."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Red"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": "White"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, flowing tentacles",
+      "Bell-shaped umbrella",
+      "Red spots on top",
+      "Translucent body",
+      "Tentacle-like appendages"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Defensive",
+      "Graceful"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Special Attack"
+  },
+  "image_path": "images/Tentacruel/2.png",
+  "pokemon_name": "Tentacruel"
+}

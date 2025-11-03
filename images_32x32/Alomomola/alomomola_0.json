@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with pink scales and flowing fins.",
+    "Design a Pokemon that resembles a friendly fish, with vibrant colors and a playful demeanor.",
+    "Generate an aquatic creature that is soothing and gentle, perfect for a serene underwater scene.",
+    "Make a Pokemon that embodies healing, with soft pink hues and a peaceful expression.",
+    "Imagine a Pokemon that thrives in the ocean, showcasing elegance and grace in its movements.",
+    "Show me a Pokemon that has a unique design with flowing body parts and calming colors.",
+    "Give me a creature that represents love and care, with a soft appearance and gentle features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Heart-shaped body",
+      "Large eyes",
+      "Flowing fins",
+      "Soft color palette"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Caring",
+      "Friendly"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Alomomola/0.png",
+  "pokemon_name": "Alomomola"
+}

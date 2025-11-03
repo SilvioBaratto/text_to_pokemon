@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a lily pad and swims in fresh water.",
+    "Show me a cute aquatic creature with a bright green top and blue body.",
+    "Imagine a Pokemon that is a mix of plant and water, with a playful personality.",
+    "Generate a Pokemon design based on a small, floating plant that thrives in wetlands.",
+    "Make a whimsical creature that has a leaf on its head and enjoys sunbathing.",
+    "Design a Pokemon with a round shape that loves to play in the rain.",
+    "Give me an idea for a Pokemon that combines features of a water lily and a tadpole."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Leaf on head",
+      "Round body shape",
+      "Webbed feet",
+      "Floating appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Grass",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Lotad/0.png",
+  "pokemon_name": "Lotad"
+}

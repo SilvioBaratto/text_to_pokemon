@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a round body and cheerful expression.",
+    "Show me a Pokemon that loves to play in the wetlands and has a blue color scheme.",
+    "Imagine a cute, amphibious creature that enjoys lounging by the riverbank.",
+    "Generate a Pokemon that resembles a friendly, oversized amphibian with a laid-back attitude.",
+    "Design a Pokemon that can thrive in both water and land environments, featuring blue and purple accents.",
+    "Give me a quirky Pokemon that stands out with its unique body shape and aquatic features.",
+    "Make a Pokemon that embodies joy and playfulness, perfect for a water-themed team."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Purple",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Round, bulbous body",
+      "Short, stubby limbs",
+      "Prominent fin-like structures on the back",
+      "Wide mouth and cheerful expression",
+      "Tail with a slight curve"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Ground",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Laid-back",
+      "Friendly"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Quagsire/2.png",
+  "pokemon_name": "Quagsire"
+}

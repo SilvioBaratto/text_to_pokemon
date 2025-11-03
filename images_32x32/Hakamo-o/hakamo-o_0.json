@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with a sleek, muscular body and a fierce expression.",
+    "Imagine a Pokemon that combines physical strength with agility, showcasing powerful limbs.",
+    "Design a fighting-type creature that thrives in mountainous terrains and has a striking color scheme.",
+    "Give me a Pokemon that evolves from a small creature into a formidable fighter with unique traits.",
+    "Generate a Pokemon that embodies both defense and offense in its combat style with a bold appearance.",
+    "Show me a Pokemon with scales that shimmer in the sunlight, standing proud in its natural habitat.",
+    "Make a Pokemon that has a unique blend of colors and a distinct fighting stance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Black",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large, yellow scales on the head",
+      "Long tail with a spiked end",
+      "Muscular limbs with clawed hands",
+      "Distinct markings on the body",
+      "Prominent wrist spikes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Fighting",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Brave",
+      "Confident",
+      "Competitive"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Melee-focused"
+  },
+  "image_path": "images/Hakamo-o/0.png",
+  "pokemon_name": "Hakamo-o"
+}

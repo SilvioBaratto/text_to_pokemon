@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that glimmers like sunlight on the ocean waves.",
+    "I want a Pokemon with elegant fins and a shimmering body that glows underwater.",
+    "Generate a Pokemon that has a graceful swimming style and vibrant colors.",
+    "Make a fish Pokemon with a sleek design and colorful patterns on its body.",
+    "Imagine a Pokemon that represents the beauty of the sea with flowing fins and scales.",
+    "Design a water Pokemon that captivates with its bright colors and fluid movements.",
+    "Show me a Pokemon with an aquatic theme, showcasing its elegant features and colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": "Red"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long flowing fins",
+      "Streamlined body",
+      "Bright red eyes",
+      "Elegant tail design",
+      "Shimmering scales"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Graceful",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Lumineon/1.png",
+  "pokemon_name": "Lumineon"
+}

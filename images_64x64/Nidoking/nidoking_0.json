@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bipedal Pokemon with a menacing look and vibrant purple skin.",
+    "Imagine a powerful poison-type Pokemon with sharp spikes and a fierce expression.",
+    "Generate a Pokemon that evolves from a small creature into a large, intimidating monster.",
+    "Show me a Pokemon designed for combat, featuring a muscular build and strong legs.",
+    "Give me a dual-type Pokemon that thrives in both urban and mountainous environments.",
+    "Make a Pokemon with a striking contrast of colors and an aggressive fighting style.",
+    "Design a creature that is both rare and formidable, with unique evolutionary traits."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Blue",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Prominent spikes on back",
+      "Large ears with blue interior",
+      "Thick arms and legs",
+      "Nose horn"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": "Ground",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Brave",
+      "Determined"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Nidoking/0.png",
+  "pokemon_name": "Nidoking"
+}

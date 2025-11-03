@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a ninja with blue skin and a scarf.",
+    "Imagine a frog-like creature with sharp features and a stealthy appearance.",
+    "Show me a Pokemon that can blend into its environment with a sleek design.",
+    "Generate a fighter with aquatic abilities who is known for its speed and agility.",
+    "Design a ninja-inspired Pokemon that has a unique way of using water in battles.",
+    "Make a Pokemon that has both ninja skills and elemental water powers.",
+    "Give me a Pokemon that embodies stealth and is adept at camouflage."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Black",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Ninja scarf-like appendage",
+      "Webbed hands and feet",
+      "Sharp, angular facial features",
+      "Long, agile limbs",
+      "Water-based design elements"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Dark",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Stealthy",
+      "Agile",
+      "Cunning"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Rare",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Greninja/0.png",
+  "pokemon_name": "Greninja"
+}

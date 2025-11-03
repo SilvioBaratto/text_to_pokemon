@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a mysterious aura and elegant features.",
+    "Imagine a Pokemon that embodies the essence of darkness and elegance.",
+    "Generate a character design for a ghostly creature with a whimsical personality.",
+    "Show me a Pokemon that has a unique blend of black and white colors.",
+    "Make a bipedal Pokemon with a charming and slightly eerie presence.",
+    "Design a Pokemon that thrives in urban environments with a stylish appearance.",
+    "Give me an idea for a Pokemon with a focus on psychic abilities and mischief."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "White"
+    ],
+    "secondary_colors": [
+      "Pink",
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "White",
+      "accent": "Pink"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large puffy hair styled like a cloud",
+      "Unique eye shape with an enchanting appearance",
+      "Black dress-like body with white accents",
+      "Two round white ornaments on the body",
+      "Long limbs that give a graceful look"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Charming",
+      "Eccentric"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Gothorita/0.png",
+  "pokemon_name": "Gothorita"
+}

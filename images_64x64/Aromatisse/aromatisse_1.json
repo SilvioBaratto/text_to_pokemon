@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a fairy-type Pokemon with fluffy pink fur and a charming smile.",
+    "I want a Pokemon that combines elegance with a playful spirit, featuring bright colors.",
+    "Generate a whimsical creature that has a round body and large expressive eyes.",
+    "Make a pink Pokemon that looks like it came from a fairy tale world.",
+    "Imagine a soft, cuddly Pokemon with delicate features and a magical aura.",
+    "Design a Pokemon that embodies joy and beauty, with vibrant pink and purple hues.",
+    "Show me a magical creature that has a charming personality and enchanting appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy body",
+      "Large eyes",
+      "Pointed ears",
+      "Charming expression",
+      "Curly fur"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Charming",
+      "Friendly"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Aromatisse/1.png",
+  "pokemon_name": "Aromatisse"
+}

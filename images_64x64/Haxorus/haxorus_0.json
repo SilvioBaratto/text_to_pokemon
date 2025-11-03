@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with sharp claws and a fierce demeanor.",
+    "Imagine a Pokemon that has a robust body and powerful jaws, perfect for battles.",
+    "Design a creature with green scales and red accents that roams mountainous areas.",
+    "Generate a Pokemon known for its incredible strength and intimidating presence.",
+    "Make a Pokemon that embodies the essence of ancient dragons with a unique color scheme.",
+    "Show me a Pokemon that loves to battle and has a fierce, competitive nature.",
+    "Give me an image of a Pokemon that represents the power of evolution and growth."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Red",
+      "accent": "Black"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large tusks",
+      "Red horn-like structures on head",
+      "Muscular build",
+      "Long tail",
+      "Clawed hands and feet"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Competitive",
+      "Determined"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Physical attacker"
+  },
+  "image_path": "images/Haxorus/0.png",
+  "pokemon_name": "Haxorus"
+}

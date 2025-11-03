@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a powerful canine Pokemon with a majestic blue and red color scheme.",
+    "Imagine a legendary Pokemon that embodies the strength of a wolf and the spirit of a guardian.",
+    "Generate a Pokemon that dominates the battlefield with its defensive abilities and striking appearance.",
+    "Design a fierce creature with an impressive shield-like mane and a robust body structure.",
+    "Show me a mythical beast that roams the mountains, representing valor and protection.",
+    "Make a Pokemon with a unique combination of colors that showcases its legendary status.",
+    "Give me a Pokemon that stands tall and exudes confidence, perfect for battles."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Blue",
+      "accent": "Gray"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Shield-like mane",
+      "Powerful stance",
+      "Thick legs",
+      "Vibrant color contrast",
+      "Pointed ears"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": "Steel",
+    "generation": 8,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Noble",
+      "Protective",
+      "Brave"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Zamazenta/1.png",
+  "pokemon_name": "Zamazenta"
+}

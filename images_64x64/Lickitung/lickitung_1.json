@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a playful Pokemon that loves to lick everything around it.",
+    "Design a pink Pokemon with a long tongue and big ears.",
+    "Imagine a quirky Pokemon that enjoys grassland adventures.",
+    "Generate a Normal-type Pokemon that has a unique body shape.",
+    "Make a Pokemon with a friendly personality and a round body.",
+    "Show me a cute Pokemon with a creamy color palette.",
+    "Give me a Pokemon that thrives in urban environments and has a distinctive tongue."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "White"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long tongue",
+      "Large ears",
+      "Round body",
+      "Small limbs",
+      "Curvy tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Lickitung/1.png",
+  "pokemon_name": "Lickitung"
+}

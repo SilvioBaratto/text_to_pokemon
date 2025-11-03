@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a unique Ground-type Pokemon that thrives in urban environments and has a rocky appearance.",
+    "I want a trio of adorable mole-like creatures with big eyes and playful personalities.",
+    "Generate a Pokemon that resembles a burrowing mammal, complete with charming facial features.",
+    "Make a whimsical Ground-type Pokemon with a focus on teamwork and digging abilities.",
+    "Imagine a Pokemon trio that can tunnel underground and communicate through vibrations.",
+    "Design a Pokemon that showcases a blend of cuteness and earthiness, perfect for a nature setting.",
+    "Show me a small, round-bodied Pokemon with a strong connection to the ground and earth elements."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": "Pink"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Three heads",
+      "Small, round bodies",
+      "Pink noses",
+      "Eyes visible on heads",
+      "Burrowing appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Sociable",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Dugtrio/0.png",
+  "pokemon_name": "Dugtrio"
+}

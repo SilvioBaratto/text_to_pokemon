@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create an insect-type Pokemon with vibrant orange and purple patterns.",
+    "I want a spider-like Pokemon that features striking yellow accents.",
+    "Generate a bug-type creature that is small and has unique body shapes.",
+    "Show me a Pokemon with a mix of forest colors and a distinctive web design.",
+    "Imagine a Pokemon that captures the essence of a jungle with its vivid colors.",
+    "Make a bug Pokemon that has both agility and a colorful appearance.",
+    "Design an arachnid-inspired Pokemon that thrives in urban environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Purple",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Purple",
+      "accent": "Yellow"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long legs",
+      "Spiny body",
+      "Large fangs",
+      "Distinct web pattern",
+      "Colorful markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Agile",
+      "Stealthy"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Strategic"
+  },
+  "image_path": "images/Ariados/1.png",
+  "pokemon_name": "Ariados"
+}

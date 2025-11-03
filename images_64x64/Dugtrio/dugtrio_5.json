@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a ground-type Pokemon with a trio of cute faces and sandy textures.",
+    "I want a Pokemon that burrows underground, featuring three adorable heads and blonde hair.",
+    "Generate an image of a small, brown, ground-type Pokemon with distinct hairstyles and playful expressions.",
+    "Make a character design for a Pokemon that loves to dig, featuring three interconnected bodies and pink noses.",
+    "Imagine a Pokemon that lives in tunnels, characterized by its fuzzy heads and friendly demeanor.",
+    "Design a Pokemon with a unique body shape of three connected forms, showcasing earthy colors and a fun personality.",
+    "Show me a whimsical ground-type Pokemon with three heads, each with its own personality and hairstyle."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Three heads",
+      "Blonde hair",
+      "Pink noses",
+      "Earthy appearance",
+      "Connected bodies"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Cave",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Dugtrio/5.png",
+  "pokemon_name": "Dugtrio"
+}

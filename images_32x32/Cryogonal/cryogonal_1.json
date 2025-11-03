@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a unique ice-type Pokemon that resembles a snowflake and has icy blue tones.",
+    "I want a Pokemon design that embodies the essence of winter with sharp edges and a crystalline form.",
+    "Generate an ice-themed Pokemon that looks like it's made of frozen water with a dazzling appearance.",
+    "Make a Pokemon that has a geometric, icy design, showcasing shades of blue and white.",
+    "Imagine a Pokemon that captures the chill of a blizzard, featuring intricate ice patterns and a frosty aura.",
+    "Design a snowflake-inspired Pokemon with a glimmering icy body and sharp, frozen appendages.",
+    "Give me an original concept for an ice-type Pokemon that is both beautiful and intimidating at first sight."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Snowflake-like structure",
+      "Crystalline appearance",
+      "Sharp, pointed edges",
+      "Icy texture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Mysterious",
+      "Elegant"
+    ],
+    "habitat": "Tundra",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Cryogonal/1.png",
+  "pokemon_name": "Cryogonal"
+}

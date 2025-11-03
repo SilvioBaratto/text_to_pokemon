@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a shield-like Pokemon that has a strong defense and a rocky appearance.",
+    "I want a playful Pokemon that has a round body and a protective shell.",
+    "Generate a Pokemon with a sturdy design that can withstand heavy attacks.",
+    "Make a Pokemon that resembles a small dinosaur, with a tough exterior and bright colors.",
+    "Imagine a Pokemon that excels in defensive strategies and has a unique armor-like shell.",
+    "Design a Pokemon that looks like a prehistoric creature, complete with a hard shell and a cute face.",
+    "Show me a Pokemon that is both cute and tough, with a heavy shell and small limbs."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": null,
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, rounded gray shell",
+      "Small limbs",
+      "Face with a distinctive muzzle",
+      "Sturdy body structure",
+      "Cute, expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Steel",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Defensive",
+      "Calm",
+      "Loyal"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Shieldon/1.png",
+  "pokemon_name": "Shieldon"
+}

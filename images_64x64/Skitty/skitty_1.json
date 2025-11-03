@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a cute, playful Pokemon that loves to nap and play with yarn.",
+    "Show me a small, pink feline Pokemon that has a fluffy tail and big ears.",
+    "Imagine a Pokemon that has a soft, pastel color palette and a playful personality.",
+    "Design a Pokemon that evolves into a more powerful creature and has a vibrant appearance.",
+    "Generate a sweet, friendly creature with a whimsical design and a love for adventure.",
+    "Give me a Pokemon that looks like a cuddly cat and has charming, expressive eyes.",
+    "Make a Pokemon that enjoys exploring urban areas and interacting with trainers."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": null,
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Fluffy tail",
+      "Large ears",
+      "Round face",
+      "Small size",
+      "Balloon-like structure at the end of the tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Affectionate"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Skitty/1.png",
+  "pokemon_name": "Skitty"
+}

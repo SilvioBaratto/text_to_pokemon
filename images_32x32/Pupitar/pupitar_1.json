@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon with a spiky blue shell and sharp claws.",
+    "I want a unique Pokemon that resembles a blue cocoon with armored plating.",
+    "Generate a Pokemon that looks like a hardened larva with a fierce expression.",
+    "Make a creature that embodies a blue, rocky form with angular features and bright eyes.",
+    "Imagine a Pokemon that evolves from a small bug into a formidable rock creature.",
+    "Design a blue Pokemon that thrives in mountainous environments and has a tough exterior.",
+    "Show me a Pokemon with a tough, armored exterior and a color palette of blues and grays."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Gray",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Spiky protrusions",
+      "Armored casing",
+      "Angular body shape",
+      "Large eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Ground",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Defensive",
+      "Tenacious",
+      "Resilient"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive and strategic"
+  },
+  "image_path": "images/Pupitar/1.png",
+  "pokemon_name": "Pupitar"
+}

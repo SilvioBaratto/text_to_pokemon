@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a crab-like Pokemon that thrives in the ocean with vibrant colors.",
+    "Imagine a water-type Pokemon that can camouflage in sandy environments.",
+    "Generate a small Pokemon with large claws and a playful personality.",
+    "Make a Pokemon that looks like a crustacean and has a tough exoskeleton.",
+    "Show me a Pokemon that resembles a crab and loves to explore coastal areas.",
+    "Design a Pokemon that can use its claws effectively in battles and looks cute.",
+    "Give me a visual representation of a water-type Pokemon with distinctive pincers."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "White"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Orange",
+      "accent": "White"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large pincers",
+      "Round body",
+      "Small legs",
+      "Big eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Defensive"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Krabby/2.png",
+  "pokemon_name": "Krabby"
+}

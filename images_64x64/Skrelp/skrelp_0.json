@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a small sea creature with brown and purple hues.",
+    "I want a Pokemon that blends into its aquatic surroundings, showcasing shades of brown and blue.",
+    "Generate a Pokemon with a serpentine body shape, featuring distinctive fins and a unique color pattern.",
+    "Make a creature that thrives in wetlands, sporting a combination of earthy tones and vibrant accents.",
+    "Imagine a Pokemon that has a playful demeanor, with colors that mimic the depths of the ocean.",
+    "Design a small aquatic Pokemon with a whimsical appearance, primarily in dark brown with hints of purple.",
+    "Show me a Pokemon that captures the essence of a river environment, characterized by its unique coloration and shape."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Purple",
+      "accent": "Blue"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long, serpentine body",
+      "Fins on the sides",
+      "Large, expressive eyes",
+      "Distinctive coloration pattern"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Poison",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Cunning"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Skrelp/0.png",
+  "pokemon_name": "Skrelp"
+}

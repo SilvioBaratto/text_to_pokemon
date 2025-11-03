@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with sleek blue skin and large expressive eyes.",
+    "Imagine a frog-like creature that can jump high and uses water attacks in battle.",
+    "Show me a Pokemon that blends into aquatic environments with a smooth, streamlined body.",
+    "Design a bipedal Pokemon with webbed feet and a playful personality.",
+    "Generate a Pokemon that thrives in wetland habitats and has a unique color pattern.",
+    "Make a creature with both agility and a powerful water-based combat style.",
+    "Give me a Pokemon with a distinctive fin-like feature that enhances its swimming abilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large expressive eyes",
+      "Webbed hands and feet",
+      "Fin-like tail",
+      "Streamlined body",
+      "Smooth skin"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Agile",
+      "Intelligent"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Ranged Water Attacks"
+  },
+  "image_path": "images/Frogadier/0.png",
+  "pokemon_name": "Frogadier"
+}

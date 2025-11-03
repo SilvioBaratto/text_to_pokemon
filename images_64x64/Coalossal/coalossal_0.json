@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon that resembles a living mountain with fiery accents.",
+    "I want a Pokemon that has a sturdy, rock-like body, adorned with glowing red features.",
+    "Generate a creature that embodies the strength of earth and the ferocity of fire.",
+    "Make a Pokemon that is both intimidating and resilient, with sharp, angular features.",
+    "Imagine a Pokemon that can control volcanic eruptions and thrives in mountainous terrains.",
+    "Design a Pokemon that combines elements of stone and fire, showcasing a rugged appearance.",
+    "Give me a Pokemon that has a massive, rock-like form, with glowing elements that suggest heat."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Gray",
+      "accent": "Red"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Volcanic protrusions on back",
+      "Rocky, textured body",
+      "Glowing red accents",
+      "Broad, sturdy limbs",
+      "Angular face with fierce eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Fire",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Ferocious",
+      "Sturdy"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Coalossal/0.png",
+  "pokemon_name": "Coalossal"
+}

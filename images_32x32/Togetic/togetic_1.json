@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a fairy-type Pokemon that radiates positivity and has bright, colorful markings.",
+    "I want a cute Pokemon that can fly and has a playful personality, with accents of red and blue.",
+    "Generate a whimsical creature resembling a small flying fairy, featuring soft, rounded shapes and vibrant colors.",
+    "Make a Pokemon that embodies joy with a rounded body and delicate wings, showcasing the colors white and blue.",
+    "Imagine a charming Pokemon that dances in the air, with a unique blend of colors and fairy-like features.",
+    "Design a Pokemon that brings happiness, equipped with wing-like arms and colorful patterns on its body.",
+    "Show me a small Pokemon with a soft body shape and cheerful demeanor, adorned with playful color accents."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Blue",
+      "accent": "Red"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Rounded body",
+      "Delicate wings",
+      "Colorful patterns on body",
+      "Large expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Joyful",
+      "Playful",
+      "Gentle"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Togetic/1.png",
+  "pokemon_name": "Togetic"
+}

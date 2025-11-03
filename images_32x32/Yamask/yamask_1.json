@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that has a mysterious aura and a haunting appearance.",
+    "Imagine a Pokemon with a flowing black body and a playful spirit, perfect for spooky settings.",
+    "Generate a Pokemon that is both mischievous and ethereal, with a unique mask-like face.",
+    "Design a ghostly creature that thrives in urban environments, featuring a distinctive, elongated shape.",
+    "Show me a Pokemon that embodies the essence of shadows and has a whimsical personality.",
+    "Make a Pokemon that is small, dark, and has an interesting connection to ancient spirits.",
+    "Give me a ghost-type Pokemon that can be found in forests, known for its playful tricks."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Purple",
+      "accent": "Red"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Wearing a mask",
+      "Long, flowing arms",
+      "Ghostly appearance",
+      "Purple markings",
+      "Red circular object"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Mysterious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Trickster"
+  },
+  "image_path": "images/Yamask/1.png",
+  "pokemon_name": "Yamask"
+}

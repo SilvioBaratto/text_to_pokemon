@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon with vibrant green leaves and a charming smile.",
+    "Imagine a Pokemon that evolves from a small seed into a giant plant creature.",
+    "Show me a dual-type Pokemon that thrives in forests and grasslands.",
+    "Generate a creature that has a unique combination of floral and reptilian features.",
+    "Design a middle evolution Pokemon that embodies both strength and nature.",
+    "Make a Pokemon that has a bulb on its back with blooming flowers.",
+    "Give me an example of a Pokemon that is friendly and loves to play in the sun."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Blue",
+      "accent": "Pink"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Bulb on its back",
+      "Large leaves",
+      "Red eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Friendly",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Ivysaur/0.png",
+  "pokemon_name": "Ivysaur"
+}

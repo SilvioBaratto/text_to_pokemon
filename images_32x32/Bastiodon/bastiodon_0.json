@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a robust-looking Pokemon with a rocky exterior and a strong defensive stance.",
+    "Generate a Pokemon that resembles a fortress with spikes and a sturdy build.",
+    "Imagine a creature that has a slate-gray color with yellow accents and a tough appearance.",
+    "Design a Pokemon that can withstand heavy attacks and has a unique dual-type.",
+    "Show me a Pokemon that embodies both ancient power and modern design elements.",
+    "Give me a Pokemon that has a defensive combat style and can protect its allies.",
+    "Make a Pokemon that thrives in mountainous habitats and has a rocky aesthetic."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Thick tusks",
+      "Large shield-like face",
+      "Spiked back"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Rock",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Defensive",
+      "Stubborn",
+      "Loyal"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Tank"
+  },
+  "image_path": "images/Bastiodon/0.png",
+  "pokemon_name": "Bastiodon"
+}

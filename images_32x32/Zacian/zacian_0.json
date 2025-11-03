@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a majestic Pokemon with a blend of blue and gold colors, resembling a mythical wolf.",
+    "Imagine a legendary creature that embodies the elegance of a sword and the ferocity of a lion.",
+    "Generate a stunning Pokemon featuring vibrant colors, sharp features, and an aura of strength.",
+    "Design a noble animal Pokemon that has fairy-like wings and a fierce demeanor.",
+    "Show me a powerful Pokemon that can traverse both land and air, adorned with intricate armor.",
+    "Make a Pokemon that channels the essence of both bravery and nobility through its appearance.",
+    "Give me a Pokemon with a sleek design and a color palette that inspires awe."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": "Red"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Golden armor-like fur",
+      "Long, flowing mane",
+      "Sword-like protrusion",
+      "Majestic wings",
+      "Fierce expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": "Steel",
+    "generation": 8,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Noble",
+      "Fierce",
+      "Courageous"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Zacian/0.png",
+  "pokemon_name": "Zacian"
+}

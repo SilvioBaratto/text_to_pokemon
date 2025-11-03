@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a ghostly sword Pokemon with a shimmering blade and floating features.",
+    "I want a Pokemon that embodies the spirit of a knight with a metallic shield.",
+    "Generate a dual-type Pokemon with a regal appearance and a mystical aura.",
+    "Make an elegant Pokemon that resembles a sword and has a ghostly presence.",
+    "Imagine a ghost-type Pokemon that has a metallic body and a haunting design.",
+    "Design a Pokemon that looks like a weapon but has a playful spirit.",
+    "Show me a knightly Pokemon with a combination of steel and ghostly elements."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Purple",
+      "accent": "Black"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Sword-like shape",
+      "Shield appearance",
+      "Floating arms",
+      "Metallic finish"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Ghost",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Noble",
+      "Strategic",
+      "Mischievous"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Aegislash/3.png",
+  "pokemon_name": "Aegislash"
+}

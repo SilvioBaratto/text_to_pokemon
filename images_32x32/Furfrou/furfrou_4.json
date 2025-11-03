@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a fluffy Pokemon with elegant fur and a vibrant color palette.",
+    "I want a graceful creature that can change its appearance based on grooming.",
+    "Generate a playful Pokemon that loves to parade its stylish looks.",
+    "Make a chic Normal-type Pokemon with a unique hairstyle and charming features.",
+    "Imagine a Pokemon that thrives in urban environments and enjoys showing off.",
+    "Design a Pokemon that embodies elegance and has a strong attachment to its trainer.",
+    "Show me a Pokemon that combines beauty with a mischievous personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Gray",
+      "accent": "Blue"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Fluffy fur",
+      "Distinctive collar",
+      "Elegant posture",
+      "Large ears",
+      "Playful tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Elegant",
+      "Affectionate"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Furfrou/4.png",
+  "pokemon_name": "Furfrou"
+}

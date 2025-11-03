@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a cheerful bird Pokemon that dances and enjoys bright colors.",
+    "Imagine a flying Pokemon with fluffy yellow feathers and playful pom-poms.",
+    "Generate a small, vibrant Pokemon that loves to entertain and bring joy.",
+    "Show me a Pokemon that embodies happiness with soft yellow hues and energetic movements.",
+    "Make a bird Pokemon that thrives in sunny environments and has a lively personality.",
+    "Design a playful flying creature that uses colorful accessories to express itself.",
+    "Give me a Pokemon that spreads joy with its bright colors and cheerful demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Pom-pom-like accessories",
+      "Fluffy yellow feathers",
+      "Small, round body",
+      "Wide, expressive eyes",
+      "Short wings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Flying",
+    "type2": "Psychic",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Energetic"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Oricorio/3.png",
+  "pokemon_name": "Oricorio"
+}

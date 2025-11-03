@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a playful Normal-type Pokemon with large hands and a mischievous grin.",
+    "Imagine a purple Pokemon that loves to swing from trees and play pranks.",
+    "Design a bipedal creature with big ears and a long tail, perfect for urban adventures.",
+    "Generate a friendly monkey-like Pokemon that has a knack for juggling.",
+    "Show me a Pokemon that uses its hands to communicate and express emotions.",
+    "Make an adorable Pokemon that thrives in forested areas and loves to socialize.",
+    "Give me a character that embodies both agility and charm, with a vibrant purple hue."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Two large hands with pink fingertips",
+      "Long, flexible tail",
+      "Large expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Social"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Ambipom/0.png",
+  "pokemon_name": "Ambipom"
+}

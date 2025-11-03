@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a cute bug-type Pokemon that has a round body and fluffy features.",
+    "I want a Pokemon that evolves from a small caterpillar into a majestic butterfly.",
+    "Generate a Pokemon with a soft, cuddly appearance and vibrant color patterns.",
+    "Make an adorable Pokemon that lives in grassy areas and loves to hide among flowers.",
+    "Imagine a bug Pokemon with a playful personality and a penchant for collecting shiny objects.",
+    "Design a Pokemon that resembles a fluffy ball with big eyes and an inviting smile.",
+    "Show me a Pokemon that thrives in forests and has a unique ability to camouflage."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Gray",
+      "accent": "Red"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Fluffy body",
+      "Large, expressive eyes",
+      "Small antennae",
+      "Round shape",
+      "Red cheeks"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cuddly",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Spewpa/0.png",
+  "pokemon_name": "Spewpa"
+}

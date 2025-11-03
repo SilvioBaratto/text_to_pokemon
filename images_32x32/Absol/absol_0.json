@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a sleek dark-type Pokemon that embodies mystery and has a shadowy aura.",
+    "Show me a Pokemon with sharp claws and a fierce expression, perfect for stealth.",
+    "Imagine a Pokemon that has a striking white coat with deep blue accents and a menacing stance.",
+    "Design a creature that thrives in mountainous regions and has a unique blend of dark and blue colors.",
+    "Generate an agile Pokemon with an elegant silhouette that prowls through dark forests.",
+    "Make a Pokemon that symbolizes disaster and has a hauntingly beautiful appearance.",
+    "Give me an intimidating Pokemon with a regal presence and an affinity for nighttime adventures."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Curved horns",
+      "Long tail with a unique shape",
+      "Sharp claws",
+      "Elegant posture",
+      "Facial markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Cunning",
+      "Independent"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Stealth and agility"
+  },
+  "image_path": "images/Absol/0.png",
+  "pokemon_name": "Absol"
+}

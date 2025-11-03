@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a fossil-based Pokemon that resembles a prehistoric creature with sharp claws.",
+    "I want a water-type Pokemon that has a sleek, streamlined body and sharp features.",
+    "Generate an ancient-looking Pokemon with a tough exoskeleton and a menacing stance.",
+    "Make a Pokemon that combines elements of a crab and a dinosaur, with a brown color scheme.",
+    "Imagine a Pokemon with elegant, scythe-like arms and a unique fossil theme.",
+    "Design a bipedal Pokemon that thrives in rocky environments and has a fierce expression.",
+    "Give me a unique Pokemon that resembles a mix between a predator and an ancient fossil."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Gray",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Scythe-like claws",
+      "Fossilized shell",
+      "Sharp, angular head",
+      "Long, slender legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Bug",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Predatory",
+      "Aggressive",
+      "Cunning"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Kabutops/0.png",
+  "pokemon_name": "Kabutops"
+}

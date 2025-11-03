@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a playful fire-type Pok\u00e9mon with bright orange fur and distinctive black stripes.",
+    "I want to design a small, quadrupedal Pok\u00e9mon that embodies the spirit of loyalty and bravery.",
+    "Generate a vibrant fire Pok\u00e9mon with a fluffy tail and a cheerful expression.",
+    "Make an adorable puppy-like Pok\u00e9mon that roams through grassy fields and parks.",
+    "Imagine a fierce but friendly fire-type creature that represents companionship and protection.",
+    "Show me a Pok\u00e9mon with a fiery personality, featuring warm colors and a confident posture.",
+    "Give me a cute and energetic creature that loves to play in forests and sunny areas."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Black",
+      "accent": "Brown"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy tail",
+      "Black stripes",
+      "Pointed ears",
+      "Bright eyes",
+      "Small stature"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Loyal",
+      "Energetic"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Physical attacker"
+  },
+  "image_path": "images/Growlithe/1.png",
+  "pokemon_name": "Growlithe"
+}

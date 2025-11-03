@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a powerful rock-type Pokemon with a tough exterior and a gentle heart.",
+    "Generate a Pokemon that embodies strength and resilience, ideal for mountainous terrains.",
+    "Imagine a Pokemon with a sturdy body and a playful attitude, perfect for battles.",
+    "Design a Pokemon that thrives in rugged landscapes, showcasing its adventurous spirit.",
+    "Show me a Pokemon with rough skin and a strong sense of loyalty to its trainer.",
+    "Give me a creature that resembles a dinosaur, with rocky features and a fierce demeanor.",
+    "Make a Pokemon that can charge through obstacles with its robust body and fierce determination."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Thick, rugged skin",
+      "Large horn on head",
+      "Sturdy legs",
+      "Broad body",
+      "Rock-like texture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Ground",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Stubborn",
+      "Loyal",
+      "Playful"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Rhyhorn/1.png",
+  "pokemon_name": "Rhyhorn"
+}

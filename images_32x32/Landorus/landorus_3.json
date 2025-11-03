@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon that controls the weather and has a fierce expression.",
+    "Show me a powerful creature with orange fur and a majestic mane.",
+    "Imagine a Pokemon that combines elements of a lion and a genie.",
+    "Give me a design for a legendary Pokemon with strong ties to nature.",
+    "Generate a Pokemon that embodies the power of storms with fluffy clouds.",
+    "Make an image of a Pokemon with a unique blend of ground and flying abilities.",
+    "Design a Pokemon that looks both intimidating and regal, with colorful accents."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Brown",
+      "accent": "Pink"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Cloud-like mane",
+      "Furry white accents",
+      "Pink markings on the body",
+      "Strong, muscular build",
+      "Distinctive tail resembling a storm cloud"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": "Flying",
+    "generation": 5,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mighty",
+      "Protective",
+      "Proud"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Landorus/3.png",
+  "pokemon_name": "Landorus"
+}

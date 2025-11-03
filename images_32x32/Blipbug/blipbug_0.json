@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that has a unique color pattern and large expressive eyes.",
+    "I want a small, adorable Pokemon with a rounded body and tiny legs, perfect for the forest.",
+    "Generate a whimsical Pokemon design that features shades of blue and yellow with cute antennae.",
+    "Make a Pokemon that embodies curiosity and playfulness, with vibrant colors and a friendly expression.",
+    "Imagine a tiny insectoid Pokemon that blends in with the grass, showcasing its vibrant colors.",
+    "Design a Pokemon with a quirky appearance, emphasizing its big eyes and small stature.",
+    "Show me a bug Pokemon with a playful personality that is often found in urban environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large, round eyes",
+      "Small, rounded body",
+      "Two small antennae",
+      "Tiny legs",
+      "Rounded, bulbous shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful",
+      "Gentle"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Blipbug/0.png",
+  "pokemon_name": "Blipbug"
+}

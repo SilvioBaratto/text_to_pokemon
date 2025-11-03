@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a powerful fighting-type Pokemon with a muscular build and striking red and black colors.",
+    "Show me an agile bipedal Pokemon that can harness both fighting and dark energies for battle.",
+    "Generate a legendary Pokemon that blends fierce looks with an intense fighting spirit and unique color patterns.",
+    "Design a Pokemon that embodies strength and speed, featuring dynamic poses and a vibrant color scheme.",
+    "Imagine a Pokemon that excels in close combat, with distinct markings and a confident demeanor.",
+    "Give me a concept for a Pokemon that thrives in mountainous habitats and has a fearsome appearance.",
+    "Make a striking illustration of a Pokemon that alternates between fighting and stealth tactics in combat."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Black"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Muscular build",
+      "Fierce expression",
+      "Distinct patterns on fur",
+      "Clawed hands",
+      "Long, flowing hair"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": "Dark",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Fierce",
+      "Confident"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Close-quarters combat"
+  },
+  "image_path": "images/Urshifu/2.png",
+  "pokemon_name": "Urshifu"
+}

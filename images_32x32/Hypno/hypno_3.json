@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon that has a hypnotic appearance and carries a pendulum.",
+    "I want a Pokemon that looks like a humanoid with yellow skin and a fluffy white collar.",
+    "Generate a creature that embodies the essence of sleep and dreams with a mysterious vibe.",
+    "Make a Pokemon with tall ears and a body that has a rounded shape, conveying wisdom.",
+    "Imagine a yellow Pokemon that can induce sleep with its pendulum, resembling a human figure.",
+    "Design a Pokemon with a notable white mane that suggests it's both friendly and enigmatic.",
+    "Show me a bipedal Pokemon with a charming yet eerie expression, perfect for dream manipulation."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "White",
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "White",
+      "accent": "Brown"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Fluffy white collar",
+      "Pendulum in hand",
+      "Tall pointed ears",
+      "Human-like posture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Cunning",
+      "Calm"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Status infliction"
+  },
+  "image_path": "images/Hypno/3.png",
+  "pokemon_name": "Hypno"
+}

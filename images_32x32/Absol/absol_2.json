@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a dark-type Pokemon with sleek fur and striking blue accents.",
+    "I want a Pokemon that embodies mystery and agility with a shadowy appearance.",
+    "Generate a creature that blends into dark environments, showcasing sharp claws.",
+    "Make a Pokemon that has a unique combination of elegance and ferocity.",
+    "Imagine a Pokemon that strikes fear into its opponents with its piercing gaze.",
+    "Design a Pokemon that thrives in the solitude of forested areas.",
+    "Give me a Pokemon that represents the balance between beauty and danger."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, curved horns",
+      "Sharp claws",
+      "Fur with a sleek appearance",
+      "Eerie, glowing eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Mysterious",
+      "Stealthy"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Hit-and-run"
+  },
+  "image_path": "images/Absol/2.png",
+  "pokemon_name": "Absol"
+}

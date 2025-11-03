@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a powerful grass-type Pokemon with leafy features and a strong build.",
+    "I want a Pokemon that resembles a gorilla and has vibrant green accents.",
+    "Generate a unique Pokemon with a mix of earthy colors and a musical theme.",
+    "Make a large, bipedal creature that embodies the spirit of the forest.",
+    "Imagine a Pokemon that can play drums and has a strong connection to nature.",
+    "Design a Pokemon with a muscular physique and a vibrant green mane.",
+    "Show me a Pokemon that thrives in forests and has a playful personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": "Orange"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Muscular arms",
+      "Leafy green hair",
+      "Orange nose",
+      "Drum-like body",
+      "Thick legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Fighting",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Creative"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Rillaboom/0.png",
+  "pokemon_name": "Rillaboom"
+}

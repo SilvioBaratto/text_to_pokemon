@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a poison-type Pokemon that resembles a gooey, purple mass with a mischievous smile.",
+    "I want a creature that looks like a toxic puddle with a round body and a gaping mouth.",
+    "Generate a Pokemon that embodies pollution, featuring shades of purple and a slimy texture.",
+    "Make a whimsical Pokemon inspired by sludge, with a jiggly form and a playful attitude.",
+    "Imagine a Pokemon that thrives in urban waste, with a unique shape and vibrant colors.",
+    "Design a creature that embodies the essence of grime, with a gooey body and a quirky personality.",
+    "Show me a Pokemon that resembles a puddle of muck, with a vibrant but dirty color scheme."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Gooey, sludgy appearance",
+      "Gaping mouth",
+      "Lumpy texture",
+      "Small, beady eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Silly"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Grimer/2.png",
+  "pokemon_name": "Grimer"
+}

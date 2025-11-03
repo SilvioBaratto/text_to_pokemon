@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon that resembles a playful goat with leafy features.",
+    "I want a Pokemon that embodies nature and agility, with a focus on grassy landscapes.",
+    "Generate a cute, quadruped creature with a mix of green and brown colors.",
+    "Make a Pokemon that has a friendly personality and loves to frolic in the fields.",
+    "Imagine a small, grass-type Pokemon that is perfect for a starter team in the wild.",
+    "Design a Pokemon that has distinctive hoofed feet and a vibrant, green mane.",
+    "Show me a Pokemon that thrives in forests and has a playful demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Leafy mane",
+      "Hoofed feet",
+      "Short, stocky body",
+      "Large ears",
+      "Friendly expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Skiddo/0.png",
+  "pokemon_name": "Skiddo"
+}

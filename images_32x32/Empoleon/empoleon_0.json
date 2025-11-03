@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a regal penguin with an icy crown.",
+    "Show me a Pokemon with a sleek body and a majestic presence, perfect for battles.",
+    "Imagine a Pokemon that combines elements of the ocean and royalty, with a powerful stance.",
+    "Generate a powerful water-type Pokemon that commands respect with its steel-like features.",
+    "Design a Pokemon that stands tall and proud, embodying the essence of the sea.",
+    "Give me a unique Pokemon with a royal blue color palette and striking facial features.",
+    "Make a Pokemon that looks both elegant and strong, ready to take on any challenge."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Black"
+    ],
+    "secondary_colors": [
+      "White",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Crown-like crest on the head",
+      "Sharp, pointed flippers",
+      "Elegant tuxedo-like body",
+      "Long, curved tail",
+      "Blue and yellow markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Steel",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Noble",
+      "Determined",
+      "Proud"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Empoleon/0.png",
+  "pokemon_name": "Empoleon"
+}

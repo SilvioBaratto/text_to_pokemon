@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a whimsical psychic-type Pokemon with playful characteristics and vibrant colors.",
+    "Show me a bipedal Pokemon that uses its psychic powers in creative ways.",
+    "Imagine a pink and blue Pokemon with clown-like features and a mischievous smile.",
+    "Generate a unique design for a psychic Pokemon that thrives in urban environments.",
+    "Make a character that embodies the essence of a psychic performer with colorful accents.",
+    "Give me an idea for a Pokemon that uses its psychic abilities for entertainment.",
+    "Design a playful Pokemon that has a mixture of pink and blue colors and a quirky body shape."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Blue",
+      "accent": "White"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Clown-like hair",
+      "Pink spheres on hands",
+      "Distinct facial expression",
+      "Bipedal stance",
+      "White gloves and shoes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Cheerful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Trickster"
+  },
+  "image_path": "images/Mr. Mime/4.png",
+  "pokemon_name": "Mr. Mime"
+}

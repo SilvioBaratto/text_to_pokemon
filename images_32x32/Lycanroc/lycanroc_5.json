@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a wolf-like Pokemon with an orange and white color scheme for a vibrant look.",
+    "Imagine a rock-type Pokemon that has distinct orange fur and a playful personality.",
+    "Show me a Pokemon that resembles a fox, designed in shades of orange and black.",
+    "Make a fierce canine Pokemon with a unique dual-color pattern and agile movement.",
+    "Generate a dynamic Pokemon that combines the traits of a wolf and a fox with striking colors.",
+    "Design a Pokemon that showcases a rugged appearance, perfect for rocky terrains and forests.",
+    "Give me a Pokemon that embodies loyalty and bravery, with a striking orange and white design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "White"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Distinctive orange fur",
+      "Pointed ears",
+      "Bushy tail",
+      "Sharp fangs",
+      "Dark markings on face and body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Loyal",
+      "Playful",
+      "Brave"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Agile and aggressive"
+  },
+  "image_path": "images/Lycanroc/5.png",
+  "pokemon_name": "Lycanroc"
+}

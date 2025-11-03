@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that resembles an ancient sarcophagus with eerie features.",
+    "I want a spooky Pokemon with a spooky design and mysterious powers.",
+    "Generate a ghostly creature that embodies the essence of an Egyptian tomb.",
+    "Make a Pokemon that has the ability to confuse opponents with its spectral presence.",
+    "Imagine a Pokemon that serves as a guardian of ancient secrets hidden in tombs.",
+    "Design a ghost-type Pokemon that's known for haunting ancient ruins with its eerie aura.",
+    "Show me a Pokemon with a unique design that makes it stand out in ghostly battles."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Sarcophagus-like body",
+      "Ghostly arms protruding",
+      "Facial features resembling a mask",
+      "Hieroglyphic patterns",
+      "Ancient, mystic aura"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Eerie",
+      "Cunning"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Cofagrigus/1.png",
+  "pokemon_name": "Cofagrigus"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon with a sleek design and vibrant blue colors.",
+    "Show me a bug-type Pokemon that has unique angular features and a striking color palette.",
+    "Imagine a Pokemon that combines insect-like traits with mechanical elements and bright yellow accents.",
+    "Give me a visual of a Pokemon that embodies the essence of innovation and nature with its colors.",
+    "Design a Pokemon that looks both menacing and majestic with a streamlined body and vivid colors.",
+    "Generate a Pokemon that thrives in forested environments, showcasing its electric abilities.",
+    "Make a Pokemon that represents both technology and nature, featuring a dynamic pose and colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": "Gray"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Angular wings",
+      "Hexagonal patterns",
+      "Long antennae",
+      "Robotic limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Electric",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Curious",
+      "Energetic"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Fast and strategic"
+  },
+  "image_path": "images/Vikavolt/0.png",
+  "pokemon_name": "Vikavolt"
+}

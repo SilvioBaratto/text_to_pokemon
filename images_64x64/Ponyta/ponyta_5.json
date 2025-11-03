@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a majestic horse-like Pokemon with a fiery mane and sparkling hooves.",
+    "Show me a graceful unicorn Pokemon that embodies the essence of fire and speed.",
+    "Imagine a Pokemon that gallops through grassy fields, leaving trails of flames behind.",
+    "Generate a vibrant, colorful Ponyta that represents the spirit of the wild.",
+    "Design a fiery equine creature with rainbow-colored flames and a charming personality.",
+    "Give me a powerful yet elegant Pokemon that thrives in open grasslands.",
+    "Make a whimsical horse Pokemon that can shoot flames from its mane during battles."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Pink",
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Yellow",
+      "accent": "Pink"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flame-like mane and tail",
+      "Hooves that sparkle",
+      "Gentle facial expression",
+      "Long legs",
+      "Curved horn-like structure on the head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Loyal"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Speed-oriented"
+  },
+  "image_path": "images/Ponyta/5.png",
+  "pokemon_name": "Ponyta"
+}

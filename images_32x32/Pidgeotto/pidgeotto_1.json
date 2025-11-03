@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bird Pokemon with vibrant feathers and a fierce expression.",
+    "Show me a flying-type Pokemon with unique wing patterns and a playful personality.",
+    "Imagine a Pokemon that resembles a majestic falcon soaring through the skies.",
+    "Design a Pokemon with a sleek body, sharp eyes, and a knack for aerial acrobatics.",
+    "Generate a Pokemon that combines elegance and strength, perfect for a forest habitat.",
+    "Make a playful flying Pokemon with bright colors and a charming demeanor.",
+    "Give me a design for a bird-like Pokemon that embodies speed and grace in its movements."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Red",
+      "White"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Yellow",
+      "accent": "Red"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, pointed wings",
+      "Sharp beak",
+      "Distinctive tail feathers",
+      "Large, expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Agile"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Pidgeotto/1.png",
+  "pokemon_name": "Pidgeotto"
+}

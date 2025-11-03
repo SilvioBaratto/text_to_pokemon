@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with green scales and a fierce look.",
+    "Imagine a small Pokemon with a cute face and a playful demeanor.",
+    "Design an agile Pokemon that can thrive in forest environments.",
+    "Generate a unique Pokemon that has a distinctive horn and bright eyes.",
+    "Show me a Pokemon that embodies strength and resilience in battle.",
+    "Make a Pokemon with a unique blend of green and yellow colors.",
+    "I want a Pokemon that resembles a small dinosaur and loves to explore."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Gray",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Unique horn on head",
+      "Red eyes",
+      "Yellow collar",
+      "Small size",
+      "Pointed ears"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Determined"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Axew/1.png",
+  "pokemon_name": "Axew"
+}

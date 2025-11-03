@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a legendary Pokemon resembling a stormy cloud with green accents and purple swirls.",
+    "Imagine a mythical creature that embodies the power of the wind, with vibrant colors and unique features.",
+    "Design a Pokemon with a whimsical appearance, featuring a cloud-like body and striking color combinations.",
+    "Generate a flying-type Pokemon with a distinct shape, showcasing its ability to control weather patterns.",
+    "Show me a Pokemon that has a blend of green and purple, evoking a sense of mystery and power.",
+    "Make a Pokemon that reflects the essence of a thunderstorm, with swirling patterns and dynamic colors.",
+    "Give me a creature that combines elements of nature and weather, with a visually captivating design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Purple",
+      "accent": "Yellow"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Cloud-like lower body",
+      "Swirling purple tail",
+      "Green upper body with white accents",
+      "Yellow orbs along the tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Flying",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Free-spirited",
+      "Energetic"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Tornadus/0.png",
+  "pokemon_name": "Tornadus"
+}

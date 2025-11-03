@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a group of psychic-type Pokemon resembling small eggs with cute faces.",
+    "I want a Pokemon that looks like a cluster of eggs, showcasing different expressions.",
+    "Generate an adorable grass-type Pokemon with soft pastel colors and round shapes.",
+    "Make a Pokemon that is playful and resembles a bunch of eggs with personality.",
+    "Imagine a quirky Pokemon design featuring multiple egg-like creatures with unique traits.",
+    "Design a charming nature-themed Pokemon that has a collection of smiling eggs.",
+    "Show me a Pokemon that embodies the spirit of friendship through its egg-like appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Cluster of multiple egg-like bodies",
+      "Facial expressions on each egg",
+      "Light pink coloration",
+      "Smooth, rounded shape",
+      "Small size with a compact grouping"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Psychic",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Exeggcute/2.png",
+  "pokemon_name": "Exeggcute"
+}

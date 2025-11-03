@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon with a skull motif and a playful personality.",
+    "I want a bipedal Pokemon that wields a bone as a weapon, showcasing fierce loyalty.",
+    "Generate a fighter Pokemon that blends earthy tones with a spooky vibe.",
+    "Make a Pokemon that thrives in caves, resembling a small humanoid with a bone.",
+    "Imagine a ground-type creature with gray and brown hues, known for its stealthy approach.",
+    "Design a Pokemon that embodies resilience, with a distinctive headpiece and agile movements.",
+    "Show me a Pokemon that combines a bony appearance with a friendly demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Gray",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Skull-shaped head",
+      "Bone club weapon",
+      "Tail resembling a bone",
+      "Hunched posture",
+      "Distinctive rib-like markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": "Ghost",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Loyal",
+      "Playful",
+      "Resilient"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Melee"
+  },
+  "image_path": "images/Marowak/0.png",
+  "pokemon_name": "Marowak"
+}

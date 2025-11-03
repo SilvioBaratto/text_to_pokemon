@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a Normal-type Pokemon that resembles a small, furry creature with a unique color pattern.",
+    "Imagine a Pokemon with a watchful gaze and a distinctive striped body, perfect for guarding its territory.",
+    "Design a Pokemon inspired by a blend of a meerkat and a raccoon, featuring vibrant brown and yellow colors.",
+    "Show me a Pokemon that is alert and observant, with a round body and a charming smile.",
+    "Generate a playful Normal-type Pokemon with a keen sense of its surroundings, standing upright on two legs.",
+    "Make a Pokemon that thrives in urban environments, with sharp eyes and a knack for spotting details.",
+    "Give me a Pokemon with a distinctive fur pattern and personality traits that reflect its watchful nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Yellow",
+      "accent": "Red"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Striped body pattern",
+      "Large, expressive eyes",
+      "Distinctive long tail",
+      "Pointed ears"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Watchful",
+      "Cunning",
+      "Playful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Watchog/1.png",
+  "pokemon_name": "Watchog"
+}

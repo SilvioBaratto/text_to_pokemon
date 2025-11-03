@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that floats gracefully with flowing tentacle-like appendages.",
+    "I want to see a water-type Pokemon with soft pink and purple colors, resembling a jellyfish.",
+    "Generate a cute, aquatic Pokemon with an elegant shape and a spectral appearance.",
+    "Make a whimsical ghost-type Pokemon that has a gentle demeanor and mesmerizing features.",
+    "Imagine a Pokemon with a ghostly appearance and flowing fins, perfect for underwater exploration.",
+    "Design a Pokemon that combines both water and ghost types, showcasing beautiful pastel colors.",
+    "Give me an enchanting Pokemon that drifts through the ocean, with delicate, translucent limbs."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Purple"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": null,
+      "accent": "Purple"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Translucent body",
+      "Tentacle-like appendages",
+      "Soft, flowing fins",
+      "Round, bulbous head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Ghost",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Playful",
+      "Mysterious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Frillish/0.png",
+  "pokemon_name": "Frillish"
+}

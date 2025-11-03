@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create an ice-type Pokemon that resembles a snow spirit with a flowing cape and ethereal features.",
+    "Imagine a ghostly creature that haunts icy mountains, blending in with the snow and fog.",
+    "Show me a Pokemon that embodies winter elegance with icy blue colors and a graceful, slender form.",
+    "Design a mythical Pokemon with a frosty aura, featuring unique patterns and an otherworldly presence.",
+    "Generate a Pokemon that floats gracefully, combining elements of ice and ghost types in its appearance.",
+    "Make a Pokemon that looks like a haunting snow demon, with chilling colors and a mystical appearance.",
+    "Give me a Pokemon that captures the essence of winter, with delicate icy features and ethereal beauty."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Purple",
+      "accent": "Blue"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flowing cape-like appearance",
+      "Icy blue accents",
+      "Ghostly white body",
+      "Facial features resembling a mask",
+      "Distinctive purple markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": "Ghost",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Graceful",
+      "Playful"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Froslass/0.png",
+  "pokemon_name": "Froslass"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a legendary dragon Pokemon with dark armor and glowing eyes in a stormy landscape.",
+    "Imagine a powerful electric-type Pokemon with a sleek aerodynamic design and intimidating wings.",
+    "Design a mythical creature with a striking black body and blue accents, soaring through the night sky.",
+    "Generate a massive dragon-like Pokemon that embodies the essence of thunder and lightning.",
+    "Show me a unique Pokemon that has a fearsome appearance and radiates electric energy.",
+    "Give me a bipedal Pokemon that commands the skies with its majestic wings and dark aura.",
+    "Make a Pokemon that combines the traits of a dragon and a storm, with striking visual effects."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large dragon-like wings",
+      "Thunderbolt-like tail",
+      "Glowing blue eyes",
+      "Muscular physique",
+      "Jagged edges on wings and body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Electric",
+    "generation": 5,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Powerful",
+      "Fierce",
+      "Determined"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Zekrom/0.png",
+  "pokemon_name": "Zekrom"
+}

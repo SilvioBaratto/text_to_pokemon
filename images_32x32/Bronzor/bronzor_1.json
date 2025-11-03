@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a steel-type Pokemon with a round body and glowing eyes.",
+    "Show me an ancient artifact-themed Pokemon that embodies mystery and strength.",
+    "Imagine a Pokemon that floats in the air and has a reflective surface.",
+    "Design a Pokemon that resembles a mystical relic with intricate patterns.",
+    "Generate a unique Pokemon that can control magnetic fields and has a metallic sheen.",
+    "Make a Pokemon that looks like a shield with a vibrant color palette.",
+    "Give me a Pokemon that blends seamlessly into urban environments and has a calming presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body",
+      "Two large yellow eyes",
+      "Central blue orb",
+      "Metallic-looking surface",
+      "Symmetrical design"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Psychic",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Mysterious",
+      "Defensive"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Bronzor/1.png",
+  "pokemon_name": "Bronzor"
+}

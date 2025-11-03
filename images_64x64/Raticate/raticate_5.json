@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a normal-type Pokemon resembling a large rodent with a fluffy tail and prominent whiskers.",
+    "Show me a Pokemon that has a round body, short limbs, and a mischievous expression.",
+    "Design a Pokemon with a bold color palette featuring dark fur and cream accents.",
+    "Imagine a small creature with large ears and a knack for scurrying around urban environments.",
+    "Generate a Pokemon that embodies the essence of a clever scavenger in a bustling city.",
+    "Make a fluffy rodent-like Pokemon that is always on the lookout for food.",
+    "Give me an adorable yet sneaky creature that blends into forested areas."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy tail",
+      "Large front teeth",
+      "Prominent whiskers",
+      "Round body",
+      "Small legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Playful",
+      "Resourceful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Raticate/5.png",
+  "pokemon_name": "Raticate"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create an ice-type Pokemon with a majestic appearance and a body covered in frosty patterns.",
+    "I want a majestic creature that embodies the essence of winter with shimmering blue and white colors.",
+    "Generate an elegant, quadrupedal Pokemon that shows strength and grace in a snowy landscape.",
+    "Make a mythical ice horse that has a powerful presence and glows with a soft blue light.",
+    "Imagine a Pokemon that roams the tundra, showcasing beautiful ice crystals on its body.",
+    "Design a legendary Pokemon that can control the snow and ice, with unique features like icy horns.",
+    "Show me a Pokemon that represents the spirit of the cold, with striking blue hues and a noble stance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Icy mane",
+      "Frosty hooves",
+      "Elegant horn-like structures",
+      "Blue accents on the body",
+      "Mysterious glowing eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Noble",
+      "Majestic",
+      "Strong"
+    ],
+    "habitat": "Tundra",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Glastrier/0.png",
+  "pokemon_name": "Glastrier"
+}

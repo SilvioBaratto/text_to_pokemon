@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that looks cheerful and has a round body with fins.",
+    "Imagine a cute aquatic creature with a smiling face and blue accents.",
+    "Design a small, friendly Pokemon that thrives in wetland environments.",
+    "Generate an adorable, amphibious Pokemon with distinctive round features and vibrant colors.",
+    "Make a Pokemon that resembles a small frog with a joyful expression and streamlined shape.",
+    "Show me a whimsical water creature with a simplistic design and an inviting personality.",
+    "Give me a Pokemon that embodies playfulness with its bubbly demeanor and aquatic traits."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round body",
+      "Large, expressive eyes",
+      "Fins resembling sound waves",
+      "Smiling face",
+      "Streamlined shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Tympole/0.png",
+  "pokemon_name": "Tympole"
+}

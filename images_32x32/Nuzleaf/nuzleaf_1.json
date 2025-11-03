@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a humanoid Pokemon with earthy tones and a leaf on its head for a forest-themed game.",
+    "I want an agile, grass-type Pokemon that can blend into its surroundings, perfect for stealth missions.",
+    "Generate a cute but tough Pokemon with a brown body and green accents for my next adventure.",
+    "Make a Pokemon that evolves from a small plant to a powerful warrior, showcasing its growth.",
+    "Imagine a bipedal creature with sharp features and a unique leaf accessory for a nature-based storyline.",
+    "Design a fighting-type Pokemon that embodies the spirit of nature and has a distinctive appearance.",
+    "Show me a Pokemon with a mix of earthy colors and a playful personality, ideal for a friendly competition."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Green"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": "Green"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Leaf on head",
+      "Muscular arms",
+      "Facial mask",
+      "Stout body",
+      "Fist-like hands"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Dark",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cunning",
+      "Mischievous"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Nuzleaf/1.png",
+  "pokemon_name": "Nuzleaf"
+}

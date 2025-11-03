@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with a sleek purple body and sharp, spiky features.",
+    "Imagine a fantastic poison-type creature that glimmers with shades of purple and pink.",
+    "Design a legendary Pokemon that can fly and has a unique serpentine body shape.",
+    "Generate an incredible Pokemon with an elegant, elongated design and vibrant color patterns.",
+    "Make a mythical beast with a captivating appearance, blending purple and pink hues.",
+    "Show me a powerful Pokemon that embodies speed and elegance, with sharp features and vivid colors.",
+    "Give me a dragon Pokemon that thrives in urban environments and has stunning visual traits."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long serpentine body",
+      "Sharp spiky appendages",
+      "Large wings",
+      "Vibrant color gradient",
+      "Elegant curves"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": "Dragon",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Graceful",
+      "Proud"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Naganadel/0.png",
+  "pokemon_name": "Naganadel"
+}

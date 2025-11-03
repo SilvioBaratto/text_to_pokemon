@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a cute psychic-type Pokemon with purple fur and a playful expression.",
+    "Imagine a small, adorable Pokemon that loves to play in urban environments.",
+    "Design a Pokemon that has a striking yellow hairstyle and a charming smile.",
+    "Generate a tiny creature with a unique blend of purple and cream colors.",
+    "Give me a playful Pokemon that is perfect for trainers who enjoy psychic powers.",
+    "Show me a small bipedal Pokemon that thrives in lush grasslands and forests.",
+    "Make a Pokemon that captures the essence of joy with its vibrant colors and features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": null,
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large blue eyes",
+      "Small arms",
+      "Fluffy yellow hair"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Joyful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Smoochum/1.png",
+  "pokemon_name": "Smoochum"
+}

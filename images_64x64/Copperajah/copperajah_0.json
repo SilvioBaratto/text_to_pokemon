@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a powerful steel-type Pokemon that resembles an ancient elephant with intricate patterns.",
+    "I want a giant Pokemon with a green and orange color scheme that embodies strength and resilience.",
+    "Generate a Pokemon that has massive ears and a sturdy body, perfect for defending its territory.",
+    "Make a robust Pokemon that can thrive in mountainous regions, showcasing its metallic attributes.",
+    "Imagine an elephant-inspired Pokemon with a unique blend of steel and nature elements in its design.",
+    "Design a Pokemon that stands tall and proud with a vibrant green body and orange highlights.",
+    "Show me a Pokemon that combines the majesty of elephants with the toughness of steel."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Gray",
+      "accent": "Orange"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Huge",
+    "distinctive_features": [
+      "Large elephant-like ears",
+      "Metallic body",
+      "Sturdy legs",
+      "Long trunk",
+      "Intricate patterns on skin"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Ground",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Sturdy",
+      "Loyal",
+      "Protective"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Copperajah/0.png",
+  "pokemon_name": "Copperajah"
+}

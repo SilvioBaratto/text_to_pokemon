@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a muscular Pokemon that excels in hand-to-hand combat with vibrant colors.",
+    "I want a fighting-type Pokemon that showcases powerful arm muscles and a strong stance.",
+    "Generate an image of a bipedal Pokemon with a striking pose and a confident expression.",
+    "Make a character design for a Pokemon that embodies strength and determination in battle.",
+    "Imagine a Pokemon that combines fighting spirit with a bold color palette and distinctive features.",
+    "Design a robust Pokemon with unique physical traits that highlight its combat abilities.",
+    "Show me a Pokemon that represents the essence of a martial artist with its powerful build."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Orange",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Purple",
+      "accent": "Red"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Four muscular arms",
+      "Belt with a red sash",
+      "Defined musculature",
+      "Intense facial expression",
+      "Strong stance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Confident",
+      "Strong-willed"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Common",
+    "combat_style": "Close-quarters combat"
+  },
+  "image_path": "images/Machamp/1.png",
+  "pokemon_name": "Machamp"
+}

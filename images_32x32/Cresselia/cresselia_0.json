@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a serene expression and flowing, colorful features.",
+    "Show me a mythical creature that glows softly in the moonlight and has elegant wings.",
+    "Imagine a Pokemon that embodies dreams and has a unique, celestial appearance.",
+    "Generate a Pokemon that looks like it belongs in a mystical forest with vibrant colors.",
+    "Make a design for a powerful psychic being that has a calming presence and graceful movements.",
+    "Give me a Pokemon that resembles a guardian of dreams with an ethereal design and pastel colors.",
+    "Design a legendary Pokemon that floats gracefully and has a soothing, tranquil aura."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Pink",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Purple",
+      "accent": "Pink"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Elegant, flowing wings",
+      "Moon-like crescent shape",
+      "Soft pastel color palette",
+      "Serene facial expression",
+      "Spherical body with an elongated neck"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Gentle",
+      "Supportive"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Cresselia/0.png",
+  "pokemon_name": "Cresselia"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a playful Pokemon that can slide on ice and loves to swim in cold waters.",
+    "Show me a cute aquatic creature with a round body and flipper-like limbs.",
+    "Imagine a friendly seal Pokemon that enjoys lounging on icebergs and playing with trainers.",
+    "Generate an adorable Pokemon with a blubbery body and a cheerful disposition.",
+    "Design a water-type Pokemon that thrives in chilly ocean waters and has a distinctive whiskery face.",
+    "Make a Pokemon that resembles a seal, featuring bright blue fur and a charming smile.",
+    "Give me a Pokemon known for its playful antics and ability to slide effortlessly on icy surfaces."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Whiskers",
+      "Flipper-like limbs",
+      "Round body",
+      "Large eyes",
+      "Small tusks"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": "Water",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Energetic"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Sealeo/1.png",
+  "pokemon_name": "Sealeo"
+}

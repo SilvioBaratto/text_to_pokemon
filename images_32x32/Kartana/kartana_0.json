@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon with sharp edges and a robotic appearance.",
+    "I want a Pokemon that resembles a blade with vibrant colors and angular shapes.",
+    "Generate a sleek, dual-type Pokemon with metallic features and a unique silhouette.",
+    "Make a Pokemon that embodies the essence of nature and technology combined.",
+    "Imagine a Pokemon with a futuristic design, showcasing bright yellow and silver elements.",
+    "Design a Pokemon that looks like it's made of paper and metal, with a striking form.",
+    "Give me a Pokemon that appears both delicate and sharp, perfect for a stealthy fighter."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "White"
+    ],
+    "secondary_colors": [
+      "Yellow",
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Sharp, blade-like appendages",
+      "Angular, geometric design",
+      "Metallic sheen",
+      "Vibrant color contrast",
+      "Unique silhouette resembling origami"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Steel",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Sharp-witted",
+      "Swift"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Strategic"
+  },
+  "image_path": "images/Kartana/0.png",
+  "pokemon_name": "Kartana"
+}

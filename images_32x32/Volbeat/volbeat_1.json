@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with vibrant blue and red colors that resembles a friendly insect.",
+    "I want a Pokemon that embodies the essence of a firefly, glowing in the dark with bright colors.",
+    "Generate a small, bug-like creature with a round body and oversized antennae, perfect for a whimsical setting.",
+    "Make a Pokemon that has a mix of blue and yellow stripes, showcasing a cheerful and energetic character.",
+    "Imagine a creature that flits around the forest at night, illuminating its surroundings with soft light.",
+    "Design a Pokemon with a distinct insectoid shape and a playful personality that loves to dance in the air.",
+    "Show me a charming Pokemon with a vibrant color palette and a joyful demeanor, ideal for forest habitats."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Red",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, expressive eyes",
+      "Long, curly antennae",
+      "Striped body",
+      "Wing-like appendages",
+      "Bright coloration"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Social"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Volbeat/1.png",
+  "pokemon_name": "Volbeat"
+}

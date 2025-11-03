@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a cute, round Pok\u00e9mon that sings lullabies to put others to sleep.",
+    "I want a tiny, pink Pok\u00e9mon with big eyes and a bubbly personality.",
+    "Generate a Pok\u00e9mon that can charm opponents with its melodic voice and round shape.",
+    "Make a playful fairy-type Pok\u00e9mon that loves to dance and entertain its friends.",
+    "Imagine a Pok\u00e9mon with a soft, plushy body that resembles a balloon.",
+    "Design a Pok\u00e9mon that thrives in grassy areas and enjoys singing under the stars.",
+    "Give me a small, chubby Pok\u00e9mon that can use its singing skills in battles."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large, expressive eyes",
+      "Round, soft body",
+      "Curly tuft of hair on top",
+      "Small, rounded ears",
+      "Chubby cheeks"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Charming",
+      "Sociable"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Jigglypuff/1.png",
+  "pokemon_name": "Jigglypuff"
+}

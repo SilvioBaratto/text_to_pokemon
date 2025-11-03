@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a sleek design and a powerful aura.",
+    "Show me a legendary creature with unique abilities and a mysterious past.",
+    "Imagine a bipedal Pokemon that excels in telekinetic combat and has a regal appearance.",
+    "Design a Pokemon that embodies intelligence and strength, with a striking color palette.",
+    "Generate a mythical Pokemon that has a deep connection to psychic energy and the cosmos.",
+    "Make a powerful Pokemon that appears wise and intimidating, perfect for a battle.",
+    "Give me a Pokemon that stands out with its unique features and psychic prowess."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Long, thin tail",
+      "Large, pointed ears",
+      "Unique psychic symbol on forehead",
+      "Sleek, muscular body",
+      "Glowing eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Mysterious",
+      "Determined"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Psychic combat with telekinetic abilities"
+  },
+  "image_path": "images/Mewtwo/0.png",
+  "pokemon_name": "Mewtwo"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a cute Pokemon that resembles a small fox with fluffy ears and a bushy tail.",
+    "I want a playful creature that can evolve into multiple forms, showcasing different elements.",
+    "Generate a Pokemon that embodies the spirit of friendship and loyalty, with a soft, brown coat.",
+    "Make a tiny Pokemon that can blend into forest environments, using its cuteness to charm trainers.",
+    "Imagine a Pokemon that has a round body, big eyes, and a fluffy collar, perfect for cuddling.",
+    "Design a Pokemon that can adapt to various habitats, showcasing its versatility through its evolutions.",
+    "Show me an adorable Pokemon that loves to explore urban areas while being surrounded by nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": "Pink"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Fluffy tail",
+      "Large ears",
+      "Soft fur",
+      "Big eyes",
+      "Collar of fur"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Loyal",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Eevee/2.png",
+  "pokemon_name": "Eevee"
+}

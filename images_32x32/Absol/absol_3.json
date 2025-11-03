@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a dark-type Pokemon with sleek white fur and blue accents, featuring long wings.",
+    "Show me a Pokemon that resembles a wolf, with striking blue highlights and a mysterious demeanor.",
+    "Make an elegant creature with a majestic appearance, predominantly white with blue details.",
+    "Generate a fierce-looking Pokemon with sharp claws and an agile body, perfect for stealthy attacks.",
+    "Design a fantasy Pokemon that embodies the essence of shadows, with a sleek silhouette and unique features.",
+    "Imagine a Pokemon that thrives in forests, with a color scheme that emphasizes its connection to the night.",
+    "Give me a Pokemon with an aura of mystery, combining elements of elegance and darkness in its design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, curved horns",
+      "Large, feathered wings",
+      "Sharp claws",
+      "Slender body",
+      "Red markings on the body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Cunning",
+      "Agile"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Stealthy"
+  },
+  "image_path": "images/Absol/3.png",
+  "pokemon_name": "Absol"
+}

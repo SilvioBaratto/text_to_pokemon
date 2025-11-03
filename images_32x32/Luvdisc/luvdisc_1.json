@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a heart-shaped body and a playful personality.",
+    "I want to see a pink aquatic Pokemon that glides gracefully through the water.",
+    "Generate a Pokemon inspired by love, featuring soft curves and a gentle demeanor.",
+    "Make a design for a cute, small Pokemon that resembles a fish and embodies joy.",
+    "Imagine a Pokemon with a charming smile and a whimsical design, perfect for a romantic theme.",
+    "Show me a species with a unique shape and vibrant color, ideal for a serene ocean environment.",
+    "Design an adorable Pokemon that symbolizes affection and is often found in tranquil waters."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Heart-shaped body",
+      "Small size",
+      "Big expressive eyes",
+      "Smooth surface",
+      "Bright coloration"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Gentle",
+      "Affectionate"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Luvdisc/1.png",
+  "pokemon_name": "Luvdisc"
+}

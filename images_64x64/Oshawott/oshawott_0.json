@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a playful personality and a cute, round shape.",
+    "Imagine a small aquatic creature that loves to play in lakes and rivers.",
+    "Generate a starter Pokemon that evolves into a fierce water warrior.",
+    "Show me a Pokemon that has both a soft fur and a shiny shell.",
+    "Make a friendly water Pokemon that is known for its adorable smile.",
+    "Design a tiny Pokemon that can be found in forest streams.",
+    "Give me a Pokemon that combines the traits of a sea otter and a water droplet."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": "Brown"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round face with large eyes",
+      "Water droplet-shaped shell",
+      "Fin-like arms",
+      "Short tail",
+      "Distinctive orange nose"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Oshawott/0.png",
+  "pokemon_name": "Oshawott"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a sleek, streamlined body and a playful personality.",
+    "Show me a small aquatic Pokemon that is known for its agility and vibrant colors.",
+    "Imagine a Pokemon that resembles a fish and has unique fin-like features.",
+    "Generate a cute, blue Pokemon that excels in underwater battles and has a friendly demeanor.",
+    "Design a Pokemon that can camouflage in water and has distinctive stripes for recognition.",
+    "Make a tiny Pokemon with a round body and a curious expression, ready for adventure.",
+    "Give me a water-dwelling Pokemon that can shoot water jets as its primary attack."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Gray",
+      "accent": "White"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Streamlined body",
+      "Fins resembling wings",
+      "Large, expressive eyes",
+      "Tail fin",
+      "Horizontal stripes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Agile"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Ranged"
+  },
+  "image_path": "images/Remoraid/2.png",
+  "pokemon_name": "Remoraid"
+}

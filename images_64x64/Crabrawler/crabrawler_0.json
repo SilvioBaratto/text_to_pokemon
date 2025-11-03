@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with blue claws and a purple body.",
+    "Show me a crab-like Pokemon that specializes in fighting with big, powerful pincers.",
+    "Design a Pokemon with colorful claws and a muscular build, perfect for a beach setting.",
+    "Imagine a unique Pokemon with a strong personality and striking blue and purple colors.",
+    "Make a fun Pokemon that embodies the spirit of the ocean and has a fierce fighting style.",
+    "Generate an aquatic fighting Pokemon that has a vibrant color scheme and a unique shape.",
+    "Give me a Pokemon that looks tough but has a playful side, inspired by crabs."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Purple"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": "Purple"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large blue pincers",
+      "Muscular body",
+      "Prominent golden claws",
+      "Compact structure",
+      "Facial markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Determined",
+      "Fierce"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Close combat"
+  },
+  "image_path": "images/Crabrawler/0.png",
+  "pokemon_name": "Crabrawler"
+}

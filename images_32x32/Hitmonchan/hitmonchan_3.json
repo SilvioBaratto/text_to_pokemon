@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a fighting-type Pokemon with a muscular build and colorful boxing gloves.",
+    "I want to see a bipedal Pokemon that specializes in close combat and has a unique color scheme.",
+    "Generate a Pokemon with a humanoid appearance, emphasizing its boxing skills and athletic stance.",
+    "Make a character that embodies strength, featuring vibrant colors and a dynamic fighting pose.",
+    "Imagine a fierce Pokemon that thrives in urban environments and showcases impressive martial arts moves.",
+    "Design a Pokemon that has a striking presence with red accents and a determined expression.",
+    "Give me a concept of a fighting Pokemon that has prominent features like boxing gloves and a toned physique."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Red",
+      "accent": "Pink"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Boxing gloves",
+      "Muscular arms",
+      "Short stature",
+      "Punching stance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Competitive",
+      "Energetic"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Close combat"
+  },
+  "image_path": "images/Hitmonchan/3.png",
+  "pokemon_name": "Hitmonchan"
+}

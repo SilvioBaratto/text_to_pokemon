@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a fierce fire-type Pokemon with a muscular build and a prominent mane.",
+    "Imagine a bipedal creature with orange fur and a flaming tail, ready for battle.",
+    "Design a Pokemon that embodies both fire and fighting types with a charismatic personality.",
+    "Show me a Pokemon with a fiery temper, striking red hues, and a dominating presence.",
+    "Generate a creature that thrives in urban environments, showcasing its powerful fire attacks.",
+    "Make a Pokemon that stands tall with strong limbs and an intense glare, radiating confidence.",
+    "Give me a Pokemon that combines athleticism and a love for flames, perfect for the spotlight."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Black",
+      "accent": "Gray"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Flaming mane",
+      "Muscular build",
+      "Prominent claws",
+      "Intense facial expression",
+      "Flame-like tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Fighting",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Confident",
+      "Fierce",
+      "Proud"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Incineroar/1.png",
+  "pokemon_name": "Incineroar"
+}

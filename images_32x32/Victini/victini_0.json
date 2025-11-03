@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a small, adorable Pokemon with bright orange and yellow colors that embodies victory.",
+    "Imagine a mythical creature with a unique triangular orange head and big blue eyes.",
+    "Design a playful Pokemon that has a fire-type appearance and a joyful personality.",
+    "Show me a legendary Pokemon that can inspire others with its bright colors and positive energy.",
+    "Give me a Pokemon that looks like a cute mascot with a distinct fire theme and friendly demeanor.",
+    "Generate a whimsical creature that combines elements of fire and psychic, featuring a vibrant color scheme.",
+    "Make a Pokemon with a distinctive shape that stands out in any forest or grassland setting."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": "Orange"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Triangular orange ears",
+      "Large blue eyes",
+      "Short limbs",
+      "Flame-like tail",
+      "Small stature"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Psychic",
+    "generation": 5,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Joyful",
+      "Inspiring",
+      "Playful"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Victini/0.png",
+  "pokemon_name": "Victini"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a playful Pokemon that sparks joy with its electric abilities and bright colors.",
+    "Imagine a cute, small Pokemon that loves to explore urban areas and make friends.",
+    "Show me a tiny, yellow Pokemon with adorable cheeks that can generate electricity.",
+    "Generate an energetic Pokemon that thrives in grassy fields and has a cheerful disposition.",
+    "Design a yellow, bipedal Pokemon that can unleash powerful electric attacks on its foes.",
+    "Make a friendly Pokemon that can be found in forests, known for its loyalty and cuteness.",
+    "Give me a Pokemon that is always ready for a battle, using its speed and agility."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": "Brown"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long ears with black tips",
+      "Red cheeks",
+      "Lightning bolt-shaped tail",
+      "Round body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Loyal",
+      "Cheerful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Pikachu/4.png",
+  "pokemon_name": "Pikachu"
+}

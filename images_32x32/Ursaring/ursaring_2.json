@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bear-like Pokemon that has a big, round body and sharp claws.",
+    "Imagine a fierce Pokemon with brown fur and a strong personality, perfect for battles.",
+    "Design a Normal-type Pokemon that resembles a giant bear, with a striking golden ring.",
+    "Show me a powerful Pokemon with massive arms and a playful demeanor, ready for adventure.",
+    "Generate an image of a bear Pokemon that thrives in forests and mountains.",
+    "Make a Pokemon with a bulky frame and a loud roar, showcasing its strength.",
+    "Give me a Pokemon that is both a cuddly bear and a fierce fighter in battles."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large arms and claws",
+      "Golden ring on its belly",
+      "Fierce expression",
+      "Stocky build",
+      "Short legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Protective",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Ursaring/2.png",
+  "pokemon_name": "Ursaring"
+}

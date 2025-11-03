@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghostly knight Pokemon with a sword and shield, shimmering in golden and purple hues.",
+    "Design a regal-looking Pokemon with a unique shield and sword, showcasing a mix of silver and violet colors.",
+    "Imagine a majestic Pokemon that embodies the spirit of a warrior, featuring a flowing cape and a striking color palette.",
+    "Generate a Pokemon that resembles a ghostly figure holding a sword, adorned in elegant shades of gold and purple.",
+    "Show me a unique Pokemon that combines armor and spectral elements, using a blend of light and dark colors.",
+    "Make a Pokemon that looks like a noble guardian, featuring a tall, slender body with a shiny shield.",
+    "Give me an armored Pokemon with dual forms, showcasing its strength through intricate designs and colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Purple",
+      "accent": "Black"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Sword and shield design",
+      "Ghostly appearance",
+      "Flowing cape-like arms",
+      "Elegant armor-like structure",
+      "Intricate detailing on shield"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Ghost",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Noble",
+      "Strategic",
+      "Protective"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Aegislash/1.png",
+  "pokemon_name": "Aegislash"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a shell and a relaxed demeanor.",
+    "Imagine an aquatic creature that evolves from a small pink blob into a large green beast.",
+    "Design a Pokemon that loves to lounge and has a unique shell on its back.",
+    "Give me a Slowbro-like Pokemon that has a playful personality and enjoys the beach.",
+    "Show me a creature that embodies calmness and has both green and pink features.",
+    "Generate a Pokemon with a round shape, a big smile, and a soft, squishy body.",
+    "Make a whimsical Pokemon that can be found near water, looking for snacks."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Pink"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Pink",
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large shell on the back",
+      "Pink arms and ears",
+      "Round body shape",
+      "Big smile",
+      "Tail with a small shell"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Psychic",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Laid-back",
+      "Friendly",
+      "Complacent"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Slowbro/4.png",
+  "pokemon_name": "Slowbro"
+}

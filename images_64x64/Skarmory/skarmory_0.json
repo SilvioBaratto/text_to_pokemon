@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a flying-type Pokemon with sleek silver feathers and sharp red wings.",
+    "I want a bird-like creature that has metallic colors and is known for its speed.",
+    "Generate a steel-type Pokemon that showcases a blend of gray and red hues.",
+    "Make an avian Pokemon with a strong body shape and a fierce appearance.",
+    "Imagine a Pokemon that thrives in mountainous areas and has a unique wing design.",
+    "Design a creature that embodies the essence of steel and flight, with sharp features.",
+    "Give me a Pokemon that has a combination of agility and durability in its look."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Red"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Red",
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Sharp metallic wings",
+      "Streamlined body shape",
+      "Beak resembling a steel blade",
+      "Prominent crest on the head",
+      "Clawed feet for grasping"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Alert",
+      "Agile",
+      "Determined"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Skarmory/0.png",
+  "pokemon_name": "Skarmory"
+}

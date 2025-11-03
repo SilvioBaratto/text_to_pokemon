@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a cute bear-like Pokemon with a playful demeanor and soft, fluffy fur.",
+    "Imagine a small, orange creature that loves to explore the forest and play with friends.",
+    "Design a Pokemon that resembles a baby bear, with big eyes and a friendly smile.",
+    "Generate a Normal-type Pokemon with a round body and adorable ears, perfect for kids.",
+    "Show me a Pokemon with a love for honey and a curious personality, ideal for forest habitats.",
+    "Give me a playful, small bear Pokemon that enjoys climbing trees and exploring nature.",
+    "Make a Pokemon that embodies the spirit of childhood joy and adventure in the woods."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Yellow",
+      "accent": "Orange"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round ears",
+      "Circular cream pattern on the forehead",
+      "Large expressive eyes",
+      "Short limbs",
+      "Fluffy appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Teddiursa/0.png",
+  "pokemon_name": "Teddiursa"
+}

@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with a sleek black body and vibrant green accents.",
+    "I want a mythical creature that has a powerful presence and can control nature.",
+    "Generate a Pokemon with multiple forms, showcasing its ability to adapt to environments.",
+    "Make a legendary Pokemon that embodies the balance of ecosystems with a unique color palette.",
+    "Imagine a Pokemon that can transform into different shapes, representing evolution and power.",
+    "Design a creature that feels both ancient and modern, with intricate details on its body.",
+    "Show me a Pokemon with a majestic aura that thrives in diverse habitats across the world."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Green",
+      "accent": "Red"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Multi-segmented body",
+      "Unique green markings",
+      "Red and blue accents",
+      "Powerful wings",
+      "Armored appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Ground",
+    "generation": 6,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Protective",
+      "Wise",
+      "Mysterious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Zygarde/4.png",
+  "pokemon_name": "Zygarde"
+}

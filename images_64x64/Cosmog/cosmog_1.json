@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon that embodies the essence of space and dreams.",
+    "Imagine a tiny creature with a celestial theme, featuring swirling clouds and vibrant colors.",
+    "Generate a Pokemon that resembles a small, cosmic being with starry patterns and ethereal aesthetics.",
+    "Show me a legendary Pokemon with a round body and unique, floating cloud-like features.",
+    "Design a Pokemon that represents the connection between the universe and innocence.",
+    "Make a cute, small Pokemon with a dreamy appearance and colorful accents.",
+    "Give me a Pokemon that looks like a celestial entity, combining blue and purple hues."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Purple",
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Cloud-like formations on the top",
+      "Starry patterns on the body",
+      "Round shape",
+      "Glowing eyes",
+      "Colorful orbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Innocent",
+      "Dreamy"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Cosmog/1.png",
+  "pokemon_name": "Cosmog"
+}

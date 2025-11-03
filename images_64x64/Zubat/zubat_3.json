@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a flying-type Pokemon with vibrant blue skin and purple wings that glides effortlessly.",
+    "Imagine a small bat-like creature, with a sleek body and large ears, perfect for echo location.",
+    "Show me a Pokemon that roams caves, with dark colors and a unique ability to navigate in the dark.",
+    "Generate a speedy Pokemon designed with sharp features and a playful personality, ready for battle.",
+    "Design a Pokemon with a mix of blue and purple colors, showcasing its agility and stealth.",
+    "Give me a creature that thrives in mountainous areas, with distinct wing shapes that enhance its flight.",
+    "Make a tiny Pokemon that uses echolocation to find its way through forests and urban landscapes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Purple",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large wings",
+      "Bat-like ears",
+      "Fangs",
+      "Small body",
+      "Bright eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Agile",
+      "Curious"
+    ],
+    "habitat": "Cave",
+    "rarity": "Common",
+    "combat_style": "Speed and evasion"
+  },
+  "image_path": "images/Zubat/3.png",
+  "pokemon_name": "Zubat"
+}

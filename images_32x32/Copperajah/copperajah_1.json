@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ground-type Pokemon with a sturdy body and vibrant green accents.",
+    "Show me a metallic blue Pokemon with giant tusks and a friendly demeanor.",
+    "Design a powerful steel-type creature inspired by elephants with intricate patterns.",
+    "Generate a Pokemon that resembles an ancient warrior with a strong build and earthy colors.",
+    "Imagine a Pokemon with a massive frame and a gentle personality, perfect for a nature-themed region.",
+    "Make a unique Pokemon that blends steel and ground types with a focus on strength and resilience.",
+    "Give me a Pokemon that stands tall with a majestic presence, utilizing its heavy build in battles."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Brown",
+      "accent": "Green"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Huge",
+    "distinctive_features": [
+      "Large tusks",
+      "Metallic skin",
+      "Trunk-like appendage",
+      "Sturdy legs",
+      "Decorative ears"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Ground",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Sturdy",
+      "Loyal"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Copperajah/1.png",
+  "pokemon_name": "Copperajah"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a vibrant bird Pokemon with striking red feathers and elegant wing patterns.",
+    "Imagine a playful flying creature that dances through the skies with colorful plumage.",
+    "Generate a Pokemon that embodies the spirit of celebration, with bright colors and joyful demeanor.",
+    "Show me a unique avian Pokemon that has a mix of red and black colors in its design.",
+    "Make a fire and flying type Pokemon that captivates with its graceful movements.",
+    "Design a cheerful Pokemon that thrives in urban environments and is known for its colorful appearance.",
+    "Give me a visually stunning bird Pokemon that features elaborate wing designs and a fiery personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long, flowing wings",
+      "Bright red body",
+      "Black markings on wings",
+      "Prominent eyes",
+      "Elegant posture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Flying",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Energetic",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Oricorio/0.png",
+  "pokemon_name": "Oricorio"
+}

@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a green, amorphous Pokemon that uses psychic powers to confuse opponents.",
+    "Show me a cute psychic-type Pokemon that floats and has a round body.",
+    "Imagine a small Pokemon that evolves from a jelly-like creature into something more powerful.",
+    "Generate a design for a Pokemon that thrives in grassy fields and has a playful personality.",
+    "Make a Pokemon that resembles a green blob and can manipulate psychic energy with ease.",
+    "Design a playful and curious Pokemon that lives in forests and loves to explore.",
+    "Give me a whimsical character that is a psychic-type and has a bubbly, cheerful demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body shape",
+      "Large eyes",
+      "Small pink nose",
+      "Ethereal, jelly-like appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Bubbly"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Duosion/1.png",
+  "pokemon_name": "Duosion"
+}

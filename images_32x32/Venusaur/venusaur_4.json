@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon with large green leaves and a vibrant flower on its back.",
+    "I want a powerful Pokemon that has a mix of plant and poison attributes, perfect for battles.",
+    "Generate a Pokemon design featuring a big blue body and a pink flower, representing nature and strength.",
+    "Make a Pokemon that resembles a dinosaur but is predominantly green with floral elements.",
+    "Imagine a Pokemon that thrives in forests and has a strong connection to plant life.",
+    "Design a creature that can release poisonous spores and has a strong, sturdy appearance.",
+    "Show me a Pokemon that evolves from a small plant into a giant flower-bearing beast."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Pink",
+      "accent": "Blue"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large pink flower on back",
+      "Leafy plant features",
+      "Bulbous body shape",
+      "Short, sturdy legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Protective",
+      "Loyal"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Venusaur/4.png",
+  "pokemon_name": "Venusaur"
+}

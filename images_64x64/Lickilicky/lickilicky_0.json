@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a playful Pokemon that loves to eat and has a big, round body.",
+    "Imagine a Pokemon with a long tongue and a cheerful demeanor, perfect for kids.",
+    "Design a pink, chubby Pokemon that rolls around in the grass and enjoys company.",
+    "Generate a Pokemon that resembles a giant lollipop, with a sweet disposition and friendly nature.",
+    "Show me a happy, round Pokemon that can be found in urban areas, always looking for snacks.",
+    "Make a quirky Pokemon that has oversized features, perfect for a cartoonish adventure.",
+    "Give me a chubby Pokemon with a soft belly, known for its gentle and friendly personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large tongue",
+      "Round body",
+      "Chubby cheeks",
+      "Short limbs",
+      "Big smile"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Friendly",
+      "Playful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Lickilicky/0.png",
+  "pokemon_name": "Lickilicky"
+}

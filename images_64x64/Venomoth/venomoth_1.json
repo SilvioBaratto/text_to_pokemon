@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with beautiful wings and a striking pattern.",
+    "Generate a poisonous creature that thrives in lush forests and gardens.",
+    "Show me a small, vibrant Pokemon that flutters gracefully in the air.",
+    "Imagine an insectoid Pokemon with colorful accents and a gentle demeanor.",
+    "Design a Pokemon that blends seamlessly into grasslands with its vivid colors.",
+    "Make a butterfly-like Pokemon that's known for its elusive nature and charm.",
+    "Give me a creature that can camouflage in its environment and has a calming presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "White"
+    ],
+    "secondary_colors": [
+      "Yellow",
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, colorful wings",
+      "Wide, round body",
+      "Compound eyes",
+      "Long antennae",
+      "Distinctive wing patterns"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Elusive",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Venomoth/1.png",
+  "pokemon_name": "Venomoth"
+}

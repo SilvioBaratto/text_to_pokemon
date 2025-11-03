@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a dual-type Pokemon that combines plant and poison characteristics with vibrant flowers.",
+    "I want to see a large, quadrupedal Pokemon that has a thick body and a huge flower on its back.",
+    "Generate an image of a Pokemon with blue skin and a green plant-like feature on its back.",
+    "Make a Pokemon design that features a large, bulbous plant and a fierce expression.",
+    "Imagine a Pokemon that thrives in lush forests and uses plant-based attacks in battles.",
+    "Show me a Pokemon with a round body, sturdy limbs, and colorful floral accents.",
+    "Design a Pokemon that embodies both strength and a connection to nature, with vivid colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Blue",
+      "accent": "Pink"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large flower on its back",
+      "Thick, sturdy limbs",
+      "Wide, round body",
+      "Prominent leaf features",
+      "Fierce facial expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Protective",
+      "Strong"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Venusaur/3.png",
+  "pokemon_name": "Venusaur"
+}

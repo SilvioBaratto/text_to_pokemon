@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a dragon Pokemon with vibrant blue skin and a striking red head.",
+    "I want a bipedal Pokemon that features sharp claws and a fierce demeanor.",
+    "Generate a Pokemon that combines elements of both dragon and rock types.",
+    "Make a powerful dragon-like creature with a muscular build and large wings.",
+    "Imagine a Pokemon with a rugged appearance, perfect for mountainous terrains.",
+    "Design a Pokemon that embodies strength and resilience, equipped with a spiky back.",
+    "Show me a creature that thrives in various habitats, from mountains to urban areas."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Red spiky head",
+      "Large claws",
+      "Armored back",
+      "Prominent fangs",
+      "Long tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Loyal",
+      "Protective"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Druddigon/1.png",
+  "pokemon_name": "Druddigon"
+}

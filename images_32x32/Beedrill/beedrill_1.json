@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with striking yellow and black stripes and sharp wings.",
+    "Imagine a fierce insect Pokemon that can fly at high speeds and has a stinger.",
+    "Design a Pokemon that resembles a bee, complete with wings and a menacing appearance.",
+    "Generate a bug Pokemon that has a unique combination of yellow and black colors.",
+    "Show me a Pokemon that is known for its agility and ability to quickly attack enemies.",
+    "Give me an image of a Pokemon that resides in forest habitats and excels in battles.",
+    "Make a small, aggressive Pokemon with a sleek build and powerful stinging abilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Black"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Sharp stinger",
+      "Large wings",
+      "Striped body",
+      "Red eyes",
+      "Dual antennae"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Vigilant",
+      "Loyal"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Fast and offensive"
+  },
+  "image_path": "images/Beedrill/1.png",
+  "pokemon_name": "Beedrill"
+}

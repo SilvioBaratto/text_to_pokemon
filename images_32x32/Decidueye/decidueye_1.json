@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon that resembles an owl with leafy wings and a feathered body.",
+    "I want a unique Pokemon that blends bird-like features with nature-inspired colors and designs.",
+    "Generate a Pokemon that embodies the essence of the forest, with vibrant greens and earthy tones.",
+    "Make a mystical creature that has a combination of elegance and fierce hunting abilities.",
+    "Imagine a Pokemon that can camouflage within trees, showcasing a mix of green and brown hues.",
+    "Design a bird Pokemon that uses arrows as part of its attack style, featuring striking colors.",
+    "Show me a Pokemon that represents stealth and precision, with a design reflecting its forest habitat."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Leafy wings resembling feathers",
+      "Archer-like posture",
+      "Owl-like facial structure",
+      "Quiver of arrows",
+      "Vibrant green plumage"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Ghost",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Stealthy",
+      "Wise",
+      "Loyal"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Ranged"
+  },
+  "image_path": "images/Decidueye/1.png",
+  "pokemon_name": "Decidueye"
+}

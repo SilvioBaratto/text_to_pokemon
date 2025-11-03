@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a tall tree with multiple heads and a playful personality.",
+    "Imagine a Pokemon with a green and yellow color scheme, representing the essence of a tropical forest.",
+    "Design a creature that embodies the spirit of growth and nature, with a strong connection to the earth.",
+    "Generate a whimsical Pokemon that has a unique body structure, standing out with its vibrant colors.",
+    "Show me a Pokemon that thrives in grassy environments, showcasing a fusion of plant and animal traits.",
+    "Make a Pokemon that has a friendly demeanor and a strong presence in various habitats.",
+    "Give me a design for a Pokemon that reflects resilience and adaptability in changing environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Multiple heads resembling palm fronds",
+      "Thick trunk-like body",
+      "Large green leaves",
+      "Facial expressions on each head",
+      "Sturdy base with root-like feet"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Psychic",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Gentle"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Supportive and strategic"
+  },
+  "image_path": "images/Exeggutor/2.png",
+  "pokemon_name": "Exeggutor"
+}

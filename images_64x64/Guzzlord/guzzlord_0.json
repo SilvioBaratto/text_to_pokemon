@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with a massive, intimidating build and dark colors.",
+    "I want a mythical creature that embodies chaos with a gaping mouth and long limbs.",
+    "Generate a unique Pokemon featuring a blend of dark and dragon elements.",
+    "Make an oversized Pokemon that has a menacing appearance and is primarily black.",
+    "Imagine a creature that lurks in caves, characterized by its huge size and fierce nature.",
+    "Design a Pokemon resembling a monster that thrives in urban environments with a fearsome look.",
+    "Show me a powerful Pokemon with a gluttonous personality and a bright blue body."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Yellow",
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Huge",
+    "distinctive_features": [
+      "Giant mouth",
+      "Multiple arms",
+      "Large round body",
+      "Sharp claws",
+      "Glowing yellow markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": "Dragon",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gluttonous",
+      "Menacing",
+      "Wild"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Guzzlord/0.png",
+  "pokemon_name": "Guzzlord"
+}

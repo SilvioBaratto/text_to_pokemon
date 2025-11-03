@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a majestic canine Pokemon with fiery orange fur and sleek black stripes.",
+    "I want a powerful fire-type Pokemon that resembles a wolf and has a noble demeanor.",
+    "Generate an image of a Pokemon with a flowing mane and a fierce look, perfect for battle.",
+    "Make a detailed design of a Pokemon that embodies loyalty and courage with bright flames.",
+    "Imagine a Pokemon that roams the grasslands, showcasing its orange and cream colors.",
+    "Show me a fierce-looking quadruped Pokemon with striking patterns and a confident stance.",
+    "Design a Pokemon that blends elegance and power, featuring warm tones and strong presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Brown"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Flame-like mane",
+      "Distinctive black stripes",
+      "Strong muscular build",
+      "Pointed ears",
+      "Long bushy tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Loyal",
+      "Brave",
+      "Proud"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Arcanine/0.png",
+  "pokemon_name": "Arcanine"
+}

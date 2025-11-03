@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a whimsical grass-type Pokemon that looks like a cluster of fruits.",
+    "I want a Pokemon that embodies both plant and psychic traits, with a quirky design.",
+    "Generate a unique creature resembling a bunch of eggs, with varying facial expressions.",
+    "Make an adorable Pokemon that can be found in forests, featuring multiple small bodies.",
+    "Imagine a round, pink Pokemon with a sunny disposition, perfect for a sunny day.",
+    "Design a playful grass-type Pokemon that appears to be a group of cheerful eggs.",
+    "Show me a Pokemon that captures the essence of a garden with its fruity features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Cluster of five egg-like bodies",
+      "Facial expressions on each body",
+      "One body has a yellow flower on top",
+      "Smooth, round shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Psychic",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Exeggcute/3.png",
+  "pokemon_name": "Exeggcute"
+}

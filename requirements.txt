@@ -1,0 +1,14 @@
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+transformers==4.57.1
+tqdm>=4.67.1
+baml-py==0.212.0
+pydantic==2.12.3
+python-dotenv>=1.0.0
+lpips>=0.1.4
+fastapi==0.120.4
+gunicorn==23.0.0
+uvicorn==0.38.0
+Pillow>=10.0.0

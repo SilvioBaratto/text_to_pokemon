@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a tough crab with icy blue claws and a snowy appearance.",
+    "Show me a Pokemon with an aggressive demeanor and frosty features, perfect for a snowy environment.",
+    "Imagine a Pokemon that combines elements of ice and fighting, with a rugged, muscular body.",
+    "Design a Pokemon that thrives in mountainous regions, featuring sharp claws and a snowy coat.",
+    "Give me a unique crab-like Pokemon with a mix of blue and white colors, showcasing its icy nature.",
+    "Generate a fierce-looking Pokemon known for its powerful claws and its ability to adapt to cold climates.",
+    "Make a Pokemon that has a bulky body and a playful personality, often found in icy habitats."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Blue",
+      "accent": "Gray"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large, powerful claws",
+      "Frosty, snowy appearance",
+      "Muscular body",
+      "Distinctive blue markings",
+      "Robust frame"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": "Fighting",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Aggressive",
+      "Determined"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Crabominable/1.png",
+  "pokemon_name": "Crabominable"
+}

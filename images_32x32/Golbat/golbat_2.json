@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a Pokemon with sleek black wings and a mysterious aura that thrives in dark caves.",
+    "Show me a dual-type Pokemon with vibrant colors that can fly through forests and mountains.",
+    "Imagine a bat-like creature with striking blue features, perfect for exploring urban landscapes.",
+    "Generate an eerie Pokemon with unique abilities, showcasing a blend of black and pink colors.",
+    "Design a small, agile Pokemon that uses speed and stealth in its combat style.",
+    "Give me a flying Pokemon with a menacing look, known for lurking in shadows.",
+    "Make a Pokemon that embodies the essence of night, featuring dark colors and large wings."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Pink",
+      "accent": "Blue"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large bat-like wings",
+      "Sharp fangs",
+      "Red eyes",
+      "Streamlined body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Stealthy",
+      "Aggressive"
+    ],
+    "habitat": "Cave",
+    "rarity": "Common",
+    "combat_style": "Speed and ambush"
+  },
+  "image_path": "images/Golbat/2.png",
+  "pokemon_name": "Golbat"
+}

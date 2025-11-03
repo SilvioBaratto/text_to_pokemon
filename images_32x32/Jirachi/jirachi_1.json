@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon that grants wishes, featuring a playful demeanor and a starry design.",
+    "Imagine a small, flying fairy Pokemon with shimmering wings and a joyful personality.",
+    "Show me a unique Pokemon inspired by Japanese folklore, with a starry motif and bright colors.",
+    "Design a legendary Pokemon that embodies hope and wishes, with soft features and a gentle expression.",
+    "Generate a whimsical creature that floats gracefully, adorned with ribbons and a sparkling aura.",
+    "Make a Pokemon that represents dreams and wishes, using a cute, childlike appearance with magical elements.",
+    "Give me a fairy-type Pokemon that has a celestial vibe, with a charming smile and vibrant colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "White"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Blue",
+      "accent": "White"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Star-shaped head",
+      "Ribbon-like appendages",
+      "Large, expressive eyes",
+      "Small, rounded body",
+      "Floating appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Steel",
+    "generation": 3,
+    "is_legendary": true,
+    "is_mythical": true,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Gentle",
+      "Hopeful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Jirachi/1.png",
+  "pokemon_name": "Jirachi"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a dark-type Pokemon with sleek black fur and glowing red markings.",
+    "I want a fire-dog Pokemon that has sharp claws and a spiky tail.",
+    "Generate a Pokemon that combines features of a dog and a demon with fiery breath.",
+    "Make a ghostly Pokemon that lurks in caves with a menacing presence.",
+    "Imagine a fierce canine creature with a hellish aura and glowing eyes.",
+    "Design a Pokemon that roams the urban landscape with a mischievous personality.",
+    "Show me a powerful fire-type Pokemon with an intimidating stance and unique horns."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Horns on the head",
+      "Flaming tail",
+      "Glowing red markings",
+      "Dog-like appearance",
+      "Sharp claws"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": "Fire",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Loyal",
+      "Mischievous"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Houndoom/1.png",
+  "pokemon_name": "Houndoom"
+}

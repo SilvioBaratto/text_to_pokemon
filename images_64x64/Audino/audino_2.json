@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a friendly Pokemon with large ears and pink fur that loves to help others.",
+    "I want a cuddly Pokemon that has a round body and a joyful expression.",
+    "Generate a Normal-type Pokemon that has a unique ability to heal its allies.",
+    "Make a Pokemon that has big, floppy ears and a soothing presence.",
+    "Imagine a Pokemon that thrives in forest environments, known for its gentle nature.",
+    "Design an adorable creature with a soft, pastel color palette that enjoys playing.",
+    "Show me a Pokemon that has a nurturing personality and a love for music."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": null,
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, floppy ears",
+      "Round body",
+      "Bright blue eyes",
+      "Cute, smiling face",
+      "Small arms and legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Caring",
+      "Gentle",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Audino/2.png",
+  "pokemon_name": "Audino"
+}

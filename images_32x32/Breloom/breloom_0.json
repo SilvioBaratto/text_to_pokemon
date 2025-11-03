@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a Pokemon that combines elements of a mushroom and a martial artist.",
+    "I want a green, bipedal Pokemon with powerful fists and a playful demeanor.",
+    "Generate a cute fighter Pokemon that can thrive in forest environments.",
+    "Make a Pokemon that has a round body, big fists, and a mushroom cap on its head.",
+    "Imagine a Pokemon that embodies the spirit of nature and martial arts.",
+    "Design a Pokemon with a unique blend of plant and fighting characteristics.",
+    "Show me a Pokemon with a playful personality and a love for battling in grassy areas."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Mushroom-like cap on head",
+      "Large, round body",
+      "Red accents on hands and feet",
+      "Short, stubby tail",
+      "Fist-like hands"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": "Grass",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Close-range attacker"
+  },
+  "image_path": "images/Breloom/0.png",
+  "pokemon_name": "Breloom"
+}

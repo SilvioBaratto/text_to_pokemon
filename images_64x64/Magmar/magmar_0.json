@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a fiery Pokemon that resembles a humanoid with a vibrant orange and yellow color scheme.",
+    "Imagine a Pokemon that has a unique flame-like design, combining red and brown colors for a fierce look.",
+    "Design a powerful fire-type creature with distinct features like a fiery tail and a muscular build.",
+    "Show me a Pokemon that embodies the spirit of fire, featuring bright colors and a dynamic pose.",
+    "Generate a character that is a flame-wielding warrior, with a mix of orange and cream colors.",
+    "Make a Pokemon with a bold appearance, showcasing a blend of fire-related colors and a strong stance.",
+    "Give me a creature that stands out with its fiery attributes and a vibrant, energetic personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Orange",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flame-like head crest",
+      "Thick arms with brown fur",
+      "Fiery tail",
+      "Muscular build",
+      "Bright yellow accents"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Passionate",
+      "Fierce"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Magmar/0.png",
+  "pokemon_name": "Magmar"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a bird-like Pokemon with metallic feathers and sharp wings that can slice through the air.",
+    "I want a sleek, silver flying Pokemon that has vibrant red accents on its wings.",
+    "Generate a Pokemon with a streamlined body and a glimmering blue hue, perfect for aerial combat.",
+    "Make a majestic steel-type Pokemon with a strong beak and a fierce, determined expression.",
+    "Imagine a Pokemon that embodies agility and grace, soaring effortlessly through the skies.",
+    "Design a Pokemon that blends toughness with elegance, featuring a protective metallic exterior.",
+    "Show me a Pokemon that is built for speed, with aerodynamic wings and a sharp, pointed tail."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Red"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Metallic feathers",
+      "Sharp wings",
+      "Streamlined body",
+      "Pointed beak",
+      "Red wing accents"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Agile",
+      "Protective"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Skarmory/1.png",
+  "pokemon_name": "Skarmory"
+}

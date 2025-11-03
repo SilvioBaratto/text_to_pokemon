@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon that has a playful demeanor and uses illusions to confuse enemies.",
+    "Show me a small Pokemon that loves to play pranks and has a mischievous personality.",
+    "Imagine a humanoid Pokemon with quirky features that can mimic other creatures effortlessly.",
+    "Generate a Pokemon that thrives in urban environments and enjoys entertaining people.",
+    "Design a cute, bipedal Pokemon that has a talent for performance and loves to dance.",
+    "Make a Pokemon with a whimsical appearance that can use psychic powers to protect its friends.",
+    "Give me a characterful Pokemon that enjoys exploring forests and is known for its friendly nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Blue hat",
+      "Pink body",
+      "White gloves",
+      "Nose resembling a clown's",
+      "Joyful expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Friendly"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Mime Jr/1.png",
+  "pokemon_name": "Mime Jr"
+}

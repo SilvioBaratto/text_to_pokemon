@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with multiple heads and dark scales.",
+    "Imagine a dark and dragon-like creature soaring through the night sky.",
+    "Design a Pokemon that embodies strength and cunning with menacing features.",
+    "Show me a three-headed dragon Pokemon with striking blue accents.",
+    "Make a fearsome dragon that thrives in mountainous habitats.",
+    "Generate a mythical creature with sharp claws and fierce eyes.",
+    "Give me a legendary dragon Pokemon that commands the skies."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Blue",
+      "accent": "Red"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Three heads",
+      "Large wings",
+      "Sharp claws",
+      "Long tail",
+      "Fierce eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": "Dragon",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Aggressive",
+      "Proud"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Hydreigon/1.png",
+  "pokemon_name": "Hydreigon"
+}

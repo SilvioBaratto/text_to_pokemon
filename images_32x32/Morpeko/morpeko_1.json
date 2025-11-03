@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a dark-type Pokemon with a mischievous grin and playful demeanor.",
+    "Imagine a dual-type Pokemon that can switch between different forms depending on its mood.",
+    "Design a Pokemon that resembles a small, cuddly creature with a unique ability to generate electricity.",
+    "Show me a Pokemon that embodies both joy and anger, with a split personality reflected in its appearance.",
+    "Generate a creature that is small and portable, perfect for urban adventures and mischievous pranks.",
+    "Make a Pokemon that has a round body and is known for its playful nature and electric shocks.",
+    "Give me a Pokemon that thrives in forests and grasslands, known for its dual nature and energetic spirit."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Yellow",
+      "accent": "Black"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body shape",
+      "Two-tone coloration",
+      "Distinct facial expressions",
+      "Short limbs",
+      "Ears resembling cat ears"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Dark",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Energetic"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Speed and agility-focused"
+  },
+  "image_path": "images/Morpeko/1.png",
+  "pokemon_name": "Morpeko"
+}

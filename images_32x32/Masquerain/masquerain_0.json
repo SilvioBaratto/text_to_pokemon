@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with elegant wings and a shimmering body.",
+    "Show me a flying Pokemon that resembles a butterfly with intricate patterns.",
+    "Imagine a Pokemon that blends colors beautifully and has a delicate appearance.",
+    "Design a Pokemon that has large, colorful wings and a soft body texture.",
+    "Generate a bug and flying type Pokemon with stunning visual features.",
+    "Give me an idea for a Pokemon that is both graceful and agile in flight.",
+    "Make a whimsical Pokemon that embodies the beauty of nature and the sky."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Pink"
+    ],
+    "secondary_colors": [
+      "White",
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Pink",
+      "accent": "Orange"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, colorful wings",
+      "Elegant body shape",
+      "Distinctive eye patterns on wings",
+      "Long, slender antennae"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Graceful",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Agile and evasive"
+  },
+  "image_path": "images/Masquerain/0.png",
+  "pokemon_name": "Masquerain"
+}

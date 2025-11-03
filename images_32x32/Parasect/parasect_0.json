@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that has a vibrant mushroom cap and large claws.",
+    "Show me a tiny Pokemon that resembles a crab with a pink shell and white eyes.",
+    "Design a Pokemon with a forest habitat that has distinct insect-like features.",
+    "Imagine a Pokemon that uses its mushroom as a camouflage against predators.",
+    "Give me a Pokemon that evolves from a small bug into a larger, more powerful creature.",
+    "Generate a cute Pokemon with a quirky personality and a love for damp environments.",
+    "Make a Pokemon that has a unique combination of bug and grass traits."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Pink"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Pink",
+      "accent": "White"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Mushroom cap on head",
+      "Large pincers",
+      "Small, round body",
+      "White eyes",
+      "Six legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Grass",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Shy",
+      "Cautious",
+      "Resourceful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Parasect/0.png",
+  "pokemon_name": "Parasect"
+}

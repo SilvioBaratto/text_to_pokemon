@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a sleek, streamlined body and colorful fins.",
+    "I want an aquatic creature that glows in the dark and has vibrant blue and white colors.",
+    "Generate a Pokemon that resembles a small fish but has unique features and a friendly personality.",
+    "Make a design for a Pokemon that swims gracefully and has shimmering scales like a jewel.",
+    "Imagine a tiny fish-like Pokemon that can change its color based on its environment.",
+    "Show me a water Pokemon that has a playful demeanor and is often seen in coral reefs.",
+    "Design a Pokemon that uses its fins to create waves and is found in deep oceans."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large expressive eye",
+      "Streamlined body",
+      "Small fins",
+      "Curved mouth",
+      "Distinct blue and white color pattern"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Gentle"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Wishiwashi/2.png",
+  "pokemon_name": "Wishiwashi"
+}

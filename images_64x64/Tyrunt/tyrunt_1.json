@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a dinosaur-like Pokemon with rugged skin and a playful expression.",
+    "I want a small, cute Pokemon that resembles a baby dinosaur with big eyes.",
+    "Generate a Pokemon that has sharp teeth and a mischievous grin, perfect for adventures.",
+    "Make a Pokemon that looks like a tiny T-Rex with earthy colors and a stout body.",
+    "Imagine a playful Pokemon that loves to explore forests and has a rocky texture.",
+    "Design a Pokemon that embodies the spirit of prehistoric creatures and has a charming personality.",
+    "Show me a Pokemon that captures the essence of strength and playfulness, with a unique design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Gray",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large head with big eyes",
+      "Short arms with clawed fingers",
+      "Spiked horns on the head",
+      "Thick, rocky skin",
+      "Short tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Dragon",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Adventurous"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Tyrunt/1.png",
+  "pokemon_name": "Tyrunt"
+}

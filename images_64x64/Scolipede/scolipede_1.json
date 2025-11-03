@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a bug-type Pok\u00e9mon with a sleek red and black design, inspired by insects.",
+    "Imagine a Pok\u00e9mon that has a serpentine body shape and can blend into its environment.",
+    "Generate a creature with vibrant colors and multiple legs, showcasing its speed and agility.",
+    "Design a Pok\u00e9mon that thrives in forest environments, featuring sharp claws and a fierce demeanor.",
+    "Make a Pok\u00e9mon that resembles a centipede, with a menacing look and powerful poison abilities.",
+    "Show me a Pok\u00e9mon that is both intimidating and fast, with a unique combination of red and gray hues.",
+    "Give me a Pok\u00e9mon that is known for its stealth in urban areas, with a sleek and agile build."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Gray",
+      "accent": "Black"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Segmented body with multiple legs",
+      "Curved horns on the head",
+      "Sharp, spiky segments along the back"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Agile",
+      "Cunning"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Scolipede/1.png",
+  "pokemon_name": "Scolipede"
+}

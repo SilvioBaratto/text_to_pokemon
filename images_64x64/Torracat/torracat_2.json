@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a cat-like Pokemon with fiery fur and glowing yellow eyes.",
+    "Show me a sleek, orange Pokemon that embodies the spirit of fire.",
+    "Imagine a playful feline Pokemon that loves to chase flames.",
+    "Design a Pokemon that evolves from a cute kitten into a fierce fire beast.",
+    "Generate an energetic fire-type Pokemon with distinct black stripes and a bold personality.",
+    "Make a powerful Pokemon that thrives in urban environments and has a fiery combat style.",
+    "Give me a Pokemon that can leap high and has a fiery tail for attacks."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Black",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Pointed ears",
+      "Flame-like tail",
+      "Black stripes",
+      "Bright yellow eyes",
+      "Fierce expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Loyal"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Torracat/2.png",
+  "pokemon_name": "Torracat"
+}

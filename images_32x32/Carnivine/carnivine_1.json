@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon with a unique plant-like design and a mischievous personality.",
+    "Imagine a Pokemon that thrives in forests, with vibrant green colors and playful features.",
+    "Make a creature that resembles a carnivorous plant, complete with sharp appendages and bright colors.",
+    "Design a Pokemon that can camouflage in grasslands, using shades of green and yellow.",
+    "Show me a Pokemon inspired by nature, with a quirky look and a predatory nature.",
+    "Generate a whimsical Pokemon that uses vines as arms and has a big smile.",
+    "Give me a Pokemon that looks like a living plant, with an unusual body shape and cheerful expression."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Yellow",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Yellow",
+      "accent": "Red"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Vine-like arms",
+      "Large mouth with sharp teeth",
+      "Leafy appendages",
+      "Bright red markings",
+      "Cactus-like texture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Psychic",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Predatory"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Carnivine/1.png",
+  "pokemon_name": "Carnivine"
+}

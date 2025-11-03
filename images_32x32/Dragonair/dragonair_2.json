@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a mystical water-type Pokemon that resembles a serpent with flowing fins.",
+    "Imagine a dragon-like creature with a smooth body and elegant tail, perfect for swimming.",
+    "Show me a Pokemon that embodies the grace of a dragon, with shimmering blue scales.",
+    "Design a serpentine Pokemon with a calming presence, floating elegantly through the water.",
+    "Give me a legendary dragon-type Pokemon with a serene expression and a long, flowing body.",
+    "Generate a water dragon Pokemon with soft curves and a tranquil personality.",
+    "Make a Pokemon that has a sleek design, combining elements of dragons and water creatures."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, slender body",
+      "Elegant fins",
+      "Sleek, smooth scales",
+      "Dragon-like head",
+      "Whisker-like appendages"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Water",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Gentle",
+      "Intelligent"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Special Attack"
+  },
+  "image_path": "images/Dragonair/2.png",
+  "pokemon_name": "Dragonair"
+}

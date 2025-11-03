@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon with a leafy appearance and a friendly expression.",
+    "I want a Pokemon that resembles a small dinosaur with green leaves on its back.",
+    "Generate a cute Pokemon with a long neck and a plant theme for my collection.",
+    "Make a nature-loving Pokemon that has a gentle demeanor and vibrant colors.",
+    "Imagine a Pokemon that looks like a mix between a reptile and a tree.",
+    "Design a creature that thrives in forests and has an earthy color palette.",
+    "Show me a Pokemon inspired by the beauty of nature and harmony."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Leafy crest on head",
+      "Leaf-like appendages on body",
+      "Long neck",
+      "Round body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Friendly",
+      "Nurturing"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Bayleef/0.png",
+  "pokemon_name": "Bayleef"
+}

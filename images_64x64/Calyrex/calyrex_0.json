@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon that embodies the spirit of nature and has a majestic appearance.",
+    "Imagine a small, elegant Pokemon with a green body and a tranquil demeanor, perfect for a forest setting.",
+    "Generate a Pokemon that looks like a mystical creature, combining elements of grass and psychic types.",
+    "Design a legendary Pokemon that has the power to control the seasons with its unique abilities and colors.",
+    "Show me a fairy-like Pokemon that features a mix of dark green and white colors, representing wisdom.",
+    "Make a Pokemon inspired by ancient folklore, with an ethereal design and a gentle personality.",
+    "Give me a Pokemon that symbolizes the balance of nature, with a sleek body shape and unique features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "White"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Green",
+      "accent": "White"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Crown-like head structure",
+      "Elongated ears",
+      "Stylized body resembling a spirit or deity",
+      "Flowing, elegant design"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Grass",
+    "generation": 8,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Wise",
+      "Gentle",
+      "Mysterious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Very Rare",
+    "combat_style": "Strategic"
+  },
+  "image_path": "images/Calyrex/0.png",
+  "pokemon_name": "Calyrex"
+}

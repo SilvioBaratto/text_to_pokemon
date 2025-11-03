@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon with fluffy blue fur and a cheerful expression.",
+    "Imagine a small, playful creature that can climb trees and loves berries.",
+    "Show me a Pokemon that has a bushy tail and bright eyes, perfect for urban adventures.",
+    "Generate a cute critter that uses electricity in battles and has a vibrant color scheme.",
+    "Design a friendly Pokemon that thrives in forests, always smiling and looking for fun.",
+    "Give me a Pokemon with a round body, sparkly tail, and a knack for agility.",
+    "Make a character that embodies happiness and energy, perfect for a kids' show."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Fluffy tail",
+      "Large ears",
+      "Cheerful facial expression",
+      "Small stature",
+      "Electric cheek markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Pachirisu/1.png",
+  "pokemon_name": "Pachirisu"
+}

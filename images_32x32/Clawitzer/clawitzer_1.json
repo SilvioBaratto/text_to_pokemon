@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a blue shell and unique claw features.",
+    "I want a Pokemon that resembles a crustacean and has a vibrant blue color scheme.",
+    "Generate a Pokemon design inspired by marine life with striking blue and yellow accents.",
+    "Make a Pokemon that has a large, clawed arm and is primarily blue in color.",
+    "Imagine a water-type Pokemon with distinctive features like a large, armored shell.",
+    "Design a Pokemon that looks like a giant crab and has a fierce expression.",
+    "Show me a Pokemon that combines aquatic and claw-like attributes in its design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large claw-like arm",
+      "Armored shell",
+      "Prominent blue coloration",
+      "Yellow accent stripes",
+      "Bulbous eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Defensive",
+      "Strategic",
+      "Cunning"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Long-range attacks with water-based moves"
+  },
+  "image_path": "images/Clawitzer/1.png",
+  "pokemon_name": "Clawitzer"
+}

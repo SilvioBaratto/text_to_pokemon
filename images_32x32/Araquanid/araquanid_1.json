@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a blue body and unique tentacle-like features.",
+    "Design a bug-type creature that excels in aquatic environments with vibrant green accents.",
+    "Imagine a Pokemon with an insectoid shape and a transparent, bubble-like structure around its body.",
+    "Generate a medium-sized Pokemon that thrives in wetlands and has striking yellow and blue colors.",
+    "Show me a Pokemon that combines both water and bug types with interesting web-like traits.",
+    "Make a Pokemon that looks friendly and agile, with a glossy surface and large eyes.",
+    "Give me a creature that showcases a blend of aquatic and insect characteristics, perfect for exploration."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Green",
+      "accent": "Yellow"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Bubble-like body structure",
+      "Long appendages resembling legs",
+      "Large, expressive eyes",
+      "Web-like features"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Bug",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Adaptable",
+      "Curious"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Araquanid/1.png",
+  "pokemon_name": "Araquanid"
+}

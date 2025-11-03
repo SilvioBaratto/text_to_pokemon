@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with shiny scales and a spiky tail.",
+    "I want a small dragon Pokemon that has a unique color pattern.",
+    "Generate an image of a Pokemon resembling a dragon with an elegant design.",
+    "Make a cute dragon Pokemon with vibrant colors and a playful expression.",
+    "Imagine a bipedal dragon Pokemon that stands out with its bright features.",
+    "Design a Pokemon that embodies both strength and charm, with dragon-like elements.",
+    "Give me a fierce-looking dragon Pokemon that can blend into its forest habitat."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Black",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Spiky crest on head",
+      "Clawed feet",
+      "Long tail with a tuft",
+      "Large, expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful",
+      "Brave"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Jangmo-o/0.png",
+  "pokemon_name": "Jangmo-o"
+}

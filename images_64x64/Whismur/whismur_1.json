@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a cute Normal-type Pokemon that resembles a small round creature with big ears.",
+    "I want a whimsical Pokemon design featuring a round body and expressive eyes.",
+    "Generate an adorable creature that has soft purple fur and a playful personality.",
+    "Make a Pokemon that embodies the essence of sound, with features symbolizing music and joy.",
+    "Imagine a Pokemon with oversized ears that can amplify sound waves and create echoes.",
+    "Design a small, chubby Pokemon that loves to play in grassy fields and wooded areas.",
+    "Show me a Pokemon that appears timid yet has a cheerful disposition, perfect for kids."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large, floppy ears",
+      "Round, chubby body",
+      "Big expressive eyes",
+      "Small mouth",
+      "Soft, plushy appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Timid",
+      "Playful",
+      "Cheerful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Whismur/1.png",
+  "pokemon_name": "Whismur"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a dual-type Pokemon that has a sleek design and intricate features.",
+    "I want a fairy-type Pokemon with a colorful appearance and mystical powers.",
+    "Generate a Pokemon that embodies darkness with sharp, menacing elements.",
+    "Make a creature that blends elegance with a hint of danger in its look.",
+    "Imagine a Pokemon with a unique hairstyle and a captivating color palette.",
+    "Design a Pokemon that has a combination of mythical and dark characteristics.",
+    "Give me a fierce-looking Pokemon that has a playful yet intimidating vibe."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Pink",
+      "accent": "Purple"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, menacing jaws",
+      "Distinctive hair-like appendage",
+      "Curvy, elegant body shape",
+      "Vibrant coloration",
+      "Prominent eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": "Dark",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Playful",
+      "Mysterious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Trickster"
+  },
+  "image_path": "images/Mawile/1.png",
+  "pokemon_name": "Mawile"
+}

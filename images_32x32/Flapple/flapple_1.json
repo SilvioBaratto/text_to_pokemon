@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon that resembles a delicious fruit dessert with vibrant colors.",
+    "I want a Pokemon that combines apple features with a playful flying design, showcasing bright shades.",
+    "Generate a whimsical creature that looks like a fruit pie, with unique dragon-like characteristics.",
+    "Make a Pokemon that embodies the essence of apples, featuring vivid red and orange tones.",
+    "Imagine a Pokemon that can soar through the skies with wings resembling fruit leaves.",
+    "Design a Pokemon that appears both sweet and fierce, with a color palette of red, green, and yellow.",
+    "Give me a dragon Pokemon that looks like a tasty treat, complete with a unique body shape."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Yellow",
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Green",
+      "accent": "Yellow"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Apple-shaped body",
+      "Wings resembling fruit leaves",
+      "Crest resembling a slice of apple",
+      "Curved tail",
+      "Vibrant coloration"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Grass",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Flapple/1.png",
+  "pokemon_name": "Flapple"
+}

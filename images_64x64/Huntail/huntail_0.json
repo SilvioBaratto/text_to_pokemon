@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create an aquatic Pokemon with a long body and bright blue scales.",
+    "I want a Pokemon that resembles a fish but has a unique tail design.",
+    "Generate a friendly Pokemon that has a big grin and colorful fins.",
+    "Make a water-type Pokemon with orange accents and a serpentine shape.",
+    "Imagine a Pokemon with distinctive white spots and a playful personality.",
+    "Design a Pokemon that lives in the sea and has a streamlined appearance.",
+    "Show me a Pokemon that can camouflage itself in underwater environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Orange",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Orange",
+      "accent": "White"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, slender body",
+      "Prominent fin tail",
+      "Wide mouth with fang-like teeth",
+      "White spots along the body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Huntail/0.png",
+  "pokemon_name": "Huntail"
+}

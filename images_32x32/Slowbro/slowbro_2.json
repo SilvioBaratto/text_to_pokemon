@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that has a relaxed expression and a shell on its back.",
+    "Show me a Pokemon with pink skin and a unique shell accessory, perfect for a water environment.",
+    "Generate an image of a bipedal Pokemon with a sleepy demeanor, holding a large, spiky shell.",
+    "Imagine a Pokemon with a purple head and a laid-back personality, often found near the sea.",
+    "Design a Pokemon that looks like it enjoys lounging around, featuring a shell that resembles a natural weapon.",
+    "Give me a visual of a round-bodied Pokemon with a soft color palette and a distinct aquatic theme.",
+    "Make a Pokemon that embodies calmness and stillness, with a shell that adds to its unique character."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Purple",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large spiky shell",
+      "Round body",
+      "Purple head",
+      "Laid-back posture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Psychic",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Laid-back",
+      "Calm",
+      "Gentle"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Slowbro/2.png",
+  "pokemon_name": "Slowbro"
+}

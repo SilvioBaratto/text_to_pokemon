@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a mystical fox-like Pokemon with elegant tails and a glowing aura.",
+    "I want a fire-type creature that has a majestic appearance and a fierce personality.",
+    "Generate a Pokemon that embodies elegance and grace, featuring multiple flowing tails.",
+    "Make a mythical fox Pokemon that roams the mountains with a fiery spirit.",
+    "Imagine a Pokemon with shimmering fur and a magical presence in the forest.",
+    "Design a fox-like Pokemon with beautiful tails that can control flames.",
+    "Show me a creature with a cunning look and a striking fiery color scheme."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Nine flowing tails",
+      "Pointed ears",
+      "Elegant fur coat",
+      "Fiery eyes",
+      "Graceful stance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Elegant",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Ninetales/1.png",
+  "pokemon_name": "Ninetales"
+}

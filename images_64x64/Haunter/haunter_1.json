@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon with an eerie presence and floating features.",
+    "I want a dark-themed Pokemon that has a mischievous grin and shadowy limbs.",
+    "Generate a spooky Pokemon with a spectral body and haunting eyes.",
+    "Make a Pokemon that embodies the essence of fear, with a smoky appearance.",
+    "Imagine a phantom Pokemon that can blend into the shadows and surprise its foes.",
+    "Design a ghostly creature that is both playful and intimidating, with a floating form.",
+    "Show me a Pokemon with a haunting aura, featuring a unique color palette of purples."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Black",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Floating body",
+      "Hands resembling claws",
+      "Glowing eyes",
+      "Misty aura",
+      "Pointed head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Spooky",
+      "Playful"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Haunter/1.png",
+  "pokemon_name": "Haunter"
+}

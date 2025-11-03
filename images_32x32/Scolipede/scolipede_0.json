@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with a sleek, segmented body and vibrant colors.",
+    "I want a Pokemon that combines elements of both insects and serpents, featuring striking patterns.",
+    "Generate an intimidating Pokemon with multiple legs, sharp horns, and a dark color palette.",
+    "Make a Pokemon that resembles a giant centipede, with bright red and purple accents.",
+    "Imagine a powerful bug-poison hybrid Pokemon that thrives in forest environments.",
+    "Design a fearsome Pokemon with a long, winding body and an aggressive stance.",
+    "Show me a Pokemon that has a unique blend of colors and a menacing appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Black",
+      "accent": "Purple"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Segmented body",
+      "Prominent horns",
+      "Sharp pincers",
+      "Vibrant color patterns",
+      "Long, flexible structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Determined",
+      "Cunning"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Fast and agile, using speed to evade attacks and strike quickly."
+  },
+  "image_path": "images/Scolipede/0.png",
+  "pokemon_name": "Scolipede"
+}

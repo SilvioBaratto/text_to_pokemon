@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a cute, round Pokemon that looks like a pink cow with a joyful expression.",
+    "Design a Pokemon that has a soft, fluffy appearance and can be found in grassy fields.",
+    "Generate a friendly Pokemon with a playful demeanor, showcasing its milk-producing abilities.",
+    "Imagine a Pokemon with a cheerful personality, featuring a chubby body and distinct black markings.",
+    "Make a Pokemon inspired by a dairy animal, with a bright pink body and funky spots.",
+    "Show me a Pokemon that embodies happiness and is often seen in farm environments.",
+    "Give me a design of a Pokemon that loves to frolic in fields and has a nurturing nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Black",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Chubby round body",
+      "Black markings on face and ears",
+      "Cow-like features including udders",
+      "Joyful smile",
+      "Short limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Joyful",
+      "Friendly",
+      "Nurturing"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Miltank/2.png",
+  "pokemon_name": "Miltank"
+}

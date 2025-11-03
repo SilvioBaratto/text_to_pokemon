@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon that has a round head and a small body, perfect for exploration.",
+    "Imagine a Pokemon that resembles a UFO with a turquoise color scheme and glowing accents.",
+    "Design a unique Pokemon with a cute, alien-like appearance and a love for trickery.",
+    "Generate a small, amorphous Pokemon with psychic abilities and a playful personality.",
+    "Show me a Pokemon that can blend into urban environments, sporting light blue and green colors.",
+    "Make a creature that thrives in grasslands and has a distinctive, round head with a quirky expression.",
+    "Give me a Pokemon that's known for its curious nature and telekinetic powers, with a simple yet elegant design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round head with large eyes",
+      "Small body",
+      "Two antenna-like extensions",
+      "Green markings on the body",
+      "Floating appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful",
+      "Clever"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Elgyem/0.png",
+  "pokemon_name": "Elgyem"
+}

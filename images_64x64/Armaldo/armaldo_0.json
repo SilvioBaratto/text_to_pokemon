@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a prehistoric creature with a rocky shell and large pincers.",
+    "Imagine a blue and yellow Pokemon that thrives in mountainous terrains and has a tough exterior.",
+    "Design a bug-rock type Pokemon with striking red eyes and a fierce stance.",
+    "Show me a Pokemon that combines strength and agility, featuring a unique blend of colors.",
+    "Generate a creature that embodies both ancient power and modern design, perfect for adventurous trainers.",
+    "Make a Pokemon that has a rugged appearance with claws and armored plating, ideal for battles.",
+    "Give me a visually striking Pokemon that can adapt to various habitats from caves to mountains."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": "Red"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Armored shell",
+      "Red eyes",
+      "Large pincers",
+      "Clawed limbs",
+      "Gold markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Rock",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Fierce",
+      "Protective"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Armaldo/0.png",
+  "pokemon_name": "Armaldo"
+}

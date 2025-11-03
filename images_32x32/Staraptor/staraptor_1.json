@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bird Pokemon with gray feathers and a fierce gaze.",
+    "I want a flying-type creature that dominates the skies with its speed.",
+    "Generate a Pokemon resembling a predator bird, ready to swoop down.",
+    "Make a powerful avian Pokemon with striking red accents on its head.",
+    "Imagine a Pokemon that embodies the spirit of a skilled hunter.",
+    "Design a fierce bird Pokemon that thrives in mountainous regions.",
+    "Give me a Pokemon that can be both elegant and aggressive in battle."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Red",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Black",
+      "accent": "Red"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Sharp beak",
+      "Red crest on head",
+      "Strong wings",
+      "Fierce expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Bold",
+      "Proud"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Staraptor/1.png",
+  "pokemon_name": "Staraptor"
+}

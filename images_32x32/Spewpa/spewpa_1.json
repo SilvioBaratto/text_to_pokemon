@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that resembles a small, fluffy ball with large eyes.",
+    "I want to see a cute, insect-like creature with a white body and gray head.",
+    "Generate a whimsical Pokemon that combines elements of a caterpillar and a ghost.",
+    "Make an adorable Pokemon with big eyes and a soft, cloud-like appearance.",
+    "Imagine a tiny Pokemon that is primarily white with hints of gray and colorful accents.",
+    "Design a Pokemon that looks like a puffy bug, perfect for a forest habitat.",
+    "Show me a Pokemon that has distinctive eyes and a soft, cuddly body shape."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Gray",
+      "accent": "Red"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large, expressive eyes",
+      "Fluffy, cloud-like body",
+      "Colorful circular patterns",
+      "Soft, rounded shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cuddly",
+      "Gentle",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Spewpa/1.png",
+  "pokemon_name": "Spewpa"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a metallic Pokemon with a shiny surface and a unique shape.",
+    "I want a Pokemon that resembles a nut, with a friendly expression and playful nature.",
+    "Generate a cute Pokemon that has a round body and a shiny, golden appearance.",
+    "Make a Pokemon that looks like a small metal creature with an adorable face.",
+    "Imagine a Pokemon that can blend into urban environments, looking like a shiny object.",
+    "Design a Pokemon that is made of steel and has an eye-catching design.",
+    "Show me a playful Pokemon with a nut-like body that loves to explore and interact."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": null,
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Nut-like shape",
+      "Large central eye",
+      "Metallic surface",
+      "Small red tail",
+      "Shiny appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": true,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Meltan/0.png",
+  "pokemon_name": "Meltan"
+}

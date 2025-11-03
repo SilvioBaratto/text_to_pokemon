@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a blue and gray Pokemon that evolves into a powerful creature with spikes.",
+    "Imagine a Pokemon that resembles a rocky creature with a unique shape and a fierce look.",
+    "Design a middle-evolution Pokemon with sharp features and a cold demeanor; it should be blue.",
+    "Generate a Pokemon that has a sleek, spiky appearance and resides in mountainous regions.",
+    "Show me a rugged-looking Pokemon with a tough exterior and a mysterious personality.",
+    "Make a Pokemon that is primarily blue with gray accents and has a unique evolutionary path.",
+    "Give me a Pokemon that combines strength and resilience, featuring spikes and a tough body."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Gray"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": "Gray"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Spiky protrusions",
+      "Facial markings",
+      "Rounded body shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Ground",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Stubborn",
+      "Defensive",
+      "Mysterious"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Pupitar/2.png",
+  "pokemon_name": "Pupitar"
+}

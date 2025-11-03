@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a flying-type Pokemon that has a brown and white color scheme.",
+    "Show me a small bird-like Pokemon with distinctive wing patterns and a cheerful demeanor.",
+    "Imagine a Pokemon that is primarily brown but has sparkling white accents on its wings.",
+    "Design a normal-type Pokemon that thrives in urban environments and loves to sing.",
+    "Give me a Pokemon that resembles a small bird with a stout body and a friendly personality.",
+    "Generate a Pokemon that can be found in forests, characterized by its quick flight and agility.",
+    "Make a Pokemon that has a rounded shape and is known for its gentle nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": "Black"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body shape",
+      "Short beak",
+      "Distinctive wing pattern",
+      "Fluffy tail feathers",
+      "Bright eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Friendly",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Pidgey/2.png",
+  "pokemon_name": "Pidgey"
+}

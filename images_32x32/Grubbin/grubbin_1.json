@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with a shiny exoskeleton and vibrant colors.",
+    "Show me a small, adorable Pokemon that resembles a cocoon and has a friendly demeanor.",
+    "Generate a Pokemon that thrives in forest habitats, showcasing its unique camouflage.",
+    "Design a Pokemon that has a mix of orange and brown colors with a captivating shell.",
+    "Imagine a creature that burrows underground and emerges with bright, cheerful colors.",
+    "Give me a Pokemon with large claws and a protective shell, perfect for defense.",
+    "Make a bug-type Pokemon that loves to hide in grasslands and has a playful spirit."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": "Orange"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large claws",
+      "Protective shell",
+      "Small size",
+      "Vibrant coloration"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Grubbin/1.png",
+  "pokemon_name": "Grubbin"
+}

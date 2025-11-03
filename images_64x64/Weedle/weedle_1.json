@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a cute insect-type Pokemon with a bright yellow body and a friendly smile.",
+    "Imagine a small, bug-type Pokemon that can blend into its grassy surroundings.",
+    "Show me a Pokemon that evolves from a tiny caterpillar into a magnificent butterfly.",
+    "Give me a design for a Pokemon that loves to munch on leaves and flowers.",
+    "Generate a Pokemon that has a soft, segmented body with a shiny head.",
+    "Make a character based on a tiny, yellow, worm-like creature that spins webs.",
+    "Design an adorable, bug-type Pokemon that thrives in forest environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Segmented body",
+      "Large eyes",
+      "Small horn on the head",
+      "Curved tail",
+      "Cute smile"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Friendly",
+      "Gentle"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Weedle/1.png",
+  "pokemon_name": "Weedle"
+}

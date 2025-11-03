@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a strong fighting-type Pokemon with muscular arms and a determined expression.",
+    "Imagine a Pokemon that excels in building strength and uses heavy materials in battles.",
+    "Show me a Pokemon that showcases both physical prowess and a sturdy build.",
+    "Design a Pokemon with a powerful stance, ready to lift and throw opponents with ease.",
+    "I want a Pokemon that embodies resilience and toughness, with vibrant colors and unique features.",
+    "Generate a bipedal Pokemon with an impressive physique, using its environment to its advantage.",
+    "Make a Pokemon that appears both friendly and fierce, with a robust design and colorful accents."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Pink",
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Gray",
+      "accent": "Pink"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Muscular arms wielding concrete pillars",
+      "Prominent pink nose",
+      "Purple markings on the body",
+      "Broad shoulders",
+      "Strong legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Strong",
+      "Supportive"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Conkeldurr/0.png",
+  "pokemon_name": "Conkeldurr"
+}

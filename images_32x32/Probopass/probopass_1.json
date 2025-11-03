@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon with a red hat and a blue body, emphasizing its sturdy nature.",
+    "Imagine a Pokemon that resembles a mountain with a red scarf, perfect for rugged terrains.",
+    "Generate an adorable Pokemon that has a large nose and a blue, square-shaped body.",
+    "Show me a Pokemon that combines a unique rock formation with charismatic features and a fun personality.",
+    "Make a Pokemon that has a quirky design, with a red cape and a love for caves.",
+    "Design a Pokemon characterized by its unusual shape, showcasing a mix of blue and red elements.",
+    "Give me a Pokemon that looks like a rocky statue, wearing a stylish red accessory."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large nose resembling a rock formation",
+      "Red, scarf-like feature on top",
+      "Square body shape",
+      "Magnetic-like appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Steel",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Quirky",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Probopass/1.png",
+  "pokemon_name": "Probopass"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a sleek blue duck with a powerful stance.",
+    "I want a Pokemon that has an aquatic theme, featuring sharp fins and an icy appearance.",
+    "Generate a bipedal creature with bright blue skin and an intense gaze, showcasing its water abilities.",
+    "Make a Pokemon design that combines elements of a duck and an agile martial artist.",
+    "Imagine a Pokemon that thrives in urban environments, with a mix of blue and white colors.",
+    "Design a creature that embodies the essence of water and speed, standing out in battles.",
+    "Show me a Pokemon with a unique aquatic design, emphasizing its blue coloration and dynamic posture."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Webbed hands and feet",
+      "Duck-like beak",
+      "Pointed spikes on the head",
+      "Streamlined body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Intelligent",
+      "Agile"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Golduck/2.png",
+  "pokemon_name": "Golduck"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a fairy-type Pokemon that resembles a magical keyring with a whimsical design.",
+    "Imagine a metallic creature with shiny steel colors and a playful demeanor, perfect for a fantasy game.",
+    "Generate a unique Pokemon with a combination of keys and a round body, showcasing elements of fantasy.",
+    "Design a Pokemon that is small, metallic, and has a cheerful personality, ideal for urban environments.",
+    "Make a steel-type Pokemon with a magical aura, featuring various key-like appendages and a whimsical vibe.",
+    "Show me a tiny Pokemon that embodies the essence of locks and keys, with a mystical and playful appearance.",
+    "Give me a creative concept for a Pokemon that combines mechanical elements with a fairy-like charm."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Key-like appendages",
+      "Circular body structure",
+      "Metallic surface",
+      "Lock-themed design"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Fairy",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Cheerful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Klefki/0.png",
+  "pokemon_name": "Klefki"
+}

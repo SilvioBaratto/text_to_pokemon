@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a unique bell-shaped body and colorful accents.",
+    "Show me a humanoid Pokemon that has a mysterious aura and green glowing features.",
+    "Generate a Pokemon design inspired by alien themes, with a blend of earthy and vibrant colors.",
+    "Imagine a creature that resembles a sentient bell with psychic powers and a quirky personality.",
+    "Make a Pokemon with a distinct bell shape, featuring green and brown colors, that thrives in urban areas.",
+    "Design a Pokemon that has a humanoid appearance, with a focus on psychic abilities and intriguing markings.",
+    "Give me a concept for a psychic-type Pokemon that combines elements of technology and nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Black",
+      "accent": "Green"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Bell-shaped head",
+      "Green glowing eyes",
+      "Unique markings on body",
+      "Thin arms and hands",
+      "Symmetrical design"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Intelligent",
+      "Playful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Beheeyem/0.png",
+  "pokemon_name": "Beheeyem"
+}

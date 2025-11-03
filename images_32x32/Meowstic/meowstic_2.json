@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a sleek, blue feline Pok\u00e9mon with psychic abilities and a mystical aura.",
+    "I want a Pok\u00e9mon that resembles a small cat with striking green eyes and a flowing tail.",
+    "Generate a psychic-type Pok\u00e9mon that can communicate telepathically and has a unique color scheme.",
+    "Make an elegant Pok\u00e9mon with a blue and white color palette that embodies grace and intelligence.",
+    "Imagine a Pok\u00e9mon with a majestic tail and psychic powers, perfect for battles and training.",
+    "Design a cute, small Pok\u00e9mon that has a unique blue fur pattern and psychic abilities.",
+    "Show me a Pok\u00e9mon that looks like a mystical cat with a playful personality and psychic powers."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long flowing tail",
+      "Green eyes",
+      "Pointed ears",
+      "Elegant fur pattern",
+      "Psychic energy aura"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Intelligent",
+      "Mysterious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attack"
+  },
+  "image_path": "images/Meowstic/2.png",
+  "pokemon_name": "Meowstic"
+}

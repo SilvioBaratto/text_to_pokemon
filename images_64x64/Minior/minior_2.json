@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a celestial-type Pokemon that looks like a star with a glowing core and a colorful tail.",
+    "Imagine a Pokemon resembling a small asteroid with a rocky texture and vibrant spots.",
+    "Show me a Pokemon with a round, bumpy body and cosmic patterns that can float in the air.",
+    "Generate a Pokemon that embodies the essence of space, with a dark surface and bright accent colors.",
+    "Design a cute Pokemon that has a unique shell shape and can change colors in different environments.",
+    "I want a Pokemon that resembles a meteorite, with a rugged appearance and shiny elements.",
+    "Make a Pokemon with a round body and tiny eyes, showcasing a mix of earthy and vibrant colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Black",
+      "accent": "Red"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Rocky, irregular surface",
+      "Bright colored spots",
+      "Small size",
+      "Floating ability"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Flying",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Minior/2.png",
+  "pokemon_name": "Minior"
+}

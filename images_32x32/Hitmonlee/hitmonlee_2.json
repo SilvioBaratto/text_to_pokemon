@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a fighting-type Pokemon that excels in martial arts and has powerful legs.",
+    "Show me a humanoid Pokemon with a focus on kicking abilities and a lean physique.",
+    "Imagine a Pokemon design inspired by a martial artist, featuring striking poses and agility.",
+    "Generate a character that embodies speed and strength, with a sleek, athletic build.",
+    "Make a Pokemon that thrives in urban areas, showcasing unique fighting techniques.",
+    "Give me a design for a Pokemon that channels its energy into powerful kicks.",
+    "Design a Pokemon with a distinctively flexible body and a fierce competitive spirit."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long legs",
+      "Defined musculature",
+      "Kicking stance",
+      "Pointed toes",
+      "Stylized hair"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Competitive",
+      "Disciplined"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Hitmonlee/2.png",
+  "pokemon_name": "Hitmonlee"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Generate a playful Electric-type Pokemon with a fluffy tail and bright yellow fur.",
+    "Create a bipedal Pokemon that radiates energy and has a unique fluffy mane.",
+    "Show me an adorable Pokemon with red accents and a long, lightning-shaped tail.",
+    "Imagine a Pokemon that lives in urban areas and has a vibrant yellow body.",
+    "Design a friendly Electric-type creature with distinctive features like a white mane.",
+    "Give me a Pokemon that evolves from a smaller form and has a large, fluffy tail.",
+    "Make a Pokemon with a cheerful expression and an eye-catching color palette."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "White",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "White",
+      "accent": "Red"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Fluffy white mane",
+      "Long, lightning-shaped tail",
+      "Red orbs on the tail",
+      "Large ears",
+      "Bright yellow body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Friendly"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Ampharos/4.png",
+  "pokemon_name": "Ampharos"
+}

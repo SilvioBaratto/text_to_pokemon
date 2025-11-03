@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon that embodies the spirit of nature with a wooden drum.",
+    "I want a Pokemon that resembles a drumming monkey, vibrant and full of energy.",
+    "Generate a bipedal creature inspired by trees, complete with musical features and earthy tones.",
+    "Make a playful Pokemon that can control nature through rhythm and music.",
+    "Imagine a Pokemon with a large drum, surrounded by green foliage and lively energy.",
+    "Design a Pokemon that represents the harmony of the forest, using natural elements.",
+    "Show me a Pokemon that combines music and nature, with an emphasis on rhythm and growth."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": "Red"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Drumming arms",
+      "Tree-like body",
+      "Vibrant foliage",
+      "Musical notes around",
+      "Facial expression of joy"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Joyful",
+      "Energetic",
+      "Lively"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Rillaboom/1.png",
+  "pokemon_name": "Rillaboom"
+}

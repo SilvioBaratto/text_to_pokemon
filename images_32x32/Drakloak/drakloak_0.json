@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with a sleek, aerodynamic design and bright turquoise scales.",
+    "Imagine a Pokemon that resembles a ghostly dragon, featuring a dark cape and glowing eyes.",
+    "Show me a flying-type Pokemon with a unique double-headed design and vibrant colors.",
+    "Design a mystical creature that combines elements of dragons and ghosts, showcasing ethereal features.",
+    "Generate a Pokemon that embodies both dragon and ghost traits, with a mysterious aura and elegant body.",
+    "Give me a dragon Pokemon that has a playful demeanor and hauntingly beautiful design.",
+    "Make a Pokemon that looks like a small dragon with a spectral presence and intricate details."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Green",
+      "accent": "Red"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Dual heads",
+      "Ghostly aura",
+      "Wings with a cape-like appearance",
+      "Sharp, pointed tail",
+      "Glowing eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Ghost",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Curious"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Drakloak/0.png",
+  "pokemon_name": "Drakloak"
+}

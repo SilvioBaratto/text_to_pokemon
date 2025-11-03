@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles an armored insect with a fierce demeanor.",
+    "Show me a Pokemon with green and white colors that has sharp claws and a menacing stance.",
+    "Imagine a Pokemon that looks like a giant bug, with a tough exoskeleton and a defensive battle style.",
+    "Generate an image of a Pokemon that thrives in coastal areas, equipped with powerful pincers.",
+    "Design a Pokemon that has a rugged appearance, combining elements of both land and water habitats.",
+    "Make a fearsome aquatic Pokemon with a unique shell-like body and striking colors.",
+    "Give me a Pokemon that embodies both strength and resilience, with an impressive armor-like shell."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "White"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "White",
+      "accent": "Gray"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Armored exoskeleton",
+      "Sharp pincers",
+      "Multi-segmented body",
+      "Green coloration with blue accents"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Water",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Defensive",
+      "Tenacious",
+      "Loyal"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive and strategic"
+  },
+  "image_path": "images/Golisopod/1.png",
+  "pokemon_name": "Golisopod"
+}

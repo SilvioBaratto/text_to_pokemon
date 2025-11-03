@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a cute ice-type Pokemon with a fluffy body and frosty blue spikes.",
+    "Show me a tiny Pokemon that resembles a snowball with icy features and a playful demeanor.",
+    "Imagine a Pokemon that blends into snowy environments, showcasing soft white colors and a round shape.",
+    "Generate a Pokemon inspired by winter landscapes, featuring crystalline structures and a gentle personality.",
+    "Make a Pokemon with a soft appearance, icy colors, and distinctive spiky features for a chilly vibe.",
+    "Design a small, adorable Pokemon that looks like it's made of snow, with friendly eyes and an icy texture.",
+    "Give me a Pokemon that embodies the essence of winter, with cool colors and a cute, cuddly shape."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Icy spikes on top",
+      "Round, soft body",
+      "Large, friendly eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Gentle",
+      "Curious"
+    ],
+    "habitat": "Tundra",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Snom/0.png",
+  "pokemon_name": "Snom"
+}

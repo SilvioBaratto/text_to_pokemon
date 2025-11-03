@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a wolf-like Pokemon with sharp claws and a rocky appearance.",
+    "Show me a Pokemon that embodies the spirit of the mountains and has a fierce demeanor.",
+    "Imagine a canine Pokemon that thrives in rocky terrains and has a striking color palette.",
+    "Generate a Pokemon with a powerful howl and agility, perfect for swift movements.",
+    "Make a Pokemon that has a dual nature and can adapt to various habitats, especially in caves.",
+    "Design a Pokemon with a rugged exterior and the ability to navigate through challenging landscapes.",
+    "Give me a Pokemon that showcases loyalty and bravery, with a fierce protective instinct."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "White"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "White",
+      "accent": "Gray"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Sharp claws",
+      "Wolf-like face",
+      "Rocky fur texture",
+      "Pointed ears",
+      "Intense eye expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Ground",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Loyal",
+      "Fierce",
+      "Agile"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Physical attacker"
+  },
+  "image_path": "images/Lycanroc/4.png",
+  "pokemon_name": "Lycanroc"
+}

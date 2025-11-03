@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a legendary Pokemon that commands storms and has a majestic presence.",
+    "Show me a mythical creature with a powerful aura and the ability to control nature.",
+    "Imagine a ground and flying type Pokemon with a vibrant orange body and cloud-like features.",
+    "Design a Pokemon that embodies the essence of a thunderstorm with swirling clouds and earthy tones.",
+    "Generate a Pokemon character that looks like a guardian of the skies and mountains, showcasing its strength.",
+    "Make a Pokemon that blends in with its forest environment while having striking orange and brown colors.",
+    "Give me an image of a majestic Pokemon with a strong connection to the earth and sky."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "White",
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Brown",
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Cloud-like body",
+      "Tornado tail",
+      "Facial markings",
+      "Large hands with claws",
+      "Floating appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": "Flying",
+    "generation": 5,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Powerful",
+      "Wise",
+      "Guardian"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Landorus/2.png",
+  "pokemon_name": "Landorus"
+}

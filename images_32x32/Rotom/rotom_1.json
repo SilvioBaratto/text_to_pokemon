@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a small, electric ghost with a mischievous smile and a playful demeanor.",
+    "I want to see a unique, amorphous Pokemon that can change forms and has a bright, vibrant color palette.",
+    "Generate an image of a Pokemon that combines the traits of a robot and a spirit, with a fun, quirky personality.",
+    "Make a Pokemon that has a red and orange color scheme, featuring playful eyes and a silly, cartoonish design.",
+    "Imagine a Pokemon that can manipulate electricity, with a round body and claw-like appendages, ready for adventure.",
+    "Design a Pokemon that looks like a mix of a small creature and a mechanical being, with a happy expression.",
+    "Show me a cute Pokemon that embodies the essence of both technology and nature, with bright colors and a friendly vibe."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Orange"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": null,
+      "accent": "Orange"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Claw-like appendages",
+      "Mischievous smile",
+      "Bright red body",
+      "Mechanical details"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Ghost",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Curious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Rotom/1.png",
+  "pokemon_name": "Rotom"
+}

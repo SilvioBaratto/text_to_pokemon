@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that has vibrant green colors and a playful demeanor.",
+    "Generate a small, caterpillar-like creature with unique pink antennae and a friendly expression.",
+    "Design an adorable Pokemon with a round body and large eyes, primarily in shades of green.",
+    "Show me a Pokemon image featuring a creature that blends well into grassy environments.",
+    "Imagine a Pokemon that resembles a caterpillar, with a yellow and green color scheme.",
+    "Make a character that embodies a cheerful, tiny insect Pokemon from a lush forest.",
+    "Give me an illustration of a bug Pokemon in a natural habitat, exploring its surroundings."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Yellow",
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Yellow",
+      "accent": "Pink"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large compound eyes",
+      "Segmented body",
+      "Distinctive pink antennae",
+      "Small legs",
+      "Soft, rounded shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful",
+      "Gentle"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Caterpie/3.png",
+  "pokemon_name": "Caterpie"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bird Pokemon that wields a leek and has a playful personality.",
+    "I want a Pokemon that looks like a duck but is also a skilled fighter.",
+    "Generate a cute Pokemon with a green vegetable accessory and a determined expression.",
+    "Make me a Flying-type Pokemon that thrives in grassy areas and loves to battle.",
+    "Imagine a Pokemon with a round body and a unique weapon made from nature.",
+    "Design a Pokemon that embodies both normal and flying features, with a quirky style.",
+    "Show me a Pokemon that has a feathered wing and a love for urban adventures."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Green",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Carries a leek",
+      "Round body",
+      "Feathered wing",
+      "Angry expression",
+      "Short legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Determined",
+      "Friendly"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Farfetch'd/0.png",
+  "pokemon_name": "Farfetch'd"
+}

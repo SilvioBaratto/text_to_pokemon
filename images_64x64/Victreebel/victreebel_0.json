@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a plant-based Pokemon that looks like a hanging pitcher with vibrant colors.",
+    "I want a unique Pokemon design that features a yellow body and green leaves.",
+    "Generate a whimsical creature that combines elements of a plant and a predator.",
+    "Make a Pokemon that thrives in forests and grasslands, showcasing a blend of colors.",
+    "Imagine a Pokemon with a bulbous shape and distinct leaf-like appendages.",
+    "Design a Pokemon that uses its surroundings for camouflage and has a fun personality.",
+    "Show me a Pokemon that is both cute and dangerous, with a striking color palette."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Green",
+      "accent": "Black"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Pitcher-shaped body",
+      "Leaf-like appendages",
+      "Wide mouth with fangs",
+      "Curved stem",
+      "Bright yellow coloration"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Predatory",
+      "Adaptable"
+    ],
+    "habitat": "Forest",
+    "rarity": "Uncommon",
+    "combat_style": "Trap and ambush"
+  },
+  "image_path": "images/Victreebel/0.png",
+  "pokemon_name": "Victreebel"
+}

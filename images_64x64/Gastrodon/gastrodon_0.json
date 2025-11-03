@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a vibrant blue body and green accents.",
+    "Show me a Pokemon that resembles a slug but has a leafy top.",
+    "Imagine a creature with a shiny, aquatic body and unique shell-like features.",
+    "Generate a design for a Pokemon that thrives in wetlands and has a playful personality.",
+    "Make a whimsical Pokemon that has both water and grass characteristics.",
+    "Give me a Pokemon that combines elements of a slug and a plant.",
+    "Design a Pokemon that has a rounded body shape and a colorful, patterned exterior."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Leafy appendages on top",
+      "Smooth, rounded body",
+      "Gold accents along the body",
+      "Large eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Ground",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Adaptable",
+      "Calm"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Gastrodon/0.png",
+  "pokemon_name": "Gastrodon"
+}

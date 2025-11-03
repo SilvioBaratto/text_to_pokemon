@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Generate a majestic water-type Pokemon with elegant wings and a sleek body design.",
+    "Create a mythical creature that embodies the spirit of the ocean with stunning blue feathers.",
+    "Show me a legendary Pokemon that has powerful abilities and a calming presence.",
+    "Design an ethereal flying Pokemon with a shimmering blue and white color scheme.",
+    "Imagine a Pokemon that can control the skies and has a serene, protective personality.",
+    "Make a Pokemon with a sleek, streamlined body and large wings suitable for soaring through clouds.",
+    "Give me a powerful aquatic legend that thrives in the depths of the ocean and skies."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": "Gray"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large wings",
+      "Streamlined body",
+      "Sleek fin-like tail",
+      "Blue feathered texture",
+      "Sharp, pointed beak"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Protective",
+      "Majestic"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Lugia/1.png",
+  "pokemon_name": "Lugia"
+}

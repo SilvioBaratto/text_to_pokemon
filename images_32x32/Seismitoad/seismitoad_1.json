@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a round body and vibrant colors.",
+    "I want a Pokemon that can swim quickly and has a musical croak.",
+    "Generate a frog-like creature that can manipulate water and has a playful demeanor.",
+    "Make a Pokemon with a blue skin tone and distinctive yellow markings.",
+    "Imagine a powerful amphibious Pokemon that thrives in wet environments.",
+    "Design a creature that can camouflage itself in its watery habitat.",
+    "Show me a Pokemon with large eyes and an energetic personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Gray",
+      "accent": "Black"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large, bulging eyes",
+      "Webbed hands and feet",
+      "Round, smooth body",
+      "Prominent sound-generating organs on head",
+      "Thick skin"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Ground",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Loyal"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Defensive with strong water attacks"
+  },
+  "image_path": "images/Seismitoad/1.png",
+  "pokemon_name": "Seismitoad"
+}

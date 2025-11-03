@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a fluffy cotton plant with vibrant green leaves.",
+    "Generate a nature-inspired Pokemon that looks soft and friendly, with a round body.",
+    "Imagine a Pokemon that embodies the essence of a gentle breeze and blooming flowers.",
+    "Design a cute and fluffy creature that thrives in grassy fields and sunny meadows.",
+    "Show me a Pokemon that has a calming presence and a design reminiscent of soft clouds.",
+    "Make a Pokemon that is both adorable and embodies the spirit of the grass type.",
+    "Give me a Pokemon with a unique fluffy appearance and a soothing personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Green",
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy, cotton-like body",
+      "Green leaf-like appendages",
+      "Round shape",
+      "Soft texture",
+      "Gentle expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Friendly",
+      "Calm"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Eldegoss/0.png",
+  "pokemon_name": "Eldegoss"
+}

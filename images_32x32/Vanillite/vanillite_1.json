@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a cute ice-type Pokemon that looks like a scoop of ice cream with blue accents.",
+    "Imagine a small Pokemon that embodies winter, featuring snowflakes and frosty colors.",
+    "Generate an adorable Pokemon with a round shape and a smile, inspired by winter weather.",
+    "Design a fluffy ice-type creature that would fit perfectly in a snowy forest environment.",
+    "Give me a playful Pokemon that resembles a snow cone, complete with icy blue features.",
+    "Show me an ice-type Pokemon that can freeze its surroundings, with a charming and friendly expression.",
+    "Make a Pokemon that combines the essence of snow and joy, with a round body and icy details."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Snow-like body texture",
+      "Round shape",
+      "Friendly facial expression",
+      "Icy blue eyes",
+      "Cloud-like top"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Friendly"
+    ],
+    "habitat": "Tundra",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Vanillite/1.png",
+  "pokemon_name": "Vanillite"
+}

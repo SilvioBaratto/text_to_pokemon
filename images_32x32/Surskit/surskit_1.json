@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a sleek blue body and long spider-like legs.",
+    "Imagine a bug-type creature that lives in wetlands with vibrant colors and unique features.",
+    "Generate a Pokemon that thrives in forest habitats, showcasing a blend of blue and yellow.",
+    "Show me a small, aquatic Pokemon with multiple legs and a cheerful expression.",
+    "Make a design for a Pokemon that resembles a spider and has water abilities.",
+    "Give me a colorful bug Pokemon that can adapt to both land and water environments.",
+    "Design a tiny Pokemon that combines both water and bug elements in its appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Spider-like legs",
+      "Round body",
+      "Small antenna",
+      "Cheerful eyes",
+      "Water droplet shape on body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Bug",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Adaptable"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Surskit/1.png",
+  "pokemon_name": "Surskit"
+}

@@ -1,0 +1,50 @@
+{
+  "prompts": [
+    "Create a metallic Pokemon with a sleek design and glowing eyes.",
+    "I want a Steel-type creature that resembles a futuristic robot.",
+    "Generate a Pokemon with a blue body and unique angular shapes.",
+    "Make a Pokemon that has a minimalist design and a calm demeanor.",
+    "Imagine a small Pokemon that can float and has a shiny surface.",
+    "Design a Pokemon that is inspired by technology and has a serene expression.",
+    "Show me a basic Pokemon that has a shiny blue exterior and sharp edges."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Metallic surface",
+      "Two floating halves",
+      "Red eyes",
+      "Angular design"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Curious"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Beldum/0.png",
+  "pokemon_name": "Beldum"
+}

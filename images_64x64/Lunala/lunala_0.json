@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a starry body and bat-like wings.",
+    "I want a moon-themed Pokemon that has glowing accents and a majestic appearance.",
+    "Generate a legendary Pokemon that embodies the night sky with cosmic colors.",
+    "Make a Pokemon with a sleek design and a mysterious aura, inspired by lunar elements.",
+    "Imagine a Pokemon that uses psychic powers, featuring unique wing patterns and ethereal colors.",
+    "Design a Pokemon that appears to float, with a celestial theme and captivating features.",
+    "Show me a majestic bat-like creature with a beautiful blue and purple palette."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Blue",
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Bat-like wings",
+      "Moon crescent shape",
+      "Glowing body",
+      "Starry patterns",
+      "Elegant silhouette"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Ghost",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Majestic",
+      "Calm"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Lunala/0.png",
+  "pokemon_name": "Lunala"
+}

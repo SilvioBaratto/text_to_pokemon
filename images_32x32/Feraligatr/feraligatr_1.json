@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a fierce water-type Pokemon with a powerful tail and strong jaws.",
+    "I want to see a Pokemon that resembles a crocodile but with vibrant blue scales.",
+    "Generate a Pokemon that is both aquatic and intimidating, showcasing vibrant colors.",
+    "Make a design of a Pokemon that has sharp red spikes and a muscular build.",
+    "Imagine a Pokemon with a robust body shape, reflecting its strength and agility.",
+    "Show me a Pokemon with a playful personality, swimming in its natural habitat.",
+    "Design a large, aquatic Pokemon that is known for its battle prowess and resilience."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Sharp red spikes on its back",
+      "Powerful jaws",
+      "Strong muscular build",
+      "Webbed feet",
+      "Long, thick tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Fierce",
+      "Protective"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Feraligatr/1.png",
+  "pokemon_name": "Feraligatr"
+}

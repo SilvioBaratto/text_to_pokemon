@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with bright blue fur and oversized ears reminiscent of a bunny.",
+    "Imagine a playful creature that loves to splash in ponds, featuring a round body and cheerful expression.",
+    "Design a Pokemon that resembles a small blue ball with white spots and big floppy ears.",
+    "Show me a cute aquatic Pokemon that has a bubbly personality and enjoys playing with friends.",
+    "Generate a Pokemon that thrives in grasslands and has a round shape with a cheerful vibe.",
+    "Make a Pokemon that is friendly and loves to swim, with large ears and a bubbly tail.",
+    "Give me a whimsical creature that combines the charm of a rabbit and the playfulness of water."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large floppy ears",
+      "Round body with white spots",
+      "Tail resembling a water balloon",
+      "Cheerful facial expression",
+      "Short limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Fairy",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Friendly"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Azumarill/2.png",
+  "pokemon_name": "Azumarill"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a flying-type Pokemon with striking orange feathers and a sharp beak.",
+    "Imagine a bird Pokemon that has vibrant colors and a fierce demeanor.",
+    "Design a Pokemon that embodies the spirit of the skies with a mix of warmth and agility.",
+    "Make a Pokemon that has a sleek body and bright wings, perfect for swift aerial maneuvers.",
+    "Show me a Pokemon that rules the skies with colorful plumage and a confident stance.",
+    "Generate a unique bird-like Pokemon that is both elegant and powerful in flight.",
+    "Give me a visual concept of a Pokemon that has a sunny disposition and a majestic wingspan."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, pointed beak",
+      "Large, colorful wings",
+      "Streamlined body",
+      "Sharp talons",
+      "Distinctive tail feathers"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Confident",
+      "Agile",
+      "Vigilant"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Fast and aggressive"
+  },
+  "image_path": "images/Fearow/1.png",
+  "pokemon_name": "Fearow"
+}

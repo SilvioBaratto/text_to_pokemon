@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a Fire-type Pokemon that has a yellow body and fiery mane.",
+    "Imagine a Pokemon featuring a large flame on its back, with a sleek yellow design.",
+    "Show me a creature that embodies the essence of fire, with intense colors and dynamic features.",
+    "Generate a Pokemon that looks like a fierce fire creature, with a flamboyant tail and sharp eyes.",
+    "Design a mythical Pokemon with volcanic patterns and an explosive personality.",
+    "Give me a fierce-looking Pokemon that has a combination of orange and black colors.",
+    "Make a Pokemon that resembles a fiery beast, perfect for battling in mountainous terrains."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Red",
+      "accent": "Black"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flaming mane",
+      "Slender body",
+      "Pointed ears",
+      "Unique tail shape",
+      "Hot flames erupting from back"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Loyal",
+      "Brave"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Typhlosion/2.png",
+  "pokemon_name": "Typhlosion"
+}

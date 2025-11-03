@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a unique Pokemon that has a digital appearance with bright colors and a playful personality.",
+    "Imagine a Pokemon that resembles a computer program, with vibrant hues and a quirky design.",
+    "Design a creature that embodies technology and has a friendly demeanor, perfect for trainers.",
+    "Generate a futuristic Pokemon with a mix of pink and blue, showcasing its tech-inspired features.",
+    "Make a Pokemon that combines playful colors and a unique shape, appealing to both young and old trainers.",
+    "Show me a digital-themed Pokemon with a fun personality, primarily in shades of pink and blue.",
+    "Give me a Pokemon with an abstract design, featuring bright colors and a friendly expression."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Polygonal body shape",
+      "Large circular eyes",
+      "Short tail",
+      "Smooth surface",
+      "Digital-like appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Porygon2/2.png",
+  "pokemon_name": "Porygon2"
+}

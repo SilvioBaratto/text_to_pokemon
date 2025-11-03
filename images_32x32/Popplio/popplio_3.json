@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a playful water-type Pokemon with a blue body and a cheerful expression.",
+    "Imagine a small aquatic creature with a clown-like appearance and bright features.",
+    "Design a Pokemon that dances joyfully in the waves with a vibrant blue color scheme.",
+    "Show me a cute Pokemon that loves to entertain others with its playful tricks.",
+    "Generate a friendly water-type Pokemon that thrives in sea habitats and has a bubbly personality.",
+    "Make a whimsical Pokemon that resembles a seal and has a soft, cheerful demeanor.",
+    "Give me a water-type starter Pokemon that embodies joy and playfulness in its design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White",
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": "Pink"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Clown-like nose",
+      "Fluffy collar",
+      "Large expressive eyes",
+      "Flipper-like arms",
+      "Curvy tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Joyful",
+      "Cheerful"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Popplio/3.png",
+  "pokemon_name": "Popplio"
+}

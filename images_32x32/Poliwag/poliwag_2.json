@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a smooth, rounded body and unique spiral patterns.",
+    "Imagine a playful aquatic creature that loves to swim and splash in ponds.",
+    "Show me a small, blue Pokemon that has a distinct tail and large expressive eyes.",
+    "Design a cute, round water Pokemon with fins and a cheerful disposition.",
+    "Generate a Pokemon that thrives in wetlands, featuring a sleek body and charming face.",
+    "Give me a quirky aquatic creature with a spiral belly and energetic personality.",
+    "Make a whimsical water Pokemon that can easily blend into its watery habitat."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Spiral pattern on belly",
+      "Small fins",
+      "Large round eyes",
+      "Smooth, rounded body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Poliwag/2.png",
+  "pokemon_name": "Poliwag"
+}

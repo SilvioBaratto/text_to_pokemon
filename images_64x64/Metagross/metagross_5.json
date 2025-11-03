@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a steel-type Pokemon with a metallic body and four arms.",
+    "Imagine a psychic-type creature that resembles a giant robotic spider.",
+    "Design a futuristic Pokemon that combines metal and psychic powers.",
+    "Show me a Pokemon that can levitate and has a sleek, angular design.",
+    "Generate a powerful, metallic Pokemon known for its strategic battle tactics.",
+    "Give me a Pokemon with a tough exterior and psychic abilities.",
+    "Make a Pokemon image featuring a strong, armored creature with a unique shape."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Brown",
+      "accent": "Gray"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Four metallic limbs",
+      "Central blue body",
+      "Angular design",
+      "Robotic appearance",
+      "Visible psychic energy"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Psychic",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Strategic",
+      "Intelligent",
+      "Determined"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive and tactical"
+  },
+  "image_path": "images/Metagross/5.png",
+  "pokemon_name": "Metagross"
+}

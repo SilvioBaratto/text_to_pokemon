@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a giant, friendly Pokemon that loves to sleep and eat berries.",
+    "Imagine a cuddly, round Pokemon with a big belly lounging under a tree.",
+    "Design a laid-back Pokemon that enjoys napping in sunny fields.",
+    "Generate a sleepy creature surrounded by a pile of delicious fruits.",
+    "Show me a massive, drowsy Pokemon that blocks paths while snoozing.",
+    "Make a gentle giant Pokemon with soft fur and a love for food.",
+    "Give me a robust, sleepy Pokemon that rolls when it gets up."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Green",
+      "accent": "Brown"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Huge",
+    "distinctive_features": [
+      "Large round body",
+      "Closed eyes",
+      "Wide mouth",
+      "Short limbs",
+      "Belly that appears to be full"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Lazy",
+      "Gentle",
+      "Gluttonous"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Snorlax/1.png",
+  "pokemon_name": "Snorlax"
+}

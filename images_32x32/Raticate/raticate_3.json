@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a bipedal Pokemon with striking yellow fur and a lightning bolt tail.",
+    "Imagine a mischievous little creature with oversized ears and a penchant for stealing food.",
+    "Design a Pokemon that blends into urban environments, with shades of gray and a sleek body.",
+    "Generate a fluffy creature with a bushy tail and bright orange accents, perfect for a forest setting.",
+    "Show me a Pokemon that resembles a small mammal, with a playful personality and a knack for scavenging.",
+    "Make a tiny Pokemon that thrives in urban jungles, with a mix of brown and beige fur.",
+    "Give me a whimsical design of a creature that can fit in your pocket, with adorable whiskers and big eyes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Orange"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": "Orange"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large whiskers",
+      "Short limbs",
+      "Small ears",
+      "Thick tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cunning",
+      "Curious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Raticate/3.png",
+  "pokemon_name": "Raticate"
+}

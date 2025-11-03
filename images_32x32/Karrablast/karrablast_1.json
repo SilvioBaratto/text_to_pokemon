@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a blue bug-type Pokemon with a round body and a fierce expression.",
+    "I want a Pokemon that resembles a small armored creature with yellow accents.",
+    "Generate an image of a bug Pokemon with a playful personality and a shell.",
+    "Make a design for a Pokemon that looks like a blue beetle with a quirky grin.",
+    "Imagine a Pokemon with a unique color combination of blue and yellow, perfect for a forest habitat.",
+    "Show me a tiny Pokemon that has an unusual shape and vibrant colors.",
+    "Design a Pokemon with distinct features like big eyes and a bold color scheme."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body shape",
+      "Large eyes",
+      "Armored shell",
+      "Fierce expression",
+      "Small limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Fierce"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Physical attacker"
+  },
+  "image_path": "images/Karrablast/1.png",
+  "pokemon_name": "Karrablast"
+}

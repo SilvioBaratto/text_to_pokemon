@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a sleek, blue body and coral-like features.",
+    "Imagine a unique aquatic creature inspired by seahorses, with vibrant colors and flowing fins.",
+    "Design a Pokemon that resembles a dragon but lives underwater, showcasing shades of blue.",
+    "Give me a Pokemon that has a serpentine shape, with scaly textures and spiky fins.",
+    "Show me a water Pokemon that has both elegance and a fierce demeanor.",
+    "Generate a Pokemon with a combination of soft curves and sharp spikes, primarily in blue.",
+    "Make a mystical creature that dwells in oceans, with iridescent scales and a long tail."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long, slender body",
+      "Spiky fins",
+      "Curled tail",
+      "White, shell-like underbelly",
+      "Delicate, dragon-like head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Seadra/2.png",
+  "pokemon_name": "Seadra"
+}

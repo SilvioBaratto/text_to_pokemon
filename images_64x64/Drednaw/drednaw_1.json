@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a turtle-like appearance and vibrant blue and green colors.",
+    "Imagine a Pokemon that combines features of a turtle and a dinosaur, with rocky textures on its shell.",
+    "Generate a Pokemon inspired by ancient sea creatures, featuring a strong jaw and armored body.",
+    "Design a Pokemon that thrives in aquatic environments, showcasing bright colors and a sturdy build.",
+    "Show me a powerful Pokemon that embodies resilience and strength, perfect for battling in water.",
+    "Make a Pokemon that has both aquatic and terrestrial attributes, with a unique shell design.",
+    "Give me a Pokemon that appears friendly yet fierce, with a dynamic color palette of blue and orange."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Orange",
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Green",
+      "accent": "Orange"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Armored shell",
+      "Strong jaw",
+      "Flipper-like limbs",
+      "Rocky texture on the back",
+      "Large size"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Rock",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Loyal",
+      "Protective"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Drednaw/1.png",
+  "pokemon_name": "Drednaw"
+}

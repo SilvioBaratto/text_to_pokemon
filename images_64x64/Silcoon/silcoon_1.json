@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that resembles a cocoon and has a shiny, silky texture.",
+    "Show me a Pokemon that is in its larval stage, featuring calming colors and a simple design.",
+    "Imagine a gentle Pokemon that evolves into a majestic butterfly, with intricate patterns and soft features.",
+    "Generate a Pokemon that thrives in forest habitats and has a serene, protective personality.",
+    "Make a bug Pokemon that has a round shape, is primarily white, and has striking red eyes.",
+    "Design a Pokemon that is small and cocoon-like, with a focus on transformation and growth.",
+    "Give me a Pokemon that is known for its camouflage abilities and has a soft, velvety appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Cocoon shape",
+      "Silky texture",
+      "Red eyes",
+      "Spiky protrusions",
+      "Soft appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Calm",
+      "Protective"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Silcoon/1.png",
+  "pokemon_name": "Silcoon"
+}

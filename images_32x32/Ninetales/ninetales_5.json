@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create an elegant ice-type Pokemon with multiple flowing tails and a mystical aura.",
+    "Show me a graceful creature resembling a fox, adorned with fluffy white fur and blue accents.",
+    "Generate a stunning Pokemon that embodies the beauty of ice and snow, with unique tail designs.",
+    "Design a magical ice-type Pokemon with shimmering fur and enchanting features, perfect for a snowy habitat.",
+    "Imagine a fox-like Pokemon that radiates icy elegance and has a serene demeanor.",
+    "Give me a mythical creature associated with winter, featuring beautiful tails and a calm presence.",
+    "Make a Pokemon that combines the charm of a fox with the coolness of ice, set in a mystical forest."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Nine long, flowing tails",
+      "Fluffy white fur",
+      "Elegant body shape",
+      "Blue accents on tails",
+      "Pointed ears"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Graceful",
+      "Mysterious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Ninetales/5.png",
+  "pokemon_name": "Ninetales"
+}

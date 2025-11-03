@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon with a tangled appearance and vibrant colors.",
+    "Design a cute Pokemon that blends into its forest surroundings with lots of vines.",
+    "Imagine a Pokemon that has a round body covered in blue tendrils and reddish feet.",
+    "Show me a Pokemon with a unique shape that resembles a ball of plants.",
+    "Generate a creature that thrives in grasslands and has a playful personality.",
+    "Make a Pokemon that can camouflage itself in various environments using its colors.",
+    "Give me an idea of a Pokemon known for its ability to ensnare others with its vines."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Covered in blue vines",
+      "Round body shape",
+      "Red feet",
+      "Two white eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Shy",
+      "Lively"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Tangela/0.png",
+  "pokemon_name": "Tangela"
+}

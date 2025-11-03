@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a fierce Bug-type Pokemon with sharp claws and a menacing demeanor.",
+    "Imagine a water-resistant creature that thrives in forests and mountains.",
+    "Design a Pokemon that combines both aquatic and terrestrial elements for unique adaptability.",
+    "Generate a gigantic insect-like Pokemon with a tough exoskeleton and vibrant colors.",
+    "Show me a Pokemon that uses its powerful pincers for both combat and defense.",
+    "Make a Pokemon that embodies the spirit of resilience and strategy in battles.",
+    "I want a Pokemon with a striking appearance that can blend into its surroundings."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Gray",
+      "accent": "Black"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Sharp pincers",
+      "Armored exoskeleton",
+      "Multiple legs",
+      "Large eyes",
+      "Spiky back"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Water",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Brave",
+      "Loyal",
+      "Strategic"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Golisopod/0.png",
+  "pokemon_name": "Golisopod"
+}

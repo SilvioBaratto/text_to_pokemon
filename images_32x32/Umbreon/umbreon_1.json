@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a dark-type Pokemon that thrives in moonlit forests with sleek fur and glowing patterns.",
+    "Imagine a Pokemon with a shadowy silhouette and bright yellow accents that enhance its stealth.",
+    "Design a sleek quadruped Pokemon with a mysterious aura and sharp, pointed ears for enhanced hearing.",
+    "Show me a medium-sized Pokemon with a black body and striking red eyes, perfect for nighttime adventures.",
+    "Generate a unique creature that blends seamlessly into urban landscapes, with features that reflect its stealthy nature.",
+    "Make a Pokemon that represents the essence of night, with a color palette inspired by twilight.",
+    "Give me a Pokemon that embodies elegance and mystery, with a design that captivates both trainers and foes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Glowing yellow rings on ears and body",
+      "Red eyes",
+      "Pointed ears",
+      "Sleek, smooth fur",
+      "Long, thin tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Cunning",
+      "Loyal"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Stealth and ambush"
+  },
+  "image_path": "images/Umbreon/1.png",
+  "pokemon_name": "Umbreon"
+}

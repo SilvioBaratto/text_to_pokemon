@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon that resembles a celestial body with a serene demeanor.",
+    "I want a mystical moon-inspired Pokemon with a calming presence and elegant shape.",
+    "Generate an image of a psychic creature with a pale color palette and unique features.",
+    "Make a Pokemon that embodies tranquility, featuring crescent shapes and soothing colors.",
+    "Imagine a Pokemon that floats gracefully in the night sky, radiating peaceful energy.",
+    "Design a celestial-themed Pokemon with a round body and distinctive markings.",
+    "Show me a unique Pokemon that combines lunar aesthetics with psychic abilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Brown",
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Brown",
+      "accent": "Pink"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Crescent moon shape",
+      "Single red eye",
+      "Smooth surface",
+      "Asymmetrical design"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Mysterious",
+      "Gentle"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Lunatone/1.png",
+  "pokemon_name": "Lunatone"
+}

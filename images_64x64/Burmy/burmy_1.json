@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with a round body and a unique camouflage pattern.",
+    "Imagine a Pokemon that blends into its surroundings and has a soft, fluffy appearance.",
+    "Show me a small, earthy Pokemon with a shell that resembles a rock.",
+    "Design a Pokemon that thrives in forests and has features reminiscent of insects.",
+    "Generate a Pokemon with a bulbous shape and a tough exterior for defense.",
+    "Give me an adorable Pokemon that can hide in plain sight using natural materials.",
+    "Make a Pokemon that can change its appearance based on its environment."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Gray",
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round body",
+      "Camouflaging ability",
+      "Gray top shell",
+      "Yellow eyes",
+      "Soft texture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Adaptable",
+      "Cautious",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Burmy/1.png",
+  "pokemon_name": "Burmy"
+}

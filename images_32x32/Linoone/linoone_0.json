@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a sleek, fast-moving Pokemon with a long body and a light brown fur.",
+    "Imagine a Pokemon that blends perfectly into forest landscapes, with a streamlined shape.",
+    "Design a small, agile creature that can traverse both urban and natural environments effortlessly.",
+    "Give me a Normal-type Pokemon that resembles a raccoon, known for its speed and adaptability.",
+    "Generate a Pokemon with distinctive white stripes and an overall sleek appearance, perfect for stealth.",
+    "Show me a crafty Pokemon that thrives in grassy areas, with a playful and curious demeanor.",
+    "Make a Pokemon that has a unique blend of brown and cream colors, showcasing agility and speed."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Sleek body shape",
+      "White stripes on the back",
+      "Pointed ears",
+      "Sharp claws",
+      "Bright blue eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Agile",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Linoone/0.png",
+  "pokemon_name": "Linoone"
+}

@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a cute fairy-type Pokemon that sings to soothe others and has a round body.",
+    "I want a Pokemon that can charm its opponents with melodic songs and has pink features.",
+    "Generate a tiny creature with large eyes and a whimsical personality that loves to nap.",
+    "Make a playful character with a soft appearance that can put others to sleep with its voice.",
+    "Imagine a Pokemon with a delightful smile and a bubbly personality that thrives in grassy areas.",
+    "Design a round, pink Pokemon that is known for its soothing abilities and loves to sing.",
+    "Show me a small, fairy-type Pokemon that has a playful nature and enjoys exploring urban environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large, round eyes",
+      "Soft, round body",
+      "Curly tuft of hair on top"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Singing",
+      "Charming"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Jigglypuff/2.png",
+  "pokemon_name": "Jigglypuff"
+}

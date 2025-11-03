@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon that has a large plant on its back and a friendly smile.",
+    "Show me a small, cute Pokemon with a green body and a bulb on its back.",
+    "Imagine a Pokemon with a round body, short legs, and a leafy top, perfect for a forest setting.",
+    "Generate a Pokemon with bright red eyes and a vibrant green color scheme, ideal for battling in nature.",
+    "Give me an image of a starter Pokemon that looks like a small dinosaur with a plant growing on it.",
+    "Design a Pokemon that has a gentle personality and is often found in grassy areas.",
+    "Make a Pokemon that evolves into a powerful creature but starts off as a small, green character."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large bulb on the back",
+      "Short legs",
+      "Round body",
+      "Red eyes",
+      "Small ears"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Bulbasaur/2.png",
+  "pokemon_name": "Bulbasaur"
+}

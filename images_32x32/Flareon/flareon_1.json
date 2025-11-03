@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a fiery Pokemon with fluffy orange fur and a fierce expression.",
+    "Show me a Pokemon that embodies the spirit of fire with a sleek design.",
+    "Design a vibrant fire-type creature with large, bushy tails and a playful demeanor.",
+    "Generate a Pokemon that radiates warmth and energy, with bright yellow highlights.",
+    "Imagine a petite fire-type Pokemon with a bold personality and striking colors.",
+    "Make a Pokemon that looks like a living flame, with swirling bright orange fur.",
+    "Give me a fierce fire Pokemon that would thrive in mountainous regions."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": null,
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy fur",
+      "Pointed ears",
+      "Bushy tail",
+      "Intense eyes",
+      "Flame-like mane"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Loyal",
+      "Energetic"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Flareon/1.png",
+  "pokemon_name": "Flareon"
+}

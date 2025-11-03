@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a steel-type Pokemon that resembles a mechanical creature with electricity flowing through it.",
+    "Generate a Pokemon with a futuristic design, featuring magnets and a sleek metallic body.",
+    "Show me a dual-type Pokemon that blends technology and nature in its appearance.",
+    "Imagine a Pokemon that has three rotating parts and emits sparks of electricity.",
+    "Design a Pokemon with a shiny blue exterior, capturing the essence of magnetism.",
+    "Make a Pokemon that looks like it could generate powerful electromagnetic fields.",
+    "Give me a Pokemon that embodies both science and electricity in its vibrant design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": "Gray"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Three magnet-like bodies",
+      "Shiny blue surface",
+      "Red accents on magnets",
+      "Magnetic field representation"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Steel",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Curious",
+      "Loyal"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Magneton/1.png",
+  "pokemon_name": "Magneton"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with metallic armor and fierce red eyes.",
+    "Show me a sturdy steel-type Pokemon that resembles an insect but has a unique twist.",
+    "Generate a Pokemon that combines the traits of an ant and a machine.",
+    "Imagine a Pokemon with a tough exterior and a strategic mind for battles.",
+    "Design a Pokemon that thrives in urban environments and has a strong defense.",
+    "Make a Pokemon that uses its agility and strength to outmaneuver opponents.",
+    "Give me a visually striking Pokemon that embodies the essence of teamwork."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Metallic exoskeleton",
+      "Long antennae",
+      "Sharp mandibles",
+      "Red eyes",
+      "Six legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Steel",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Strategic",
+      "Team-oriented"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Durant/0.png",
+  "pokemon_name": "Durant"
+}

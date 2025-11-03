@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon that resembles a zebra and has striking black and white stripes.",
+    "I want a fast Pokemon that has a sleek body and lightning bolt-like features.",
+    "Generate a Pokemon that embodies the spirit of a wild stallion with electric powers.",
+    "Make a quadrupedal Pokemon that combines agility and speed with a striking black and white color scheme.",
+    "Imagine a Pokemon that charges through grasslands with electric energy and has a wild personality.",
+    "Design a Pokemon known for its speed, with a body adorned in bold black and white patterns.",
+    "Show me a Pokemon that can unleash powerful electric attacks and has a strong presence in battles."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "White"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "White",
+      "accent": "Blue"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Zebra-like stripes",
+      "Long, pointed ears",
+      "Lightning bolt tail",
+      "Blue accents on ears",
+      "Sleek, muscular build"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Bold",
+      "Fierce"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Fast and aggressive"
+  },
+  "image_path": "images/Zebstrika/1.png",
+  "pokemon_name": "Zebstrika"
+}

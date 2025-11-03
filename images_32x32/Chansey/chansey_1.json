@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a cute, round Pokemon that loves to help others and has soft, fluffy features.",
+    "Make a pink, chubby creature that is known for its healing abilities and gentle nature.",
+    "Imagine a Pokemon with a unique egg-shaped body that brings joy to children in the forest.",
+    "Show me a friendly creature that has a calming presence and can heal its friends in battle.",
+    "Generate a Pokemon that has a cheerful expression, rosy accents, and a nurturing personality.",
+    "Design a lovable creature with large eyes and a pouch, perfect for carrying eggs and treats.",
+    "Give me a Pokemon that embodies comfort and care, often found in peaceful grassy areas."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, expressive eyes",
+      "Pouch containing an egg",
+      "Chubby, round body",
+      "Short arms and legs",
+      "Soft, floppy ears"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Nurturing",
+      "Gentle",
+      "Friendly"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Chansey/1.png",
+  "pokemon_name": "Chansey"
+}

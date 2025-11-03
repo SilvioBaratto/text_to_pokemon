@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a soothing green color and a unique flower-like head.",
+    "I want a small humanoid Pokemon that embodies tranquility and has a gentle expression.",
+    "Generate a Pokemon that evolves from a tiny creature into a powerful psychic being, adorned in soft colors.",
+    "Make a cute, fairy-like Pokemon featuring green and pink accents, perfect for forest habitats.",
+    "Imagine a Pokemon with a delicate appearance, capable of using mind-based abilities in battle.",
+    "Design a Pokemon with a serene personality, resembling a magical sprite found in grassy areas.",
+    "Show me a Pokemon that looks friendly and approachable, with a design that inspires calmness."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Pink"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": null,
+      "accent": "Pink"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Flower-like headpiece",
+      "Short stature",
+      "Large, expressive eyes",
+      "Small, delicate arms",
+      "Smooth, rounded body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Calm",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Ralts/1.png",
+  "pokemon_name": "Ralts"
+}

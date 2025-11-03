@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon that changes its type based on the environment.",
+    "Show me a Pokemon with a sleek design, featuring green accents and a white body.",
+    "Imagine a Pokemon that can adapt to any battle, combining speed and strategy.",
+    "Design a creature inspired by ancient legends, with a modern twist and vibrant colors.",
+    "Give me a unique Pokemon that can blend into both urban and natural habitats.",
+    "Generate a Pokemon with distinctive features like sharp fins and a powerful stance.",
+    "Make a Pokemon that embodies the spirit of teamwork and versatility in battles."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Green",
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Black",
+      "accent": "Green"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Dual-colored body with a mix of white and black",
+      "Prominent green fins on the head",
+      "Red markings on the face",
+      "Robust limbs",
+      "Large, stylized tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Adaptable",
+      "Strategic",
+      "Loyal"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Versatile"
+  },
+  "image_path": "images/Silvally/2.png",
+  "pokemon_name": "Silvally"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a majestic fire-type Pokemon resembling a lion with a vivid red mane.",
+    "I want a fierce, quadrupedal Pokemon that embodies the spirit of flames and bravery.",
+    "Generate a Pokemon that looks like a lion, with fiery colors and a proud stance.",
+    "Make a unique fire and normal-type Pokemon that has a striking appearance and intimidating gaze.",
+    "Imagine a Pokemon with a fiery mane and a sleek black body, ready for battle.",
+    "Design a Pokemon that combines elements of a lion and flames, showcasing power and elegance.",
+    "Show me a Pokemon with a majestic mane that glows like fire, embodying confidence and strength."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Black"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Flame-like mane",
+      "Long tail",
+      "Feline body structure",
+      "Sharp blue eyes",
+      "Distinctive tufted ears"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Normal",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Proud",
+      "Confident",
+      "Brave"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Pyroar/2.png",
+  "pokemon_name": "Pyroar"
+}

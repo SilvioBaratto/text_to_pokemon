@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a steel-type Pokemon with a spiky design and a green accent.",
+    "I want a Pokemon that resembles a plant with metallic textures and vibrant colors.",
+    "Generate an image of a defensive Pokemon made of steel with unique botanical features.",
+    "Make a quirky Pokemon with a round body and multiple green appendages.",
+    "Imagine a Pokemon that blends nature and machinery, showcasing iron and plant elements.",
+    "Design a Pokemon that has a tough exterior but a friendly demeanor, surrounded by nature.",
+    "Show me a Pokemon that thrives in forests, with a body shaped like a steel ball."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Green"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": null,
+      "accent": "Green"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Spiky protrusions",
+      "Metallic body",
+      "Green tendrils",
+      "Round shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Grass",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Defensive",
+      "Resilient",
+      "Stoic"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Ferrothorn/1.png",
+  "pokemon_name": "Ferrothorn"
+}

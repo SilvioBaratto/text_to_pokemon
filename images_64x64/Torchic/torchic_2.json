@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a small fire-type Pokemon with bright orange feathers and a playful attitude.",
+    "Imagine a cute, round Pokemon that has a yellow crest and loves to play in grasslands.",
+    "Show me a tiny, fire-type creature that has orange fur and a friendly personality.",
+    "Design a Pokemon that resembles a baby bird, featuring orange and yellow colors.",
+    "Generate a fire-type starter Pokemon that has a unique fluffy tail and cheerful expression.",
+    "Make a Pokemon with a plump body shape and bright colors, perfect for forest habitats.",
+    "Give me a visual of an adorable Pokemon with a round shape and vibrant colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": null,
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Fluffy yellow crest on head",
+      "Small round body",
+      "Short legs",
+      "Beak-like mouth",
+      "Bright orange coloring"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Energetic"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Torchic/2.png",
+  "pokemon_name": "Torchic"
+}

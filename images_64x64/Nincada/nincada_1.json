@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that resembles a small insect with a hard shell and unique features.",
+    "Show me a Pokemon with a gray and green color palette, perfect for camouflage in forests.",
+    "Imagine a tiny creature that hides in trees, sporting a unique shell and capable of evolving drastically.",
+    "Generate a Pokemon that is often found in caves and grasslands, with a distinctive insect-like appearance.",
+    "Make a Pokemon that looks like a bug with a unique body shape and features adapted to its habitat.",
+    "Design a small Pokemon with a sturdy build and earthy colors, making it blend into its natural surroundings.",
+    "Give me a Pokemon that can evolve into a powerful creature, but starts as a small, unassuming insect."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Green",
+      "accent": "Brown"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Hard exoskeleton",
+      "Large, prominent eyes",
+      "Two long, thin antennae",
+      "Small legs adapted for digging"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Ground",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Shy",
+      "Adaptable",
+      "Resilient"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Nincada/1.png",
+  "pokemon_name": "Nincada"
+}

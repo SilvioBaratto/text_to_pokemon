@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon that embodies the beauty of flowers and has a gentle demeanor.",
+    "Show me a Pokemon that can transform with the seasons, featuring vibrant colors and soft features.",
+    "Design a small, winged Pokemon that thrives in lush environments, with delicate petals as wings.",
+    "Generate a Pokemon known for its healing abilities, adorned with nature-inspired elements and a serene expression.",
+    "Imagine a grassy Pokemon with a playful personality, surrounded by blooming flowers and bright skies.",
+    "Make a Pokemon that represents renewal and growth, with a soft body and nature-themed adornments.",
+    "Give me a mythical creature that symbolizes harmony, combining elements of flora and elegant design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "White"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "White",
+      "accent": "Red"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Petal-like wings",
+      "Floral motifs on body",
+      "Leafy elements on head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Flying",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": true,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Playful",
+      "Caring"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Shaymin/1.png",
+  "pokemon_name": "Shaymin"
+}

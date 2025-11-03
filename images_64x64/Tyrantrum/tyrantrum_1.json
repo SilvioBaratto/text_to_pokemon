@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a dinosaur-like Pokemon with a fierce expression and sharp teeth.",
+    "I want a robust dragon Pokemon that has a mix of earthy and fiery colors.",
+    "Generate a powerful Pokemon resembling a T-Rex with spiky features and a strong stance.",
+    "Make a Pokemon that embodies strength and ferocity, complete with jagged spines and a roaring mouth.",
+    "Imagine a prehistoric Pokemon with a vibrant palette and a menacing glare.",
+    "Design a Pokemon inspired by ancient reptiles, featuring unique textures and colors.",
+    "Give me a Pokemon that looks both intimidating and majestic, with a strong build and striking colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Orange",
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Brown",
+      "accent": "Orange"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large jaw with sharp teeth",
+      "Spiky back protrusions",
+      "Strong muscular limbs",
+      "Tail with a thick base",
+      "Distinctive crest on the head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Dragon",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Proud",
+      "Territorial"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Tyrantrum/1.png",
+  "pokemon_name": "Tyrantrum"
+}

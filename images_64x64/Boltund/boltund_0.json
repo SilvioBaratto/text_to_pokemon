@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create an Electric-type Pokemon that has sleek fur and a playful demeanor.",
+    "Show me a Pokemon with a canine appearance and striking yellow and gray colors.",
+    "Imagine a fast-moving Pokemon that resembles a dog, perfect for urban environments.",
+    "Design a Pokemon that embodies loyalty and energy, with vibrant colors and distinct features.",
+    "Generate a Pokemon that thrives in grassy areas, with a unique electric charge in its fur.",
+    "Give me a Pokemon that has a sleek, quadruped form and a bright, friendly expression.",
+    "Make a Pokemon that has a playful personality and strikes a balance between strength and speed."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Gray"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Gray",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Pointed ears",
+      "Long tail",
+      "Sleek body",
+      "Energetic stance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Loyal",
+      "Energetic"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Speed-focused"
+  },
+  "image_path": "images/Boltund/0.png",
+  "pokemon_name": "Boltund"
+}

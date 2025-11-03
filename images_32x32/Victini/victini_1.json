@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a small, adorable Pokemon with a fiery red crest and blue, expressive eyes.",
+    "I want a legendary creature that embodies the spirit of victory and has a cute, playful demeanor.",
+    "Generate a unique Pokemon with a yellow body and vibrant red accents that shines with energy.",
+    "Make a whimsical Pokemon that can inspire courage and has a charming, childlike appearance.",
+    "Imagine a tiny Pokemon with large ears and a sharp triangular head, ready to bring joy.",
+    "Design a mythical Pokemon that thrives in urban areas and has an affinity for victory.",
+    "Show me a bright Pokemon that radiates positivity and has an energetic, playful combat style."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Red",
+      "accent": "Blue"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Triangular red crest",
+      "Large blue eyes",
+      "Small, rounded ears",
+      "Short limbs",
+      "Tail resembling a flame"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Fire",
+    "generation": 5,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Joyful",
+      "Inspiring"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Victini/1.png",
+  "pokemon_name": "Victini"
+}

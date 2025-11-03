@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a fierce fire-type Pokemon with a flaming tail and sharp claws.",
+    "Imagine a bipedal creature that breathes fire, with orange and cream scales.",
+    "Design a Pokemon that evolves from a small lizard to a powerful dragon.",
+    "Show me a middle-stage Pokemon that has a passionate and aggressive personality.",
+    "Generate a Pokemon with dynamic poses, showcasing its agility and fiery spirit.",
+    "Make a Pokemon with vibrant red and white patterns, reminiscent of a blazing flame.",
+    "Give me a unique Pokemon that thrives in mountainous terrains and forests."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "White",
+      "accent": "Orange"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Flaming tail",
+      "Sharp claws",
+      "Pointed snout",
+      "Red and white patterning",
+      "Agile stance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Passionate",
+      "Courageous"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Charmeleon/2.png",
+  "pokemon_name": "Charmeleon"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a snake-like Pokemon with a purple body and a yellow accent.",
+    "Imagine a Pokemon that can camouflage in grasslands and forests.",
+    "Show me a serpentine creature that uses poison in battles.",
+    "Generate a Pokemon that embodies cunning and stealth in its design.",
+    "Design a creature that slithers through urban areas, evoking a sense of danger.",
+    "Make a Pokemon with a sleek, elongated shape and a fierce expression.",
+    "Give me a visual representation of a sneaky, purple snake Pokemon."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Elongated body",
+      "Forked tongue",
+      "V-shaped head",
+      "Yellow collar-like band"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Stealthy",
+      "Aggressive"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Status Infliction"
+  },
+  "image_path": "images/Ekans/2.png",
+  "pokemon_name": "Ekans"
+}

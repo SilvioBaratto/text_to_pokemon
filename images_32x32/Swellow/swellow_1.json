@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bird-like Pokemon with vibrant colors and an impressive wingspan.",
+    "I want a flying-type Pokemon that embodies grace and speed during flight.",
+    "Generate a Pokemon that resembles a blue and red swallow with striking features.",
+    "Make an agile Pokemon that can soar through the skies effortlessly.",
+    "Imagine a Pokemon with a sleek body and a colorful plumage for battle.",
+    "Design a Pokemon that thrives in urban areas and showcases its swift flying ability.",
+    "Show me a Pokemon known for its intelligence and adaptability in various environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Red"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Streamlined body",
+      "Long wings",
+      "Red throat",
+      "White underbelly"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Curious",
+      "Social"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Speed-focused"
+  },
+  "image_path": "images/Swellow/1.png",
+  "pokemon_name": "Swellow"
+}

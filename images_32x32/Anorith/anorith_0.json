@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a prehistoric creature with a sleek body and vibrant colors.",
+    "I want a bug-type Pokemon with unique appendages and a shell-like exterior that stands out in the wild.",
+    "Generate an insectoid Pokemon design featuring multiple eyes and a streamlined shape, inspired by ancient fossils.",
+    "Make a Pokemon that blends elements of rock and bug types, showcasing a mix of colors and a striking appearance.",
+    "Imagine a creature with a blend of aquatic and terrestrial traits, perfect for both forest and cave habitats.",
+    "Design a Pokemon that has both shell and limb features, with a color palette that emphasizes greens and reds.",
+    "Give me a Pokemon that looks like a prehistoric bug, with unique colors and a fascinating evolutionary backstory."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Red",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Green",
+      "accent": "Red"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Multiple eye-like structures",
+      "Claw-like appendages",
+      "Shell-like body segments",
+      "Segmented limbs",
+      "Red accents on a primarily black body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Rock",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Adaptable",
+      "Energetic"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Anorith/0.png",
+  "pokemon_name": "Anorith"
+}

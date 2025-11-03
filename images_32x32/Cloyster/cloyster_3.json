@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a spiky shell and a mysterious dark core.",
+    "I want a Pokemon that has a purple exterior and a fierce appearance.",
+    "Generate a Pokemon that resembles a clam with sharp spikes and a hidden face.",
+    "Make a creature that is both defensive and aggressive, situated in aquatic environments.",
+    "Imagine a Pokemon with a unique shell design that can close tightly to protect itself.",
+    "Design a dual-type Pokemon with a blend of aquatic and defensive traits.",
+    "Show me a Pokemon that thrives in the sea and has a strong, defensive nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Black",
+      "accent": "Gray"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Spiky shell",
+      "Dark core",
+      "Clam-like shape",
+      "Sharp edges",
+      "Closed appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Ice",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Defensive",
+      "Aggressive"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive and strategic"
+  },
+  "image_path": "images/Cloyster/3.png",
+  "pokemon_name": "Cloyster"
+}

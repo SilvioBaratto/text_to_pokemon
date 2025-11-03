@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a green Pokemon with a plump body and a playful expression.",
+    "Imagine a cute, round creature that can slide around effortlessly.",
+    "Give me a small, jelly-like Pokemon that has a yellow antenna on its head.",
+    "Generate a Pokemon that embodies the essence of a swamp with a soft green color.",
+    "Show me a Pokemon that looks like it just ate a big meal and is ready for a nap.",
+    "Design a Pokemon that thrives in wetlands and has a gooey appearance.",
+    "Make a simple yet charming creature that can blend into grassy environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Plump, rounded body",
+      "Small, yellow antenna",
+      "Large, expressive black eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Lazy"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Gulpin/0.png",
+  "pokemon_name": "Gulpin"
+}

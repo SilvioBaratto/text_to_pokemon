@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a sleek fish with vibrant colors and a friendly smile.",
+    "Design a playful aquatic creature with a streamlined body and a cheerful expression.",
+    "Imagine a small fish Pokemon with a brown body and an orange stripe, perfect for swimming fast.",
+    "Show me a unique aquatic Pokemon that has a mix of brown and yellow colors with distinct markings.",
+    "Generate an image of a tiny Pokemon that loves to swim in lakes and rivers, showcasing its agility.",
+    "Make a Pokemon that looks like a fish, featuring a friendly face and distinct coloration for a playful vibe.",
+    "Give me a concept for a water-type Pokemon that embodies speed and agility with a fun personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Yellow",
+      "accent": "Orange"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Streamlined body",
+      "Smiling face",
+      "Orange stripe",
+      "Lateral line markings",
+      "Small fins"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Agile"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Speed-focused"
+  },
+  "image_path": "images/Arrokuda/0.png",
+  "pokemon_name": "Arrokuda"
+}

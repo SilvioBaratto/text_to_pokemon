@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a majestic bird Pokemon that embodies the colors of fire and the sky.",
+    "Show me an ancient legendary Pokemon with bright red feathers and a powerful aura.",
+    "Design a dual-type Pokemon that blends vibrant yellow and red colors in its wings.",
+    "Imagine a mythical creature that soars through the clouds with a radiant rainbow tail.",
+    "Generate a legendary Pokemon that represents both fire and flying types with stunning plumage.",
+    "Give me a bird Pokemon with a regal appearance, adorned in fiery colors and a proud stance.",
+    "Make a Pokemon that has a unique combination of red, yellow, and blue, symbolizing its ancient powers."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Yellow",
+      "accent": "Blue"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Colorful plumage with red and yellow feathers",
+      "Long, elegant wings",
+      "Distinctive rainbow tail",
+      "Prominent chest with blue accents",
+      "Golden beak"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Proud",
+      "Majestic",
+      "Protective"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Ho-oh/1.png",
+  "pokemon_name": "Ho-oh"
+}

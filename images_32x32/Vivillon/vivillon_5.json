@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a colorful butterfly Pokemon that flutters gracefully through the meadows.",
+    "I want a Pokemon that can camouflage with flowers and has vibrant wings.",
+    "Generate a bug-type Pokemon with unique patterns on its wings and a friendly demeanor.",
+    "Make a fairy-like Pokemon that enjoys sunny days and loves to dance in the air.",
+    "Imagine a Pokemon that can change its colors based on the environment and has delicate antennae.",
+    "Design a lightweight Pokemon that gracefully glides above forests and fields.",
+    "Show me a Pokemon that represents beauty and has a joyful personality, with shimmering wings."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Colorful patterned wings",
+      "Delicate antennae",
+      "Insectoid body shape",
+      "Large wings relative to body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Joyful",
+      "Gentle",
+      "Playful"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Vivillon/5.png",
+  "pokemon_name": "Vivillon"
+}

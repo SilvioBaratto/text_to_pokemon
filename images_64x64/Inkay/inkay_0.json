@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that has a playful personality and loves to swim.",
+    "Imagine a Pokemon with a blue body and pink accents, resembling a jellyfish.",
+    "Show me a small aquatic Pokemon with unique features that help it camouflage in the water.",
+    "Generate a creature that has an adorable design and can confuse its opponents in battle.",
+    "Make a Pokemon that thrives in urban environments and has both water and psychic abilities.",
+    "Design a Pokemon that evolves from a cute fish into a majestic sea creature.",
+    "Give me an image of a Pokemon that has a round shape and is known for its shiny body."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Pink",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Pink",
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body shape",
+      "Large expressive eyes",
+      "Tentacle-like fins",
+      "Soft pink hat-like structure",
+      "Small size resembling a jellyfish"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": "Psychic",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Evasive"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Tricks and surprises"
+  },
+  "image_path": "images/Inkay/0.png",
+  "pokemon_name": "Inkay"
+}

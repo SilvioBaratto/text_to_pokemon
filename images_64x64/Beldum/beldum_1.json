@@ -1,0 +1,49 @@
+{
+  "prompts": [
+    "Create a steel-type Pokemon that resembles a blue metallic creature with a single eye.",
+    "I want a Pokemon with a sleek, rounded body and a shiny blue exterior.",
+    "Generate an image of a small, humanoid Pokemon that has a prominent red eye.",
+    "Make a robotic Pokemon with a blue body and a distinct eye, suitable for a futuristic setting.",
+    "Imagine a Pokemon that looks like a small, blue steel ball with an eye, perfect for a game.",
+    "Design a cute, blue steel creature with a single eye and a simple design.",
+    "Show me a Pokemon that embodies a combination of robotics and nature with a blue color scheme."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": "Red"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Single large red eye",
+      "Smooth metallic surface",
+      "Rounded body shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Loyal"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Beldum/1.png",
+  "pokemon_name": "Beldum"
+}

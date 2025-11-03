@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a fluffy Pokemon with light blue fur and white puffballs adorning its body.",
+    "Show me a whimsical creature that floats gracefully in the wind, resembling a cotton ball.",
+    "Imagine a playful Pokemon that loves to dance among flowers and can float effortlessly.",
+    "Generate a cute Pokemon with round, balloon-like features and a cheerful expression.",
+    "Make a Pokemon that resembles a soft cloud, with a bright blue body and fluffy white accents.",
+    "Design a charming Pokemon that thrives in sunny meadows and enjoys the company of others.",
+    "Give me a serene Pokemon that embodies the essence of gentle breezes and soft skies."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy white spheres on each side",
+      "Round body shape",
+      "Bright red flower accents",
+      "Cheerful expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Gentle",
+      "Joyful"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Jumpluff/1.png",
+  "pokemon_name": "Jumpluff"
+}

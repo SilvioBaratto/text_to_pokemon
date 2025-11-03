@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that looks like a small blue tadpole with a spiral pattern.",
+    "Show me a cute Pokemon that resembles a tiny aquatic creature with a bubbly personality.",
+    "Imagine a playful water Pokemon that has a round body and a cheerful expression.",
+    "Generate a design for a Pokemon that embodies the essence of a frog with a vibrant blue color.",
+    "Make a Pokemon that is agile and loves to swim, featuring distinct swirling patterns.",
+    "Design a Pokemon that thrives in water habitats and has a soft, round appearance.",
+    "Give me a water-type creature that is small, friendly, and has a unique tail fin."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Spiral pattern on the belly",
+      "Large, round eyes",
+      "Thin, fin-like tail",
+      "Small, rounded body",
+      "Cute, cheerful expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Poliwag/1.png",
+  "pokemon_name": "Poliwag"
+}

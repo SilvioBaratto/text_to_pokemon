@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a flying-type Pokemon with a round body and fluffy feathers.",
+    "Show me a bird Pokemon that has a cheerful expression and bright colors.",
+    "Design a small, agile Pokemon that flits around in forests and parks.",
+    "Imagine a cute Pokemon that has a mix of gray and orange coloring.",
+    "Generate a Pokemon that looks like a little sparrow with an adorable beak.",
+    "Make a whimsical Pokemon that loves to sing and flutter among trees.",
+    "Give me a tiny, energetic Pokemon that enjoys playing in grassy areas."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "White"
+    ],
+    "secondary_colors": [
+      "Brown",
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Brown",
+      "accent": "Orange"
+    },
+    "body_shape": "Winged",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round body",
+      "Short wings",
+      "Orange beak",
+      "Fluffy tail",
+      "Black eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Energetic"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Starly/1.png",
+  "pokemon_name": "Starly"
+}

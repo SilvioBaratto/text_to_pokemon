@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create an aquatic Pokemon that resembles a balloon with spikes and a vibrant color scheme.",
+    "Imagine a sea creature Pokemon with a round body, sharp quills, and a cheerful expression.",
+    "Generate a water-type Pokemon that looks like a pufferfish with bright yellow and blue colors.",
+    "Design a cute yet spiky Pokemon that swims in oceans and has a playful personality.",
+    "Make a Pokemon that has a round shape, is covered in spikes, and is known for its defensive capabilities.",
+    "Show me a Pokemon that combines features of a fish and a balloon, perfect for underwater battles.",
+    "Give me an image of a small, spiky Pokemon with a unique color palette and curious demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Spiky body",
+      "Round shape",
+      "Visible mouth",
+      "Small fin-like tail",
+      "Colorful appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Poison",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Qwilfish/2.png",
+  "pokemon_name": "Qwilfish"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a mystical aura and shimmering wings.",
+    "I want a blue creature with red accents that floats gracefully in the air.",
+    "Generate a legendary Pokemon that embodies the essence of dreams and tranquility.",
+    "Make a creature that has a sleek, humanoid shape and a calming presence.",
+    "Imagine a small Pokemon with unique markings and a mysterious backstory.",
+    "Design a psychic Pokemon with a playful demeanor and a magenta color scheme.",
+    "Show me a creature that has a serene expression and is known for its wisdom."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, pointed head",
+      "Floating body",
+      "Red gem-like eyes",
+      "Long, flowing tail",
+      "Delicate wings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Mischievous",
+      "Playful"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Azelf/0.png",
+  "pokemon_name": "Azelf"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a sleek, serpentine body and vibrant blue fins.",
+    "Generate a creature that blends aquatic and land features, showcasing shades of brown and purple.",
+    "Imagine a small Pokemon with distinctive fin-like appendages and a playful personality.",
+    "Show me a Pokemon that thrives in wetland habitats, featuring a unique camouflage color scheme.",
+    "Design a Pokemon that resembles a small dragon, complete with aquatic traits and vibrant accents.",
+    "Make a water-type Pokemon that is known for its sneaky nature and ability to blend into its surroundings.",
+    "Give me a Pokemon that evolves from a small aquatic creature into a larger, more majestic form."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Blue",
+      "accent": "Purple"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Serpentine body",
+      "Fins resembling arms",
+      "Large expressive eyes",
+      "Colorful accents",
+      "Camouflaged skin pattern"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Poison",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cunning",
+      "Curious"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Skrelp/1.png",
+  "pokemon_name": "Skrelp"
+}

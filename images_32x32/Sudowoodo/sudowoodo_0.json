@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a tree-like Pokemon that blends in with its forest surroundings and has green foliage.",
+    "Imagine a bipedal Pokemon that resembles a wooden figure with leafy branches on its arms.",
+    "Design a playful rock-type Pokemon that looks like a small tree with a mischievous expression.",
+    "Show me a creature that embodies nature, with a strong trunk and vibrant green leaves.",
+    "Generate a Pokemon that has a wooden body and is known for its quirky personality in battles.",
+    "Make a unique Pokemon that cleverly disguises itself as a tree in various habitats.",
+    "Give me a design for a Pokemon that thrives in forest environments and has a sturdy appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Trunk-like body",
+      "Leafy branches on arms",
+      "Facial features resembling a wooden mask",
+      "Sturdy and robust appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Sturdy"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Sudowoodo/0.png",
+  "pokemon_name": "Sudowoodo"
+}

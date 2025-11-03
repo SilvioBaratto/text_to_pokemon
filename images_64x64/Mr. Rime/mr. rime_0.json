@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a whimsical, bipedal Pokemon with a blue and purple color scheme and a playful expression.",
+    "I want a Pokemon that has a clown-like appearance with bright red accents and a cheerful demeanor.",
+    "Generate a unique Pokemon that blends ice and psychic elements, featuring striking blue tones.",
+    "Make a Pokemon designed for urban environments, showcasing a mix of dark and light colors.",
+    "Imagine a mystical Pokemon with a quirky design that utilizes blue and red in its costume.",
+    "Design a Pokemon that radiates joy with a vibrant color palette and a comical stance.",
+    "Show me a Pokemon that embodies the spirit of laughter and magic with playful colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": "Purple"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Clown-like appearance",
+      "Large red nose",
+      "Blue and purple color scheme",
+      "Mischievous grin",
+      "Ice-themed ice skates"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": "Psychic",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Joyful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Support and Trickster"
+  },
+  "image_path": "images/Mr. Rime/0.png",
+  "pokemon_name": "Mr. Rime"
+}

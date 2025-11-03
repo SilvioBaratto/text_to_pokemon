@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon with elegant features and a royal demeanor.",
+    "I want a Pokemon that embodies beauty and strength, with a green and pink color scheme.",
+    "Generate a design for a Pokemon that looks like a queen of nature, surrounded by flowers.",
+    "Make a Pokemon that resembles a regal dancer, with flowing green leaves as attire.",
+    "Imagine a Pokemon that has a powerful kick and a graceful appearance in vibrant colors.",
+    "Design a Pokemon that thrives in lush environments, showcasing its royal status.",
+    "Give me an image of a Pokemon that combines elegance with fierce combat abilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Pink"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Pink",
+      "accent": "White"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Leaf-like crown",
+      "Elegant dress made of leaves",
+      "Long limbs with a graceful posture",
+      "Floral motifs on the body",
+      "Strong legs for kicking"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Fairy",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Elegant",
+      "Fierce",
+      "Regal"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Tsareena/0.png",
+  "pokemon_name": "Tsareena"
+}

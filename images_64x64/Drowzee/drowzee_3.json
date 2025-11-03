@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a yellow body and brown feet that can put others to sleep.",
+    "I want a Pokemon that looks like a sleepy creature, with a round shape and a unique nose.",
+    "Generate a Pokemon character that has a striking yellow color, resembling a creature from dreams.",
+    "Make a bipedal Pokemon that has a cuddly appearance and is known for its hypnotic abilities.",
+    "Imagine a Pokemon with a soft, rounded body that can be found in urban areas, often dreaming.",
+    "Design a Pokemon with large ears and a sleepy expression that thrives in forest habitats.",
+    "Give me a unique Pokemon that has distinctive brown hands and a knack for inducing sleep."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large ears",
+      "Round body",
+      "Distinctive nose",
+      "Brown arms and feet",
+      "Sleepy expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Sleepy",
+      "Calm",
+      "Dreamy"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Drowzee/3.png",
+  "pokemon_name": "Drowzee"
+}

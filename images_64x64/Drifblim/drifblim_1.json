@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that floats with a spooky aura and can disappear at will.",
+    "Show me a balloon-like Pokemon with a round body and colorful limbs ready for a festival.",
+    "Imagine a dual-type Pokemon that haunts the night skies, featuring a blend of purple and yellow colors.",
+    "Design a whimsical Pokemon with a friendly demeanor and a knack for surprising its trainers.",
+    "Give me a Pokemon that resembles a flying balloon, adorned with a quirky face and playful colors.",
+    "Make a Pokemon that guides lost souls with its ethereal presence, showcasing a unique shape and color scheme.",
+    "Generate a mysterious Pokemon that drifts through the air, featuring a patchwork of colors and cheerful features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Balloon-like body",
+      "Yellow fins resembling limbs",
+      "Face with a stitched mouth",
+      "Floating appearance",
+      "Patchwork pattern"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Flying",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Mysterious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Drifblim/1.png",
+  "pokemon_name": "Drifblim"
+}

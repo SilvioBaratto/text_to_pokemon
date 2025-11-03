@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a snake-like Pokemon with glowing eyes and a sleek silver body.",
+    "Imagine a dark-type Pokemon that blends into urban environments with a stealthy appearance.",
+    "Show me a serpentine creature with an intimidating presence and shiny metallic scales.",
+    "Generate a Pokemon that thrives in caves, featuring a unique design and sinister color palette.",
+    "Give me a Pokemon that embodies both elegance and danger, with accents of yellow on its body.",
+    "Design a Pokemon that can camouflage effectively in forest settings, with subtle shades of gray.",
+    "Make a creature that has a menacing look with sharp eyes and a fluid, snake-like form."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Black",
+      "accent": "Yellow"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Glowing yellow eyes",
+      "Sleek, smooth body",
+      "Distinctive hood-like shape",
+      "Sharp, angular design",
+      "Metallic sheen"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Intimidating",
+      "Stealthy"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Arbok/2.png",
+  "pokemon_name": "Arbok"
+}

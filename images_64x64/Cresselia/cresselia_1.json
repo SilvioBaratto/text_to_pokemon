@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon with a graceful appearance and celestial features.",
+    "I want a serene Pokemon that embodies tranquility and has dream-like qualities.",
+    "Generate an elegant creature with flowing shapes and a calming color palette.",
+    "Make a Pokemon that represents the night sky, featuring soft shades and a unique silhouette.",
+    "Imagine a ethereal being with psychic powers, adorned with elegant curves and bright colors.",
+    "Design a Pokemon with a soothing presence, perfect for calming the stormy seas.",
+    "Show me a legendary Pokemon that has a celestial theme and appears in tranquil settings."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Pink",
+      "accent": "Yellow"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Swan-like neck",
+      "Curved body",
+      "Shimmering wings",
+      "Celestial ring patterns"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Gentle",
+      "Dreamy"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Cresselia/1.png",
+  "pokemon_name": "Cresselia"
+}

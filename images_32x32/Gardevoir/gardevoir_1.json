@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with ethereal white robes and a green aura around its head.",
+    "Imagine a graceful Pokemon that can manipulate time and space with its elegant movements.",
+    "Show me a mystical creature that embodies elegance and power with a flowing dress-like body.",
+    "Generate a dual-type Pokemon that combines grace with psychic abilities, featuring a beautiful design.",
+    "Make a Pokemon that uses its psychic powers to protect its allies and calm foes.",
+    "Design a creature that thrives in serene environments, radiating peace and tranquility.",
+    "Give me a Pokemon that resembles a fairy tale character, with an enchanting presence and charm."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Green",
+      "accent": "Red"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long flowing dress-like body",
+      "Green hair with a distinctive head shape",
+      "Red gem on its chest",
+      "Elegant posture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Fairy",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Protective",
+      "Empathetic"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Gardevoir/1.png",
+  "pokemon_name": "Gardevoir"
+}

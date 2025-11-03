@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a smooth blue shell and furry ears.",
+    "I want to see a Pokemon that evolves from a small turtle to a larger creature.",
+    "Generate an aquatic Pokemon with a playful personality and unique tail features.",
+    "Make a Pokemon based on a turtle that has a mix of blue and white colors.",
+    "Imagine a Pokemon with a water-based combat style and a friendly demeanor.",
+    "Design a Pokemon that lives in wetlands and is known for its agility.",
+    "Give me a blue Pokemon that has distinct fluffy ears and a strong shell."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Fluffy ears",
+      "Furry tail",
+      "Smooth shell",
+      "Webbed feet"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Loyal"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Wartortle/0.png",
+  "pokemon_name": "Wartortle"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a Pokemon that embodies light and darkness with a sleek design.",
+    "I want a legendary figure that can manipulate light and shadow in battle.",
+    "Generate a unique creature with a cosmic theme and striking black and blue colors.",
+    "Make a Pokemon that looks like it came from another dimension with sharp angles.",
+    "Imagine a mystical being that radiates energy and has a starry appearance.",
+    "Design a powerful creature with the ability to absorb light and transform.",
+    "Show me a Pokemon that represents the balance between light and dark elements."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Sharp crystalline structure",
+      "Radiant wings",
+      "Angular body shape",
+      "Glowing accents"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Steel",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Intense",
+      "Strategic"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Necrozma/2.png",
+  "pokemon_name": "Necrozma"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a small fire-type Pokemon that embodies the spirit of a fiery volcano.",
+    "I want a cute and energetic Pokemon with a fiery personality and playful features.",
+    "Generate an image of a bipedal Pokemon with a flaming tail and a mischievous grin.",
+    "Make a vibrant fire-type Pokemon with red and yellow colors, showcasing its warm nature.",
+    "Imagine a playful, juvenile Pokemon that loves to explore volcanic caves and warm forests.",
+    "Design a Pokemon that resembles a small, fiery creature with unique flaming features.",
+    "Give me a lively fire-type Pokemon that enjoys playing in the heat of the sun."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": null,
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Flame-like hair on its head",
+      "Short arms and legs",
+      "Round body with a chubby appearance",
+      "Tail with a small flame",
+      "Large, expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Fast and aggressive"
+  },
+  "image_path": "images/Magby/0.png",
+  "pokemon_name": "Magby"
+}

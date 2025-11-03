@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghostly Pokemon that dances with vibrant colors and has an unusual shape.",
+    "I want a mysterious Pokemon that combines elements of fire and fun with a playful demeanor.",
+    "Generate a legendary Pokemon with a unique design that captivates both the eyes and the heart.",
+    "Make a quirky Pokemon that uses its colorful features to confuse its opponents in battles.",
+    "Imagine a Pokemon that thrives in various habitats, showcasing its bright and cheerful colors.",
+    "Design a fire-type Pokemon that embodies a playful spirit and has an artistic flair.",
+    "Show me a Pokemon that blends ghostly elements with vibrant, circus-like colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Yellow",
+      "accent": "Red"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Colorful head resembling a jester's hat",
+      "Long arms with colorful accents",
+      "Flame-like patterns on the body",
+      "Expressive facial features"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Ghost",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Curious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Blacephalon/0.png",
+  "pokemon_name": "Blacephalon"
+}

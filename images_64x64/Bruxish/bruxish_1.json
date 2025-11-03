@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a vibrant fish Pokemon with a mix of pink and yellow colors.",
+    "I want an aquatic creature that has a unique shape and bright patterns.",
+    "Generate a whimsical water-type Pokemon that stands out in any ocean.",
+    "Make a colorful sea Pokemon with a playful personality and bold features.",
+    "Imagine a Pokemon that embodies both beauty and danger, with striking colors.",
+    "Design a fantastical fish Pokemon that captivates trainers with its charm.",
+    "Give me a Pokemon with an eye-catching appearance that lives in coral reefs."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Yellow",
+      "accent": "Blue"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Brightly colored patterns",
+      "Large, prominent teeth",
+      "Curvy dorsal fin",
+      "Distinctive head shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Psychic",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Bold",
+      "Vibrant"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Bruxish/1.png",
+  "pokemon_name": "Bruxish"
+}

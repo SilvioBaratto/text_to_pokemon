@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a legendary bird Pokemon with vibrant colors and a majestic wingspan.",
+    "I want a mythical creature resembling a phoenix, with fiery plumage and a graceful flight.",
+    "Generate a majestic fire-type Pokemon that embodies the spirit of the sun.",
+    "Make a colorful winged Pokemon that radiates warmth and positivity.",
+    "Imagine a bird Pokemon that inspires hope and has a rainbow-like appearance.",
+    "Design a Pokemon with a fiery tail and shimmering wings that glows in sunlight.",
+    "Show me a Pokemon that combines elements of fire and air with brilliant colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Yellow",
+      "Green"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Radiant wings",
+      "Long tail feathers",
+      "Vibrant plumage",
+      "Golden beak",
+      "Fiery aura"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Noble",
+      "Brave",
+      "Inspiring"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Very Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Ho-oh/2.png",
+  "pokemon_name": "Ho-oh"
+}

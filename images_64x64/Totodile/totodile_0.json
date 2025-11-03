@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a playful personality and sharp teeth.",
+    "Generate an image of a Pokemon that resembles a small dinosaur, with blue scales.",
+    "Make a Pokemon that can swim quickly and has a cheerful demeanor.",
+    "Imagine a Pokemon with a large mouth, ready to bite into a delicious meal.",
+    "Show me a cute Pokemon that loves to splash around in the water.",
+    "Design a Pokemon that can be found near rivers and lakes, with bright colors.",
+    "Give me a water-type Pokemon that is known for its energetic and lively spirit."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large mouth",
+      "Sharp teeth",
+      "Spiky dorsal fins",
+      "Short limbs",
+      "Tail with a rounded tip"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Curious"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Totodile/0.png",
+  "pokemon_name": "Totodile"
+}

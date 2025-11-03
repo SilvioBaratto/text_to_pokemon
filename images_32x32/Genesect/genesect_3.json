@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a robotic Pokemon with a sleek purple design and red accents that can transform.",
+    "I want an advanced Bug-type Pokemon with metallic features and a futuristic look.",
+    "Generate a Pokemon that resembles a high-tech insect, complete with antennae and glowing elements.",
+    "Make a Pokemon that combines both Bug and Steel types with an emphasis on agility and technology.",
+    "Imagine a powerful Pokemon with a bipedal stance and sharp, mechanical claws ready for battle.",
+    "Design a legendary Pokemon with a cybernetic appearance and unique abilities related to technology.",
+    "Show me a Pokemon whose body resembles a blend of a bug and a battle mech."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Red",
+      "accent": "Gray"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Metallic exoskeleton",
+      "Large, sharp claws",
+      "Antennas on head",
+      "Unique robotic limbs",
+      "Red highlights on body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Steel",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Strategic",
+      "Technologically advanced"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "High-tech and agile"
+  },
+  "image_path": "images/Genesect/3.png",
+  "pokemon_name": "Genesect"
+}

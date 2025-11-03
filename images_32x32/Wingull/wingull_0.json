@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a sleek body and white feathers for a coastal environment.",
+    "Imagine a cheerful bird Pokemon that glides gracefully over the ocean waves.",
+    "Give me a design for a small, friendly Pokemon that loves to play near the shore.",
+    "Show me a flying Pokemon that has blue stripes and a white body, perfect for beach adventures.",
+    "Generate a cute, winged creature that can be found nesting on cliffs by the sea.",
+    "Make a Pokemon that embodies the spirit of the ocean, with vibrant colors and a playful demeanor.",
+    "Design a water and flying-type Pokemon that uses its wings to soar above tropical landscapes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Blue",
+      "accent": "Orange"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long wings",
+      "White plumage",
+      "Blue markings",
+      "Beak with orange tip",
+      "Streamlined body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Flying",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Wingull/0.png",
+  "pokemon_name": "Wingull"
+}

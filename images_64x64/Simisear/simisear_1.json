@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a playful fire-type Pokemon with bright red fur and a mischievous grin.",
+    "Show me a small fire-type creature that loves to play in urban areas.",
+    "Imagine a bipedal Pokemon with flame-like features and a vibrant orange tail.",
+    "Generate a unique Pokemon that embodies the spirit of fire and adventure.",
+    "Design a cute fire-type Pokemon with a fluffy mane and an energetic personality.",
+    "Give me a character that thrives in forest habitats and uses fire-based attacks.",
+    "Make a Pokemon that looks like a little monkey with fiery traits and a friendly demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Yellow",
+      "accent": "Orange"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Flame-like tuft on head",
+      "Long, curly tail",
+      "Large ears",
+      "Bright yellow underbelly",
+      "Cheerful expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Mischievous"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Simisear/1.png",
+  "pokemon_name": "Simisear"
+}

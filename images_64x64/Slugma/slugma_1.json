@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a small, fiery creature with a molten body and glowing eyes.",
+    "I want a Pokemon that resembles a lava blob, with a bright orange color and a playful attitude.",
+    "Generate an image of a fire-type Pokemon that has a squishy, amorphous form and is always warm to the touch.",
+    "Make a Slugma-like creature that has a vibrant red color and is often found in volcanic regions.",
+    "Imagine a Pokemon with a bubbly, molten appearance, showcasing its bright colors and unique features.",
+    "Design a small, fire-themed Pokemon that has a round shape and fiery accents.",
+    "Show me a Pokemon that embodies the essence of magma, with a smooth texture and vivid colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Orange"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": null,
+      "accent": "Orange"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Glowing yellow eyes",
+      "Melted, lava-like texture",
+      "Small, amorphous body",
+      "Wavy, flowing edges"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Warm-hearted"
+    ],
+    "habitat": "Cave",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Slugma/1.png",
+  "pokemon_name": "Slugma"
+}

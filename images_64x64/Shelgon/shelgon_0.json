@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Show me a sturdy dragon Pokemon with a shell-like body and metallic features.",
+    "Create a Pokemon that resembles a rock with a tough exterior and hidden power.",
+    "Generate a dragon-type Pokemon that embodies resilience and strength in its design.",
+    "Design a Pokemon with a round, armored appearance, perfect for defensive strategies.",
+    "Imagine a Pokemon that evolves from a basic form into a powerful dragon creature.",
+    "Give me a Pokemon that thrives in mountainous terrains and has rock-like attributes.",
+    "Make a Pokemon with a sleek, shiny surface and a tough, protective shell."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "White"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Armored shell",
+      "Round body",
+      "Sharp facial features",
+      "Small limbs",
+      "Shiny surface"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Resilient",
+      "Protective",
+      "Determined"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Shelgon/0.png",
+  "pokemon_name": "Shelgon"
+}

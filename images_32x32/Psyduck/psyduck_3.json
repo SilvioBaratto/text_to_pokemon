@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a small yellow duck with a confused expression.",
+    "Show me a Pokemon that looks like a Psyduck but has a different color scheme and playful personality.",
+    "Imagine a cute aquatic Pokemon with a round body and webbed feet, perfect for swimming.",
+    "Generate a character design for a Pokemon inspired by Psyduck but with a mystical aura.",
+    "Make a quirky Pokemon that embodies the confusion and charm of Psyduck with unique features.",
+    "Design a water-type Pokemon that has a similar shape to Psyduck but includes additional accessories.",
+    "Give me a Psyduck-inspired Pokemon with exaggerated features like oversized eyes and fluffy hair."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body",
+      "Webbed feet",
+      "Large round eyes",
+      "Small beak",
+      "Frizzed tuft of hair"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Confused",
+      "Clumsy",
+      "Friendly"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Psyduck/3.png",
+  "pokemon_name": "Psyduck"
+}

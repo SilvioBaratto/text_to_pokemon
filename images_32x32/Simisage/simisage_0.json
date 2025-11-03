@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon with vibrant green fur and a playful demeanor.",
+    "Design a Pokemon resembling a monkey, featuring leaf-like ears and a bright green body.",
+    "Show me an agile Pokemon that thrives in forests and loves to climb trees.",
+    "Imagine a Pokemon that uses nature to enhance its abilities, with a charming appearance.",
+    "Generate a Pokemon that embodies the spirit of the jungle, with lively colors and a mischievous grin.",
+    "Give me a Pokemon with bright green skin and a knack for acrobatics in the wild.",
+    "Make a Pokemon that blends in well with foliage, showcasing a joyful personality and agility."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Leaf-like ears",
+      "Bushy tail",
+      "Furry body",
+      "Facial markings resembling a smile"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Agile"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Speed and agility-focused"
+  },
+  "image_path": "images/Simisage/0.png",
+  "pokemon_name": "Simisage"
+}

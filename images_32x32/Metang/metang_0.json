@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a metallic Pokemon that showcases strength and resilience with a powerful stance.",
+    "I want a Pokemon that combines elements of technology and nature, appearing sleek and sophisticated.",
+    "Generate a Steel-type Pokemon with sharp features and an imposing presence, perfect for a battle.",
+    "Make a Pokemon that glows with a bluish hue, symbolizing intelligence and strategy in combat.",
+    "Imagine a Pokemon that looks like a futuristic machine, equipped with armor and advanced tools.",
+    "Design a Pokemon that embodies the essence of psychic powers with a cool, metallic shell.",
+    "Show me a Pokemon that thrives in urban landscapes, blending modernity with natural elements."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Gray",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Armored body",
+      "Angular limbs",
+      "Red eyes",
+      "Metallic sheen"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Psychic",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Strategic",
+      "Determined",
+      "Intelligent"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Metang/0.png",
+  "pokemon_name": "Metang"
+}

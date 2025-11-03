@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a flower-themed Pokemon that uses plant powers in battle.",
+    "I want a Pokemon that resembles a rose, with vibrant petals and a green body.",
+    "Generate a Pokemon with a graceful appearance and a unique mix of red and blue colors.",
+    "Make a nature-inspired Pokemon that thrives in urban environments and loves to battle.",
+    "Imagine a Pokemon that has both Grass and Poison types, showcasing stunning floral features.",
+    "Design a Pokemon that combines the elegance of flowers with a fierce fighting spirit.",
+    "Show me a Pokemon that embodies the beauty of nature while being a formidable opponent."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Red",
+      "accent": "Blue"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flower-like head with petals",
+      "Red rose on one side and blue flower on the other",
+      "Green leafy body",
+      "Elegant stance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Elegant",
+      "Playful",
+      "Protective"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Roserade/1.png",
+  "pokemon_name": "Roserade"
+}

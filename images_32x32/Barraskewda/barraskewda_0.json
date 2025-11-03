@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a fast fish with sleek, streamlined features.",
+    "Imagine a Pokemon with vibrant orange fins and a streamlined body, perfect for swimming.",
+    "Design a Pokemon that is primarily brown with striking red accents and a fish-like appearance.",
+    "Show me a Pokemon that has a fierce look, aquatic nature, and a strong swimming ability.",
+    "Generate a Pokemon that combines agility and speed, featuring a unique marine design.",
+    "Make a Pokemon that looks like it can dart through water with ease, showcasing vibrant colors.",
+    "Give me a Pokemon with a unique aquatic form, blending shades of brown and orange."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Orange"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": "Orange"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Streamlined body",
+      "Prominent orange fins",
+      "Sharp, angular head",
+      "Large, expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Agile",
+      "Fierce",
+      "Determined"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Fast and aggressive"
+  },
+  "image_path": "images/Barraskewda/0.png",
+  "pokemon_name": "Barraskewda"
+}

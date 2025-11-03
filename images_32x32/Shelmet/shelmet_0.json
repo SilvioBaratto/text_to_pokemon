@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with a shell-like body and a pink tongue sticking out.",
+    "I want a Pokemon that resembles a mollusk with a shiny exterior and vibrant color accents.",
+    "Generate an image of a Pokemon that is small, shelled, and has a playful personality.",
+    "Make a design for a Pokemon that has a unique mouth feature and lives in grassy habitats.",
+    "Imagine a Pokemon with a gray shell and a cute pink appendage, perfect for a children's game.",
+    "Show me a Pokemon that combines aquatic elements with a land-based design, showcasing both worlds.",
+    "Design a tiny Pokemon that has a defensive shell and is known for its charming personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Shell-like body",
+      "Prominent pink tongue",
+      "Curved shape",
+      "Two small antennae",
+      "Blue markings on shell"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Defensive"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Shelmet/0.png",
+  "pokemon_name": "Shelmet"
+}

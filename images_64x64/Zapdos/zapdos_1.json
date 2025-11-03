@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a mythical bird Pokemon with vibrant feathers and powerful wings.",
+    "Design an electric-type Pokemon that has a striking color pattern and fierce appearance.",
+    "Show me a legendary creature that soars through the skies and commands thunder.",
+    "Imagine a majestic flying Pokemon with bright colors and a distinctive beak.",
+    "Generate a Pokemon known for its speed and agility, adorned with colorful plumage.",
+    "Make an electric and flying hybrid Pokemon with feathers that resemble lightning bolts.",
+    "Give me a legendary Pokemon with a fierce look and an electrifying presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": "Orange"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Sharp, pointed beak",
+      "Prominent wings with jagged edges",
+      "Electric bolt-like crest",
+      "Talons with a fierce grip",
+      "Vibrant feather patterns"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Proud",
+      "Agile"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Zapdos/1.png",
+  "pokemon_name": "Zapdos"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a prehistoric turtle with a strong shell and aquatic features.",
+    "Imagine a Pokemon with a blue body and a rocky texture, perfect for a water-based environment.",
+    "Generate a creature that has a sturdy build and is capable of defending its territory in the ocean.",
+    "Design a Pokemon that combines aquatic and rock elements, showcasing a unique evolutionary adaptation.",
+    "Show me a Pokemon that has a powerful shell and sharp claws, ideal for both land and sea battles.",
+    "Make a visually striking Pokemon that uses its aquatic abilities to navigate through underwater caves.",
+    "I want a Pokemon character that embodies both strength and resilience, with a fierce look and aquatic traits."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Gray",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Rocky shell",
+      "Strong limbs",
+      "Aquatic fins",
+      "Small eyes",
+      "Large claws"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Rock",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Defensive",
+      "Loyal"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Carracosta/1.png",
+  "pokemon_name": "Carracosta"
+}

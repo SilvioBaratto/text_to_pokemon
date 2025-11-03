@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a bipedal fire-type Pokemon with orange fur and a mystical aura.",
+    "Show me a Pokemon that resembles a fox, featuring vibrant red and yellow colors.",
+    "Imagine a creature that can wield fire, with a sleek design and magical abilities.",
+    "Design a Pokemon with a fox-like appearance, adorned in red and brown hues.",
+    "Generate a character that embodies wisdom and fire, standing tall with flowing fur.",
+    "Make a fantasy Pokemon that blends elements of fire and psychic powers.",
+    "Give me an illustration of a Pokemon that is both cunning and powerful, with distinctive features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Yellow",
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Brown",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flame on the tip of the wand",
+      "Fox-like face",
+      "Long, flowing fur",
+      "Pointed ears",
+      "Robust tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Psychic",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Wise",
+      "Cunning",
+      "Mystical"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Delphox/0.png",
+  "pokemon_name": "Delphox"
+}

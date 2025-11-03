@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with metallic green armor and sharp pincers.",
+    "Imagine a powerful insectoid Pokemon that can fly and has a sleek design.",
+    "Show me a steel-type Pokemon with a striking red and silver color scheme.",
+    "Design a Pokemon with large claws and a menacing appearance for a battle scene.",
+    "Generate a Pokemon that thrives in urban environments with a sleek, agile build.",
+    "Make a Pokemon that has a combination of speed and strength with a vibrant color palette.",
+    "Give me a character design for a Pokemon that looks intimidating yet elegant."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Sharp pincers",
+      "Metallic exoskeleton",
+      "Wings",
+      "Red carapace",
+      "Blue accents"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Steel",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Cunning",
+      "Loyal"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Physical attacker"
+  },
+  "image_path": "images/Scizor/1.png",
+  "pokemon_name": "Scizor"
+}

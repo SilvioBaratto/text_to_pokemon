@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create an ice-type Pokemon that resembles a fox and has sparkling blue fur.",
+    "I want a Pokemon with pointy ears and icy blue features, perfect for snowy environments.",
+    "Generate a cute quadruped Pokemon with a shimmering icy tail and delicate wings.",
+    "Make a frosty creature with a playful personality and a sleek, elegant form.",
+    "Imagine a Pokemon that thrives in cold habitats, featuring a light blue color scheme.",
+    "Design an adorable ice-elemental creature with unique frost-like fur and big ears.",
+    "Show me a Pokemon with a slender body and a cheerful demeanor, set in a winter landscape."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Pointed ears",
+      "Fluffy tail",
+      "Bright blue fur",
+      "Frosty patterns on body",
+      "Elegant stance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Loyal"
+    ],
+    "habitat": "Tundra",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Glaceon/0.png",
+  "pokemon_name": "Glaceon"
+}

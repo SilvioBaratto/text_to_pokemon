@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a bird-like Pokemon with vibrant feathers and a striking crest.",
+    "I want a flying-type Pokemon that embodies agility with sleek wings and a cheerful demeanor.",
+    "Generate a Pokemon with a distinct color palette of red, yellow, and white, showcasing its elegance in flight.",
+    "Make a Pokemon that resembles a majestic falcon, with sharp features and a proud stance.",
+    "Imagine a swift, aerial Pokemon that thrives in grasslands, displaying a mix of strength and beauty.",
+    "Design a small bird Pokemon that has a colorful tail and a playful personality, perfect for trainers.",
+    "Show me a Pokemon that combines grace and tenacity, with a color scheme that includes red and yellow."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Distinctive red crest",
+      "Yellow tail feathers",
+      "Brown and white plumage",
+      "Sharp beak",
+      "Long wings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Loyal"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Aerial Attacker"
+  },
+  "image_path": "images/Pidgeotto/2.png",
+  "pokemon_name": "Pidgeotto"
+}

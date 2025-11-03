@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a fire-type Pokemon with a fiery mane and agile limbs for a fierce battle.",
+    "I want a Pokemon that embodies speed and fire, with bright orange fur and a dynamic pose.",
+    "Generate a Pokemon that resembles a monkey, showcasing flames and intense energy.",
+    "Make a design featuring a bipedal creature with a playful personality and fiery attacks.",
+    "Imagine a Pokemon that thrives in mountainous terrains, with vibrant colors and fierce eyes.",
+    "Show me an energetic Pokemon that can unleash powerful fire moves in combat.",
+    "Design a Pokemon with a striking appearance, blending agility and flame-themed features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Orange",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Brown",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flame on the head",
+      "Long tail resembling a flame",
+      "Muscular limbs",
+      "Facial markings",
+      "Agile stance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Fighting",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Playful",
+      "Determined"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Common",
+    "combat_style": "Aggressive and fast-paced"
+  },
+  "image_path": "images/Infernape/1.png",
+  "pokemon_name": "Infernape"
+}

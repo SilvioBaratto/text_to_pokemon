@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with a sleek, serpentine body and glowing accents.",
+    "Imagine a mythical creature that combines elements of darkness and powerful energy.",
+    "Design an intimidating Pokemon that features sharp spikes and a vibrant color scheme.",
+    "Show me a legendary Pokemon characterized by its unique dual-type abilities and massive wings.",
+    "Generate a Pokemon that embodies both power and mystery with a striking appearance.",
+    "Give me a creature that thrives in urban environments, with a design that reflects chaos.",
+    "Make a Pokemon that represents the fusion of dragon and ghost types with dark elements."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Black",
+      "accent": "Red"
+    },
+    "body_shape": "Winged",
+    "size_class": "Huge",
+    "distinctive_features": [
+      "Spikey protrusions",
+      "Large wings",
+      "Glowing elements",
+      "Serpentine tail",
+      "Unique elongated body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Poison",
+    "generation": 8,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Powerful",
+      "Intimidating"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Eternatus/1.png",
+  "pokemon_name": "Eternatus"
+}

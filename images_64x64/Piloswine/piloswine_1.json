@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a powerful Ice-type Pokemon that resembles a furry mammoth with big tusks.",
+    "Show me a Pokemon with a fluffy brown exterior and icy blue tusks.",
+    "Generate a Pokemon that combines features of a mammoth and a pig, focusing on its snow habitat.",
+    "Design a Pokemon that thrives in cold environments, featuring a large, round body and a distinctively furry look.",
+    "Imagine a Pokemon with a thick, shaggy coat and prominent tusks, perfect for snowy terrains.",
+    "Make a Pokemon that embodies the essence of winter, with a cute yet robust appearance.",
+    "Give me a unique Ice-type creature that has a heavy build and a playful demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": "Blue"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Shaggy fur",
+      "Prominent tusks",
+      "Small eyes",
+      "Rounded body",
+      "Short legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": "Ground",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Stubborn",
+      "Affectionate"
+    ],
+    "habitat": "Tundra",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Piloswine/1.png",
+  "pokemon_name": "Piloswine"
+}

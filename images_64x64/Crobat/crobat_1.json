@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a purple and teal Pokemon that has large wings and a sleek body.",
+    "Generate an image of a bat-like creature with a vibrant color scheme and sharp features.",
+    "Design a creature with a unique flying ability, featuring a blend of blue and purple hues.",
+    "Show me a Pokemon that thrives in urban areas and has a stealthy demeanor.",
+    "Imagine a Pokemon known for its speed and agility, adorned with striking wing patterns.",
+    "Make a Pokemon that is elusive and prefers to inhabit caves and forests.",
+    "Give me a depiction of a dual-type Pokemon that exudes a sense of mystery and grace."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large, pointed wings",
+      "Sharp fangs",
+      "Big, expressive eyes",
+      "Sleek body",
+      "Curved ears"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Agile",
+      "Stealthy",
+      "Playful"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Crobat/1.png",
+  "pokemon_name": "Crobat"
+}

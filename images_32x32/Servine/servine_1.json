@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon with sleek green features and an elegant posture.",
+    "I want a Pokemon that resembles a serpentine creature with vibrant green colors.",
+    "Generate a design for a bipedal Pokemon with leafy accents and sharp eyes.",
+    "Make a character that embodies a graceful grass-type Pokemon with a slender body.",
+    "Imagine a Pokemon that combines elegance and agility, featuring green and cream colors.",
+    "Design a Pokemon with a unique serpentine shape and distinctive leafy traits.",
+    "Show me a grass-type Pokemon that looks both agile and wise, with striking colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "White"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Leafy tail",
+      "Sleek body",
+      "Sharp red eyes",
+      "Leaf-like appendage on neck"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Agile",
+      "Graceful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Speed-focused"
+  },
+  "image_path": "images/Servine/1.png",
+  "pokemon_name": "Servine"
+}

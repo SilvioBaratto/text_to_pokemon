@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that transforms into a beautiful butterfly.",
+    "Imagine a green Pokemon with a hard shell that can withstand attacks.",
+    "Design a small, cocoon-like Pokemon that evolves into a powerful creature.",
+    "Generate a Pokemon that resembles a leaf, blending perfectly with nature.",
+    "Show me a Pokemon that symbolizes transformation and growth in the wild.",
+    "Give me a bug-type Pokemon that thrives in grassy areas and forests.",
+    "Make a Pokemon that has a tough exterior but is gentle at heart."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Cocoon shape",
+      "Smooth surface",
+      "Large green body",
+      "Single eye spot",
+      "Lacks limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Patient",
+      "Calm",
+      "Protective"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Metapod/3.png",
+  "pokemon_name": "Metapod"
+}

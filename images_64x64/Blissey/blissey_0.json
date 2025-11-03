@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a Pokemon that embodies joy and happiness, with a round body and big eyes.",
+    "I want a cute, pink Pokemon that carries an egg, resembling a guardian figure.",
+    "Generate a friendly-looking Pokemon with fluffy features and a nurturing presence.",
+    "Make a Pokemon that exudes cuteness, with soft colors and gentle expressions.",
+    "Imagine a healing-type Pokemon that looks like a cuddly creature with magical properties.",
+    "Design a Pokemon that represents care and comfort, with large, comforting wings.",
+    "Show me a blissful Pokemon that thrives in urban settings, making friends everywhere."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Round body",
+      "Large, expressive eyes",
+      "Fluffy, wing-like arms",
+      "Lump on the head",
+      "Carrying an egg"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Fairy",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Caring",
+      "Joyful",
+      "Gentle"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Blissey/0.png",
+  "pokemon_name": "Blissey"
+}

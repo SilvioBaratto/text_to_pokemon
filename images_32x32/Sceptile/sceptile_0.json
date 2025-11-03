@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a green, bipedal Pokemon with sharp claws and a leafy tail that can blend in with its surroundings.",
+    "Imagine a Pokemon that embodies agility and stealth, featuring vibrant green colors and a fierce look.",
+    "Design a final evolution Pokemon that uses grass and speed to outmaneuver its opponents in battle.",
+    "Show me a Pokemon with a unique blend of nature and martial prowess, ready to defend its territory.",
+    "Generate a Pokemon that thrives in forest habitats, adorned with bright green foliage and sleek features.",
+    "Make a creature that showcases its power with a lush, leafy back and a determined stance.",
+    "Give me a Pokemon that combines speed and strategy, featuring a sleek body and sharp leaves."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Leafy tail",
+      "Sharp claws",
+      "Spiky back",
+      "Bright yellow markings",
+      "Slender limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Agile",
+      "Stealthy",
+      "Determined"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Speed and strategy"
+  },
+  "image_path": "images/Sceptile/0.png",
+  "pokemon_name": "Sceptile"
+}

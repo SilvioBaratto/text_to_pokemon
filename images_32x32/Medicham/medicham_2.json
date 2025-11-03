@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with elegant features and a serene expression.",
+    "Show me a bipedal creature that blends fighting and psychic powers in its design.",
+    "Imagine a Pokemon that can float gracefully with a mix of pink and yellow colors.",
+    "Generate a unique Pokemon inspired by traditional martial arts, featuring a vibrant color palette.",
+    "Design a character that embodies balance and harmony, showcasing both strength and wisdom.",
+    "Make a playful yet strong Pokemon that thrives in grassy forests and urban areas.",
+    "Give me a fighting-type Pokemon adorned with decorative elements and a peaceful demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Bipedal stance",
+      "Round, bulbous body",
+      "Long, flowing arms",
+      "Distinctive headpiece",
+      "Yellow belt-like accessory"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": "Psychic",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Disciplined",
+      "Calm",
+      "Supportive"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Balanced"
+  },
+  "image_path": "images/Medicham/2.png",
+  "pokemon_name": "Medicham"
+}

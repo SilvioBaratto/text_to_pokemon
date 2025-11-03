@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a large, ground-type Pokemon inspired by a hippo with sandy colors and a big mouth.",
+    "I want a Pokemon that resembles a hippo, has earthy tones, and can control sandstorms.",
+    "Generate a Pokemon that looks like a massive hippo, with a distinct sandy habitat and powerful jaws.",
+    "Make a hippo-like Pokemon, featuring brown and gray colors, perfect for battling in desert terrains.",
+    "Imagine a Pokemon with a bulky body shape and a sandy color palette, ideal for ground battles.",
+    "Design a Pokemon that embodies a massive, sandy creature, with a strong presence in desert environments.",
+    "Show me a hippo-themed Pokemon that has unique features and a fierce combat style."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Gray"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large mouth",
+      "Thick body",
+      "Sand surrounding",
+      "Short legs",
+      "Tusks"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Stubborn",
+      "Protective",
+      "Calm"
+    ],
+    "habitat": "Desert",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Hippowdon/0.png",
+  "pokemon_name": "Hippowdon"
+}

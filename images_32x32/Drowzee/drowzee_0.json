@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a playful psychic-type Pokemon with a round body and a silly expression.",
+    "Imagine a bipedal Pokemon that uses dreams to battle its foes.",
+    "Design a creature that loves to nap, featuring yellow skin and dark pants.",
+    "Generate a quirky character that thrives in urban habitats and loves to snack.",
+    "Show me a medium-sized Pokemon with a unique nose and a big smile.",
+    "Make a Pokemon that can hypnotize its opponents, with a distinctively chunky look.",
+    "Give me a fun and sleepy Pokemon that enjoys hanging out in grasslands."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large snout",
+      "Big ears",
+      "Chubby body",
+      "Sleepy eyes",
+      "Round limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Sleepy",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Psychic attacks"
+  },
+  "image_path": "images/Drowzee/0.png",
+  "pokemon_name": "Drowzee"
+}

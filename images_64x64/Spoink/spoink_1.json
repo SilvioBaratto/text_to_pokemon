@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create an adorable Psychic-type Pokemon that bounces on a spring-like tail and has a cute smile.",
+    "I want a small, round Pokemon with a pink head and a spiraled body for my Pokedex.",
+    "Generate a whimsical creature that has a gray body and a pink accent on its head, resembling a playful ball.",
+    "Make a Pokemon design that features a joyful character with a bouncing motion and psychic powers.",
+    "Imagine a tiny Pokemon that loves to hop around and has a unique spring-like feature.",
+    "Design a Pokemon with a round shape, a cute face, and a playful personality for a fun game.",
+    "Show me a Pokemon with a plush appearance and a light, cheerful vibe that captivates trainers."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Spring-like tail",
+      "Round body",
+      "Large pink head",
+      "Big expressive eyes",
+      "Small ears"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Energetic"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Spoink/1.png",
+  "pokemon_name": "Spoink"
+}

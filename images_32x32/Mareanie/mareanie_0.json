@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with spiky purple armor and a soft aqua tail.",
+    "I want a unique Pokemon that can thrive underwater and has vibrant colors.",
+    "Generate a creature that resembles a jellyfish but has a more solid form.",
+    "Make a Pokemon that has a dual nature of both aquatic and poison characteristics.",
+    "Imagine a Pokemon that can camouflage in coral reefs with colorful spikes.",
+    "Design a Pokemon that embodies the essence of the ocean with a fierce appearance.",
+    "Show me a Pokemon that is small, colorful, and has distinct aquatic features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Spiky protrusions",
+      "Tentacle-like extensions",
+      "Soft, flowing body",
+      "Brightly colored patterns"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Poison",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Defensive",
+      "Cunning"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Status infliction and defense"
+  },
+  "image_path": "images/Mareanie/0.png",
+  "pokemon_name": "Mareanie"
+}

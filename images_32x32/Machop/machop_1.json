@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bipedal Pokemon that excels in fighting with muscular features and an intense gaze.",
+    "I want a small, blue-colored Pokemon with a unique head accessory that shows off its strength.",
+    "Generate a fighting-type Pokemon that has a tough demeanor and is always ready to spar.",
+    "Make a Pokemon with a strong build, featuring a vibrant color palette, that embodies resilience.",
+    "Imagine a Pokemon with defined muscles and a bold expression, perfect for competitive battles.",
+    "Design a Pokemon that resembles a training athlete, with distinct colors and an energetic stance.",
+    "Give me a Pokemon that is known for its fighting skills, with a striking blue color and powerful limbs."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Defined muscles",
+      "Unique headband accessory",
+      "Strong arms and legs",
+      "Intense facial expression",
+      "Athletic posture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Energetic",
+      "Competitive"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Common",
+    "combat_style": "Close-range combat"
+  },
+  "image_path": "images/Machop/1.png",
+  "pokemon_name": "Machop"
+}

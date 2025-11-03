@@ -1,0 +1,57 @@
+{
+  "prompts": [
+    "Create a Pokemon that embodies the essence of a colorful jester with playful features.",
+    "I want a ghostly creature with a whimsical design, combining bright colors and unique patterns.",
+    "Generate a mythical Pokemon with an abstract shape, showcasing vibrant hues and a mysterious aura.",
+    "Make a bipedal Pokemon with balloon-like features and an array of striking colors.",
+    "Imagine a Pokemon that blends fire and psychic elements, adorned with a rainbow of colors.",
+    "Design a playful ghost-type Pokemon that has a jester theme and uses colorful patterns.",
+    "Show me a unique Pokemon that captivates with its vibrant color palette and quirky design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Blue",
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Blue",
+      "accent": "Pink"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Balloon-like head",
+      "Colorful body patterns",
+      "Long arms",
+      "Jester-like appearance",
+      "Vibrant color palette"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Ghost",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Energetic"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Blacephalon/1.png",
+  "pokemon_name": "Blacephalon"
+}

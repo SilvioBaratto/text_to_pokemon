@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a playful fire-type Pokemon with vibrant red fur and large yellow ears.",
+    "Generate a cute monkey Pokemon that has a fiery personality and a love for adventure.",
+    "Imagine a small, energetic Pokemon with a flame on its head and a cheeky grin.",
+    "Design a bipedal creature with red and yellow colors, perfect for a forest setting.",
+    "Show me a Pokemon that embodies warmth and enthusiasm, with a fiery tail and friendly eyes.",
+    "Make an adorable fire-type Pokemon that thrives in urban environments, known for its mischief.",
+    "Give me a dynamic little monkey Pokemon with a strong affinity for heat and playfulness."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Flame on its head",
+      "Large round ears",
+      "Curved tail",
+      "Cheerful expression",
+      "Short limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Cheerful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Pansear/1.png",
+  "pokemon_name": "Pansear"
+}

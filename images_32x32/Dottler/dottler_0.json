@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with a vibrant yellow shell and blue accents.",
+    "I want a Pokemon that resembles a small, armored creature with a hexagonal shape.",
+    "Generate a whimsical Pokemon that combines features of insects and minerals.",
+    "Make a Pokemon that has a shiny, golden color and is known for its intelligence.",
+    "Imagine a Pokemon that thrives in forest habitats and has a unique geometric design.",
+    "Design a Pokemon that is small in size but has a sturdy, protective exterior.",
+    "Show me a Pokemon that evolves from a cute, round form into a more complex creature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Blue",
+      "accent": "Brown"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Hexagonal shape",
+      "Large blue eyes",
+      "Armored appearance",
+      "Brown legs protruding from the bottom",
+      "Symmetrical design"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Psychic",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Intelligent",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Uncommon",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Dottler/0.png",
+  "pokemon_name": "Dottler"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that has a playful personality and a sleek, aquatic body.",
+    "Imagine a Pokemon that resembles a floating creature with soft, round features and gentle colors.",
+    "Generate a Pokemon design that incorporates elements of both ocean life and cute, cuddly aesthetics.",
+    "Show me a mythical water Pokemon that evolves from a smaller, basic form and has unique swimming abilities.",
+    "Make a Pokemon that thrives in aquatic environments and has a soothing presence in battle.",
+    "Design a cute, blue Pokemon that can glide through water effortlessly and has long, flowing fins.",
+    "Give me a Pokemon that embodies the spirit of the sea, with a charming smile and friendly demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body",
+      "Floppy fins",
+      "Large eyes",
+      "Soft texture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Gentle",
+      "Curious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Phione/1.png",
+  "pokemon_name": "Phione"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with a sleek design and subtle green accents.",
+    "I want a Pokemon that resembles an insect, with a predominantly white body and long antennae.",
+    "Generate a creature that has a unique evolution style, showcasing both bug and ghost elements.",
+    "Make a Pokemon that embodies the essence of a forest, with earthy tones and a camouflage feature.",
+    "Imagine a small, agile Pokemon that can blend seamlessly into its surroundings, perfect for stealth.",
+    "Design a Pokemon that has a shell-like appearance, showcasing shades of white and green.",
+    "Give me a Pokemon that represents transformation, with features that hint at its future evolution."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Green",
+      "accent": "Brown"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, prominent eyes",
+      "Antennae on the head",
+      "Translucent wings",
+      "Thin limbs",
+      "Shell-like back"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Stealthy",
+      "Adaptable"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Nincada/0.png",
+  "pokemon_name": "Nincada"
+}

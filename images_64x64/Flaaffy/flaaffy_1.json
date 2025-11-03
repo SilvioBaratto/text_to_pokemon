@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a fluffy Electric-type Pokemon that has a playful personality and loves to explore.",
+    "Imagine a cute Pokemon with cotton candy-like features and a cheerful demeanor, perfect for kids.",
+    "Show me a pink and blue creature that embodies joy, with a round body and a fluffy tail.",
+    "Generate a Pokemon that looks like a cute sheep, with vibrant colors and a friendly expression.",
+    "Design a Pokemon with soft, cloud-like fur and a spark of electricity in its personality.",
+    "Give me a whimsical Electric-type Pokemon with a bubbly appearance and a knack for mischief.",
+    "Make a Pokemon that resembles a small, adorable lamb with a bright color palette and lively traits."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Blue",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy, cloud-like wool",
+      "Curly tail",
+      "Large, expressive eyes",
+      "Pink and blue color scheme"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Flaaffy/1.png",
+  "pokemon_name": "Flaaffy"
+}

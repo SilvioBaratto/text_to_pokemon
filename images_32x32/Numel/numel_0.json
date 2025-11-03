@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a cute camel-like Pokemon that thrives in desert environments.",
+    "Imagine a small, round Pokemon with a yellow body and green accents.",
+    "Generate a Pokemon that resembles a friendly desert creature with a sunny personality.",
+    "Design a Pokemon that has a soft, rounded body and a laid-back demeanor.",
+    "Show me a Pokemon with a unique blend of yellow and green colors, perfect for sandy habitats.",
+    "Give me a Pokemon that looks like it could be a companion while exploring arid landscapes.",
+    "Make a Pokemon that embodies the spirit of warmth and resilience in harsh environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Rounded body",
+      "Camel-like appearance",
+      "Green patch on the back",
+      "Short legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Laid-back",
+      "Friendly",
+      "Resilient"
+    ],
+    "habitat": "Desert",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Numel/0.png",
+  "pokemon_name": "Numel"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a fairy-type Pokemon inspired by desserts, with a soft and fluffy appearance.",
+    "Show me a Pokemon that looks like a sweet treat, complete with colorful accents and a charming demeanor.",
+    "Imagine a Pokemon resembling a whipped cream dessert with a playful personality and pastel colors.",
+    "Generate a cute, fairy-type Pokemon that would fit well in a candy-themed world.",
+    "Design an adorable Pokemon that combines elements of sweets and nature, exuding a joyful vibe.",
+    "Give me a Pokemon with a whimsical design that embodies the essence of confectionery delights.",
+    "Make a Pokemon that looks like it just came out of a bakery, with delightful colors and shapes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "White"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Pink",
+      "accent": "Red"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Swirled cream-like body",
+      "Heart-shaped decorations",
+      "Soft, fluffy texture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Joyful",
+      "Charming"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Alcremie/0.png",
+  "pokemon_name": "Alcremie"
+}

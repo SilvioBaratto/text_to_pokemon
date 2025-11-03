@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a dark-type Pokemon with a sleek black body and striking red accents.",
+    "Show me a bipedal creature resembling a wolf, featuring unique facial markings.",
+    "Imagine a Pokemon with an urban habitat that blends into the city landscape.",
+    "Design a Pokemon that embodies a rebellious nature, with sharp claws and a fierce pose.",
+    "Generate a creature with a tough exterior and a cunning personality, set in a forest.",
+    "Give me a bipedal Pokemon that showcases agility and strength, perfect for urban battles.",
+    "Make a fierce-looking Pokemon with a striking contrast of colors for an eye-catching design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [
+      "Gray",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Gray",
+      "accent": "Red"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Distinctive facial markings",
+      "Sharp claws",
+      "Long ears",
+      "Thick mane",
+      "Aggressive stance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": "Normal",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Rebellious",
+      "Cunning",
+      "Protective"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Obstagoon/1.png",
+  "pokemon_name": "Obstagoon"
+}

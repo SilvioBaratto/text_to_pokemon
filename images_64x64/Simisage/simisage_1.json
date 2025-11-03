@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon with vibrant green fur and a playful personality.",
+    "Show me a monkey-like Pokemon that blends into the forest with its leafy features.",
+    "Imagine a bipedal creature with a strong connection to nature and bright green accents.",
+    "Give me a Pokemon that embodies agility and is known for its playful nature.",
+    "Generate a Pokemon with a unique leaf crown, showcasing its affinity for the forest.",
+    "Design a Pokemon that uses its environment to camouflage, featuring shades of green.",
+    "Make a character with a mischievous attitude and striking leafy appendages."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Leafy crown",
+      "Long limbs",
+      "Tail resembling a vine",
+      "Facial markings",
+      "Yellow underbelly"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Dark",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Agile"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Speed and agility-based attacks"
+  },
+  "image_path": "images/Simisage/1.png",
+  "pokemon_name": "Simisage"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a tiny bug-type Pokemon that has a sleek body and can camouflage with its environment.",
+    "I want a water-type Pokemon that resembles a small aquatic creature with unique coloration patterns.",
+    "Generate a Pokemon that has a friendly appearance and is known for its quick movements in the wild.",
+    "Make a Pokemon with a shiny, iridescent shell that reflects light in various colors.",
+    "Imagine a Pokemon that thrives in urban environments, often found near water sources.",
+    "Design a Pokemon that has a curious personality and loves to explore forests and grasslands.",
+    "Show me a bug-type Pokemon that can retreat into its shell when threatened."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Purple",
+      "accent": "Yellow"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large, bulging eyes",
+      "Long antennae",
+      "Rounded body with a shell-like structure",
+      "Small legs",
+      "Vibrant coloration"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Water",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Skittish",
+      "Playful"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Rare",
+    "combat_style": "Evasive"
+  },
+  "image_path": "images/Wimpod/1.png",
+  "pokemon_name": "Wimpod"
+}

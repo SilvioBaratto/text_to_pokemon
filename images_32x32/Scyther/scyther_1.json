@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with sharp blades for arms and vibrant green wings.",
+    "Imagine a flying Pokemon that uses its speed and agility to outmaneuver opponents.",
+    "Generate a creature resembling a grasshopper with a sleek body and fierce demeanor.",
+    "Make a Pokemon that embodies the essence of a predator with striking yellow and green colors.",
+    "Show me a bug-type Pokemon that thrives in forests and has a martial arts fighting style.",
+    "Design a Pokemon that looks like a stealthy insect, ready to strike with its sharp claws.",
+    "Give me a Pokemon with a mix of beauty and danger, showcasing its impressive wingspan."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Yellow",
+      "accent": "White"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large, sharp scythe-like arms",
+      "Thin, elongated body",
+      "Translucent wings",
+      "Prominent compound eyes",
+      "Long, segmented legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Agile",
+      "Predatory",
+      "Courageous"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Speed and agility-based attacks"
+  },
+  "image_path": "images/Scyther/1.png",
+  "pokemon_name": "Scyther"
+}

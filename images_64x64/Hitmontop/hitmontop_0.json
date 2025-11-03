@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a fighting-type Pokemon with a round body and spinning top features.",
+    "Show me a Pokemon that excels in martial arts, featuring a brown base and blue accents.",
+    "Generate an image of a unique Pokemon that resembles a top, with energetic moves.",
+    "Imagine a Pokemon with a playful personality, dressed in brown and blue colors.",
+    "Design a dynamic fighter Pokemon that spins into action, with distinctive spherical limbs.",
+    "Give me a depiction of a Pokemon that thrives in urban areas, showcasing its agility.",
+    "Make a Pokemon that embodies strength and resilience, with a compact and sturdy body."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Spinning top-like body",
+      "Spherical limbs",
+      "Short legs",
+      "Round face"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Determined"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Close-quarters combat"
+  },
+  "image_path": "images/Hitmontop/0.png",
+  "pokemon_name": "Hitmontop"
+}

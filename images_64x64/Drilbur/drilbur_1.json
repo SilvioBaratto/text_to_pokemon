@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ground-type Pokemon with a playful attitude and a digging ability.",
+    "I want a cute Pokemon that can burrow underground and has a unique blue color scheme.",
+    "Generate a small, furry Pokemon with large claws that thrives in desert environments.",
+    "Make a Pokemon that resembles a mole, with a brown body and a cheerful expression.",
+    "Imagine a Pokemon with a mix of earthy tones and a fun digging feature.",
+    "Design a Pokemon that embodies the spirit of adventure, with a focus on ground exploration.",
+    "Show me a Pokemon with a friendly personality, perfect for underground battles."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Blue",
+      "accent": "Pink"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large claws",
+      "Rounded ears",
+      "Short snout",
+      "Blue jacket-like feature",
+      "Small body structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Curious"
+    ],
+    "habitat": "Desert",
+    "rarity": "Common",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Drilbur/1.png",
+  "pokemon_name": "Drilbur"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a playful Normal-type Pokemon that resembles a small furry creature with a bushy tail.",
+    "Design a cute Pokemon with a round body and a cheerful expression, ideal for forest habitats.",
+    "Imagine a chubby, squirrel-like Pokemon with a brown and gray color scheme, known for gathering berries.",
+    "Generate a fluffy Normal-type Pokemon with a distinctive tuft of fur on its head and large eyes.",
+    "Show me a Pokemon that has a stocky build and is always on the lookout for food in a grassy area.",
+    "Make a Pokemon that can be found in urban environments, characterized by its love for nuts and seeds.",
+    "Give me a small Pokemon that is known for its friendly demeanor and is often spotted in groups."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Gray",
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Bushy tail",
+      "Large round eyes",
+      "Fluffy fur",
+      "Short legs",
+      "Small ears"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Friendly",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Skwovet/0.png",
+  "pokemon_name": "Skwovet"
+}

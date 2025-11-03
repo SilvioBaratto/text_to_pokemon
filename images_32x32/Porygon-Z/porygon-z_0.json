@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a unique Pokemon that resembles a digital creature with vibrant colors and sleek design.",
+    "Show me a futuristic Pokemon with a blend of red and blue that can manipulate technology.",
+    "Imagine a Pokemon that embodies the traits of a computer virus, with sharp angles and playful features.",
+    "Generate a cyber-themed Pokemon with a combination of bright colors and a quirky personality.",
+    "Design a Pokemon that looks like a digital entity, featuring floating limbs and an abstract form.",
+    "Give me a Pokemon that merges technology with nature, sporting eye-catching colors and a sleek body.",
+    "Make a Pokemon that has a modern and futuristic look, with a playful and mischievous expression."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Floating limbs",
+      "Geometric body shape",
+      "Large single eye",
+      "Digital appearance",
+      "Angular features"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Psychic",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Intelligent",
+      "Mischievous"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Porygon-Z/0.png",
+  "pokemon_name": "Porygon-Z"
+}

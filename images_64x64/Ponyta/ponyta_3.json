@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a graceful fire-type Pokemon that gallops through the fields with a mane of flames.",
+    "Imagine a shiny version of Ponyta, with vibrant purple flames and a sparkling coat.",
+    "Design a Pokemon that resembles Ponyta but has a more mystical, ethereal appearance.",
+    "Generate a fire-type Pokemon with a glowing tail and an aura of heat around it.",
+    "Show me a Ponyta reimagined as a legendary creature with a dazzling array of colors.",
+    "Make a Ponyta that can harness the power of the sun, with golden flames and a radiant shine.",
+    "Give me a description of Ponyta\u2019s fire abilities, perfect for battling in open terrains."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Orange",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Orange",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flaming mane",
+      "Long tail",
+      "Hooves",
+      "Elegant posture",
+      "Horse-like face"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Noble",
+      "Playful"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Fast and agile"
+  },
+  "image_path": "images/Ponyta/3.png",
+  "pokemon_name": "Ponyta"
+}

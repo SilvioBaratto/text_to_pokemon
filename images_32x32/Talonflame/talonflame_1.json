@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a sleek bird Pokemon with fiery feathers and sharp talons.",
+    "Design a majestic flying creature that embodies the spirit of flames.",
+    "Imagine a Pokemon that soars through the sky with a brilliant red and black design.",
+    "Show me a fire-type avian Pokemon that hunts in the mountains and forests.",
+    "Generate a Pokemon with blazing wings and a fierce demeanor, perfect for battles.",
+    "Give me a fiery bird with a bold personality and a penchant for speed.",
+    "Make a Pokemon that represents both agility and fierce warmth in its appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Gray",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Black",
+      "accent": "Yellow"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Sharp talons",
+      "Long, pointed wings",
+      "Fiery feather patterns",
+      "Elegant tail feathers",
+      "Bright yellow accents"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Flying",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Brave",
+      "Energetic"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Fast and aggressive"
+  },
+  "image_path": "images/Talonflame/1.png",
+  "pokemon_name": "Talonflame"
+}

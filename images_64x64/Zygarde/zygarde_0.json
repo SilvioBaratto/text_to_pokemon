@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with multiple heads and vibrant green accents.",
+    "Imagine a serpentine creature with a black body and glowing green details.",
+    "Design a legendary Pokemon that dominates the grasslands with its unique form.",
+    "Generate an image of a mythical creature that has powerful earth-based abilities.",
+    "Show me a Pokemon that blends seamlessly into a forest environment with its colors.",
+    "Make a serpentine Pokemon that can change forms based on its habitat.",
+    "Give me a powerful creature that resembles a guardian of nature with multiple heads."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Green"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": null,
+      "accent": "Green"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Multiple heads",
+      "Long serpent-like body",
+      "Glowing green accents",
+      "Dark scales",
+      "Tail with a unique shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Ground",
+    "generation": 6,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Protective",
+      "Wise",
+      "Mysterious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Zygarde/0.png",
+  "pokemon_name": "Zygarde"
+}

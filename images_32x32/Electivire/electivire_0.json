@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon with a muscular build and striking yellow and black stripes.",
+    "I want a Pokemon that can unleash powerful electric attacks and has a fierce, competitive personality.",
+    "Generate a Pokemon resembling Electivire that thrives in urban environments and has a bold demeanor.",
+    "Make a bipedal Pokemon with a vibrant color palette of yellow and black, showcasing its electric powers.",
+    "Imagine a Pokemon that can evolve from a smaller stage into a large, intimidating electric powerhouse.",
+    "Design an electric-type creature with unique arm features that resemble electric cables or wires.",
+    "Show me a Pokemon that is known for its agility and speed in battle, with a striking color scheme."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": "Red"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Long, spiked tail",
+      "Two prominent antennae",
+      "Muscular arms with claw-like hands",
+      "Black stripes across the body",
+      "Red markings on the face"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Competitive",
+      "Fierce",
+      "Energetic"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Electivire/0.png",
+  "pokemon_name": "Electivire"
+}

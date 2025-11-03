@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with elegant wings and a sleek body shape.",
+    "I want a psychic Pokemon that glows softly in the moonlight, embodying grace.",
+    "Generate a mythical creature with a magnificent silhouette and captivating colors.",
+    "Make a legendary Pokemon that soars above the clouds with a gentle demeanor.",
+    "Imagine a Pokemon that embodies tranquility and wisdom, with soothing hues.",
+    "Design a Pokemon that blends seamlessly with the lush environments of forests.",
+    "Give me a flying-type Pokemon that can adapt to various terrains effortlessly."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Red"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Streamlined body",
+      "Large wings",
+      "Distinctive red markings",
+      "Long tail",
+      "Bright eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Psychic",
+    "generation": 3,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Protective",
+      "Intelligent"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Latias/0.png",
+  "pokemon_name": "Latias"
+}

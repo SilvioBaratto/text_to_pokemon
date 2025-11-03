@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a round Pokemon that can explode and is primarily red with a mischievous smile.",
+    "Imagine an electric-type Pokemon that looks like a ball and has a playful personality.",
+    "Design a Pokemon that has a shiny exterior and can generate electricity, with a playful demeanor.",
+    "Show me a Pokemon that resembles a smiling sphere, known for its explosive abilities and electric powers.",
+    "Generate a Pokemon that is round, red, and has a cheeky expression, known for shocking its opponents.",
+    "Make a bold Pokemon that can roll around and is primarily red and white, with a fun-loving attitude.",
+    "Give me a Pokemon that looks like a ball, has a unique ability to explode, and enjoys urban habitats."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round shape",
+      "Smiling face",
+      "Electricity-themed design",
+      "Facial markings resembling eyebrows",
+      "Simple, cartoonish appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Energetic"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Electrode/2.png",
+  "pokemon_name": "Electrode"
+}

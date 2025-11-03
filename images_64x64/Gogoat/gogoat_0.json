@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon that resembles a goat and has a green hoodie.",
+    "Imagine a Pokemon with brown and green fur, perfect for climbing mountains.",
+    "Generate a Pokemon that can blend into forest habitats with its earthy colors.",
+    "Show me a Pokemon that has a playful personality and loves to roam grasslands.",
+    "Design a sturdy quadruped Pokemon with distinctive horns and a sporty look.",
+    "Give me a Pokemon that embodies agility and strength, with a unique coat pattern.",
+    "Make a Pokemon that is friendly and approachable, perfect for urban settings."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Green"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Green",
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Horns",
+      "Green hoodie-like fur",
+      "Strong legs",
+      "Short tail",
+      "Facial markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Active"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Gogoat/0.png",
+  "pokemon_name": "Gogoat"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon that has vibrant green scales and fiery red spikes along its back.",
+    "I want a Pokemon with a unique body shape that combines features of both dinosaurs and dragons.",
+    "Generate an image of a fierce-looking Pokemon that has a bright yellow belly and sharp claws.",
+    "Make a Pokemon that stands tall with a powerful stance, featuring bold colors and striking facial features.",
+    "Imagine a Pokemon that thrives in mountainous regions, showcasing a mix of green and red hues.",
+    "Design a Pokemon that resembles a prehistoric creature, complete with a robust tail and colorful spines.",
+    "Show me an intimidating Pokemon that embodies the spirit of both land and sky with its dynamic features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Red spines on the back",
+      "Bright yellow underbelly",
+      "Large claws",
+      "Robust tail",
+      "Dragon-like head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Electric",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Loyal",
+      "Protective"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Dracozolt/0.png",
+  "pokemon_name": "Dracozolt"
+}

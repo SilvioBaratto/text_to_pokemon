@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon that has sharp features and a powerful stance.",
+    "Imagine a Pokemon with a menacing appearance, sporting dark blue scales and red accents.",
+    "Design a fierce creature with the ability to soar through the skies, showcasing its wings.",
+    "Show me a Pokemon that embodies strength and agility, with a streamlined body and sharp claws.",
+    "Generate a unique dragon Pokemon with a mix of ground and flying abilities.",
+    "Make a Pokemon that thrives in mountainous terrains and is known for its speed.",
+    "Give me a powerful dragon Pokemon that has a tough exterior and a loyal nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Sharp dorsal fins",
+      "Large claws",
+      "Distinctive jaw with sharp teeth",
+      "Red chest plate",
+      "Winged limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Ground",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Loyal",
+      "Competitive"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Garchomp/2.png",
+  "pokemon_name": "Garchomp"
+}

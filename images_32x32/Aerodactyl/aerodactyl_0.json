@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a dinosaur-like Pok\u00e9mon with sharp teeth and big wings soaring through the sky.",
+    "Show me a flying Pok\u00e9mon that has a sleek body and can glide effortlessly over mountains.",
+    "Imagine a prehistoric creature Pok\u00e9mon with a fierce expression and vibrant colors ready for battle.",
+    "Design a Pok\u00e9mon that resembles a pterosaur with a long tail and intimidating wingspan.",
+    "Generate a rock-type Pok\u00e9mon that has a unique design, featuring spikes and an adventurous spirit.",
+    "Give me a Pok\u00e9mon that can fly at high speeds and has a streamlined body for agility.",
+    "Make a Pok\u00e9mon that embodies the essence of ancient flying reptiles with striking colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Gray"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": null,
+      "accent": "Gray"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Long wings",
+      "Sharp claws",
+      "Pointed teeth",
+      "Streamlined body",
+      "Dinosaur-like head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Flying",
+    "type2": "Rock",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Adventurous",
+      "Intelligent"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Aerodactyl/0.png",
+  "pokemon_name": "Aerodactyl"
+}

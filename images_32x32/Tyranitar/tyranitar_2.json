@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a powerful rock-type Pokemon with a greenish body and sharp features.",
+    "Imagine a dinosaur-like monster with a bulky frame and a fierce demeanor.",
+    "Show me a Pokemon that embodies strength and resilience, with rocky scales and a towering presence.",
+    "Design a creature that thrives in mountainous regions, showcasing its rugged features and battle-ready stance.",
+    "Generate a Pokemon with intimidating spikes and a striking blue crystal on its chest.",
+    "Make a legendary Pokemon that commands the earth and sky, featuring an imposing silhouette.",
+    "Give me a fierce-looking Pokemon that combines both rock and dark elements in its design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Black",
+      "accent": "Blue"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Jagged spikes on the back",
+      "Large, pointed teeth",
+      "Distinctive blue crystal on the chest",
+      "Robust legs and arms",
+      "Well-defined muscular structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Dark",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Determined",
+      "Protective"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Tyranitar/2.png",
+  "pokemon_name": "Tyranitar"
+}

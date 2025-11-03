@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a giant, robotic Pokemon that showcases immense strength and resilience.",
+    "Show me a Pokemon with heavy armor and powerful claw-like hands for combat.",
+    "Imagine a legendary Pokemon that embodies the essence of creation and power.",
+    "Generate a Pokemon with a humanoid shape and a mix of metallic colors.",
+    "Make a Pokemon that thrives in mountainous terrains and has a fierce demeanor.",
+    "Design a mythical creature with a robust build and the ability to control time.",
+    "Give me a Pokemon that appears both intimidating and majestic at the same time."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Yellow",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Black",
+      "accent": "Yellow"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Huge",
+    "distinctive_features": [
+      "Large, muscular build",
+      "Claw-like hands",
+      "Metallic armor plating",
+      "Prominent yellow accents"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Protective",
+      "Strong"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive and powerful"
+  },
+  "image_path": "images/Regigigas/2.png",
+  "pokemon_name": "Regigigas"
+}

@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a Normal-type Pokemon with a long pink tongue and a round body.",
+    "I want a Pokemon that has a playful personality and loves to lick everything.",
+    "Generate a creature that is cute, pink, and has a big mouth for eating.",
+    "Make a Pokemon with a unique body shape and a large, protruding tongue.",
+    "Imagine a Pokemon that thrives in urban environments and has a friendly demeanor.",
+    "Design a Pokemon that resembles a cuddly creature with a fun-loving attitude.",
+    "Give me a Pokemon that has rounded features and is known for its quirky habits."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, protruding tongue",
+      "Rounded body shape",
+      "Beige markings on the body",
+      "Big eyes",
+      "Short limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Lickitung/3.png",
+  "pokemon_name": "Lickitung"
+}

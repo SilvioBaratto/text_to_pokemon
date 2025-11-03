@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a Pokemon with spiky blue quills and a stealthy demeanor.",
+    "Generate an icy-looking creature that thrives in mountainous terrains.",
+    "Imagine a Pokemon that can burrow through the ground with sharp claws.",
+    "Design a water-type Pokemon that resembles a sleek aquatic predator.",
+    "Show me a creature with a mix of blue and white colors, perfect for snowy habitats.",
+    "Give me a Pokemon that has both ground and ice traits, with a unique body shape.",
+    "Make a Pokemon that has a tough exterior but a playful personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Gray",
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Spiky quills on back",
+      "Large claws",
+      "Sleek body structure",
+      "Frosty appearance",
+      "Pointed snout"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": "Ice",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Stealthy",
+      "Cunning"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Sandslash/1.png",
+  "pokemon_name": "Sandslash"
+}

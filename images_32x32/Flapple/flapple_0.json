@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a dragon with vibrant green wings and a red apple-like body.",
+    "I want a flying-type Pokemon that has a mix of red and green colors with unique leafy features.",
+    "Generate an adorable dragon Pokemon that embodies the essence of fruit with a playful personality.",
+    "Make a Pokemon inspired by apples, featuring a dragon-like appearance and bright, cheerful colors.",
+    "Imagine a creature that combines elements of flight and fruit, showcasing a colorful design and quirky traits.",
+    "Design a Pokemon with a whimsical nature, sporting a mix of earthy and fruity colors, perfect for the forest.",
+    "Show me a Pokemon that captures the spirit of autumn with its colorful apple-like design and nature-inspired features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Yellow",
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Green",
+      "accent": "Yellow"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Apple-like body",
+      "Leafy wings",
+      "Curved tail",
+      "Green stem-like appendage"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Dragon",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Adventurous"
+    ],
+    "habitat": "Forest",
+    "rarity": "Uncommon",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Flapple/0.png",
+  "pokemon_name": "Flapple"
+}

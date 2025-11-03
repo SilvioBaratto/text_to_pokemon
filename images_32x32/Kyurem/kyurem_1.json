@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a dragon-like Pokemon with icy blue accents and a fierce expression.",
+    "I want a legendary Pokemon that embodies the essence of ice and darkness combined.",
+    "Generate a mythical creature with a sleek, armored body and powerful wings.",
+    "Make an imposing Pokemon design that features contrasting colors of black and light blue.",
+    "Imagine a majestic ice-type Pokemon soaring through snowy mountains with elegance.",
+    "Design a Pokemon that stands out with sharp features and a unique color palette.",
+    "Show me a Pokemon that represents the ultimate fusion of ice and dragon elements."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Gray",
+      "accent": "Blue"
+    },
+    "body_shape": "Winged",
+    "size_class": "Huge",
+    "distinctive_features": [
+      "Frosty blue accents",
+      "Large, menacing wings",
+      "A sleek, elongated body",
+      "Dragon-like head with sharp features",
+      "Distinctive icy markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Ice",
+    "generation": 5,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Majestic",
+      "Powerful"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Kyurem/1.png",
+  "pokemon_name": "Kyurem"
+}

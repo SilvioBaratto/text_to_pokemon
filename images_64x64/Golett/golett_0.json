@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a sturdy rock-type Pokemon with a strong, square body and bright yellow eyes.",
+    "I want to see a Pokemon that resembles a golem, featuring earthy colors and a rugged appearance.",
+    "Generate a mystical creature with a humanoid shape, made of stone and adorned with glowing elements.",
+    "Make a Pokemon that embodies the spirit of ancient ruins, with a weathered look and a formidable stance.",
+    "Imagine a powerful golem-like Pokemon that is built for battle, showcasing a blend of blue and brown colors.",
+    "Design a Pokemon that has a unique mechanical appearance, with intricate details and a solid form.",
+    "Show me a Pokemon that looks like it came from a forgotten era, with a tough exterior and vibrant accents."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Brown",
+      "accent": "Yellow"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Square body shape",
+      "Glowing yellow eyes",
+      "Rock-like texture",
+      "Armored appearance",
+      "Blue and brown color palette"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": "Ghost",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Loyal",
+      "Protective",
+      "Sturdy"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Golett/0.png",
+  "pokemon_name": "Golett"
+}

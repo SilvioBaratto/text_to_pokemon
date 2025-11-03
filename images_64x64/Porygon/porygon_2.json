@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a digital Pokemon that resembles a geometric figure with unique colors and shapes.",
+    "Imagine a futuristic Pokemon that glows and has a sleek, angular design.",
+    "Design a Pokemon that looks like a computer-generated creature with a playful demeanor.",
+    "Show me a Pokemon that features bright colors and has a robotic appearance.",
+    "Generate a digital creature that combines vibrant hues with a compact build.",
+    "Make a Pokemon that embodies technology and has an abstract design.",
+    "Give me an image of a Pokemon that appears to be made of pixels and shapes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": "Pink"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Geometric body shape",
+      "Pixelated design",
+      "Large single eye",
+      "Colorful segments",
+      "Angular edges"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful",
+      "Intelligent"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Porygon/2.png",
+  "pokemon_name": "Porygon"
+}

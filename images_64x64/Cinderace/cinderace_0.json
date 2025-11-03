@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a fire-type Pokemon with a sleek design and athletic build.",
+    "Give me a Pokemon that excels in speed and agility with red and white colors.",
+    "Imagine a humanoid Pokemon that can kick with incredible force and precision.",
+    "Design a powerful fire-type creature that thrives in urban environments.",
+    "Generate a bipedal Pokemon that showcases a mix of elegance and strength.",
+    "Show me a Pokemon that embodies the spirit of competition and sportsmanship.",
+    "Make a dynamic Pokemon that uses its flame abilities in battles."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "White"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Athletic build",
+      "Large ears",
+      "Flame-like tail",
+      "Sporty attire",
+      "Strong legs for kicking"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Fighting",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Competitive",
+      "Confident"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Cinderace/0.png",
+  "pokemon_name": "Cinderace"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a Pokemon that looks like a giant block with legs and a modern design.",
+    "I want a unique Pokemon with a cube-shaped body and mechanical-like features.",
+    "Generate a creature that resembles a stack of bricks with robotic appendages.",
+    "Make an interesting Pokemon that has a geometric shape and multiple tentacle-like limbs.",
+    "Imagine a Pokemon that combines ancient architecture with a futuristic twist.",
+    "Design a Pokemon inspired by robotics and natural stone formations.",
+    "Show me a Pokemon that looks like a fortress or a tower, with a sturdy presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Cube-shaped body",
+      "Tentacle-like limbs",
+      "Intricate patterns on the surface",
+      "Robotic appendages",
+      "Multiple protruding sections"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Steel",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Sturdy",
+      "Defensive",
+      "Strategic"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Stakataka/0.png",
+  "pokemon_name": "Stakataka"
+}

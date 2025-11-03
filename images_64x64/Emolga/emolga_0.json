@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon that resembles a small rodent with cute features and large ears.",
+    "Show me a playful Pokemon that can glide through the air, featuring vibrant yellow and black colors.",
+    "Design a Pokemon that is both adorable and energetic, with a fluffy tail and a charming personality.",
+    "Imagine a tiny Pokemon that loves to hang around trees and has a cheerful demeanor.",
+    "Generate an agile Pokemon that can quickly dart in and out of trees, showcasing its electric powers.",
+    "Make a Pokemon that embodies the spirit of adventure and has a sleek, streamlined body for gliding.",
+    "Give me a Pokemon that can easily adapt to urban environments but prefers forest habitats."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large, pointed ears",
+      "Fluffy tail",
+      "Cheerful expression",
+      "Small size",
+      "Gliding wings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Flying",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Cheerful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Speed and agility-focused"
+  },
+  "image_path": "images/Emolga/0.png",
+  "pokemon_name": "Emolga"
+}

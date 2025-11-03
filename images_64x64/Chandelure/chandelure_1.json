@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon with a haunting glow and elegant chandelier design.",
+    "Imagine a spooky character that floats in the air, surrounded by flickering flames.",
+    "Generate a Pokemon that resembles an ornate candle holder with purple flames.",
+    "Design a ghostly Pokemon with a mysterious aura and intricate features.",
+    "Show me a Pokemon that embodies the spirit of a haunted mansion.",
+    "Make a chilling Pokemon that uses its flames to confuse and scare opponents.",
+    "Give me a Pokemon that combines elegance and eeriness in its visual style."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Yellow",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Purple",
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Chandelier-like structure",
+      "Purple flame-like appendages",
+      "Glowing central orb",
+      "Elegant design with candle holder appearance",
+      "Eyes that resemble glowing orbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Fire",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Eerie",
+      "Mysterious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attack"
+  },
+  "image_path": "images/Chandelure/1.png",
+  "pokemon_name": "Chandelure"
+}

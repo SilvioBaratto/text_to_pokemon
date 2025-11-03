@@ -1,0 +1,58 @@
+{
+  "prompts": [
+    "Create a Pokemon inspired by desserts, featuring a colorful and creamy appearance.",
+    "I want a sweet-looking character that has layers of frosting and berries.",
+    "Generate a fairy-type Pokemon that resembles a towering cake with vibrant colors.",
+    "Make a whimsical Pokemon with a soft, rounded shape and multiple colors across its body.",
+    "Imagine a Pokemon that embodies sweetness and charm, ideal for a bakery-themed adventure.",
+    "Design a delightful Pokemon that combines the essence of celebration and joy.",
+    "Show me a Pokemon that looks like a dessert masterpiece with colorful toppings."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Yellow",
+      "White"
+    ],
+    "secondary_colors": [
+      "Purple",
+      "Green",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Yellow",
+      "accent": "Purple"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Layered appearance resembling a cake",
+      "Colorful frosting-like texture",
+      "Decorative elements like berries and cream",
+      "Smooth, rounded edges",
+      "Whimsical, cheerful design"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Joyful",
+      "Playful",
+      "Charming"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Alcremie/1.png",
+  "pokemon_name": "Alcremie"
+}

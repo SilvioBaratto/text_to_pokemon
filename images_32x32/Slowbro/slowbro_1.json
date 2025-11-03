@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that looks relaxed and carries a shell on its back.",
+    "Imagine a creature that resembles a slow-moving turtle with a large, round body and pink features.",
+    "Generate a Pokemon with a laid-back personality, featuring a shell and a friendly demeanor.",
+    "Design a Pokemon that enjoys lounging by the water, with soft pink and gray colors.",
+    "Show me a unique aquatic creature that has evolved to carry a shell, with a calm expression.",
+    "I want a Pokemon that embodies tranquility, featuring a blend of pink and gray tones.",
+    "Make a design for a Pokemon that loves to chill in the ocean, with distinctive shell-like traits."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Gray"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": null,
+      "accent": "Gray"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Shell on back",
+      "Large round body",
+      "Slow-moving",
+      "Relaxed expression",
+      "Two claws"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Psychic",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Laid-back",
+      "Calm",
+      "Sociable"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Slowbro/1.png",
+  "pokemon_name": "Slowbro"
+}

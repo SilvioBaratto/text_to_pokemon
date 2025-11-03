@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a jellyfish-like appearance and striking blue hues.",
+    "Imagine a creature resembling Tentacruel, featuring long tentacles and vibrant colors.",
+    "Show me an aquatic Pokemon that has a unique blend of blue and red colors.",
+    "Generate a Pokemon that embodies the characteristics of a jellyfish, with accent colors and flowing tentacles.",
+    "Design a Pokemon inspired by deep-sea creatures, focusing on a mesmerizing blue palette.",
+    "Make a Pokemon that looks like it belongs in the ocean, with distinctive features and a striking appearance.",
+    "Give me an underwater Pokemon with a captivating design that includes tentacles and bright colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long tentacles",
+      "Bell-shaped umbrella",
+      "Large red eyes",
+      "Translucent body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Aggressive",
+      "Defensive"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Tentacruel/0.png",
+  "pokemon_name": "Tentacruel"
+}

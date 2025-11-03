@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create an aquatic Pokemon that has bright blue scales and long antennae.",
+    "Make a bug-type Pokemon with a unique shell and vibrant colors.",
+    "I want to design a small Pokemon that resembles a crab with oversized claws.",
+    "Show me a Pokemon that lives in the sea and has a striking blue hue.",
+    "Imagine a Pokemon that combines features of a lobster and a bug with interesting colors.",
+    "Generate a playful Pokemon with a cute face and dynamic body shape.",
+    "Give me an image of a Pokemon that\u2019s perfect for underwater battles with intricate designs."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long antennae",
+      "Claw-like pincers",
+      "Streamlined body",
+      "Large eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Bug",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Energetic"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Aquatic"
+  },
+  "image_path": "images/Clauncher/1.png",
+  "pokemon_name": "Clauncher"
+}

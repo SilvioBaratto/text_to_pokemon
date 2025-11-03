@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with sharp fins and a fierce expression.",
+    "Imagine a Pokemon that has a vibrant blue body with a golden tail and a menacing look.",
+    "Design a Pokemon that resembles a shark, featuring bright colors and unique patterns.",
+    "Show me a Pokemon with a sleek body shape, combining red and blue colors for a striking appearance.",
+    "Generate a Pokemon that lives in the sea and has a mix of sharp edges and smooth curves.",
+    "Make a Pokemon with a predatory look, using dark tones accented with lighter shades.",
+    "Give me a fierce aquatic creature that blends blue and gold colors with an aggressive stance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Sharp dorsal fins",
+      "Unique angular face",
+      "Gold-colored accents",
+      "Streamlined body",
+      "Prominent teeth"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Dark",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Predatory",
+      "Cunning"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Carvanha/0.png",
+  "pokemon_name": "Carvanha"
+}

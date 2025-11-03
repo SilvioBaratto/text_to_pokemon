@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon that resembles a green orb with cute features and swirls.",
+    "I want a whimsical Pokemon that can float, with a soft color palette and adorable eyes.",
+    "Generate a creature that embodies tranquility, featuring subtle colors and a round, plushy shape.",
+    "Make a Pokemon with a unique psychic ability, characterized by its gentle appearance and soothing colors.",
+    "Imagine a small, fluffy Pokemon that has a calming presence and is often found in serene environments.",
+    "Design a friendly-looking Pokemon with a delicate body shape, showcasing pastel colors and unique facial features.",
+    "Show me a Pokemon that is primarily light green, with a whimsical design and an aura of mystery."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round body shape",
+      "Small, cute eyes",
+      "Swirling appendages",
+      "Soft color gradient",
+      "Plushy appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Calm",
+      "Playful"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Solosis/0.png",
+  "pokemon_name": "Solosis"
+}

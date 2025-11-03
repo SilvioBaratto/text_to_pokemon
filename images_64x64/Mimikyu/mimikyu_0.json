@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that is shy and likes to hide.",
+    "Show me a cute Pokemon that disguises itself to befriend others.",
+    "Design a Pokemon that has a mysterious aura and a playful personality.",
+    "Imagine a Pokemon that thrives in forest habitats and is quite elusive.",
+    "Generate a character that has a unique costume and a whimsical charm.",
+    "Make a small Pokemon that has a ghostly appearance and loves to play tricks.",
+    "Give me a Pokemon that has a soft and comforting presence, perfect for companionship."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Ghostly disguise resembling a Pikachu",
+      "Large, expressive eyes",
+      "Two small, pointed ears",
+      "A stitched mouth",
+      "A tail with a jagged end"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Fairy",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Shy",
+      "Playful",
+      "Mischievous"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Trickster"
+  },
+  "image_path": "images/Mimikyu/0.png",
+  "pokemon_name": "Mimikyu"
+}

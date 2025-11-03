@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a spooky ghost-type Pokemon with a pumpkin body and flowing orange tendrils.",
+    "Design a Pokemon that combines elements of a ghost and a pumpkin, with vibrant colors.",
+    "Show me a ghost-type creature with a unique shape and an eerie expression.",
+    "Imagine a Pokemon that thrives in forest habitats, resembling a haunted pumpkin.",
+    "Generate an adorable ghost Pokemon with orange accents and a mysterious aura.",
+    "Make a ghost-type Pokemon with a playful personality and a spooky appearance.",
+    "Give me a Pokemon that embodies the spirit of Halloween with its design and colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Brown",
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Pumpkin-like body",
+      "Flowing orange tendrils",
+      "Glowing yellow eyes",
+      "Curly hair-like appendage",
+      "Face resembling a carved pumpkin"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Grass",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Eerie"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Gourgeist/1.png",
+  "pokemon_name": "Gourgeist"
+}

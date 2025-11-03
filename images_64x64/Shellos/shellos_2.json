@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a small, friendly sea creature with bright colors.",
+    "I want a Pokemon that features a distinct slimy body and has a joyful expression.",
+    "Generate a Pokemon with aquatic features and a playful demeanor, perfect for a wetland habitat.",
+    "Make a cute Pokemon that has a vibrant blue and green color scheme, ideal for kids.",
+    "Imagine a Pokemon that thrives in grasslands with a unique shell-like appearance and cheerful nature.",
+    "Design a Pokemon that is small and resembles a slug, featuring aquatic colors and a smiling face.",
+    "Show me a water-type Pokemon that embodies cuteness and is often found near rivers."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Green"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Slimy body",
+      "Large head",
+      "Small tail",
+      "Joyful expression",
+      "Two ear-like protrusions"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Friendly",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Shellos/2.png",
+  "pokemon_name": "Shellos"
+}

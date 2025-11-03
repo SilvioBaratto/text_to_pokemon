@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon with a serpentine body covered in dark and gold accents.",
+    "Show me a dragon Pokemon with multiple shadowy arms and a striking color combination.",
+    "Imagine a mythical Pokemon resembling a serpent that dominates the skies and shadows.",
+    "Design a legendary Pokemon with a blend of black, white, and gold colors, exuding power.",
+    "Give me a ghost-dragon hybrid Pokemon featuring an intricate design and vibrant color palette.",
+    "Generate a unique creature with a fearsome appearance, showcasing dark tones and red claws.",
+    "Make a Pokemon that embodies the essence of shadows and nightmares, with a majestic form."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [
+      "White",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": null,
+      "accent": "Red"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Huge",
+    "distinctive_features": [
+      "Multiple shadowy arms",
+      "Gold accents on the body",
+      "Distinctive head shape",
+      "Curved serpentine body",
+      "Red claws"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Dragon",
+    "generation": 4,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Fearsome",
+      "Dominant"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Giratina/1.png",
+  "pokemon_name": "Giratina"
+}

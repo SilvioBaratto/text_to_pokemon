@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a mystical Pokemon with a flowing design and a calming aura.",
+    "I want a Pokemon that embodies the tranquility of nature with soothing colors.",
+    "Generate a fairy-type Pokemon with elegant features and a whimsical appearance.",
+    "Make a Pokemon that has an enchanting presence and a serene personality.",
+    "Imagine a Pokemon that radiates a sense of peace and has unique flowing hair.",
+    "Design a Pokemon that showcases a blend of pink and purple hues in its design.",
+    "Show me a powerful fairy-type Pokemon with distinct visual elements and a captivating look."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Blue",
+      "accent": "Purple"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, flowing hair-like appendages",
+      "A large, round body",
+      "A serene facial expression",
+      "Curved arms",
+      "Distinctive ear-like protrusions"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": "Psychic",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Protective",
+      "Gentle"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Hatterene/1.png",
+  "pokemon_name": "Hatterene"
+}

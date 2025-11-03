@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create an ice-type Pokemon with sharp crystals and a fierce expression.",
+    "I want a Pokemon that resembles a giant snowball with icy spikes.",
+    "Generate a Pokemon with a round body and an intimidating icy glare.",
+    "Make a frosty creature that embodies the chill of winter with a powerful stance.",
+    "Imagine a Pokemon with a blue and white color scheme that has a unique ice crystal design.",
+    "Design a Pokemon that looks like a glacier come to life, with a menacing smile.",
+    "Show me a Pokemon with an icy exterior and a tough demeanor, ready for battle."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Icy spikes on top of the head",
+      "Round, snowball-like body",
+      "Menacing eyes",
+      "Large mouth with sharp teeth",
+      "Black fur around the bottom"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intimidating",
+      "Fierce",
+      "Defensive"
+    ],
+    "habitat": "Tundra",
+    "rarity": "Rare",
+    "combat_style": "Defensive and powerful"
+  },
+  "image_path": "images/Glalie/3.png",
+  "pokemon_name": "Glalie"
+}

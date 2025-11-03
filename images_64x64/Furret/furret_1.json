@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a small, furry Pokemon that can burrow underground and has a playful personality.",
+    "I want a Normal-type Pokemon that resembles a long, fluffy creature with a happy expression.",
+    "Generate a Pokemon that has a striped body and loves to explore grassy fields.",
+    "Make a cute rodent-like Pokemon that can run swiftly and is known for its speed.",
+    "Imagine a Pokemon with a long tail and a friendly demeanor, perfect for companionship.",
+    "Design a Pokemon that has a brown and cream color scheme and an energetic personality.",
+    "Show me a fluffy, adorable Pokemon that enjoys living in forests and is rarely seen."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long, furry body",
+      "Striped pattern",
+      "Big, expressive eyes",
+      "Erect ears",
+      "Long tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Physical attacker"
+  },
+  "image_path": "images/Furret/1.png",
+  "pokemon_name": "Furret"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a robot-like Pokemon that has a metallic body and glowing features.",
+    "I want a Pokemon with a strong defense and a futuristic design.",
+    "Generate a Steel-type Pokemon that has a humanoid shape and striking colors.",
+    "Make a legendary Pokemon that embodies strength and resilience with a robotic appearance.",
+    "Imagine a Pokemon with a sleek, gray body and intricate patterns that hint at its power.",
+    "Design a mythical creature that resembles advanced machinery with vibrant accents.",
+    "Show me a Pokemon with an imposing presence and an aura of mystery."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Black",
+      "accent": "Red"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Robotic limbs",
+      "Glowing red accents",
+      "Smooth metallic surface",
+      "Large torso with a central core",
+      "Distinctive head shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Stoic",
+      "Resilient",
+      "Mysterious"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Registeel/0.png",
+  "pokemon_name": "Registeel"
+}

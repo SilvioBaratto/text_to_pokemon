@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bird-like Pokemon with a fluffy appearance and a bright red crest on its head.",
+    "I want a small, feisty Pokemon that resembles a young eagle with striking yellow feathers.",
+    "Generate a playful Pokemon that has a mix of yellow and purple colors and big, curious eyes.",
+    "Make a Pokemon with a cheerful personality, featuring wing-like arms and a cute, round body.",
+    "Imagine a Pokemon that can be found in grassy areas, with a design that emphasizes its avian traits.",
+    "Design a Pokemon that embodies the spirit of adventure, with a vibrant color palette and energetic stance.",
+    "Show me a Pokemon that looks like a young bird, combining bright colors and a unique feather pattern."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Purple",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Purple",
+      "accent": "Red"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy yellow feathers",
+      "Red crest",
+      "Big round eyes",
+      "Purple belly",
+      "Wings that resemble arms"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Energetic"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Rufflet/1.png",
+  "pokemon_name": "Rufflet"
+}

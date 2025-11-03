@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a playful panda-like Pokemon that excels in fighting battles.",
+    "Show me a Pokemon that embodies cuteness and strength, with a black-and-white color scheme.",
+    "Generate an image of a Pokemon that resembles a small bear with a fierce expression.",
+    "Design a Pokemon with a unique fighting style and a bamboo accessory.",
+    "Imagine a Pokemon that thrives in forests, with a tough exterior and a playful demeanor.",
+    "Give me a visual of a Pokemon that balances charm and toughness in its design.",
+    "Make a concept for a small bipedal Pokemon that has a distinctive panda look."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "White"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "White",
+      "accent": "Green"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Panda-like appearance",
+      "Green leaf in mouth",
+      "Angry facial expression",
+      "Small ears",
+      "Chubby body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Determined",
+      "Fierce"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Pancham/1.png",
+  "pokemon_name": "Pancham"
+}

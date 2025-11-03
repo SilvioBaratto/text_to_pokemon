@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with a bright green body and red accents.",
+    "Imagine a small creature that blends into forest environments, with unique spider-like features.",
+    "Show me a Pokemon that has a playful personality and uses webs to trap opponents.",
+    "Design a Pokemon that thrives in grasslands and is known for its agility and stealth.",
+    "Generate a tiny insectoid Pokemon with vivid colors and distinctive mandibles.",
+    "Make a Pokemon that can climb trees and has a camouflage ability for surprise attacks.",
+    "Give me a Pokemon that evolves into a larger spider and has a mysterious aura."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large fangs",
+      "Green exoskeleton",
+      "Six legs",
+      "Spinning thread from mouth",
+      "Small horn on head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Stealthy",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Ambush"
+  },
+  "image_path": "images/Spinarak/0.png",
+  "pokemon_name": "Spinarak"
+}

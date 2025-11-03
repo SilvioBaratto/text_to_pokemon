@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a colorful bird-like Pokemon that combines fighting and flying attributes.",
+    "I want a dynamic Pokemon that showcases agility and strength in its design.",
+    "Generate a Pokemon with a vibrant green and red color palette, perfect for battle.",
+    "Make a humanoid Pokemon that embodies the spirit of a luchador wrestler.",
+    "Imagine a Pokemon that excels in aerial combat with a unique blend of colors.",
+    "Design a fierce yet friendly Pokemon that is known for its acrobatic moves.",
+    "Give me a Pokemon that thrives in forest environments and has a distinct personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Red"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "White",
+      "accent": "Red"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Mask-like face",
+      "Feathered crest on top of the head",
+      "Luchador-style wrestling attire",
+      "Muscular build",
+      "Large wings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": "Flying",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Brave",
+      "Energetic",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Uncommon",
+    "combat_style": "Agile and acrobatic"
+  },
+  "image_path": "images/Hawlucha/1.png",
+  "pokemon_name": "Hawlucha"
+}

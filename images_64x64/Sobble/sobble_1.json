@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that can camouflage in its environment and has a playful demeanor.",
+    "Show me a Pokemon with light blue skin, a yellow fin, and features that resemble a chameleon.",
+    "Imagine a tiny aquatic creature that changes color based on its emotions, with big expressive eyes.",
+    "Generate a Pokemon that thrives in wetland habitats, with a shy personality and a love for water.",
+    "Design a small Pokemon with a round body and a tail that resembles a droplet of water.",
+    "Make a water-type starter Pokemon with a timid nature and a unique ability to blend into surroundings.",
+    "Give me a Pokemon that is known for its stealth and has a cute, innocent appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large expressive eyes",
+      "Tail resembling a droplet",
+      "Fin on top of the head",
+      "Smooth, rounded body shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Timid",
+      "Shy",
+      "Playful"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Sobble/1.png",
+  "pokemon_name": "Sobble"
+}

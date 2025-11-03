@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a cute electric-type Pokemon with a round body and cheerful expression.",
+    "I want a Pokemon that resembles a small, spiky creature with big eyes and a smile.",
+    "Generate an adorable Pokemon with gray fur, yellow accents, and a playful demeanor.",
+    "Make a Pokemon that looks like a tiny hedgehog with a soft, fluffy body.",
+    "Imagine a Pokemon that rolls around like a ball, showcasing its electric abilities.",
+    "Design a small Pokemon with a fluffy appearance and charming personality traits.",
+    "Give me a Pokemon that has a round shape, bright colors, and an energetic vibe."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "White"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Gray",
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round body",
+      "Cheerful face",
+      "Spiky back",
+      "Glowing yellow cheeks"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Curious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Togedemaru/1.png",
+  "pokemon_name": "Togedemaru"
+}

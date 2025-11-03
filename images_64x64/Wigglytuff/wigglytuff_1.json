@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a cute Pokemon that resembles a round, fluffy creature with large ears and a cheerful smile.",
+    "Imagine a playful fairy-type Pokemon that loves to sing and dance in colorful fields.",
+    "Design a Pokemon with soft pastel colors and a charming personality that can be a great companion.",
+    "Show me a whimsical creature that thrives in lush forests and is known for its soothing voice.",
+    "Make a Pokemon that has a chubby, adorable body and powerful fairy abilities.",
+    "Generate a fluffy character with a magical aura and a love for friendship and harmony.",
+    "Give me a Pokemon that embodies joy and is often found in vibrant, sunny environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "White"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "White",
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy body",
+      "Large ears",
+      "Big blue eyes",
+      "Round shape",
+      "Small feet"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Friendly",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Wigglytuff/1.png",
+  "pokemon_name": "Wigglytuff"
+}

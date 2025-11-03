@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a ground-type Pokemon that resembles three moles poking out of the earth.",
+    "Design a Pokemon that combines elements of mole and dirt, showcasing its underground habitat.",
+    "Imagine a small, burrowing creature with a charming face and unique earth tones.",
+    "Generate a Pokemon that looks playful, with three heads and a love for digging.",
+    "Show me a Pokemon with a round shape, earthy colors, and a personality that suggests it's shy.",
+    "Make a unique Pokemon that thrives underground and has a trio of features on its head.",
+    "Give me a Pokemon that represents the essence of soil and has a cute, mole-like appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Three heads",
+      "Visible pink noses",
+      "Burrowing appearance",
+      "Rounded body",
+      "Emerging from dirt"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Shy",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Dugtrio/4.png",
+  "pokemon_name": "Dugtrio"
+}

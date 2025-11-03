@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a sleek purple design and elegant features.",
+    "Imagine a Pokemon that can manipulate time and space, with shimmering colors and mystical abilities.",
+    "Generate a feline Pokemon that embodies wisdom and grace, featuring large ears and a long tail.",
+    "Show me a Pokemon that thrives in serene environments, showcasing a gentle and calm personality.",
+    "Make a unique Pokemon that possesses psychic powers, with a captivating jewel on its forehead.",
+    "Design a Pokemon that reflects beauty and elegance, with pastel colors and a graceful body shape.",
+    "Give me a psychic-type Pokemon that has a magical aura and a mesmerizing presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Pink",
+      "accent": "Red"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large pointed ears",
+      "Long, slender tail",
+      "Jewelled forehead",
+      "Sleek fur",
+      "Elegant limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Calm",
+      "Playful"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Espeon/1.png",
+  "pokemon_name": "Espeon"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a small fire-type Pokemon with a bright orange body and a fiery tail.",
+    "Imagine a playful Charmander with a mischievous grin and vibrant colors.",
+    "Design a Pokemon that resembles Charmander but with unique flame patterns on its back.",
+    "Generate a cute fire-type creature that loves to play in the mountains and fields.",
+    "Show me a bipedal Pokemon with scales that change color based on its emotions.",
+    "Give me a detailed description of a baby dragon-like Pokemon with a love for adventure.",
+    "Make a Pokemon that embodies the spirit of fire, featuring a bright red and yellow color scheme."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Yellow",
+      "accent": "Red"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Flaming tail",
+      "Large blue eyes",
+      "Small limbs",
+      "Lizard-like appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Brave"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Charmander/1.png",
+  "pokemon_name": "Charmander"
+}

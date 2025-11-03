@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a mushroom-themed Pokemon that can release spores and has a playful personality.",
+    "Show me a cute Pokemon resembling a mushroom with pink and gray colors.",
+    "Imagine a Pokemon that hides in forests, using its cap to blend in with the scenery.",
+    "Generate a small, round Pokemon that evolves into a larger mushroom creature.",
+    "Design a Pokemon that uses poison attacks and has a friendly yet mischievous demeanor.",
+    "Make a Pokemon that has a bulbous shape and can thrive in different habitats.",
+    "Give me a Pokemon that has a unique mushroom cap and can emit a sweet aroma."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Pink"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": null,
+      "accent": "Pink"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Mushroom cap",
+      "Round body",
+      "Small arms",
+      "Pink spots"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Amoonguss/1.png",
+  "pokemon_name": "Amoonguss"
+}

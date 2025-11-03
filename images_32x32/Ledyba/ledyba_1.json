@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with vibrant red spots and yellow underbelly.",
+    "Imagine a tiny creature that can blend in with flowers in a forest.",
+    "Generate a small, friendly Pokemon that loves to flutter around grassy fields.",
+    "Show me a Pokemon that can lift its wings to reveal colorful patterns.",
+    "Design a playful insect-like Pokemon that enjoys sunny days in the park.",
+    "Make a Pokemon that has big expressive eyes and a cheerful demeanor.",
+    "Give me a cute Pokemon that can be found in urban gardens and parks."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Black",
+      "accent": "Yellow"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large, expressive eyes",
+      "Two prominent antennae",
+      "Colorful spots on body",
+      "Small wings",
+      "Round body shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Ledyba/1.png",
+  "pokemon_name": "Ledyba"
+}

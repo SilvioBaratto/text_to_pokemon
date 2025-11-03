@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a sleek blue design and a playful personality.",
+    "Generate an image of a Pokemon that excels in martial arts and has a blue color scheme.",
+    "Imagine a Pokemon that uses aquatic abilities and has a distinctively cute appearance.",
+    "Show me a Pokemon that is agile and has a combination of blue and black colors.",
+    "Design a second-stage evolution Pokemon with a focus on agility and water techniques.",
+    "Give me a Pokemon that is perfect for battling in watery environments and has sharp features.",
+    "Make a Pokemon that looks like it belongs in both forests and urban areas, with cool colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Water shell on the waist",
+      "Pointed ears",
+      "Webbed feet",
+      "Defined facial expression",
+      "Martial arts pose"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Fighting",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Agile",
+      "Determined"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Balanced, with a focus on speed and technique"
+  },
+  "image_path": "images/Dewott/0.png",
+  "pokemon_name": "Dewott"
+}

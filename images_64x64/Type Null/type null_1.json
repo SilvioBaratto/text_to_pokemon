@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a Pokemon that has a wolf-like appearance with metallic armor and a sleek tail.",
+    "I want a creature resembling a chimeric beast, combining elements of various animals and technology.",
+    "Generate a Pokemon design that features a mix of earthy and metallic colors, symbolizing strength and resilience.",
+    "Make a four-legged Pokemon that embodies the spirit of both nature and machinery.",
+    "Imagine a creature that has a unique helmet-like headpiece and a strong, muscular body.",
+    "Design a Pokemon with a blend of brown, gray, and teal colors, showcasing a powerful presence.",
+    "Show me a Pokemon that looks like a guardian of the forest, with a mix of organic and synthetic traits."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Metallic helmet-like structure on the head",
+      "Armored body with a sleek build",
+      "Tail resembling a fin",
+      "Strong limbs with claw-like paws",
+      "Unique color patterns"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Steel",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Protective",
+      "Loyal",
+      "Intelligent"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive and strategic"
+  },
+  "image_path": "images/Type Null/1.png",
+  "pokemon_name": "Type Null"
+}

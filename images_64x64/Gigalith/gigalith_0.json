@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon featuring sharp red crystals and a sturdy body.",
+    "I want a Pokemon that resembles a rocky creature, with vibrant colors and a unique shape.",
+    "Generate a Pokemon inspired by mountains, showcasing a blend of blue and red tones.",
+    "Make a Pokemon that has a powerful presence, with jagged features and a solid build.",
+    "Imagine a Pokemon that embodies strength and resilience, with striking colors and a rugged appearance.",
+    "Design a Pokemon with a rocky exterior and bright accents, perfect for mountainous terrains.",
+    "Show me a Pokemon that looks like a boulder come to life, adorned with vibrant spikes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Red"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": "Red"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Sharp red crystals on top",
+      "Solid blue body",
+      "Sturdy, rocky appearance",
+      "Bright yellow eyes",
+      "Low, grounded stance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Sturdy",
+      "Resilient",
+      "Defensive"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Gigalith/0.png",
+  "pokemon_name": "Gigalith"
+}

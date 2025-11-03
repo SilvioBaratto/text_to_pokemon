@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a fairy-type Pokemon with delicate wings and a floral design.",
+    "Imagine a small, whimsical Pokemon that embodies nature's beauty and grace.",
+    "Generate a cute Pokemon that resembles a flower and has a friendly demeanor.",
+    "Make a character inspired by a flower with bright colors and gentle features.",
+    "Show me a fairy Pokemon that has a soft appearance and is surrounded by blossoms.",
+    "Design a vibrant Pokemon that lives in grassy areas and spreads joy wherever it goes.",
+    "Give me an enchanting Pokemon that brings life to gardens and is adored by trainers."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "White"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Yellow",
+      "accent": "Green"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Flower-like appearance",
+      "Delicate wings",
+      "Small, round body",
+      "Friendly expression",
+      "Petal details"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Joyful",
+      "Gentle",
+      "Playful"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Flab\u251c\u2310b\u251c\u2310/4.png",
+  "pokemon_name": "Flab\u251c\u2310b\u251c\u2310"
+}

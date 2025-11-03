@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a tough, armored shell with a shiny exterior and bright eyes.",
+    "Imagine a dragon-type creature that evolves from a solid cocoon into a magnificent beast.",
+    "Show me a Pokemon with a round, rock-like body and an intimidating gaze.",
+    "Generate a creature that embodies resilience, with a gray body and hints of yellow.",
+    "Design a Pokemon that thrives in caves, showcasing a unique blend of rock and dragon characteristics.",
+    "Give me an idea for a Pokemon that uses its tough shell for defense in battle.",
+    "Make a Pokemon that looks like a small, sturdy ball, perfect for rolling away from threats."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round, shell-like body",
+      "Yellow eyes",
+      "Sturdy and solid appearance",
+      "Smooth, glossy texture",
+      "Short limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Steel",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Resilient",
+      "Protective",
+      "Determined"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Shelgon/1.png",
+  "pokemon_name": "Shelgon"
+}

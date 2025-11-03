@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a majestic unicorn-inspired Pokemon with a flowing mane and fiery spirit.",
+    "I want a Pokemon that embodies speed and elegance with vibrant colors.",
+    "Generate a fantasy creature that resembles a horse but has magical flames.",
+    "Make a graceful, fire-type Pokemon with a dazzling rainbow-colored mane.",
+    "Imagine a Pokemon that gallops through meadows, leaving trails of fire behind.",
+    "Design a beautiful creature with both fire and fairy elements in its appearance.",
+    "Show me a Pokemon that has a unique blend of elegance and fierce combat abilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Purple",
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Pink",
+      "accent": "Purple"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Long, flowing mane",
+      "Single horn",
+      "Flame-like tail",
+      "Elegant legs",
+      "Brightly colored hooves"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Majestic",
+      "Energetic",
+      "Graceful"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Fast and agile, with powerful fire attacks"
+  },
+  "image_path": "images/Rapidash/1.png",
+  "pokemon_name": "Rapidash"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a bipedal Pokemon with blue scales and sharp spikes running down its back.",
+    "Show me a powerful poison-type creature with a fierce look and a sturdy build.",
+    "Design a Pokemon that thrives in mountainous environments and has a defensive combat style.",
+    "Imagine a Pokemon that has a calming blue appearance and a nurturing personality.",
+    "Generate a creature that combines elegance with strength, featuring spikes and a robust tail.",
+    "Make a water-resistant Pokemon that is found in wetlands and displays a strong maternal instinct.",
+    "Give me a Pokemon that has both poison and ground abilities, perfect for versatility in battles."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Spikes along the back",
+      "Large ears",
+      "Thick tail",
+      "Robust limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": "Ground",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Protective",
+      "Strong-willed",
+      "Gentle"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Nidoqueen/2.png",
+  "pokemon_name": "Nidoqueen"
+}

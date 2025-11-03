@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a legendary Pokemon with dark wings and a fierce expression.",
+    "I want a mythical bird Pokemon that embodies destruction and chaos.",
+    "Generate a dark-type Pokemon that resembles a giant raven with menacing features.",
+    "Make a Pokemon with striking red and black colors, showcasing its powerful aura.",
+    "Imagine a winged creature with a unique silhouette, representing the balance between life and death.",
+    "Design a Pokemon that looks like it could control shadows and instill fear in its opponents.",
+    "Give me a Pokemon that is both majestic and intimidating, with an emphasis on its dark abilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Black"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": null,
+      "accent": "Black"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large wings resembling a raven",
+      "Prominent red body",
+      "Sharp talons",
+      "Intimidating eyes",
+      "Curved beak"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": "Flying",
+    "generation": 6,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Fierce",
+      "Destructive"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Yveltal/2.png",
+  "pokemon_name": "Yveltal"
+}

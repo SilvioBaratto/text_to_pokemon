@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a fighting-type Pokemon with sleek fur and graceful movements.",
+    "Show me a Pokemon that excels in agility and has a playful nature.",
+    "Design a Pokemon featuring purple accents and a white body, emphasizing speed.",
+    "Generate an image of a bipedal creature known for its martial arts skills.",
+    "Imagine a Pokemon that thrives in forest environments and is known to be rare.",
+    "Make a character based on a martial artist, blending elegance and strength.",
+    "Give me a design for a Pokemon that has a slender build and powerful limbs."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Purple",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long limbs",
+      "Thin body structure",
+      "Fur-like texture",
+      "Pointed ears",
+      "Tail resembling a whip"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Agile",
+      "Playful",
+      "Competitive"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Martial arts"
+  },
+  "image_path": "images/Mienshao/1.png",
+  "pokemon_name": "Mienshao"
+}

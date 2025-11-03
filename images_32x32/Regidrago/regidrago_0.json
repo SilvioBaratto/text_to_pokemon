@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with a body resembling a vibrant orb and sharp wings.",
+    "Imagine a dark-colored creature with a spherical core and imposing spiked features.",
+    "Show me a legendary Pokemon that combines red and black colors with a unique dragon design.",
+    "Design a Pokemon with a robust body shape and intimidating presence, perfect for battle.",
+    "Make a Pokemon that embodies the elements of dragon and dark types, featuring striking colors.",
+    "Generate an image of a powerful dragon Pokemon with a round midsection and elongated wings.",
+    "Give me a mythical creature with a balance of strength and elegance, represented in deep colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Black"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": null,
+      "accent": "Black"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Spherical core",
+      "Sharp wing-like protrusions",
+      "Dark spiked texture",
+      "Angular head shape",
+      "Vibrant red coloring"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Dark",
+    "generation": 8,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mighty",
+      "Mysterious",
+      "Intimidating"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Regidrago/0.png",
+  "pokemon_name": "Regidrago"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a rabbit-like Pokemon that has long, fluffy ears and a playful demeanor.",
+    "I want a cute, bipedal Pokemon with soft fur and a graceful appearance.",
+    "Generate a Normal-type Pokemon with cream and brown colors, embodying elegance and speed.",
+    "Make a Pokemon that resembles a Lopunny, with a focus on agility and charm.",
+    "Imagine a Pokemon that can hop gracefully, showcasing its beautiful fur and strong legs.",
+    "Design a Pokemon inspired by rabbits, featuring large ears and a warm, friendly expression.",
+    "Give me a Pokemon with a soft, fluffy coat that is both adorable and athletic."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, floppy ears",
+      "Fluffy tail",
+      "Soft fur",
+      "Strong hind legs",
+      "Elegant posture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Graceful",
+      "Friendly"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Speed-focused"
+  },
+  "image_path": "images/Lopunny/2.png",
+  "pokemon_name": "Lopunny"
+}

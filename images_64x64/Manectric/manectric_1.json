@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon that resembles a sleek, blue wolf with lightning bolt accents.",
+    "Show me a Pokemon inspired by a storm, featuring bright yellow fur and sharp, angular designs.",
+    "Imagine a powerful electric creature with a dynamic pose, accentuated by its vibrant colors and striking features.",
+    "Design a Pokemon that embodies speed and agility, with a design that includes electric currents and stunning colors.",
+    "Generate an image of a Pokemon that has a fierce look, combining blue and yellow in a unique way.",
+    "Make a Pokemon that looks like a guardian of the skies, with a body that showcases both power and elegance.",
+    "Give me a Pokemon that can be found in urban areas, with a design that reflects its electric nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Lightning bolt patterns on the body",
+      "Pointed ears",
+      "Long tail with lightning accents",
+      "Fierce facial expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Loyal",
+      "Fierce"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Fast and aggressive"
+  },
+  "image_path": "images/Manectric/1.png",
+  "pokemon_name": "Manectric"
+}

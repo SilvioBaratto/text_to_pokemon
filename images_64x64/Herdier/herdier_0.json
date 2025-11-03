@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a playful dog-like Pokemon with a mix of brown and dark blue colors.",
+    "Imagine a Pokemon that resembles a loyal canine with a unique star-shaped face.",
+    "Design a Pokemon that combines the traits of a shepherd dog and a mythical creature.",
+    "Show me a Pokemon that has a strong connection to nature and protects its territory.",
+    "Generate an adorable Pokemon with fluffy fur and an attentive expression.",
+    "Make a creature that looks like a brave guardian of the forest, with striking colors.",
+    "Give me a Pokemon that embodies loyalty and has a sturdy build."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Star-shaped face",
+      "Fluffy fur",
+      "Pointed ears",
+      "Short tail",
+      "Strong build"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Loyal",
+      "Protective",
+      "Playful"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Herdier/0.png",
+  "pokemon_name": "Herdier"
+}

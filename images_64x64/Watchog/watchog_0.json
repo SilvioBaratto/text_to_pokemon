@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a playful, bipedal Pokemon with distinct stripes and a charismatic personality.",
+    "Show me a medium-sized Pokemon that has a unique mix of brown and yellow colors.",
+    "Imagine a watchful Pokemon that thrives in urban environments with a friendly demeanor.",
+    "Design a normal-type Pokemon that is always alert and has a signature waving gesture.",
+    "Give me a Pokemon that resembles a friendly watchdog, perfect for companionship and vigilance.",
+    "Generate an image of a Pokemon with a charming smile, standing proudly with its tail raised.",
+    "Make a lively Pokemon that is known for its keen eyesight and playful antics in grassy areas."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Stripes on its body",
+      "Large, expressive eyes",
+      "Tail raised in a waving position",
+      "Unique smile",
+      "Distinctive color pattern"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Alert",
+      "Friendly"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Watchog/0.png",
+  "pokemon_name": "Watchog"
+}

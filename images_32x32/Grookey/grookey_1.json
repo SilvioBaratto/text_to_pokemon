@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a playful grass-type Pokemon that loves to play in the forest.",
+    "Show me a small Pokemon with green fur and a tiny stick for a weapon.",
+    "Imagine a cute monkey Pokemon that has bright green leaves on its head.",
+    "Design a starter Pokemon that embodies the spirit of nature and friendship.",
+    "Generate a Pokemon with a cheerful expression and a knack for drumming.",
+    "Give me an adorable bipedal creature that thrives in grassy environments.",
+    "Make a Pokemon that is energetic, with a vibrant green color and a wooden staff."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Leaf on head",
+      "Wooden stick",
+      "Cheerful face",
+      "Furry body",
+      "Large ears"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Grookey/1.png",
+  "pokemon_name": "Grookey"
+}

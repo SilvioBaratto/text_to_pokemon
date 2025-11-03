@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a unique Pokemon that has a large, flowing hair and a mischievous smile.",
+    "I want a Pokemon with a playful personality and a design that features a large, dark accessory.",
+    "Generate a dual-type Pokemon that blends fairy and dark elements seamlessly.",
+    "Make a creature that has a small, humanoid body with a striking color contrast.",
+    "Imagine a Pokemon that is both charming and intimidating, with distinct sharp features.",
+    "Design a Pokemon that thrives in mysterious forests and has a captivating appearance.",
+    "Give me a creature that combines elegance with a hint of danger in its design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": "Pink"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large black hair resembling a jaw",
+      "Red eyes",
+      "Small humanoid body",
+      "Pink inner mouth",
+      "Distinctive yellow dress-like body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": "Dark",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Cunning"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Trickster"
+  },
+  "image_path": "images/Mawile/0.png",
+  "pokemon_name": "Mawile"
+}

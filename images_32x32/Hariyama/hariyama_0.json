@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a muscular fighting-type Pokemon with a strong build and a playful personality.",
+    "Show me a Pokemon that embodies strength and resilience, with distinctive yellow and brown colors.",
+    "Imagine a large, humanoid Pokemon that dominates the battlefield with its powerful arms and combat skills.",
+    "Design a robust Pokemon that thrives in various environments, showcasing its fighting prowess.",
+    "Give me a Pokemon that is both friendly and fierce, with unique features that highlight its fighting style.",
+    "Generate a bipedal Pokemon with an interesting color palette, capable of using powerful fighting moves.",
+    "Make a Pokemon that resembles a sumo wrestler, emphasizing its size and strength in combat."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Brown",
+      "accent": "Blue"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large hands",
+      "Muscled build",
+      "Distinctive sumo-like appearance",
+      "Facial hair",
+      "Wide stance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Determined",
+      "Friendly"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Physical attacker"
+  },
+  "image_path": "images/Hariyama/0.png",
+  "pokemon_name": "Hariyama"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a legendary Pokemon that has sleek, aerodynamic features and vibrant colors.",
+    "Generate a Pokemon with dual flying and psychic abilities, designed with elegant curves and unique patterns.",
+    "Show me a mystical creature inspired by Latias, featuring a blend of pink and white colors.",
+    "Imagine a Pokemon that can soar through the skies gracefully, with a design that emphasizes speed and agility.",
+    "Design a Pokemon that embodies the essence of flight and psychic powers, with a futuristic look.",
+    "Give me a Pokemon that has a serene expression, radiating calmness and mystery, adorned in soft hues.",
+    "Make a character based on Latias that can blend seamlessly into its forest habitat, showcasing natural colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "White"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "White",
+      "accent": "Blue"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "A sleek, streamlined body",
+      "Prominent wings with a unique shape",
+      "Distinctive red and white color pattern",
+      "Elegant facial features resembling a dragon",
+      "Tail with a forked end"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Psychic",
+    "generation": 3,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Protective",
+      "Curious"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Latias/2.png",
+  "pokemon_name": "Latias"
+}

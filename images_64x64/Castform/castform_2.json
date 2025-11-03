@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that looks like a cute droplet with a playful expression.",
+    "I want a Pokemon that can change its form based on the weather, showcasing various colors.",
+    "Generate an adorable Pokemon that resembles a small cloud with a blue hue.",
+    "Make a Pokemon design that combines elements of water and air, with a round, fluffy body.",
+    "Imagine a whimsical Pokemon that can transform into different types based on the environment.",
+    "Design a cheerful Pokemon that embodies the essence of rain, with bright blue accents.",
+    "Give me a unique Pokemon that has a jelly-like body and can float in midair."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Droplet shape",
+      "Big eyes",
+      "Fluffy cloud-like appearance",
+      "Small, rounded body",
+      "Smooth texture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Adaptable"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Castform/2.png",
+  "pokemon_name": "Castform"
+}

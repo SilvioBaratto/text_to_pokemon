@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon that resembles a mountain with a face and a big nose.",
+    "Show me a Pokemon that embodies the essence of ancient stone structures and has a unique beard.",
+    "Generate a quirky Pokemon with a large nose and a love for standing still.",
+    "Imagine a dual-type Pokemon that brings both charm and a sense of ancient wisdom.",
+    "Design a Pokemon that looks like a stone statue, complete with a hat and mustache.",
+    "Give me a Pokemon that has a robust body and a playful personality, standing in a mountainous area.",
+    "Make a Pokemon that features a big nose and a sturdy appearance, perfect for rocky terrains."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large nose",
+      "Magnet-like mustache",
+      "Hat-like structure on top",
+      "Blocky, geometric body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Steel",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Quirky",
+      "Loyal",
+      "Sturdy"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Probopass/0.png",
+  "pokemon_name": "Probopass"
+}

@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a jellyfish-like Pokemon that glows in the dark and has flowing tentacles.",
+    "Imagine a water-type Pokemon with a soft pink color and elegant features.",
+    "Design a cute ghost-type Pokemon that resembles a floating jellyfish with a friendly expression.",
+    "Show me a Pokemon that combines elements of the sea with a whimsical, ethereal design.",
+    "Generate a Pokemon that has delicate, translucent appendages and a serene personality.",
+    "Make a Pokemon that looks like a gentle spirit from the ocean depths, with pastel colors.",
+    "Give me a design for a Pokemon that has a calming presence and fluid movements."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Translucent, flowing tentacles",
+      "Round, balloon-like body",
+      "Large, expressive eyes",
+      "Soft, pastel coloration"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Water",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Gentle",
+      "Playful"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Frillish/2.png",
+  "pokemon_name": "Frillish"
+}

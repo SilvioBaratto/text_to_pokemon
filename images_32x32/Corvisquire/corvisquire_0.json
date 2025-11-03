@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a flying-type Pokemon with dark feathers and bright red eyes.",
+    "Imagine a bird Pokemon that excels in urban environments and has a sleek design.",
+    "Design a medium-sized Pokemon that features sharp wings and a keen gaze.",
+    "Generate a Pokemon that embodies the spirit of the forest with a striking black and blue color scheme.",
+    "Show me a Pokemon with a unique blend of agility and intelligence, perfect for aerial battles.",
+    "Make a Pokemon that showcases the beauty of nature with its elegant wing structure and vibrant colors.",
+    "Give me a fierce-looking bird Pokemon that stands out with its captivating features and color patterns."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Sharp wings",
+      "Red eyes",
+      "Sleek body silhouette",
+      "Tail feathers"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Flying",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Agile",
+      "Observant"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Aerial"
+  },
+  "image_path": "images/Corvisquire/0.png",
+  "pokemon_name": "Corvisquire"
+}

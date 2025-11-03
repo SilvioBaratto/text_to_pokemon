@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with vibrant yellow wings and a brown body.",
+    "I want a Pokemon that resembles a moth, complete with large, colorful wings.",
+    "Generate an insectoid Pokemon with distinct patterns and bright colors.",
+    "Make a Pokemon that is playful and flutters around flower fields.",
+    "Imagine a flying-type creature that has a unique blend of colors and shapes.",
+    "Design a Pokemon that thrives in urban environments, resembling a moth.",
+    "Show me a Pokemon with striking yellow and brown colors, perfect for a nature setting."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Orange",
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Brown",
+      "accent": "Orange"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, wide wings",
+      "Distinctive orange markings",
+      "Long antennae",
+      "Brown body",
+      "Black accents on wings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Gentle"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Speed-oriented attacks"
+  },
+  "image_path": "images/Mothim/0.png",
+  "pokemon_name": "Mothim"
+}

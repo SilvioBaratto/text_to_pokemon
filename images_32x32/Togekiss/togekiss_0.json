@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a flying-type Pokemon resembling a celestial creature with soft white feathers and vibrant accents.",
+    "Imagine a fairy Pokemon that glides gracefully through the air, radiating a serene aura of tranquility.",
+    "Design a whimsical Pokemon with a sleek body shape and a playful nature, perfect for enchanting children.",
+    "Show me a Pokemon that embodies joy and happiness, with colors that reflect its cheerful personality.",
+    "Generate a Pokemon that has a unique blend of colors and a magical presence, captivating all who see it.",
+    "Make a Pokemon that looks like a guardian of the skies, with elegant wings and a gentle demeanor.",
+    "Give me a creature that brings good luck, with a blend of soft colors and an ethereal quality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Blue",
+      "accent": "Red"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large, elegant wings",
+      "Rounded body shape",
+      "Soft, cloud-like appearance",
+      "Colorful markings",
+      "Gentle facial expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": "Flying",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Joyful",
+      "Gentle",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Togekiss/0.png",
+  "pokemon_name": "Togekiss"
+}

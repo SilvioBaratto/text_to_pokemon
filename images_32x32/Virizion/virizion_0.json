@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon with elegant antlers and a sleek green body.",
+    "Show me a grass-type creature resembling a deer, with vibrant colors and a strong stance.",
+    "Imagine a powerful Pokemon adorned with leaf patterns and a serene expression.",
+    "Generate a nature guardian that features a blend of green and white, standing tall in the forest.",
+    "Design a majestic creature with a swift build, perfect for battling in grassy terrains.",
+    "Give me a legendary Pokemon that embodies the essence of nature with graceful movements.",
+    "Make a Pokemon that has a calming aura, with striking red accents and a unique body shape."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "White",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "White",
+      "accent": "Red"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Antlers resembling leaves",
+      "Red markings on the legs",
+      "Sleek, agile body",
+      "Long, flowing mane",
+      "Hooves with a unique design"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Fighting",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Noble",
+      "Calm",
+      "Protective"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Speed and agility-focused"
+  },
+  "image_path": "images/Virizion/0.png",
+  "pokemon_name": "Virizion"
+}

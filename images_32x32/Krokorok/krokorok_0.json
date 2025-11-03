@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ground-type Pokemon with sandy textures and a tough demeanor.",
+    "Show me a Pokemon resembling a small, tough lizard with a playful attitude.",
+    "Imagine a Pokemon with a sandy color palette that thrives in desert environments.",
+    "Generate a bipedal Pokemon that looks both intimidating and friendly at the same time.",
+    "Make a Pokemon that blends into its environment with earthy colors and strong features.",
+    "Design a Pokemon with a sturdy body and a mischievous smile that loves the sun.",
+    "Give me a creature that combines ruggedness with a playful spirit, perfect for desert adventures."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Black",
+      "accent": "Pink"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Sandy brown skin",
+      "Black stripes",
+      "Sunglasses-like markings",
+      "Thick tail",
+      "Sturdy limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": "Dark",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Cunning"
+    ],
+    "habitat": "Desert",
+    "rarity": "Common",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Krokorok/0.png",
+  "pokemon_name": "Krokorok"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon that embodies the power of dimensions with a unique ring feature.",
+    "Show me a playful and mischievous Pokemon that can teleport using magical rings.",
+    "Imagine a psychic-type Pokemon with a colorful design and a whimsical appearance.",
+    "Generate a Pokemon with a vibrant color palette that represents the balance of dimensions.",
+    "Make a whimsical creature that has a round body, playful eyes, and a magical aura.",
+    "Design a Pokemon that blends elements of mischief and magic with an enchanting look.",
+    "Give me a legendary Pokemon with unique rings that can manipulate space and time."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Yellow",
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Pink",
+      "accent": "Yellow"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Two large rings on either side",
+      "Colorful patterns on body",
+      "Expressive, large eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Ghost",
+    "generation": 6,
+    "is_legendary": true,
+    "is_mythical": true,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Hoopa/0.png",
+  "pokemon_name": "Hoopa"
+}

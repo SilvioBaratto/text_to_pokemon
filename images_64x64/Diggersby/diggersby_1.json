@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a rabbit-like Pokemon that excels in digging and has large ears.",
+    "I want a Normal-type Pokemon with strong legs and big, floppy ears.",
+    "Generate a Pokemon that can burrow underground and has a fluffy appearance.",
+    "Make a playful Pokemon that loves to hop around in grassy fields.",
+    "Imagine a Pokemon resembling a bunny with brown fur and a bright yellow belly.",
+    "Design a cute but tough Pokemon that can dig tunnels quickly.",
+    "Show me a Diggersby-inspired Pokemon with a focus on agility and strength."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Gray",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large, floppy ears",
+      "Strong, muscular legs",
+      "Fluffy tail",
+      "Broad, rounded body",
+      "Visible buck teeth"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Ground",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Energetic",
+      "Playful"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Diggersby/1.png",
+  "pokemon_name": "Diggersby"
+}

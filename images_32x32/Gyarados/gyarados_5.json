@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that looks like a dragon with fierce blue scales and sharp fins.",
+    "Show me a powerful creature with a serpentine body and vibrant yellow and blue accents.",
+    "Generate an aquatic beast that has a long, flowing tail and a menacing expression.",
+    "Imagine a Pokemon that combines the majesty of a dragon with the ferocity of the sea.",
+    "Design a legendary water creature with a bold color scheme and intimidating presence.",
+    "Make a Pokemon that embodies strength and agility, featuring striking red and blue colors.",
+    "Give me a depiction of a massive sea creature that dominates its underwater habitat."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": "Red"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Huge",
+    "distinctive_features": [
+      "Long, serpentine body",
+      "Large fins",
+      "Fierce facial expression",
+      "Sharp, pointed teeth",
+      "Distinctive color pattern"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Dragon",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Proud",
+      "Majestic"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Gyarados/5.png",
+  "pokemon_name": "Gyarados"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a spooky ghost-type Pokemon with a unique body shape and haunting features.",
+    "I want to see a Pokemon that embodies darkness and mystery, with a ghostly appearance.",
+    "Generate a design for a ghost-type Pokemon that has a distinctive eye and eerie hands.",
+    "Make a Pokemon that represents shadows, featuring a floating body and a haunting expression.",
+    "Imagine a ghostly creature with a unique silhouette and menacing claws, perfect for a spooky setting.",
+    "Design a Pokemon with a haunting presence and ghostly traits that lurk in the shadows.",
+    "Give me a ghost-type Pokemon with a unique design that can blend into dark environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Red",
+      "accent": "Black"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Single red eye",
+      "Floating body",
+      "Hand-like appendages",
+      "Ghostly, shadowy appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Mysterious",
+      "Eerie"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Dusclops/1.png",
+  "pokemon_name": "Dusclops"
+}

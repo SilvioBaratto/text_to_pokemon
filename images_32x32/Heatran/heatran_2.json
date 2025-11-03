@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a legendary Pokemon that resembles a molten creature with a fiery core and rocky exterior.",
+    "Design an imposing fire and steel-type Pokemon with a rugged, metallic body and glowing orange accents.",
+    "Imagine a mythical Pokemon that embodies the power of lava and metal, with a fierce expression and sturdy limbs.",
+    "Generate a unique Pokemon with a combination of fire and steel elements, showcasing a tough, armored appearance.",
+    "Show me a creature that blends the essence of fire and rock, with intense colors and formidable claws.",
+    "Make a powerful Pokemon that looks like a walking volcano, combining molten lava and rocky textures.",
+    "Give me a Pokemon with a molten theme, featuring a mix of orange and gray colors, and a robust build."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Gray",
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Gray",
+      "accent": "Red"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Molten lava-like texture",
+      "Armored, rocky body",
+      "Glowing orange accents",
+      "Four sturdy legs",
+      "Distinctive head shape with a fierce look"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Steel",
+    "generation": 4,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Resilient",
+      "Intimidating"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Heatran/2.png",
+  "pokemon_name": "Heatran"
+}

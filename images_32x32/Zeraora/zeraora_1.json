@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon with sleek yellow fur and sharp blue accents.",
+    "Imagine a feline-inspired Pokemon that embodies speed and agility with its lightning-like features.",
+    "Design a legendary Pokemon that resembles a wild cat, combining electric and fighting traits.",
+    "Generate a Pokemon that stands out with its vivid yellow and blue colors, showcasing athleticism.",
+    "Show me a powerful mythical creature with a unique electric tail, perfect for battles.",
+    "Make a Pokemon that looks like a jungle predator, with bright colors and an energetic aura.",
+    "Give me a bipedal Pokemon that has an electrifying presence and dynamic movements."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Lightning bolt tail",
+      "Fur with electric patterns",
+      "Feline-like agility",
+      "Sharp claws",
+      "Glowing blue stripes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Fighting",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Playful",
+      "Courageous"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Fast and agile, focusing on quick strikes"
+  },
+  "image_path": "images/Zeraora/1.png",
+  "pokemon_name": "Zeraora"
+}

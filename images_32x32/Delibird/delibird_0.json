@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a winter-themed Pokemon that carries gifts and has a jolly demeanor.",
+    "Imagine a flying-type creature with a red and white color scheme and a playful personality.",
+    "Generate a Pokemon that resembles a penguin but has a festive look and delivers items.",
+    "Make a creature inspired by holiday traditions, featuring bright colors and a cheerful attitude.",
+    "Show me a small bird Pokemon with a snowy appearance and a knack for causing mischief.",
+    "Design a Pokemon that embodies the spirit of giving, with a unique ice-type twist.",
+    "Give me an adorable Pokemon that thrives in snowy environments and loves to play."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "White"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "White",
+      "accent": "Gray"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy white fur on the head and chest",
+      "Large, expressive eyes",
+      "A sack resembling a gift bag",
+      "Red body with white accents",
+      "Short wings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Jolly",
+      "Playful",
+      "Mischievous"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Delibird/0.png",
+  "pokemon_name": "Delibird"
+}

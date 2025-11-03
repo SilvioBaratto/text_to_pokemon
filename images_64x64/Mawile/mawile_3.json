@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a Pokemon that has a unique dual personality and captivating color scheme.",
+    "Generate a whimsical creature with large, striking features and an enchanting aura.",
+    "Design a fearsome yet charming Pokemon inspired by mythical legends and dark environments.",
+    "Show me a playful Pokemon with a mischievous spirit and an emphasis on stealth.",
+    "Imagine a creature that blends beauty and danger in its design and abilities.",
+    "Make an original Pokemon that thrives in urban settings and has a mysterious presence.",
+    "Give me a Pokemon with an alluring appearance that hides its true strength."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Purple",
+      "accent": "Yellow"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large black jaws resembling hair",
+      "Purple dress-like body",
+      "Small yellow eyes",
+      "Long hair-like appendages"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Fairy",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Mischievous",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Trickster"
+  },
+  "image_path": "images/Mawile/3.png",
+  "pokemon_name": "Mawile"
+}

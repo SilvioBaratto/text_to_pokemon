@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon that resembles a tall palm tree with coconuts on top.",
+    "Show me a Pokemon with a large, leafy top and a long, sturdy trunk.",
+    "Design a Pokemon that is a mix of plant and animal traits, standing tall in the forest.",
+    "Imagine a giant Pokemon that has a tree-like appearance and can thrive in diverse terrains.",
+    "Generate a Pokemon with multiple heads and a strong, woody base, perfect for a tropical setting.",
+    "Make a creature that embodies the essence of nature with vibrant green leaves and a strong presence.",
+    "Give me a Pokemon that represents the beauty of a tropical environment, towering over other species."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Brown"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Tall, palm-like trunk",
+      "Multiple heads with leaves",
+      "Coconuts as fruit",
+      "Thick, woody base"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Psychic",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Wise",
+      "Nurturing"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Exeggutor/1.png",
+  "pokemon_name": "Exeggutor"
+}

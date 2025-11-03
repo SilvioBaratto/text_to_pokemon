@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a deer-like Pokemon with antlers that glows in the dark.",
+    "I want a Normal-type Pokemon that thrives in forested areas.",
+    "Generate a Pokemon that resembles a stag with bright yellow accents.",
+    "Make a creature that combines elements of a deer and a mystical spirit.",
+    "Imagine a majestic Pokemon with a unique body shape and vibrant colors.",
+    "Design a Pokemon that embodies both grace and strength in its appearance.",
+    "Show me a Pokemon that is perfect for living in grassy habitats."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large yellow antlers",
+      "White underbelly",
+      "Brown fur coat",
+      "Bright yellow spots"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Alert",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Stantler/1.png",
+  "pokemon_name": "Stantler"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a Pokemon that has a large flower on its back and is primarily green.",
+    "I want a creature that resembles a dinosaur with vibrant colors and a unique plant feature.",
+    "Generate a character that embodies nature with both animal and plant characteristics.",
+    "Make a Pokemon that evolves from a small bulb into a larger, flower-bearing form.",
+    "Imagine a Pokemon that thrives in forest habitats and has a friendly demeanor.",
+    "Design a creature that is both Grass and Poison type with a distinctive flower.",
+    "Show me a Pokemon that has a mix of blue and green shades, perfect for a forest setting."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Blue",
+      "accent": "Pink"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large pink flower on back",
+      "Ivysaur's bulb",
+      "Green leafy plant features",
+      "Blue skin",
+      "Short, stout legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Friendly",
+      "Gentle",
+      "Protective"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Ivysaur/3.png",
+  "pokemon_name": "Ivysaur"
+}

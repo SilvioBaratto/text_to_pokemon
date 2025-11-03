@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a massive rock-type Pokemon with metallic features and a fierce demeanor.",
+    "Show me a Pokemon resembling a dinosaur made of steel with powerful limbs.",
+    "Design a Pokemon that has a tough exterior and is known for its defensive skills.",
+    "Imagine a Pokemon that embodies strength and resilience, standing in a mountainous terrain.",
+    "Generate a Pokemon with multiple horns and a rugged appearance, perfect for battle.",
+    "Make a Pokemon with a rocky body and a determined expression, ready to face any challenge.",
+    "Give me an image of a Pokemon that looks like a tank, built for protection and combat."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Black"
+    ],
+    "secondary_colors": [
+      "White",
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Black",
+      "accent": "Blue"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Three prominent horns on the head",
+      "Heavy, armored body",
+      "Strong legs with large feet",
+      "Blue eyes with a fierce expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Rock",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Defensive",
+      "Stubborn"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive and powerful"
+  },
+  "image_path": "images/Aggron/2.png",
+  "pokemon_name": "Aggron"
+}

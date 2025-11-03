@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a cute Electric-type Pokemon that resembles a small rodent with big ears and whiskers.",
+    "I want a design for a Pokemon that has a cheerful demeanor and is primarily orange with yellow accents.",
+    "Generate an image of an adorable Pokemon that can be found in urban areas, resembling a fluffy ball.",
+    "Make a character for a Pokemon that has playful and energetic traits, perfect for a family-friendly game.",
+    "Imagine a tiny Pokemon that loves to explore forests and is known for its vibrant colors and charming appearance.",
+    "Design a Pokemon that can evolve into a more powerful form, starting as a small, round creature.",
+    "Show me a Pokemon that embodies cuteness and mischief, with a tail that looks like a lightning bolt."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Brown",
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large round ears",
+      "Whiskers resembling antennae",
+      "Cheek pouches that glow",
+      "Small, round body",
+      "Curly tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Fairy",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Curious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Dedenne/1.png",
+  "pokemon_name": "Dedenne"
+}

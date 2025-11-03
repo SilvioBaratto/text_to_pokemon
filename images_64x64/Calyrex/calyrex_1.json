@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon that rides on a majestic steed with vibrant blue and green colors.",
+    "Show me a small, elegant Pokemon with a unique crown and a shimmering aura.",
+    "Imagine a legendary Pokemon that embodies the essence of nature with a mystical appearance.",
+    "Generate a graceful bipedal Pokemon with ice-like features and a regal demeanor.",
+    "Make a Pokemon that has a blend of earthy tones and an ethereal presence.",
+    "Design a majestic Pokemon that represents the cycle of seasons with a vibrant color palette.",
+    "Give me a Pokemon that looks like a king of the forest, complete with a crown and a staff."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Green"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": "Green"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Crown-like headpiece",
+      "Staff with a green orb",
+      "Elegant posture",
+      "Frosted blue fur",
+      "Shimmering accents"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Grass",
+    "generation": 8,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Noble",
+      "Wise",
+      "Mysterious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Strategic"
+  },
+  "image_path": "images/Calyrex/1.png",
+  "pokemon_name": "Calyrex"
+}

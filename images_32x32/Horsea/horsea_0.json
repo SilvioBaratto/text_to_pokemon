@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a seahorse with vibrant blue and white colors.",
+    "I want a small aquatic Pokemon with a curled tail and a friendly expression.",
+    "Generate a Pokemon that looks like a marine creature, featuring scales and fins in light colors.",
+    "Make a playful creature inspired by sea life, showcasing unique features and a calm demeanor.",
+    "Imagine a tiny Pokemon with a serpentine body, perfect for swimming through underwater environments.",
+    "Design a Pokemon with a sleek silhouette and gentle features, evoking a sense of tranquility.",
+    "Show me a whimsical water-type Pokemon with a charming appearance and a spiraled tail."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Curled tail",
+      "Fins on the head",
+      "Spiral body shape",
+      "Red eye"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Horsea/0.png",
+  "pokemon_name": "Horsea"
+}

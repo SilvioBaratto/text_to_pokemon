@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a majestic fairy-type Pokemon with sparkling gems and flowing pink hair.",
+    "I want a Pokemon that glows with light and has an elegant, regal appearance.",
+    "Generate a mythical Pokemon that embodies beauty and grace, set in a lush forest.",
+    "Make a Pokemon design featuring pastel colors and a jewel-like crown for a magical effect.",
+    "Imagine a Pokemon that resembles a diamond princess with long flowing ribbons and a dazzling aura.",
+    "Design a unique fairy Pokemon with a blend of pink and white, showcasing elegance in every detail.",
+    "Show me a Pokemon with a delicate body shape and sparkling features that radiate charm."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "White"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "White",
+      "accent": "Purple"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Gem-like crown",
+      "Long, flowing hair",
+      "Ribbons extending from arms",
+      "Diamond-like body structure",
+      "Elegant dress-like appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": true,
+    "is_mythical": true,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Graceful",
+      "Elegant",
+      "Playful"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Diancie/4.png",
+  "pokemon_name": "Diancie"
+}

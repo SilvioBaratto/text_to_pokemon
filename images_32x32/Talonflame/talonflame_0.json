@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a bird Pokemon with fiery plumage and striking wings for an epic battle.",
+    "Show me a majestic creature that combines elegance with fierce fire abilities.",
+    "Generate a flying Pokemon that embodies speed and agility, perfect for aerial combat.",
+    "Imagine a Pokemon with vivid orange feathers and a powerful presence in the skies.",
+    "Design a Pokemon that thrives in mountainous regions and has an affinity for fire.",
+    "Give me a legendary bird-like Pokemon known for its swift movements and fiery attacks.",
+    "Make a vibrant Pokemon that showcases the beauty of flames and the grace of flight."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Black",
+      "accent": "Yellow"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, pointed wings",
+      "Flame-like tail",
+      "Sharp beak",
+      "Streamlined body",
+      "Vivid coloration"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Flying",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Fierce",
+      "Proud"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Talonflame/0.png",
+  "pokemon_name": "Talonflame"
+}

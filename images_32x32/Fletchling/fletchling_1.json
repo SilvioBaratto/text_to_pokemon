@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bird Pokemon that has bright red and blue feathers, soaring through the sky.",
+    "I want a small, feathery Pokemon with a cheerful personality and a striking orange beak.",
+    "Generate a flying-type Pokemon design featuring sleek wings and a vibrant color palette.",
+    "Make a Pokemon that resembles a tiny bird, with a combination of blue and orange hues.",
+    "Imagine a friendly bird Pokemon that loves to sing, with a bright red body and white wings.",
+    "Design a Pokemon with a playful demeanor, featuring a round shape and colorful plumage.",
+    "Give me a concept for a small, energetic Pokemon that thrives in forest habitats."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Blue",
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Bright red body",
+      "Blue underside",
+      "White wings",
+      "Orange beak",
+      "Small size"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Energetic",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Speed-focused"
+  },
+  "image_path": "images/Fletchling/1.png",
+  "pokemon_name": "Fletchling"
+}

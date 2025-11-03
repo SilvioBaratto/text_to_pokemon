@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a lazy Pokemon that enjoys napping in the sun with a fluffy coat.",
+    "Imagine a laid-back creature that rolls around in the grass, looking for snacks.",
+    "Design a Pokemon that resembles a sloth but has a playful side when awake.",
+    "Show me a sleepy Pokemon with a unique body shape that loves to lounge.",
+    "Generate a cute, sloth-like Pokemon with big eyes and a friendly expression.",
+    "Make a Pokemon that embodies relaxation, with soft colors and a calm demeanor.",
+    "Give me an adorable creature that prefers to chill rather than battle."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": "Pink"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Droopy ears",
+      "Chubby body",
+      "Large, expressive eyes",
+      "Fluffy tail",
+      "Distinctive markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Lazy",
+      "Laid-back",
+      "Gentle"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Slakoth/0.png",
+  "pokemon_name": "Slakoth"
+}

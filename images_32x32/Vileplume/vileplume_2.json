@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a vibrant grass-type Pokemon with a large red flower on its head and a cheerful demeanor.",
+    "Show me a Pokemon that resembles a small creature with a big mushroom cap and a playful attitude.",
+    "Imagine a unique Poison-type Pokemon that thrives in lush forests and has a round, chubby body.",
+    "Generate a design for a Pokemon that combines floral elements with playful characteristics, perfect for kids.",
+    "Give me an idea for a Pokemon that has a striking red and white color scheme and a friendly personality.",
+    "Make a Pokemon that looks like a walking plant with a huge flower, ideal for grassy habitats.",
+    "Design a whimsical creature that symbolizes nature, featuring bright colors and a cute, approachable appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "White"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Green",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large red flower on head",
+      "Round, chubby body",
+      "Short limbs",
+      "White spots on flower",
+      "Green leaves around base"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Friendly",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Vileplume/2.png",
+  "pokemon_name": "Vileplume"
+}

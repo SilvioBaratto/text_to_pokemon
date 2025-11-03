@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a sea creature with vibrant colors and unique patterns.",
+    "I want a Pokemon that has a playful and curious personality, featuring blue and green hues.",
+    "Generate a large, aquatic Pokemon inspired by a mollusk, complete with bright yellow accents.",
+    "Make a design for a medium-sized Pokemon that thrives in wetlands, showcasing its vibrant color palette.",
+    "Imagine a Pokemon with a distinctive body shape that is both charming and colorful, perfect for a kids' game.",
+    "Show me a Pokemon that has a unique combination of aquatic and land features, with a focus on its colors.",
+    "Design a Pokemon that embodies a friendly demeanor, showcasing its colorful and lively appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Green",
+      "accent": "Yellow"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Blob-like body shape",
+      "Distinctive fin-like structures",
+      "Colorful patterns on the body",
+      "Smooth, glossy texture",
+      "Large, expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Ground",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Gastrodon/2.png",
+  "pokemon_name": "Gastrodon"
+}

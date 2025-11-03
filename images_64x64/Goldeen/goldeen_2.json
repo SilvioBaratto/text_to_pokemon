@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a graceful water-type Pokemon that resembles a fish, with elegant fins and vibrant colors.",
+    "Imagine a Pokemon with a sleek body and flowing fins, perfect for swimming in clear waters.",
+    "Design a cute aquatic creature with a bright orange pattern, ideal for a serene water environment.",
+    "Show me a Pokemon that has a charming appearance, featuring delicate features and a playful demeanor.",
+    "Generate a Pokemon that makes a splash with its vibrant coloration and lively personality.",
+    "Make a water-type Pokemon with a unique tail design and a friendly expression that attracts trainers.",
+    "Give me a Pokemon that exudes elegance in water, with shimmering scales and a friendly attitude."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Red"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": null,
+      "accent": "Red"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long, flowing fins",
+      "Pointed snout",
+      "Bright orange markings",
+      "Streamlined body",
+      "Delicate tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Graceful",
+      "Friendly"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Goldeen/2.png",
+  "pokemon_name": "Goldeen"
+}

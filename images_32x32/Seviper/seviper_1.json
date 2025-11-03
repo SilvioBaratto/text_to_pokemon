@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a serpentine Pokemon with vibrant colors and a fierce expression.",
+    "I want a poison-type Pokemon that has a scaly body and sharp fangs.",
+    "Generate an image of a snake-like creature with a striking color pattern.",
+    "Make a unique Pokemon design featuring a long, winding body and a powerful tail.",
+    "Imagine a Pokemon that blends into its forest habitat with a camouflage effect.",
+    "Design a creature that embodies both danger and elegance with its sleek form.",
+    "Show me a serpentine Pokemon with colorful accents and a menacing glare."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Purple",
+      "accent": "Red"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, winding body",
+      "V-shaped tail",
+      "Fangs",
+      "Yellow markings on the face",
+      "Red crest on the head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Aggressive",
+      "Defensive"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Seviper/1.png",
+  "pokemon_name": "Seviper"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon that has a sleek, elongated body and shimmering scales.",
+    "I want a mystical creature with vibrant colors and sharp, piercing eyes that exude power.",
+    "Generate a legendary Pokemon with a majestic wingspan, combining deep purple and fiery red hues.",
+    "Make an imposing Pokemon that embodies darkness and chaos with unique, swirling patterns on its body.",
+    "Imagine a powerful creature that can manipulate time and space, with a design inspired by ancient myths.",
+    "Design a Pokemon with a serpentine form that features ethereal energy flowing from its body.",
+    "Give me a Pokemon that has both dragon and ghost elements, with a haunting yet beautiful appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Red"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Huge",
+    "distinctive_features": [
+      "Long, slender body",
+      "Multiple sharp appendages",
+      "Glowing energy core",
+      "Wing-like protrusions",
+      "Intricate patterns on skin"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Poison",
+    "generation": 8,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Powerful",
+      "Dark",
+      "Chaotic"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Eternatus/0.png",
+  "pokemon_name": "Eternatus"
+}

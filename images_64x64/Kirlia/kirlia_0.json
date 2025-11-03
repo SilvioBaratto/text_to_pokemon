@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon that has a graceful appearance and elegant features.",
+    "I want a Pokemon design that embodies both beauty and mystique in its color palette.",
+    "Generate a character concept for a small, humanoid Pokemon with flowing robes and a serene demeanor.",
+    "Make a Pokemon that has delicate features and is primarily green with hints of red.",
+    "Imagine a Pokemon that represents psychic powers, showcasing its elegance and grace in form.",
+    "Design a mystical creature that thrives in lush environments with a focus on its psychic abilities.",
+    "Show me a Pokemon that has a blend of green and white colors, emphasizing its gentle nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "White"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Red",
+      "accent": "White"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long, flowing dress-like body",
+      "Elongated head with pointed features",
+      "Red ear-like appendages",
+      "Large, expressive eyes",
+      "Delicate arms with hand-like structures"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Graceful",
+      "Calm"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Kirlia/0.png",
+  "pokemon_name": "Kirlia"
+}

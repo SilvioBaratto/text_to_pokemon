@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with sleek blue scales and a ninja-like appearance.",
+    "Imagine a Pokemon that can blend into water with stealthy movements and sharp attacks.",
+    "Design a dark and mysterious Pokemon with a unique water element and agile traits.",
+    "Generate a Pokemon that uses its agility to outmaneuver opponents in battles.",
+    "Show me a bipedal Pokemon that embodies the essence of a ninja with aquatic features.",
+    "Give me a unique Pokemon that thrives in urban environments and excels in stealth.",
+    "Make a Pokemon with an emphasis on speed and agility, perfect for surprise attacks."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": "Red"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Ninja-like appearance",
+      "Long tongue wrapped around neck",
+      "Webbed hands and feet",
+      "Pointed ears",
+      "Red scarf-like appendage"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Dark",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Agile",
+      "Stealthy",
+      "Cunning"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Speed and agility focused, using stealthy moves"
+  },
+  "image_path": "images/Greninja/1.png",
+  "pokemon_name": "Greninja"
+}

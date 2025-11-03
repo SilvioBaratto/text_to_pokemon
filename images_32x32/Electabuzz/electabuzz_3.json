@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon with a vibrant yellow and black color scheme.",
+    "I want a Pokemon that resembles a humanoid with striking zigzag patterns on its body.",
+    "Generate a creature that embodies speed and agility, perfect for electric attacks.",
+    "Make a bipedal Pokemon with spiky features and a mischievous smile.",
+    "Imagine a Pokemon with a unique blend of bright colors and powerful electric abilities.",
+    "Design an energetic Pokemon that thrives in urban environments and uses electric moves.",
+    "Show me a Pokemon that has a strong connection to electricity and a playful personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Zigzag patterns on body",
+      "Spiky head protrusions",
+      "Long arms",
+      "Pointed ears",
+      "Electric-like tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Playful",
+      "Mischievous"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Electabuzz/3.png",
+  "pokemon_name": "Electabuzz"
+}

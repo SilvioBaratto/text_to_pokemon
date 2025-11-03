@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a bird Pokemon that has vibrant green feathers and a brown chest.",
+    "Show me an elegant owl-like creature with striking white and green colors.",
+    "Imagine a Pokemon that combines grass and flying elements, with unique feather designs.",
+    "Design a Pokemon that resembles an owl, featuring earthy tones and graceful wings.",
+    "Generate a charming Pokemon with a round body, short legs, and a friendly demeanor.",
+    "Give me a visual of a Pokemon that thrives in forest habitats and has a calm expression.",
+    "Make an image of a Pokemon that has a sleek form and is known for its agile movements."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "White",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": "Orange"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body",
+      "Large wings",
+      "Distinctive feather patterns",
+      "Prominent face markings",
+      "Short legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Flying",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Friendly",
+      "Observant"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Strategic"
+  },
+  "image_path": "images/Dartrix/2.png",
+  "pokemon_name": "Dartrix"
+}

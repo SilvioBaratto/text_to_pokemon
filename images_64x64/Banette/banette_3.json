@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a spooky ghost-type Pokemon with a dark, tattered appearance and glowing eyes.",
+    "Design a Pokemon that resembles a haunted doll, with creepy features and a mischievous grin.",
+    "Imagine a ghostly figure that floats silently, draped in shadows and emitting a chilling aura.",
+    "Show me a Pokemon that has a playful yet sinister personality, lurking in abandoned places.",
+    "Generate a Pokemon with a unique plush-like texture, contrasting dark colors with vivid accents.",
+    "Make a ghost-type Pokemon that appears to be made from old fabric with stitched features.",
+    "Give me a Pokemon that combines elements of a ghost and a marionette, with an eerie charm."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Purple",
+      "accent": "Pink"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Stitched fabric appearance",
+      "Glowing pink eyes",
+      "Floating body with a sinister grin",
+      "Tattered edges",
+      "Ghostly wisps"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Eerie",
+      "Playful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Banette/3.png",
+  "pokemon_name": "Banette"
+}

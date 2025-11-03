@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a gray-toned Pokemon with a serpentine body and metallic features.",
+    "Show me a massive, rock-covered creature that resembles a living serpent.",
+    "Generate a powerful Pokemon that can dig through mountains and caves effortlessly.",
+    "Imagine a Pokemon with long, sharp spikes along its back and a fierce gaze.",
+    "Design a dual-type Steel and Ground Pokemon with a strong, intimidating presence.",
+    "Give me a Pokemon that thrives in rocky terrains and is known for its strength.",
+    "Make a Pokemon with a sleek, metallic body and a tail resembling a drill."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Long, serpentine body",
+      "Metallic, steel-like appearance",
+      "Sharp, pointed head",
+      "Spiky back",
+      "Thick, sturdy tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Ground",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Stubborn",
+      "Protective",
+      "Powerful"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Defensive and aggressive"
+  },
+  "image_path": "images/Steelix/0.png",
+  "pokemon_name": "Steelix"
+}

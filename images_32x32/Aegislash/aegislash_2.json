@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that embodies a knight with a sword and shield.",
+    "Show me a steel-type Pokemon that has a regal appearance and mystical powers.",
+    "Imagine a Pokemon that can switch between offense and defense with a unique form.",
+    "Generate a Pokemon inspired by medieval knights, featuring a shiny sword and armor.",
+    "Design a dual-type Pokemon that combines ghostly elements with a metallic sheen.",
+    "Make a Pokemon that resembles a sword and shield, with elegant and sharp features.",
+    "Give me a Pokemon that has both offensive and defensive capabilities in battle."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Purple",
+      "accent": "Black"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Sword-like appearance",
+      "Shield-like features",
+      "Ghostly aura",
+      "Regal crown",
+      "Armor detailing"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Ghost",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Noble",
+      "Strategic",
+      "Defensive"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Balanced offense and defense"
+  },
+  "image_path": "images/Aegislash/2.png",
+  "pokemon_name": "Aegislash"
+}

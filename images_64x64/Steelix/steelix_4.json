@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a robust steel-type Pokemon with a serpentine body covered in shiny metallic scales.",
+    "I want a Pokemon that resembles a giant snake made of steel, featuring sharp spikes along its spine.",
+    "Generate a fierce-looking steel-type Pokemon that can burrow underground and has a unique battle cry.",
+    "Make a Pokemon that embodies both steel and rock types, with a rugged appearance and powerful jaws.",
+    "Imagine a Pokemon that blends a snake's elegance with the toughness of metal, capable of coiling around enemies.",
+    "Design a Pokemon that is a massive serpent, adorned with crystal-like accents and a fearsome demeanor.",
+    "Show me a Pokemon with a striking blue color and jagged edges, known for its intimidating presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Gray",
+      "accent": null
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Long, serpentine body",
+      "Metallic scales",
+      "Prominent spikes on back",
+      "Powerful jaws",
+      "Steel-like texture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Ground",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intimidating",
+      "Loyal",
+      "Defensive"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Defensive and powerful"
+  },
+  "image_path": "images/Steelix/4.png",
+  "pokemon_name": "Steelix"
+}

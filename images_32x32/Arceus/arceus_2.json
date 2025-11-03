@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon that embodies the essence of the universe with ethereal colors.",
+    "Show me a legendary Pokemon with a majestic design and an aura of mystery around it.",
+    "Imagine a Pokemon that can control time and space with elegant features and a celestial theme.",
+    "Design a Pokemon that represents creation, featuring intricate patterns and a divine appearance.",
+    "Give me a unique Pokemon that can change forms with a variety of colors and elegant shapes.",
+    "Generate a legendary creature that has a balance of power and grace, with a bright white body.",
+    "Make a Pokemon with the ability to evolve into different types, showcasing its versatility and beauty."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White"
+    ],
+    "secondary_colors": [
+      "Green",
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Green",
+      "accent": "Purple"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Multi-colored halo-like rings",
+      "Unique shape resembling a deity",
+      "Intricate patterns on the body",
+      "Long, flowing limbs",
+      "Elegant head with horn-like structures"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": true,
+    "is_mythical": true,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Wise",
+      "Mysterious",
+      "Powerful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Very Rare",
+    "combat_style": "Balanced and strategic"
+  },
+  "image_path": "images/Arceus/2.png",
+  "pokemon_name": "Arceus"
+}

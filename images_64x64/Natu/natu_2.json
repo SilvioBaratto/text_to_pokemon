@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bird Pokemon with vibrant green feathers and pink accents.",
+    "Show me a small, playful Pokemon that resembles a colorful bird.",
+    "Imagine a Pokemon that can blend into forest environments with its bright colors.",
+    "Generate a cheerful, green bird Pokemon that loves to explore grassy areas.",
+    "Make a cute, tiny Pokemon that has round shapes and a friendly expression.",
+    "Design a Pokemon that has a green body and pink feet, perfect for hopping.",
+    "Give me a whimsical flying creature that embodies a mix of forest and joy."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round body",
+      "Large eyes",
+      "Short beak",
+      "Pink feet",
+      "Small wings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Cheerful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Natu/2.png",
+  "pokemon_name": "Natu"
+}

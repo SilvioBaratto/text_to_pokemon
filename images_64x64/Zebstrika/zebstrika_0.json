@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon with striking black and white stripes and a dynamic pose.",
+    "Show me a zebra-inspired Pokemon that has electric abilities and a sleek, muscular build.",
+    "Generate a Pokemon that resembles a horse with bold lightning patterns and a vibrant blue accent.",
+    "Imagine a swift and agile Pokemon with a unique electric type and a black and white coat.",
+    "Design a Pokemon that embodies speed and electricity, featuring a modern zebra-like appearance.",
+    "Give me a powerful electric-type Pokemon with strong legs and a striking color palette.",
+    "Make a Pokemon that combines the grace of a horse with the energy of electricity, showcasing unique stripes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "White"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "White",
+      "accent": "Blue"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Zebra-like black and white stripes",
+      "Long slender legs",
+      "Blue mane-like accents",
+      "Electric tail",
+      "Distinctive facial markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Playful",
+      "Loyal"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Zebstrika/0.png",
+  "pokemon_name": "Zebstrika"
+}

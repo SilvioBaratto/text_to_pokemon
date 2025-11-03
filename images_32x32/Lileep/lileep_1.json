@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with flowing tentacles and a vibrant color palette.",
+    "Show me an aquatic creature that has a mix of purple and pink hues.",
+    "Imagine a prehistoric Pokemon resembling a plant with a unique oval body.",
+    "Generate a creature that thrives in both wetlands and deep caves, with distinct features.",
+    "Design a Pokemon that has a round, bulbous shape and a whimsical appearance.",
+    "Give me a Pokemon that looks like a fusion of a plant and a rock creature.",
+    "Make a Pokemon that has multiple soft appendages and a mysterious aura."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Pink",
+      "accent": "Black"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Tentacle-like appendages",
+      "Bulbous central body",
+      "Large, round eyes",
+      "Floral appearance",
+      "Swirled patterns on the body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Grass",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Gentle",
+      "Mysterious"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Lileep/1.png",
+  "pokemon_name": "Lileep"
+}

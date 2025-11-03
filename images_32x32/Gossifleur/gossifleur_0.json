@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon that resembles a flower with vibrant petals and a leafy base.",
+    "Show me a whimsical Pokemon inspired by nature, featuring bright yellow flowers and a playful demeanor.",
+    "Imagine a Pokemon that thrives in the forest, showcasing its colorful blossoms and gentle personality.",
+    "Design a Pokemon characterized by its unique floral features and connection to the earth.",
+    "Generate a nature-themed Pokemon that has a mix of red and yellow colors, ideal for a serene habitat.",
+    "Make a small, flower-like Pokemon with a cheerful expression and a vibrant color palette.",
+    "Give me a Pokemon that embodies the essence of spring, with bright yellow and green hues."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Red",
+      "accent": "Green"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large yellow flower petals",
+      "Red leafy base",
+      "Green stem-like structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Gentle",
+      "Playful"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Gossifleur/0.png",
+  "pokemon_name": "Gossifleur"
+}

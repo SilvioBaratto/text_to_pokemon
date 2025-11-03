@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a majestic bird Pokemon with dark feathers and shining metal accents.",
+    "I want a flying-type Pokemon that looks like a knight, with armor and powerful wings.",
+    "Generate an elegant bird creature with a sleek body and striking red patterns.",
+    "Make a Pokemon that soars through the skies, featuring sharp, metallic wings and a fierce look.",
+    "Imagine a mysterious avian Pokemon with a blend of dark colors and a commanding presence.",
+    "Design a powerful bird Pokemon that embodies strength and elegance, perfect for high-altitude battles.",
+    "Give me a Pokemon with a unique design that represents both grace and ferocity in the air."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Red",
+      "accent": "Gray"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Metallic feathers",
+      "Sharp beak",
+      "Prominent wings",
+      "Armored appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Flying",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Brave",
+      "Loyal",
+      "Protective"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive and aggressive aerial combat"
+  },
+  "image_path": "images/Corviknight/1.png",
+  "pokemon_name": "Corviknight"
+}

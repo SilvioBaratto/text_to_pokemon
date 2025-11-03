@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a playful ground-type Pokemon that thrives in sandy environments.",
+    "Imagine a small, adorable creature with a mix of brown and black shades.",
+    "Show me a Pokemon that looks like a tiny crocodile with big eyes.",
+    "Design a Pokemon that can burrow underground and has a cheerful demeanor.",
+    "Generate a compact quadruped Pokemon with striking patterns on its body.",
+    "Give me an image of a Pokemon that enjoys sunbathing in desert terrains.",
+    "Make a Pokemon that blends well with its arid surroundings and is quite sneaky."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Pink",
+      "accent": "Black"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large round eyes",
+      "Distinctive black stripes",
+      "Short snout",
+      "Small limbs",
+      "Rounded tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": "Dark",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Sly"
+    ],
+    "habitat": "Desert",
+    "rarity": "Common",
+    "combat_style": "Ambush"
+  },
+  "image_path": "images/Sandile/0.png",
+  "pokemon_name": "Sandile"
+}

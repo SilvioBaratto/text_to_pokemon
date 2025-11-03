@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that resembles a haunted tree with dark wood and green leaves.",
+    "Generate a grass-type Pokemon with a spooky appearance, featuring twisted branches and eerie eyes.",
+    "Imagine a tree-like creature with a playful yet mysterious personality, ideal for a forest setting.",
+    "Design a Pokemon that embodies the spirit of nature, with a focus on ghostly aesthetics and wood textures.",
+    "Show me a mythical Pokemon that serves as a guardian of the forest, with an ancient and wise look.",
+    "Give me an eerie Pokemon that can blend into its surroundings, using its bark-like body for camouflage.",
+    "Make a Pokemon that thrives in wooded areas, showcasing a balance between beauty and a spooky vibe."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Green"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": "Green"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Twisted wooden trunk",
+      "Branch-like arms",
+      "Green leafy tops",
+      "Eerie facial expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Grass",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Protective",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Trevenant/0.png",
+  "pokemon_name": "Trevenant"
+}

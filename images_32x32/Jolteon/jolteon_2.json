@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a yellow electric-type Pokemon with sharp spikes and a lightning bolt tail.",
+    "Imagine a small, agile Pokemon that can generate electricity and has fur like a lion.",
+    "Generate a Pokemon that is primarily yellow with white accents and has a spiky mane.",
+    "Show me a cute animal-like Pokemon that can evolve into a powerful electric creature.",
+    "Design a Pokemon that has a quadruped stance and is known for its speed in battles.",
+    "Give me an electric-type Pokemon that has a playful personality and lives in urban areas.",
+    "Make a Pokemon that resembles a cat with a vibrant color scheme and sharp features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Spiky fur",
+      "Pointed ears",
+      "Electric tail",
+      "Bright yellow coloration",
+      "Sharp fangs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Loyal"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Fast and offensive"
+  },
+  "image_path": "images/Jolteon/2.png",
+  "pokemon_name": "Jolteon"
+}

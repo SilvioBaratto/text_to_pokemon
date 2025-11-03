@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a small, furry Pokemon known for its speed and quick movements.",
+    "Imagine a Pokemon that has a brown, sleek body and sharp teeth, perfect for battles.",
+    "Design a Pokemon resembling a large rodent with a powerful bite and agile nature.",
+    "Generate a creature that thrives in urban areas, often seen scurrying around for food.",
+    "Show me a Pokemon with a round body, small ears, and a mischievous grin.",
+    "Give me a depiction of a Pokemon that can evolve and becomes more formidable over time.",
+    "Make a Pokemon that symbolizes adaptability and survival in various environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large incisors",
+      "Long whiskers",
+      "Prominent ears",
+      "Thick tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Cunning",
+      "Playful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Fast and aggressive"
+  },
+  "image_path": "images/Raticate/0.png",
+  "pokemon_name": "Raticate"
+}

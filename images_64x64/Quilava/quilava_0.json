@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a sleek bipedal fire-type Pokemon with a fiery mane and a determined expression.",
+    "Imagine a Pokemon that evolves from a small, timid creature into a powerful, flame-wielding beast.",
+    "Design a vibrant fire-type Pokemon featuring orange and yellow colors with a strong physique.",
+    "Generate a Pokemon that thrives in mountainous regions, showcasing its agility and fiery abilities.",
+    "Make a Pokemon that can unleash flames while standing proudly on its hind legs.",
+    "Show me a fierce fire-type creature with unique flame patterns on its back and quick feet.",
+    "Give me a Pokemon that embodies the spirit of adventure, with a striking orange and cream color scheme."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": null,
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flame crest on the head",
+      "Pointed ears",
+      "Long slender body",
+      "Sharp claws",
+      "Tail with flames"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Brave",
+      "Fierce",
+      "Loyal"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Common",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Quilava/0.png",
+  "pokemon_name": "Quilava"
+}

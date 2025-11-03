@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon with a starry theme and a serene expression, perfect for a magical forest.",
+    "Imagine a cute psychic-type creature that brings good luck and has a glowing aura.",
+    "Design a small, fairy-like Pokemon that has a whimsical appearance and can float gracefully.",
+    "Generate a Pokemon that embodies the spirit of wishes and dreams, with a soft color palette.",
+    "Show me a Pokemon that resembles a tiny star guardian, with large eyes and a gentle demeanor.",
+    "Make a Pokemon that combines elements of fairy and psychic types, with a focus on harmony and peace.",
+    "Give me a Pokemon that looks like it came from a fairy tale, with a unique star-shaped design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Blue",
+      "accent": "White"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Star-shaped head",
+      "Long, ribbon-like appendages",
+      "Large, expressive eyes",
+      "Blue antennae",
+      "Small, rounded body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Steel",
+    "generation": 3,
+    "is_legendary": true,
+    "is_mythical": true,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Gentle",
+      "Hopeful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Support/Utility"
+  },
+  "image_path": "images/Jirachi/0.png",
+  "pokemon_name": "Jirachi"
+}

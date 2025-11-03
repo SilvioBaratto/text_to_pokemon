@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a playful puppy Pokemon with a fluffy cream coat and a wagging tail.",
+    "Design a small, energetic Normal-type Pokemon that loves to explore grassy fields.",
+    "Show me a cute, quadrupedal Pokemon with big ears and a cheerful expression.",
+    "Generate an adorable companion Pokemon with a mix of brown and cream colors.",
+    "Imagine a Pokemon that embodies the spirit of loyalty and playfulness.",
+    "Make a mini Pokemon with a fluffy mane and a curious personality.",
+    "Give me a Pokemon that thrives in forests and mountains, with a friendly demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Fluffy mane",
+      "Large ears",
+      "Bright blue eyes",
+      "Short legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Loyal",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Lillipup/0.png",
+  "pokemon_name": "Lillipup"
+}

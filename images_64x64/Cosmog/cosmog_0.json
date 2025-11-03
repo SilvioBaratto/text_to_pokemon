@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create an ethereal Pokemon that embodies the cosmos with starry eyes and a floating shape.",
+    "I want a mystical creature with swirling blue clouds and a dark, starry body that captivates trainers.",
+    "Generate a tiny Pokemon that represents the universe, featuring vibrant colors and a celestial theme.",
+    "Make a legendary Pokemon that resembles a nebula, with a blend of dark and bright colors.",
+    "Imagine a cute, cosmic Pokemon with cloud-like features and a star-shaped accent that glows.",
+    "Design a whimsical Pokemon that floats gracefully, surrounded by magical, colorful orbs.",
+    "Show me a Pokemon that captures the beauty of space, with a unique shape and dreamy colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Purple",
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Star-shaped accent",
+      "Swirling cloud-like form",
+      "Colorful orbs on body",
+      "Dark central body with bright accents"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Mysterious",
+      "Gentle"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Cosmog/0.png",
+  "pokemon_name": "Cosmog"
+}

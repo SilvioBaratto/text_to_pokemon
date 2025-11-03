@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a dinosaur-inspired Pokemon with a large head and a colorful body.",
+    "Generate a water-type Pokemon featuring a fierce expression and unique fins.",
+    "Imagine a Pokemon that blends reptilian and fish traits with striking colors.",
+    "Design a Pokemon that is both powerful and agile, with a playful demeanor.",
+    "Show me a Pokemon that thrives in aquatic habitats with a distinctive tail.",
+    "Make a Pokemon that showcases a mix of dragon and fish features in its design.",
+    "Give me a Pokemon with a vibrant color scheme that's known for its fierce battles."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": "Green"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large head with sharp teeth",
+      "Fins resembling wings",
+      "Thick, muscular body",
+      "Distinctive tail fin",
+      "Colorful scales"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Dragon",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Dracovish/0.png",
+  "pokemon_name": "Dracovish"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with a vibrant red shell and a flexible yellow neck.",
+    "Imagine a small, quirky creature that can hide inside its shell for protection.",
+    "Show me a Pokemon that thrives in forests and has a unique, round body shape.",
+    "Design a Pokemon with a playful personality and bright colors that attract attention.",
+    "Generate a creature with a distinctive shell and a long neck that coils around.",
+    "I want an adorable Pokemon with a combination of red and yellow that feels rare.",
+    "Make a Pokemon that resembles a turtle but has an unusual color pattern."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": null,
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long, flexible neck",
+      "Round, red shell",
+      "Black spots on shell",
+      "Small eyes",
+      "Curved body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Shy",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Shuckle/2.png",
+  "pokemon_name": "Shuckle"
+}

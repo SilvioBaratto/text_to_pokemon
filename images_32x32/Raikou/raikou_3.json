@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon with a sleek, agile body and striking yellow fur.",
+    "I want a legendary Pokemon that embodies the spirit of thunder with majestic features.",
+    "Generate a Pokemon design that showcases vibrant blue and yellow colors with dynamic movement.",
+    "Make a fierce quadrupedal creature that channels energy and speed through its electric abilities.",
+    "Imagine a mythical creature resembling a feline with powerful electric attacks and a bold stance.",
+    "Design a Pokemon that thrives in mountain habitats, showcasing its connection to storms and electricity.",
+    "Give me an electric Pokemon with a unique tail that resembles lightning, ready for battle."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Blue",
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Spiky mane",
+      "Long tail with a lightning motif",
+      "Sharp fangs",
+      "Electric patterns on body",
+      "Muscular build"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Bold",
+      "Energetic",
+      "Independent"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Raikou/3.png",
+  "pokemon_name": "Raikou"
+}

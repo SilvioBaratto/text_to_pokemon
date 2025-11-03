@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a graceful Pokemon with vibrant green and pink colors that embodies elegance.",
+    "Make a powerful grass-type Pokemon with a royal appearance and striking floral features.",
+    "Design a dual-type Pokemon that has a majestic crown and an enchanting aura.",
+    "Imagine a Pokemon with a tall stature and unique leaf-like features, perfect for a forest setting.",
+    "Show me a Pokemon that combines beauty and strength, standing tall in lush environments.",
+    "Generate a Pokemon that has a strong connection to nature and exudes a queenly presence.",
+    "Give me a Pokemon that thrives in grassy fields and has a colorful, elegant design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Pink"
+    ],
+    "secondary_colors": [
+      "White",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Pink",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Crown-like headpiece",
+      "Floral skirt",
+      "Long limbs",
+      "Elegant posture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Fairy",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Regal",
+      "Graceful",
+      "Protective"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Defensive and strategic"
+  },
+  "image_path": "images/Tsareena/1.png",
+  "pokemon_name": "Tsareena"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a powerful psychic-type Pokemon with striking golden fur and a majestic mane.",
+    "I want a legendary Pokemon that embodies the sun, showcasing radiant colors and an imposing presence.",
+    "Generate a Pokemon designed for battle, featuring sharp claws and a fierce expression.",
+    "Make a mythical creature that radiates energy, with a dazzling aura and celestial attributes.",
+    "Imagine a Pokemon that represents strength and courage, with a body that reflects the sun's brilliance.",
+    "Design a unique Pokemon with a combination of solar and psychic powers, adorned with vibrant colors.",
+    "Show me a legendary Pokemon that dominates the skies, with wings that shimmer like sunlight."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "White"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Radiant mane resembling sun rays",
+      "Large, impressive wings",
+      "Sharp claws",
+      "Prominent facial features",
+      "Colorful sun emblem on its body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Steel",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Noble",
+      "Protective",
+      "Courageous"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Solgaleo/2.png",
+  "pokemon_name": "Solgaleo"
+}

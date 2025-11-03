@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a futuristic Bug-type Pokemon with metallic features and a sleek design.",
+    "I want a Pokemon that has a purple body and can shoot laser beams.",
+    "Generate a powerful Steel-type Pokemon that resembles a robotic insect.",
+    "Make a Pokemon with sharp claws and a fast, agile appearance.",
+    "Imagine a Pokemon that thrives in urban environments and has a unique battle style.",
+    "Design a Pokemon that combines elements of both technology and nature.",
+    "Show me a legendary Pokemon with a complex evolution and a mysterious origin."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Red",
+      "accent": "Gray"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Mechanical appendages",
+      "Large, prominent eyes",
+      "Sharp claws",
+      "Wing-like structures",
+      "Robotic body segments"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Steel",
+    "generation": 5,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Intelligent",
+      "Aggressive"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Genesect/4.png",
+  "pokemon_name": "Genesect"
+}

@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a volcano-inspired Pokemon with a fiery orange body and a rugged appearance.",
+    "Imagine a ground-dwelling creature that thrives in desert environments and has a unique lava feature.",
+    "Show me a powerful fire-type Pokemon that resembles a giant, sturdy mammal with molten features.",
+    "Generate a Pokemon that looks like a fusion of a camel and a volcano with orange and gray colors.",
+    "Design a Pokemon with a robust build, featuring distinct volcanic elements and a confident demeanor.",
+    "Give me an image of a Pokemon that embodies the spirit of heat and strength, perfect for battle.",
+    "Make a Pokemon that showcases a blend of fire and ground types, with a focus on power and endurance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Gray",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Two large volcano-like structures on its back",
+      "Flame-like mane around its head",
+      "Round body with a sturdy build"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Ground",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Stubborn",
+      "Proud",
+      "Strong-willed"
+    ],
+    "habitat": "Desert",
+    "rarity": "Common",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Camerupt/2.png",
+  "pokemon_name": "Camerupt"
+}

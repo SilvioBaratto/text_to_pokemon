@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a mystical water-type Pokemon with a shimmering blue body and a graceful tail.",
+    "Imagine a fairy-type Pokemon that combines elements of the ocean and magic in its design.",
+    "Design a Pokemon resembling a protective spirit from the sea with vibrant colors and unique features.",
+    "Generate a water and fairy-type creature that glows softly in the moonlight and dances on waves.",
+    "Make a Pokemon that embodies the essence of nature and water, with elegant flowing shapes and colors.",
+    "Show me a legendary Pokemon with a mysterious aura, adorned with aquatic motifs and vibrant shades.",
+    "Give me a Pokemon that blends the characteristics of water and mythical elements in a stunning way."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Purple",
+      "accent": "Black"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large, pointed fins resembling ears",
+      "Horn-like structure on the head",
+      "Flowing, wave-like tail",
+      "Shimmering skin with a magical appearance",
+      "Mysterious, ethereal look"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Fairy",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Protective",
+      "Gentle"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Tapu Fini/1.png",
+  "pokemon_name": "Tapu Fini"
+}

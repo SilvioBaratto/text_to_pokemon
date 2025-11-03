@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a dark fire-type Pokemon with a sleek black body and glowing red eyes.",
+    "Imagine a fearsome canine Pokemon that embodies the essence of flames and shadows.",
+    "Generate a Pokemon that looks like a hellhound, with sharp features and a fiery temperament.",
+    "Make a spooky creature inspired by the underworld, featuring horns and an intimidating stance.",
+    "Design a mythical beast that dwells in dark caves and is known for its fiery attacks.",
+    "Show me a Pokemon that blends darkness and fire, featuring a black coat and orange accents.",
+    "Give me a Pokemon with a menacing appearance, sharp claws, and a tail that looks like fire."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [
+      "Orange",
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Orange",
+      "accent": "Gray"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Horns on the head",
+      "Flame-like tail",
+      "Sharp claws",
+      "Spiked back"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": "Fire",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Loyal",
+      "Cunning"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Houndoom/3.png",
+  "pokemon_name": "Houndoom"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a metallic dragon Pokemon with sharp edges and a sleek design.",
+    "Imagine a Pokemon that combines steel and dragon elements with a futuristic look.",
+    "Show me a Pokemon that embodies strength and resilience with a robust body.",
+    "Generate a Pokemon character that has a shiny, reflective surface and a unique silhouette.",
+    "Make a dragon-type Pokemon with a mix of gray and blue colors and angular features.",
+    "Design a Pokemon that looks like a futuristic robot dragon, emphasizing metallic textures.",
+    "Give me a Pokemon that stands tall with powerful legs and a striking headcrest."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "White",
+      "accent": "Blue"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Metallic texture",
+      "Sharp angular features",
+      "Dragon-like head with crest",
+      "Stout limbs",
+      "Long tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Dragon",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Resilient",
+      "Strategic"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Defensive and tactical"
+  },
+  "image_path": "images/Duraludon/0.png",
+  "pokemon_name": "Duraludon"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a powerful rock-type Pokemon with spikes and an intimidating stance.",
+    "Show me a dark-type Pokemon that towers over others with a menacing glare.",
+    "Imagine a dual-type Pokemon that thrives in mountainous terrains, with sharp claws and a fierce roar.",
+    "Design a Pokemon inspired by dinosaurs, with a massive build and a rugged appearance.",
+    "Give me a Pokemon with a green, rugged body and a fierce expression, perfect for battling.",
+    "Generate a Pokemon that embodies both strength and resilience, with unique features like sharp spines.",
+    "Make a Pokemon that can intimidate its foes with a dark color palette and imposing size."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Black",
+      "accent": "Red"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Spiky back",
+      "Large claws",
+      "Fierce expression",
+      "Prominent chest markings",
+      "Thick tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Dark",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intimidating",
+      "Resilient",
+      "Aggressive"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Tyranitar/4.png",
+  "pokemon_name": "Tyranitar"
+}

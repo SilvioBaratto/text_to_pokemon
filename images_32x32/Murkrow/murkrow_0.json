@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a dark-type Pokemon resembling a mischievous crow with sleek black feathers.",
+    "Design a small, winged creature that has a playful personality and loves to steal shiny objects.",
+    "Imagine a Pokemon that thrives in urban areas, often seen perched on streetlights at night.",
+    "Generate a bird-like Pokemon with a distinctive tuft of feathers on its head and a cheeky expression.",
+    "Make a dark and mysterious Pokemon that haunts forests and is known for its eerie cawing.",
+    "Show me a Pokemon with an elegant yet sly appearance, perfect for stealthy nighttime adventures.",
+    "Give me a quirky creature with a penchant for mischief, often found in the shadows."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Curved beak",
+      "Tuft of feathers on head",
+      "Long, feathered tail",
+      "Sharp eyes",
+      "Small stature"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Cunning"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Agile and stealthy"
+  },
+  "image_path": "images/Murkrow/0.png",
+  "pokemon_name": "Murkrow"
+}

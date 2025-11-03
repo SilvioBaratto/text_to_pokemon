@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a small, fox-like Pokemon with bright fur and large ears.",
+    "I want a fire-type creature that has a playful and curious nature.",
+    "Generate an adorable Pokemon that resembles a fennec fox and loves to explore.",
+    "Make a Pokemon design featuring vibrant orange and yellow colors with a fluffy tail.",
+    "Imagine a friendly starter Pokemon with a fiery personality and a love for adventure.",
+    "Design a Pokemon that can blend into forest habitats and has enchanting features.",
+    "Give me a unique Pokemon with a combination of fox-like traits and elemental fire abilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Red",
+      "accent": "Orange"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, pointed ears",
+      "Fluffy tail",
+      "Bright orange markings",
+      "White snout",
+      "Big red eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Ranged"
+  },
+  "image_path": "images/Fennekin/0.png",
+  "pokemon_name": "Fennekin"
+}

@@ -1,0 +1,49 @@
+{
+  "prompts": [
+    "Create a small, ground-dwelling Pokemon with a round, orange body and a big, friendly smile.",
+    "I want a cute Pokemon that has a sandy color and can burrow into the ground effortlessly.",
+    "Generate a Pokemon design featuring a unique orange creature with a tough, shell-like exterior.",
+    "Make an adorable Pokemon that thrives in desert habitats, with a smooth, rounded shape.",
+    "Imagine a tiny Pokemon with a playful personality and a color scheme dominated by soft oranges.",
+    "Design a ground-type Pokemon with distinctive features like a segmented body and small limbs.",
+    "Give me a Pokemon that is small and sturdy, perfect for digging in sandy terrains."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Rounded head with a cracked texture",
+      "Small limbs",
+      "Segmented body appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Desert",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Trapinch/0.png",
+  "pokemon_name": "Trapinch"
+}

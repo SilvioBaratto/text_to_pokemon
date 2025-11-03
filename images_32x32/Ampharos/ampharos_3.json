@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create an Electric-type Pokemon that has a sleek, bipedal design with bright yellow color accents.",
+    "Show me a Pokemon resembling Ampharos but with a unique twist, like having wings or a different tail.",
+    "Imagine a new evolution of Ampharos that incorporates dragon-like features and a deeper shade of yellow.",
+    "Design a Pokemon that combines Ampharos' characteristics with a mystical aura, showcasing glowing elements.",
+    "Give me a concept for a legendary Electric-type Pokemon with Ampharos' body shape but a more majestic look.",
+    "Generate a cute Electric-type Pokemon that can evolve from Ampharos, featuring rounder shapes and softer colors.",
+    "Make an Ampharos variant that dwells in urban environments with graffiti-inspired designs and vibrant colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": "Red"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long tail with a red orb",
+      "Large, round yellow body",
+      "Black stripes on the back",
+      "Red orb on the forehead"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Friendly",
+      "Curious",
+      "Playful"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Ampharos/3.png",
+  "pokemon_name": "Ampharos"
+}

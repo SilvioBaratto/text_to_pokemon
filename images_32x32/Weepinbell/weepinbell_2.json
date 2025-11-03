@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a plant-based Pokemon that resembles a bell with vibrant colors and a playful personality.",
+    "Imagine a Pokemon that can camouflage itself in the forest using its green and yellow hues.",
+    "Generate a whimsical Pokemon that has a mouth resembling a flower and can spit out toxins.",
+    "Show me a cute, bell-shaped creature with a big smile and a sunny disposition.",
+    "Design a Pokemon that thrives in wetlands, featuring a unique blend of yellow and brown colors.",
+    "Give me a character that embodies both poison and plant types, with a distinctive bell shape.",
+    "Make a Pokemon that is small, quirky, and loves to hang out in sunny meadows."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Bell-shaped body",
+      "Large mouth",
+      "Long stem with a curl",
+      "Green leaves on top",
+      "Yellow skin"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Status Attacker"
+  },
+  "image_path": "images/Weepinbell/2.png",
+  "pokemon_name": "Weepinbell"
+}

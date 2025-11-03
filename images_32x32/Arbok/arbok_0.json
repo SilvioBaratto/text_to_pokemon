@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a snake-like Pokemon with a dark purple body and glowing yellow eyes.",
+    "I want a poison-type Pokemon that can blend into urban environments with its stealthy design.",
+    "Generate a unique serpentine creature that has a menacing appearance and a striking color palette.",
+    "Make a Pokemon that embodies the qualities of deception, with features that reflect its cunning nature.",
+    "Imagine a creature that thrives in caves and forests, with accents of black and purple for camouflage.",
+    "Design a Pokemon that stands out with its sharp features and fierce expression, perfect for battle.",
+    "Show me a Pokemon that is both intimidating and elusive, with a rich color scheme of dark tones."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Black",
+      "accent": "Yellow"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Menacing facial expression",
+      "Distinctive hood shape",
+      "Glowing yellow eyes",
+      "Thin, elongated body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Stealthy",
+      "Intimidating"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Strategic and deceptive"
+  },
+  "image_path": "images/Arbok/0.png",
+  "pokemon_name": "Arbok"
+}

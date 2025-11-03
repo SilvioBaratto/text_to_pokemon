@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create an ice-type Pokemon that resembles a giant iceberg with sharp edges and a snowy texture.",
+    "Show me a Pokemon that embodies the essence of winter, with icy blue colors and a sturdy physique.",
+    "Imagine a Pokemon that looks like a frozen fortress, featuring glacial patterns and intimidating size.",
+    "Generate a Pokemon resembling a massive ice block, with rugged surfaces and a frosty appearance.",
+    "Design an ice-type creature with a sleek, angular shape and frosty accents, ideal for high-altitude battles.",
+    "Give me a Pokemon that blends into a snowy environment, featuring shades of blue and white with unique ice formations.",
+    "Make a Pokemon that looks like a frozen mountain, showcasing icy blue tones and a solid, imposing form."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": "Gray"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Iceberg-like appearance",
+      "Sharp, jagged edges",
+      "Frosted surface texture",
+      "Solid, bulky body",
+      "Glacial blue coloration"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Sturdy",
+      "Defensive",
+      "Resilient"
+    ],
+    "habitat": "Tundra",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Avalugg/0.png",
+  "pokemon_name": "Avalugg"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create an ice-type Pokemon with a sleek, icy appearance and sharp features.",
+    "Imagine a Pokemon that embodies the coldness of winter with snowflake patterns.",
+    "Design a creature that resembles a frosty head and can freeze its enemies.",
+    "Generate a Pokemon that looks like it's made of ice and has piercing blue eyes.",
+    "Show me a Pokemon that is both intimidating and beautiful, with a crystalline exterior.",
+    "Make a Pokemon that thrives in snowy mountains and has a unique icy aesthetic.",
+    "Give me an ice-themed Pokemon that is known for its fierce battle style."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Black",
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Icicle-like protrusions",
+      "Sharp, angular shape",
+      "Frosty texture",
+      "Piercing blue eyes",
+      "Black ear-like structures"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intimidating",
+      "Cold",
+      "Mysterious"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Glalie/0.png",
+  "pokemon_name": "Glalie"
+}

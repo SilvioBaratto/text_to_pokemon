@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a powerful steel-type Pokemon with a sleek, mechanical design and bright blue colors.",
+    "Imagine a Pokemon that combines metallic features with a robust, multi-limbed body, perfect for battles.",
+    "Generate a Pokemon that resembles a high-tech robot, complete with shiny surfaces and intricate details.",
+    "Show me a futuristic Pokemon that embodies strength and intelligence, with a unique color palette.",
+    "Design a formidable Pokemon that has a combination of blue and gray tones, ideal for a competitive landscape.",
+    "Give me a Pokemon with a distinct shape and color that stands out in any battle scenario.",
+    "Make a Pokemon that looks like a fusion of a robot and a creature, with vibrant colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Gray",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Four metallic limbs",
+      "X-shaped pattern on its body",
+      "Shiny blue exterior",
+      "Multi-segmented structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Psychic",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Strategic",
+      "Calm"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Metagross/3.png",
+  "pokemon_name": "Metagross"
+}

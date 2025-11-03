@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a fire-type Pokemon that resembles a volcano with flowing lava and rocky features.",
+    "Imagine a Pokemon that combines the elements of earth and fire, with a sturdy build and vibrant colors.",
+    "Design a Pokemon inspired by a lava creature, featuring bright orange and black tones.",
+    "Generate a unique Pokemon that embodies the spirit of a desert volcano, showcasing heat and resilience.",
+    "Show me a Pokemon that has a fiery temperament, with a rugged, molten appearance and a strong presence.",
+    "Give me a Pokemon that appears like a creature made from magma, with distinctive horns and a powerful stance.",
+    "Make a fire and ground-type Pokemon that looks like a mix between a mountain and a living lava flow."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Black",
+      "accent": "Brown"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Volcanic rock-like body",
+      "Flaming back",
+      "Lava flow accents",
+      "Horns resembling molten rock"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Ground",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fiery",
+      "Resilient",
+      "Stubborn"
+    ],
+    "habitat": "Desert",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Camerupt/1.png",
+  "pokemon_name": "Camerupt"
+}

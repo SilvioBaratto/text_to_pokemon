@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a fluffy Pokemon with cotton-like features and a cheerful expression.",
+    "Imagine a cute, small Pokemon that floats in the air with balloon-like orbs.",
+    "Generate a grass-type Pokemon with a round body and a playful personality.",
+    "Show me a Pokemon that thrives in forests and has a soft, tranquil appearance.",
+    "Make a whimsical Pokemon with light colors and a gentle demeanor.",
+    "Design a Pokemon that resembles a cloud and loves to play in grassy fields.",
+    "Give me a Pokemon that is always cheerful and brings joy to its surroundings."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Cotton-like orbs on top of its head",
+      "Round, puffy body",
+      "Small, red eyes",
+      "Leafy green stem",
+      "Fluffy appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Gentle"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Jumpluff/2.png",
+  "pokemon_name": "Jumpluff"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bird Pokemon with fiery red feathers and bright yellow wings.",
+    "Imagine a flying-type Pokemon that combines elements of fire and agility.",
+    "Design a Pokemon that thrives in forest habitats and has a charming personality.",
+    "Show me a Pokemon with a vibrant color scheme and quick, aerial combat skills.",
+    "Give me a fire and flying-type Pokemon that has a sleek body and friendly demeanor.",
+    "Generate a Pokemon that features a mix of red and yellow in its plumage.",
+    "Make a Pokemon that can be found in mountainous regions and is known for its speed."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Yellow",
+      "accent": "Blue"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Red head and chest",
+      "Yellow wings",
+      "Blue belly",
+      "Black tail feathers with white tips"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Flying",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Friendly",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Speed-focused aerial attacks"
+  },
+  "image_path": "images/Fletchinder/1.png",
+  "pokemon_name": "Fletchinder"
+}

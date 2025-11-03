@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a cheerful grass-type Pokemon that looks like a flower with a big smiling face.",
+    "Imagine a small Pokemon with yellow petals and green leaves, perfect for sunny fields.",
+    "Generate a playful flower-like Pokemon that loves to dance in the sunlight.",
+    "Design a Pokemon that resembles a sunflower, with vibrant colors and a friendly expression.",
+    "Show me a cute, leaf-adorned Pokemon that thrives in grassy habitats.",
+    "Give me a Pokemon that is both plant and playful, with a sunny disposition.",
+    "Make a whimsical Pokemon that embodies the spirit of summer with bright colors and joy."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Green"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": null,
+      "accent": "Green"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large yellow flower head",
+      "Small green leaves",
+      "Smiling face",
+      "Sturdy green stem-like body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Sociable"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Sunflora/0.png",
+  "pokemon_name": "Sunflora"
+}

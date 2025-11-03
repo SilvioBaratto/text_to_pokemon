@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a fire-type Pokemon that has a playful demeanor and a stylish appearance.",
+    "I want a fox-like creature with vibrant orange fur and elegant features.",
+    "Generate a Pokemon that embodies the spirit of a dancer with fiery colors and charm.",
+    "Make a whimsical character that combines elegance with a fiery personality.",
+    "Imagine a Pokemon with enchanting eyes and a fiery tail, perfect for a magical forest.",
+    "Design a Pokemon that showcases the beauty of fire in a graceful, bipedal form.",
+    "Show me a stylish fire-type with a creative flair and distinctive features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Yellow",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flame-like orange ears",
+      "Feminine dress-like body",
+      "Long bushy tail",
+      "White fur around the neck"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Creative",
+      "Elegant"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Braixen/0.png",
+  "pokemon_name": "Braixen"
+}

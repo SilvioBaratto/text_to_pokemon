@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a majestic flying Pokemon with stormy gray clouds and a robust earthy body.",
+    "I want a dual-type Pokemon that embodies both ground and flying elements with a regal appearance.",
+    "Generate an imposing Pokemon that controls the weather, featuring swirling clouds and vibrant colors.",
+    "Make a powerful legendary Pokemon that looks like a deity of nature with unique elemental powers.",
+    "Imagine a mythical creature with a blend of earthy tones and bright accents, soaring through the skies.",
+    "Design a Pokemon that strikes fear with its cloud-like form and strong presence in battles.",
+    "Give me an ancient-looking Pokemon, capable of manipulating the elements with a strong, grounded body."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": "Orange"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Cloud-like appendages",
+      "Robust, muscular body",
+      "Facial markings",
+      "Large wings",
+      "Earthy tones"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": "Flying",
+    "generation": 5,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Regal",
+      "Powerful",
+      "Protective"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Landorus/0.png",
+  "pokemon_name": "Landorus"
+}

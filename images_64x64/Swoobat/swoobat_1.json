@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a Flying-type Pokemon that has a heart-shaped body and large bat-like wings.",
+    "Imagine a Psychic-type Pokemon with a teal body and a playful personality.",
+    "Show me a Pokemon that combines cute features and bat wings, perfect for urban environments.",
+    "Generate a unique design for a Pokemon that loves to flit between trees in a forest.",
+    "Make a Pokemon with blue and gray colors that can be found in caves and mountains.",
+    "Design a creature with a soft body and sharp wings, representing a mix of playfulness and agility.",
+    "Give me an idea for a Pokemon that can navigate both urban and natural habitats with ease."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Gray",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Heart-shaped body",
+      "Large bat-like wings",
+      "Pointed ears",
+      "Small tail",
+      "Wide eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Flying",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Affectionate",
+      "Curious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Swoobat/1.png",
+  "pokemon_name": "Swoobat"
+}

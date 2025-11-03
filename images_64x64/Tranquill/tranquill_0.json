@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a flying-type Pokemon that resembles a dove with a bright white body and black wings.",
+    "I want a bird Pokemon that has a cheerful personality and is often spotted in urban environments.",
+    "Generate a Pokemon with graceful wings and a calm demeanor, perfect for a serene forest backdrop.",
+    "Make a Pokemon that embodies tranquility, featuring a sleek design with subtle color contrasts.",
+    "Imagine a bird Pokemon that is primarily white but has striking black accents on its wings.",
+    "Design a Pokemon that can be found in grasslands and has a friendly and approachable personality.",
+    "Show me a Pokemon that resembles a dove, with a focus on its elegant flight and peaceful nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Black"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": null,
+      "accent": "Black"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Black wing tips",
+      "Red facial markings",
+      "Streamlined body shape",
+      "Long wings",
+      "Gentle expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Friendly",
+      "Gentle"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Tranquill/0.png",
+  "pokemon_name": "Tranquill"
+}

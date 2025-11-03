@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a fire-type Pokemon with bright red fur and fierce yellow accents.",
+    "I want an energetic Pokemon that looks like it can shoot flames.",
+    "Generate a creature that embodies the heat of a volcano with a playful grin.",
+    "Make a fire-type Pokemon with oversized ears and a mischievous expression.",
+    "Imagine a Pokemon that thrives in rocky terrains, radiating fiery colors.",
+    "Design a Pokemon that resembles a playful yet powerful creature from the mountains.",
+    "Give me a vivid depiction of a fire Pokemon with a robust body and fiery personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red"
+    ],
+    "secondary_colors": [
+      "Yellow",
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Yellow",
+      "accent": "Orange"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large, pointed ears",
+      "Smiling face with sharp teeth",
+      "Flame-like eyebrows",
+      "Robust body structure",
+      "Fiery tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Competitive"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Darmanitan/4.png",
+  "pokemon_name": "Darmanitan"
+}

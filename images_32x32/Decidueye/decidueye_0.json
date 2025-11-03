@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bird-like Pokemon that blends shades of green and brown with elegant feathers.",
+    "I want a Pokemon design that showcases agility and stealth, featuring natural colors from the forest.",
+    "Generate a majestic flying Pokemon that has a mix of earthy and vibrant colors.",
+    "Make a Pokemon that embodies the spirit of the woods, with a focus on camouflage and precision.",
+    "Imagine a Pokemon with a mix of avian and woodland features, showcasing rich green and brown tones.",
+    "Design a Pokemon that appears wise with a combination of graceful wings and a sturdy build.",
+    "Show me a Pokemon inspired by archery, featuring a color palette of green and brown."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Feathered wings",
+      "Hooded head",
+      "Archer-like appearance",
+      "Eagle-like eyes",
+      "Tail feathers resembling arrows"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Ghost",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Wise",
+      "Stealthy",
+      "Cunning"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Ranged attack"
+  },
+  "image_path": "images/Decidueye/0.png",
+  "pokemon_name": "Decidueye"
+}

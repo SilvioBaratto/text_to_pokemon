@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a large, sleepy Pok\u00e9mon that loves to nap in sunny meadows.",
+    "Imagine a Pok\u00e9mon that is known for its massive size and gentle nature.",
+    "Design a creature that has a round body and a laid-back personality.",
+    "Show me a Pok\u00e9mon that is always hungry and loves to eat berries.",
+    "Generate a Pok\u00e9mon that can block paths with its enormous size and calm demeanor.",
+    "Make a Pok\u00e9mon that is often found sleeping near trees or in grassy areas.",
+    "Give me a creature with a big belly that enjoys relaxing in any environment."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Huge",
+    "distinctive_features": [
+      "Large round body",
+      "Big belly",
+      "Short limbs",
+      "Closed eyes",
+      "Curved tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Lazy",
+      "Gentle",
+      "Gluttonous"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Snorlax/2.png",
+  "pokemon_name": "Snorlax"
+}

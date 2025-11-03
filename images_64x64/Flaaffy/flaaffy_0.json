@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a fluffy Pokemon that is pink and has a cloud-like appearance.",
+    "Imagine a cute Electric-type Pokemon with a woolly body and a playful personality.",
+    "Design a Pokemon that evolves from Mareep, featuring soft fur and a cheerful demeanor.",
+    "Show me a bipedal Pokemon with a round body and a long tail, perfect for cuddling.",
+    "Generate a Pokemon with a vibrant pink color and a distinguishing fluffy mane.",
+    "Make a charming Electric-type creature that loves to play in grasslands and forests.",
+    "Give me an adorable Pokemon that can be found in urban areas, known for its cuteness."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy white mane",
+      "Long tail with a blue tip",
+      "Round body",
+      "Large expressive eyes",
+      "Small ears"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Flaaffy/0.png",
+  "pokemon_name": "Flaaffy"
+}

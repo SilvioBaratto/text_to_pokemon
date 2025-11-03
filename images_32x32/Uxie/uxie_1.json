@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon with a serene expression and flowing hair that resembles clouds.",
+    "Imagine a small blue creature with psychic powers and a peaceful demeanor surrounded by nature.",
+    "Generate a bipedal Pokemon that embodies wisdom and tranquility, with unique features like floating orbs.",
+    "Design a legendary Pokemon known for its ability to grant knowledge, featuring soft colors and gentle curves.",
+    "Show me a Pokemon that represents the mind, with a bright yellow head and calming blue body.",
+    "Make a psychic-type Pokemon that appears delicate and ethereal, with an emphasis on harmony and balance.",
+    "Give me a creature that looks like it came from a dream, complete with a soothing color palette and mystical traits."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Yellow, cloud-like hair",
+      "Large, round eyes",
+      "Floating, wispy tail",
+      "Delicate limbs",
+      "Serene expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Wise",
+      "Gentle",
+      "Serene"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Uxie/1.png",
+  "pokemon_name": "Uxie"
+}

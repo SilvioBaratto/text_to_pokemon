@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a unique blue body and a cheerful expression.",
+    "Imagine a Pokemon that looks like a cheerful blue blob, radiating positive energy.",
+    "Show me a fun, playful Pokemon with a big smile and a round shape.",
+    "Design a quirky Pokemon known for its bouncing movements and bright blue color.",
+    "Generate an adorable Pokemon that has a small tail and a friendly demeanor.",
+    "Make a Pokemon that embodies joy and positivity with its vibrant blue hue.",
+    "Give me a playful creature with a chubby body and an engaging personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large smiling mouth",
+      "Small tail",
+      "Round shape",
+      "Two arms",
+      "Simple eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Friendly"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Wobbuffet/2.png",
+  "pokemon_name": "Wobbuffet"
+}

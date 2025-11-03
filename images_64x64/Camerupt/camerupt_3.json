@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a volcano-themed Pokemon that can control lava and has a fiery personality.",
+    "Imagine a creature with a magma-like body that can withstand extreme heat.",
+    "Generate a Pokemon resembling a mountain with fiery features and a powerful stance.",
+    "Show me an orange, fire-type Pokemon that has a flowing lava cape.",
+    "Design a creature that embodies both fire and earth elements, with a robust build.",
+    "Make an image of a Pokemon that thrives in volcanic areas and has a unique appearance.",
+    "Give me a Pokemon that looks majestic with molten features and can erupt in flames."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Gray",
+      "accent": "Red"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Volcanic crater-like back",
+      "Lava-like texture",
+      "Large, rounded body",
+      "Bushy, flame-like tail",
+      "Erupting lava from its back"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Ground",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Hot-headed",
+      "Stubborn",
+      "Passionate"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Camerupt/3.png",
+  "pokemon_name": "Camerupt"
+}

@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon that resembles a floating asteroid with a starry pattern.",
+    "Imagine a small, space-themed Pokemon that has a gray exterior and bright eyes.",
+    "Design a Pokemon that is shaped like a cosmic rock with unique patterns and a playful demeanor.",
+    "Generate a Pokemon that embodies the essence of a meteor, featuring a round body and dark spots.",
+    "Show me a Pokemon that is inspired by celestial bodies and has a cute, round design.",
+    "Give me a Pokemon that looks like a miniature asteroid with a mix of gray and brown colors.",
+    "Make a Pokemon that resembles a small, cosmic object with a quirky personality and unique patterns."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Gray"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body shape",
+      "Dark circular eyes",
+      "Irregular surface with patterns",
+      "Meteor-like appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Flying",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Mischievous"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Minior/0.png",
+  "pokemon_name": "Minior"
+}

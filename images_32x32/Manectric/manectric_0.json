@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon with bright blue fur and a striking yellow mane.",
+    "Show me a Pokemon that resembles a fierce wolf, with sharp features and vibrant colors.",
+    "Design a Pokemon that has lightning bolt patterns on its body and a sleek, agile appearance.",
+    "Imagine a Pokemon that embodies the essence of electricity, with a dynamic and energetic pose.",
+    "Generate a Pokemon that stands tall and proud, showcasing its powerful electric abilities.",
+    "Give me a Pokemon that has a unique head shape and a playful personality, perfect for battles.",
+    "Make a Pokemon that thrives in urban environments, sparking with electricity and full of energy."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Pointed yellow ears",
+      "Lightning bolt-shaped tail",
+      "Long snout with sharp teeth",
+      "Streamlined body with fur patterns"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Fierce",
+      "Loyal"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Fast and agile, focusing on quick strikes"
+  },
+  "image_path": "images/Manectric/0.png",
+  "pokemon_name": "Manectric"
+}

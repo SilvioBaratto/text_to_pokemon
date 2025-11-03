@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a flying-type Pokemon with sleek purple wings and sharp yellow eyes.",
+    "I want a bat-like creature that emits eerie sounds and glides silently through the night.",
+    "Generate a Pokemon with a unique design featuring a blend of purple and teal colors.",
+    "Make a creature that embodies agility and speed, perfect for aerial battles.",
+    "Imagine a Pokemon that can thrive in caves and forests, with a mysterious aura.",
+    "Design a dual-type Pokemon that is both Poison and Flying, showcasing its swift movements.",
+    "Show me a Pokemon that has a distinctive wing shape and captivating color scheme."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large bat-like wings",
+      "Sharp fangs",
+      "Pointed ears",
+      "Yellow eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Agile",
+      "Cunning",
+      "Playful"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Speed-oriented"
+  },
+  "image_path": "images/Crobat/0.png",
+  "pokemon_name": "Crobat"
+}

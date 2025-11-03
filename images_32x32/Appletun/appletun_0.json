@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon that resembles a giant apple with a cute face and small leaves.",
+    "Show me a Pokemon that has a round, fruity body and looks very friendly and approachable.",
+    "Imagine a Pokemon that combines elements of apples and leaves, with a cheerful expression.",
+    "Design a Pokemon that has a sweet, dessert-like appearance, perfect for a fairy tale setting.",
+    "Give me a Pokemon that embodies the essence of a picnic in the park, with bright colors and charm.",
+    "Generate a Pokemon that resembles a dessert, featuring vibrant colors and a playful personality.",
+    "Make a Pokemon that looks like a fruit dessert, with a round shape and a happy demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Orange",
+      "accent": "Red"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Round apple-like body",
+      "Small green leaves on top",
+      "Red berry-like appendage",
+      "Smooth, shiny surface"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Dragon",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Friendly",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Appletun/0.png",
+  "pokemon_name": "Appletun"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a mysterious aura and floating features.",
+    "Generate a dual-type Pokemon inspired by ancient artifacts with a unique color scheme.",
+    "Imagine a Pokemon that embodies the essence of both clay and cosmic energy.",
+    "Design a Pokemon resembling a mystical doll that has a playful yet enigmatic personality.",
+    "Show me a Pokemon with a round body and intricate patterns that hint at its psychic powers.",
+    "Give me a creature that blends elements of ancient history with modern design in its appearance.",
+    "Make a Pokemon that looks like a guardian of the ruins, featuring a unique blend of colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Pink",
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, round body",
+      "Three pink protrusions on top",
+      "Yellow ring patterns",
+      "Single eye",
+      "Symmetrical design"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Ground",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Playful",
+      "Ancient"
+    ],
+    "habitat": "Desert",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Claydol/0.png",
+  "pokemon_name": "Claydol"
+}

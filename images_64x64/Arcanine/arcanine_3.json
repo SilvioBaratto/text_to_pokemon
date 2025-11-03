@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a fierce fire-type Pokemon with a spiky mane and a confident stance.",
+    "Show me a Pokemon that embodies loyalty and bravery, with striking orange fur.",
+    "Generate a quadrupedal creature known for its speed and agility in battle.",
+    "Imagine a majestic canine Pokemon that roams the grasslands and forests.",
+    "Design a Pokemon that has a fiery spirit and a protective nature.",
+    "Make a powerful fire-type Pokemon with tiger-like stripes and a noble demeanor.",
+    "Give me a Pokemon that is both playful and fierce, with a love for adventure."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Black"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Spiky mane",
+      "Tiger-like stripes",
+      "Fluffy tail",
+      "Vibrant fur",
+      "Pointed ears"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Loyal",
+      "Brave",
+      "Playful"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Arcanine/3.png",
+  "pokemon_name": "Arcanine"
+}

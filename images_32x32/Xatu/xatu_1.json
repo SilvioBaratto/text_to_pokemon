@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a colorful bird Pokemon that uses psychic powers to control its surroundings.",
+    "I want a Pokemon that resembles a green bird with a unique outfit and mystical abilities.",
+    "Generate an elegant flying-type Pokemon with vibrant colors and a mysterious aura.",
+    "Make a Pokemon that can see into the future, featuring bright green and red colors.",
+    "Imagine a bird-like Pokemon with elegant feathers and a calm demeanor, perfect for a forest.",
+    "Design a Pokemon that embodies the spirit of the mountains, combining beauty and wisdom.",
+    "Show me a whimsical Pokemon with psychic abilities and a vibrant, eye-catching design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Red",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Red",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long tail feathers",
+      "Psychic eye patterns",
+      "Unique clothing-like appearance",
+      "Beak resembling a nose",
+      "Colorful feather patterns"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Wise",
+      "Calm",
+      "Mysterious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Xatu/1.png",
+  "pokemon_name": "Xatu"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a futuristic Pokemon resembling a spaceship with metallic fins and green accents.",
+    "I want a steel-type Pokemon that looks like a robotic creature with sharp edges.",
+    "Generate a Pokemon with a sleek design and large wings that glows in the dark.",
+    "Make a Pokemon that combines alien features with a crystalline body and vibrant colors.",
+    "Imagine a Pokemon that has a unique blend of technology and nature with a shimmering surface.",
+    "Design a Pokemon that embodies both elegance and strength with a majestic silhouette.",
+    "Show me a Pokemon that resembles a celestial being, equipped with long, pointed limbs and a shiny exterior."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Long, pointed limbs",
+      "Sleek, metallic body",
+      "Shiny, crystalline surfaces",
+      "Symmetrical design",
+      "Wing-like structures"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Flying",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Elegant",
+      "Majestic"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Celesteela/0.png",
+  "pokemon_name": "Celesteela"
+}

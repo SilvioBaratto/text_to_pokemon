@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a green body and a large lily pad on its head.",
+    "I want a Pokemon that resembles a frog, wearing a leaf as a hat and looks cheerful.",
+    "Generate a design for a cute aquatic creature that loves to play in the rain.",
+    "Make a unique Pokemon that combines features of a lily pad and a small humanoid.",
+    "Imagine a Pokemon inspired by wetlands, with vibrant green colors and a playful demeanor.",
+    "Show me a Pokemon that thrives in forest habitats and has a distinct aquatic charm.",
+    "Design a Pokemon that has a whimsical look, with green skin and a friendly expression."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Lily pad on head",
+      "Webbed feet",
+      "Round body shape",
+      "Bright red eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Grass",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Friendly"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Lombre/0.png",
+  "pokemon_name": "Lombre"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that resembles a floating appliance with vibrant colors.",
+    "I want a unique Electric-type Pokemon with a playful personality and a quirky design.",
+    "Generate a small, agile Pokemon that has a mix of orange and blue hues.",
+    "Make a Pokemon that can change forms, incorporating elements of technology and nature.",
+    "Imagine a cute, mischievous Pokemon that blends electrical abilities with a ghostly appearance.",
+    "Design a Pokemon that can inhabit urban environments and has a friendly disposition.",
+    "Show me a Pokemon that embodies both Electric and Ghost traits, with a distinctive shape."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Blue",
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Floating appearance",
+      "Glowing eyes",
+      "Electric sparks",
+      "Rounded shape",
+      "Technological elements"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Ghost",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Curious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Rotom/0.png",
+  "pokemon_name": "Rotom"
+}

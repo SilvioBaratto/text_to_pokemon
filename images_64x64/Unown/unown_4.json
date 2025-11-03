@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a mysterious Pokemon that represents the unknown, with a sleek and abstract design.",
+    "Imagine a unique Pokemon that embodies the concept of letters and symbols in its form.",
+    "Show me a ghostly Pokemon that can only communicate through enigmatic shapes and shadows.",
+    "Generate a psychic-type Pokemon that has a minimalist appearance and a shadowy aura.",
+    "Design a Pokemon that resembles a letter, showcasing a blend of mystery and intelligence.",
+    "Give me an artistic interpretation of a Pokemon that connects to the theme of language and communication.",
+    "Make a Pokemon that thrives in hidden places, with a design that captures the essence of secrecy."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Resembles a letter 'U'",
+      "Has a large circular eye",
+      "Sleek and smooth design",
+      "Minimalistic shape with no limbs",
+      "Abstract and enigmatic appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Intelligent",
+      "Elusive"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Unown/4.png",
+  "pokemon_name": "Unown"
+}

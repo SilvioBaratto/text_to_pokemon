@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a Pokemon that blends nature with technology, featuring green foliage and metallic accents.",
+    "Imagine a bug-type Pokemon with leaf-like features and a sturdy, protective shell.",
+    "Design a creature inspired by plants and insects, showcasing vibrant greens and earthy tones.",
+    "Generate a whimsical Pokemon that thrives in gardens, adorned with leaves and flowers.",
+    "Show me a Pokemon that embodies the spirit of nature, with a unique blend of colors and textures.",
+    "Give me a creature that resembles a plant but has a distinct insect-like form and personality.",
+    "Make a Pokemon that is both charming and resilient, combining natural elements with a playful demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Gray",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Leafy appendages",
+      "Metallic body",
+      "Unique head shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Grass",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Protective",
+      "Resilient",
+      "Adaptable"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Wormadam/3.png",
+  "pokemon_name": "Wormadam"
+}

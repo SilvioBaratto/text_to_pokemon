@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a playful sea otter with a cheerful demeanor.",
+    "I want a cute starter Pokemon with a round body shape and a unique shell-like feature.",
+    "Generate an adorable aquatic creature that loves to splash around and play in the water.",
+    "Make a Pokemon that combines elements of both an otter and a shell, showcasing vibrant colors.",
+    "Imagine a small, energetic water-type that has a distinct blue and white color scheme.",
+    "Design a playful water Pokemon that carries a shell and has a friendly personality.",
+    "Give me a charming creature that thrives in aquatic habitats and has a round shape."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": "Brown"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Shell-like feature on its belly",
+      "Round body",
+      "Flipper-like arms",
+      "Cheerful face",
+      "Tail resembling a wave"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Curious"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Oshawott/1.png",
+  "pokemon_name": "Oshawott"
+}

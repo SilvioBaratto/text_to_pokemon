@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a Bug-type Pokemon that resembles a small, round creature with a playful personality.",
+    "Imagine a Pokemon with a soft, yellow body and a distinctive black hat-like feature.",
+    "Generate a whimsical Pokemon that can blend into its environment using earthy colors.",
+    "Design a cute, tiny Pokemon that loves to hide in forests and has large, expressive eyes.",
+    "Show me a Pokemon that evolves from a simple form into something more complex and colorful.",
+    "Make a Pokemon with a round shape and a hidden strength that can surprise its opponents.",
+    "Give me a Pokemon that thrives in grassy areas and has a unique ability to camouflage."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round body shape",
+      "Black hat-like structure on top",
+      "Two small eyes",
+      "Minimalistic design"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Burmy/4.png",
+  "pokemon_name": "Burmy"
+}

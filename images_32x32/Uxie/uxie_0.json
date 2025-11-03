@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a floating head and a serene appearance.",
+    "Imagine a legendary creature with ethereal features and a calming presence.",
+    "Generate a small Pokemon that embodies wisdom and tranquility with unique tentacle-like extensions.",
+    "Show me a mythical Pokemon that has a golden aura and blue accents.",
+    "Design a Pokemon with a round, golden head and graceful, flowing body.",
+    "Make a creature that symbolizes knowledge and has a mystical, serene vibe.",
+    "Give me a Pokemon with a peaceful demeanor and a connection to the mind."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large yellow head",
+      "Red eyes",
+      "Two long blue tails",
+      "Floating appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Wise",
+      "Calm",
+      "Protective"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Uxie/0.png",
+  "pokemon_name": "Uxie"
+}

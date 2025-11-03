@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a fierce-looking electric-type Pokemon with striking blue accents and a sleek black body.",
+    "I want a Pokemon that embodies the spirit of a powerful predator, featuring sharp features and an agile stance.",
+    "Generate a wild electric-type creature with a unique star-shaped tail and glowing elements on its body.",
+    "Make a Pokemon design that showcases both elegance and strength, with captivating colors and dynamic posture.",
+    "Imagine a Pokemon that thrives in urban environments, combining sleek design with vibrant electric attributes.",
+    "Show me a majestic electric feline Pokemon that has an aura of mystery and a commanding presence.",
+    "Design a Pokemon that represents agility and ferocity, with a color scheme that highlights its electric powers."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Star-shaped tail",
+      "Sharp fangs",
+      "Glowing blue markings",
+      "Long tufted mane",
+      "Pointed ears"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Dark",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Loyal",
+      "Protective"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Uncommon",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Luxray/0.png",
+  "pokemon_name": "Luxray"
+}

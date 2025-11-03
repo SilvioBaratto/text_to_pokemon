@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with a shiny red shell and green accents.",
+    "Show me a tiny insect-like creature with large eyes and a segmented body.",
+    "Imagine a Pokemon that can camouflage in forest environments with vibrant colors.",
+    "Design a small, rolling Pokemon that thrives in grassy areas and loves to explore.",
+    "Generate a Pokemon with a unique spiral pattern on its back and a playful demeanor.",
+    "I want a Venipede inspired creature that is friendly and loves to crawl on trees.",
+    "Make a Pokemon that has a tough exoskeleton and can curl into a ball when threatened."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Green",
+      "accent": "Black"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Segmented body",
+      "Large yellow eyes",
+      "Curved shell shape",
+      "Spiky protrusions"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful",
+      "Energetic"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Venipede/0.png",
+  "pokemon_name": "Venipede"
+}

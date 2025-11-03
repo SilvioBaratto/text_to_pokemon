@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a sleek design and striking red patterns.",
+    "Generate a Pokemon that has a fierce look, with sharp fins and an aggressive stance.",
+    "I want to see a design for a fish-like Pokemon that dominates its aquatic environment.",
+    "Imagine a Pokemon that can blend into ocean depths, featuring vibrant green scales.",
+    "Show me a Pokemon that excels in underwater battles, showcasing powerful swimming abilities.",
+    "Design a Pokemon with spiky features and a menacing smile, perfect for a water type.",
+    "Make a Pokemon that resembles a fierce predator of the sea, with unique color combinations."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Spiky fins",
+      "Prominent red markings",
+      "Aggressive facial expression",
+      "Streamlined shape",
+      "Large mouth"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Fierce",
+      "Dominant"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Physical attacker"
+  },
+  "image_path": "images/Basculin/2.png",
+  "pokemon_name": "Basculin"
+}

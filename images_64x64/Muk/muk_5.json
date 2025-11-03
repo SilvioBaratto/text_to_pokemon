@@ -1,0 +1,57 @@
+{
+  "prompts": [
+    "Create a slimy creature with vibrant colors and a mischievous grin for a new Pokemon.",
+    "Imagine a Pokemon that blends in with urban environments, featuring a colorful, gooey appearance.",
+    "Design a Pokemon with a gooey texture, using shades of purple and green to stand out.",
+    "Generate a creature that resembles sludge but has a playful personality and vivid colors.",
+    "Make a Pokemon that is both cute and a bit gross, showcasing a mix of pink and blue hues.",
+    "Show me a Pokemon that evolves from a toxic waste creature into a majestic form.",
+    "Give me a Pokemon that thrives in urban areas, with a colorful, slimy body and mischievous nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Pink",
+      "Yellow",
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Green",
+      "accent": "Pink"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Gooey texture",
+      "Multiple eyes",
+      "Irregular shape",
+      "Vibrant coloration",
+      "Mouth with sharp teeth"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Cunning"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Muk/5.png",
+  "pokemon_name": "Muk"
+}

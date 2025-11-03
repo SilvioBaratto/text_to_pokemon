@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that has a bright green body and striking yellow accents.",
+    "Show me a small spider Pokemon with unique features that make it stand out from others.",
+    "Generate an image of a Pokemon that blends in with nature and has a friendly demeanor.",
+    "Imagine a Pokemon with a quirky personality that looks like a combination of insect and plant.",
+    "Design a bug Pokemon that is known for its agility and ability to camouflage among leaves.",
+    "Give me a detailed description of a green and yellow Pokemon that thrives in forest environments.",
+    "Make a visual representation of a Pokemon that embodies both cuteness and a predatory nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Yellow",
+      "accent": "Red"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large, rounded abdomen",
+      "Four pairs of legs",
+      "Distinctive fangs",
+      "Brightly colored eyes",
+      "Web-like patterns on back"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful",
+      "Cautious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Agile and evasive"
+  },
+  "image_path": "images/Spinarak/2.png",
+  "pokemon_name": "Spinarak"
+}

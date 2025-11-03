@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a small, ground-type Pokemon that has a spiky back and a curious expression.",
+    "Make a cute yellow Pokemon with a round body and a playful nature.",
+    "Generate a Pokemon inspired by a desert creature, featuring a sandy color palette.",
+    "Show me a tiny Pokemon that loves to dig and has a soft, furry belly.",
+    "Design a Pokemon that resembles a shrew, with bright eyes and a mischievous grin.",
+    "Imagine a Pokemon with a sturdy shell, perfect for defense and burrowing underground.",
+    "Give me a playful ground-type Pokemon that thrives in sandy environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Spiky back",
+      "Curved tail",
+      "Large round eyes",
+      "Soft belly",
+      "Clawed paws"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Eager"
+    ],
+    "habitat": "Desert",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Sandshrew/4.png",
+  "pokemon_name": "Sandshrew"
+}

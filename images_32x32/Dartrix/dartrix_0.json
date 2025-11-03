@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bird-like Pokemon that blends into the forest with vibrant green feathers.",
+    "Show me an elegant dual-type Grass/Flying Pokemon with a charming appearance.",
+    "Imagine a Pokemon that has a unique bowtie made of leaves and feathers.",
+    "Generate a Pokemon design featuring a wise owl with a friendly demeanor.",
+    "Make an unusual Pokemon that is known for its sharp eyesight and stealth.",
+    "Give me a concept of a Pokemon that thrives in forests and is skilled in aerial attacks.",
+    "Design a Pokemon that showcases a blend of nature and elegance in its appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "White"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Leaf-like crest on the head",
+      "Brown feathered chest",
+      "White underbelly",
+      "Green wing accents",
+      "Expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Flying",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Wise",
+      "Cautious",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Stealth and Precision"
+  },
+  "image_path": "images/Dartrix/0.png",
+  "pokemon_name": "Dartrix"
+}

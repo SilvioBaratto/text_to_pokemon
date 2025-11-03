@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a playful water-type Pokemon that loves to splash around in the ocean.",
+    "Imagine a cheerful turtle-like creature with a vibrant shell and a big smile.",
+    "Design a Pokemon that resembles a small aquatic dinosaur, with a colorful back fin.",
+    "Show me a cute Pokemon that can camouflage in its watery habitat and loves to play.",
+    "Generate a water-type Pokemon with a unique toothy grin and a playful attitude.",
+    "Make a Pokemon that can easily adapt to both land and water, with a striking color palette.",
+    "Give me a design for a small, friendly Pokemon that enjoys basking in the sun by the water."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Green",
+      "accent": "Orange"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Toothy grin",
+      "Shell-like back",
+      "Spiky dorsal fin",
+      "Round body",
+      "Short limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Chewtle/0.png",
+  "pokemon_name": "Chewtle"
+}

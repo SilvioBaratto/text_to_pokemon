@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a mischievous dark-type Pokemon with vibrant colors and long spiky hair.",
+    "I want a quirky Pokemon that has a humanoid shape and playful personality traits.",
+    "Generate a Pokemon that looks like a trickster, combining red and green colors creatively.",
+    "Make a Pokemon with a unique design, showcasing a blend of dark and fairy characteristics.",
+    "Imagine a Pokemon that thrives in urban environments, with a playful and cunning demeanor.",
+    "Design a creature that embodies both mischief and charm, featuring an interesting color palette.",
+    "Show me a Pokemon that combines a bipedal shape with striking visual features and dark elements."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Green",
+      "accent": "Black"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long spiky hair",
+      "Pointed ears",
+      "Sharp claws",
+      "Mischievous grin",
+      "Green legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": "Fairy",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Cunning"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Trickster"
+  },
+  "image_path": "images/Morgrem/0.png",
+  "pokemon_name": "Morgrem"
+}

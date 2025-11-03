@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a slimy body and a playful expression.",
+    "Imagine a Pokemon with a pink and brown color scheme that thrives in wetlands.",
+    "Generate a creature resembling a slug, with unique features like waves on its back.",
+    "Show me a Pokemon that lives in forests, characterized by its vibrant colors and soothing demeanor.",
+    "Make a Pokemon that has a soft, squishy appearance, perfect for kids to love.",
+    "Design a dual-type Pokemon that has a distinct aquatic and earthy vibe.",
+    "Give me a Pokemon that is known for its friendly personality and adaptability to different environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Brown"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Slime-like texture",
+      "Waves on the back",
+      "Large, expressive eyes",
+      "Soft, rounded body",
+      "Two prominent antennae"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Ground",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Relaxed"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Gastrodon/1.png",
+  "pokemon_name": "Gastrodon"
+}

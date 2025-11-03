@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bipedal fire-type Pokemon with strong legs and blazing flames for arms.",
+    "I want a powerful Pokemon with fiery features and a fierce expression ready for battle.",
+    "Generate a humanoid Pokemon that embodies the spirit of flames and agility in its design.",
+    "Make a dynamic fire and fighting-type Pokemon that showcases speed and strength.",
+    "Imagine a Pokemon with a muscular build and fiery accents that can dominate in combat.",
+    "Design a fierce fire Pokemon with striking colors and a determined stance for an epic showdown.",
+    "Show me a unique Pokemon with flame-like features and an impressive battle-ready pose."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Black",
+      "accent": "Orange"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Flames on arms",
+      "Muscular build",
+      "Tall stature",
+      "Spiky hair",
+      "Fierce expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Fighting",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Proud",
+      "Aggressive"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Blaziken/3.png",
+  "pokemon_name": "Blaziken"
+}

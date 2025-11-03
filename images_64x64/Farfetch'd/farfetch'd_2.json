@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bird-like Pokemon that holds a leek and has a charming personality.",
+    "Imagine a flying-type Pokemon with bright colors and a unique weapon.",
+    "Generate a Pokemon that resembles a duck and is known for its agility.",
+    "Design a whimsical Pokemon with a quirky appearance and a playful nature.",
+    "Show me a creature that combines avian features with a touch of elegance.",
+    "Give me a Pokemon that thrives in grassy areas and has a distinctive look.",
+    "Make a character that embodies both style and grace in its movements."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Orange",
+      "accent": "Yellow"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Leek held in hand",
+      "Unique yellow beak",
+      "Orange wing tips",
+      "Feathered body",
+      "Expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Charming",
+      "Playful",
+      "Agile"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Farfetch'd/2.png",
+  "pokemon_name": "Farfetch'd"
+}

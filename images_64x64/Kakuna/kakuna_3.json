@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that resembles a cocoon with a shiny yellow exterior.",
+    "I want a Pokemon evolution that looks like a protective shell, glowing in bright colors.",
+    "Generate an insectoid creature with a vibrant yellow color and a sturdy, rounded shape.",
+    "Make a Pokemon that appears to be in the middle of evolving, showcasing distinct yellow features.",
+    "Imagine a tiny Pokemon that resembles a chrysalis, perfect for habitats like forests and grasslands.",
+    "Design a small, yellow insect-themed Pokemon that emphasizes transformation and growth.",
+    "Show me a Pokemon that looks like a cocoon, featuring a smooth yellow body and unique textures."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Cocoon-like shape",
+      "Smooth, rounded surface",
+      "Yellow coloration",
+      "Small size",
+      "Minimal appendages"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Protective",
+      "Patient",
+      "Transformative"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Kakuna/3.png",
+  "pokemon_name": "Kakuna"
+}

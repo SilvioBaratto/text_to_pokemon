@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a giant trash monster with vibrant colors and quirky features.",
+    "Design a Pokemon with a unique shape that embodies environmental themes and is covered in odd items.",
+    "Imagine a creature with a playful personality that thrives in urban settings and has colorful trash-like features.",
+    "Generate a Pokemon that can camouflage into its surroundings, using various colors like browns and greens.",
+    "Show me a quirky Pokemon that has a body made of waste materials, complete with fun accessories!",
+    "Make a creature that showcases recycling through its design, featuring a mix of bright and dark colors.",
+    "Give me a Pokemon that represents pollution and waste, with a distinctive and messy appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Purple",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": "Purple"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Covered in various trash items",
+      "Mouth with sharp teeth",
+      "Two eyes on stalks",
+      "Lumpy, uneven body shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": "Dark",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Carefree"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Garbodor/1.png",
+  "pokemon_name": "Garbodor"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a muscular build and blue skin.",
+    "I want a Pokemon that has amphibious traits and striking red fins.",
+    "Generate a creature that thrives in wetlands and has a powerful tail.",
+    "Make a design for a Pokemon that is both a fighter and a swimmer.",
+    "Imagine a creature that can adapt to both land and water environments.",
+    "Show me a Pokemon with a unique combination of strength and agility.",
+    "Design a Pokemon that is known for its impressive durability and resilience."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large, muscular body",
+      "Prominent red fins",
+      "Wide mouth",
+      "Powerful tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Ground",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Loyal",
+      "Adaptable"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Swampert/3.png",
+  "pokemon_name": "Swampert"
+}

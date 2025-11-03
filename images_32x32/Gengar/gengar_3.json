@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that has a spooky appearance and mischievous personality.",
+    "Imagine a Pokemon with a dark purple body and glowing red eyes, perfect for haunting shadows.",
+    "Show me a ghost Pokemon that looks playful, with a wide grin and a floating form.",
+    "Generate a Pokemon with a rounded body, sharp teeth, and a playful yet creepy vibe.",
+    "Make a design for a ghost-type with an eerie smile and a shadow-like silhouette.",
+    "I want a Pokemon that has a spooky but fun appearance, featuring purple and red colors.",
+    "Design a ghostly creature with distinct features like pointed ears and a shadowy tail."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Pointed ears",
+      "Sharp teeth",
+      "Floating body",
+      "Red eyes",
+      "Shadow-like silhouette"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Cunning"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Gengar/3.png",
+  "pokemon_name": "Gengar"
+}

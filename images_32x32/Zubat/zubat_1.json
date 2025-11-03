@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a flying-type Pokemon with bright blue wings and a sleek body design.",
+    "I want a creature that resembles a bat but is more vibrant and colorful.",
+    "Generate a Pokemon that has a unique blend of blue and black colors, perfect for night exploration.",
+    "Make a small, agile Pokemon that can navigate through caves and forests effortlessly.",
+    "Imagine a bat-like Pokemon with large wings and a playful personality, ideal for aerial battles.",
+    "Design a Pokemon that thrives in urban areas, showcasing a mix of urban and natural colors.",
+    "Give me a Pokemon that can adapt to both forest and cave habitats, with a striking blue appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large wings",
+      "Pointed ears",
+      "Short tail",
+      "Wide eyes",
+      "Streamlined body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Agile"
+    ],
+    "habitat": "Cave",
+    "rarity": "Common",
+    "combat_style": "Speed-focused"
+  },
+  "image_path": "images/Zubat/1.png",
+  "pokemon_name": "Zubat"
+}

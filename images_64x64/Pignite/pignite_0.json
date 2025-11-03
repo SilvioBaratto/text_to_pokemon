@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a chubby fire-type Pokemon with a playful personality and a bushy tail.",
+    "Imagine a Pokemon that loves to dance, featuring vibrant orange fur and big ears.",
+    "Generate a fun-loving creature inspired by wildfires, with a round shape and cheerful demeanor.",
+    "Design a fire Pokemon that thrives in grasslands, showcasing bright colors and energetic traits.",
+    "Show me a Pokemon with a fierce fighting spirit, wearing fiery colors and a friendly smile.",
+    "Make a unique Pokemon that resembles a small bear, with a fiery coat and adorable features.",
+    "Give me a Pokemon that embodies the spirit of a campfire, round and vibrant with a playful look."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Brown",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Round body",
+      "Short limbs",
+      "Large ears",
+      "Big nose",
+      "Fire-like markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Fighting",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Friendly"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Pignite/0.png",
+  "pokemon_name": "Pignite"
+}

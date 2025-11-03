@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a jellyfish appearance and vibrant colors.",
+    "I want a Pokemon that looks like a floating creature with long tentacles and a blue body.",
+    "Generate an aquatic Pokemon design featuring a smooth blue surface and red accents.",
+    "Make a whimsical jellyfish-inspired Pokemon with unique features and a playful expression.",
+    "Imagine a small Pokemon that swims gracefully through the water, resembling Tentacool.",
+    "Design an underwater Pokemon with a striking color palette and distinctive tentacle-like appendages.",
+    "Show me a Pokemon with a round body and a mix of blue and red colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Tentacle-like appendages",
+      "Round, jellyfish-like body",
+      "Large red eyes",
+      "Smooth, glossy texture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Tentacool/3.png",
+  "pokemon_name": "Tentacool"
+}

@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that resembles a green cocoon with leafy features and big, curious eyes.",
+    "Show me a small, grassy Pokemon with a round body and leaf-like appendages, perfect for a tranquil forest.",
+    "Imagine a cute, green Pokemon with a soft, rounded shape and a gentle expression, ideal for children's games.",
+    "Generate a Pokemon that thrives in forest habitats, featuring bright green colors and a unique leaf design.",
+    "Make a bug-type Pokemon that is friendly and shy, with a body shape resembling a cozy leaf-covered cocoon.",
+    "Design a Pokemon that blends into its grassy surroundings, with vibrant green tones and a rounded, soft shape.",
+    "Give me a charming, small Pokemon with a leaf motif, often found resting quietly in lush, green environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": null,
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Leaf-like appendages",
+      "Rounded body",
+      "Large eyes",
+      "Cocoon-like appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Grass",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Shy",
+      "Gentle",
+      "Protective"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Swadloon/0.png",
+  "pokemon_name": "Swadloon"
+}

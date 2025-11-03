@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a digital Pokemon with a geometric design and vibrant colors.",
+    "Imagine a robot-like creature that can adapt to various environments with sleek features.",
+    "Show me a Pokemon that embodies the essence of technology and innovation.",
+    "Generate a Pokemon with fascinating angular shapes and a mix of cool colors.",
+    "Design a quirky creature that represents the fusion of nature and technology.",
+    "Make an electric-type Pokemon with a unique crystalline appearance and sharp edges.",
+    "Give me a futuristic Pokemon that has a digital or pixelated vibe."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Geometric shapes",
+      "Angular edges",
+      "Digital appearance",
+      "Single eye",
+      "Triangular fin"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Psychic",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful",
+      "Intelligent"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Porygon/3.png",
+  "pokemon_name": "Porygon"
+}

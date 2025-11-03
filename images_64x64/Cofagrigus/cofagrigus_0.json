@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that looks like a mysterious ancient artifact.",
+    "Imagine a spooky Pokemon with a sarcophagus design and eerie floating arms.",
+    "Design a unique Pokemon that embodies themes of death and preservation.",
+    "Show me a ghostly creature that haunts urban environments and is shaped like a coffin.",
+    "Generate a Pokemon with a golden mask and shadowy, outstretched arms.",
+    "Make a Pokemon that blends ancient Egyptian motifs with ghostly characteristics.",
+    "I want to see a Pokemon that's both spooky and regal, with a coffin-like body."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Yellow",
+      "accent": "Brown"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Coffin-shaped body",
+      "Floating arms",
+      "Golden mask-like face",
+      "Glowing red eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Eerie",
+      "Protective"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Cofagrigus/0.png",
+  "pokemon_name": "Cofagrigus"
+}

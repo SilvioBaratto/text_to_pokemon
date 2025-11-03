@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with a fierce expression and playful demeanor.",
+    "Imagine a dark-type Pokemon that has a unique body shape and striking colors.",
+    "Show me a small, quadrupedal Pokemon with blue and black scales.",
+    "Design a Pokemon that thrives in mountainous habitats and has a mysterious aura.",
+    "Generate a Pokemon that evolves into a powerful creature and has distinct visual features.",
+    "Give me a Pokemon that has a playful personality and a love for adventure.",
+    "Make a Pokemon that stands out with its unusual color combinations and traits."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": "Purple"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Spiky head crest",
+      "Large, expressive eyes",
+      "Short limbs",
+      "Textured body with scales",
+      "Distinctive purple markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Dark",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Mischievous"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Deino/1.png",
+  "pokemon_name": "Deino"
+}

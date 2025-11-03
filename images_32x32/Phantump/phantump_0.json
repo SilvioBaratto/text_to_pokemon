@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon with a spooky, playful personality and an eerie appearance.",
+    "Show me a Pokemon that resembles a tree stump with mischievous eyes and green accents.",
+    "Imagine a creature that blends ghostly features with nature, like a haunted tree spirit.",
+    "Generate a small, ghostly Pokemon that loves to play pranks on unsuspecting travelers in the forest.",
+    "Design a whimsical Pokemon that has a playful, eerie vibe and resembles a small tree.",
+    "Give me a unique ghost-type Pokemon that uses its forest surroundings for camouflage.",
+    "Make a Pokemon that embodies the spirit of the forest with ghostly characteristics."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Green",
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Green",
+      "accent": "Pink"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Tree stump appearance",
+      "Green twig-like arms",
+      "Large, expressive eyes",
+      "Ghostly, floating aspect"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Grass",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Trickster"
+  },
+  "image_path": "images/Phantump/0.png",
+  "pokemon_name": "Phantump"
+}

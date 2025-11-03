@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a fighting-type Pokemon with blue armor and red accents that exudes a strong presence.",
+    "Imagine a Pokemon resembling a humanoid warrior, combining agility and strength in its design.",
+    "Generate a bipedal Pokemon with sleek features and a confident stance, perfect for competitive battles.",
+    "Design a Pokemon with a mix of blue and yellow hues, showcasing its dynamic fighting abilities.",
+    "Show me a Pokemon that embodies both elegance and power, with unique features that stand out.",
+    "Make a Pokemon that thrives in mountainous terrains, featuring colors that reflect its natural habitat.",
+    "Give me a Pokemon that balances strength and speed, resembling a martial artist in its appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": "Red"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Pointed ears",
+      "Sleek body structure",
+      "Armored gloves",
+      "Tail resembling a scarf",
+      "Aura sensing ability"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": "Steel",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Confident",
+      "Loyal",
+      "Brave"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Lucario/1.png",
+  "pokemon_name": "Lucario"
+}

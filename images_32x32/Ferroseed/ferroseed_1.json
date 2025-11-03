@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a spiky ball with metallic features and vibrant green accents.",
+    "Imagine a Pokemon that is made of iron and has a round shape with sharp spikes on top.",
+    "Design a Pokemon that looks like a small, armored ball with a gray body and green spikes.",
+    "Show me a steel-type Pokemon with a rocky appearance and a playful yet defensive personality.",
+    "Generate a Pokemon that blends into a forest environment with its earthy colors and spiked body.",
+    "Make a Pokemon that is tough and durable, resembling a small fortress with sharp protrusions.",
+    "Give me a Pokemon that embodies resilience and strength, with a unique spherical shape and natural armor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Spiky protrusions on top",
+      "Round, spherical body",
+      "Facial features resembling eyes",
+      "Metallic texture",
+      "Dense, armored appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Grass",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Defensive",
+      "Resilient",
+      "Steadfast"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Ferroseed/1.png",
+  "pokemon_name": "Ferroseed"
+}

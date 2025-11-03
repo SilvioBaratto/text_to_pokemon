@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a legendary electric-type Pokemon that resembles a powerful feline with unique lightning patterns.",
+    "I want to see an impressive Pokemon that combines agility and speed, showcasing vibrant yellow and blue colors.",
+    "Generate an image of a majestic Pokemon with fur that sparkles, surrounded by electric energy and a fierce expression.",
+    "Make a design for a mythical creature that embodies the essence of storms, with striking features and a commanding presence.",
+    "Imagine a Pokemon that strikes fear in its opponents with its electrifying aura and strikingly bold colors.",
+    "Show me a Pokemon with a blend of fierce and noble traits, highlighted by its striking color palette and sleek body.",
+    "Design a powerful creature that stands out with its unique combination of colors and electrifying abilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Black",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Blue",
+      "accent": "Black"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Electric mane resembling a thunderbolt",
+      "Sharp fangs and claws",
+      "Distinctive blue markings on the face",
+      "Long, flowing tail with an electric spark",
+      "Powerful muscular build"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Noble",
+      "Fierce",
+      "Protective"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Fast and powerful strikes with electric attacks"
+  },
+  "image_path": "images/Raikou/0.png",
+  "pokemon_name": "Raikou"
+}

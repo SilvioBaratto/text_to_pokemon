@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a legendary Pokemon that embodies the power of the earth with a fierce appearance.",
+    "Design a massive creature with red and yellow scales that could control volcanic eruptions.",
+    "Imagine a ground-type Pokemon with unique spiky features and a colossal size.",
+    "Generate a Pokemon that resembles a dinosaur and can manipulate the land around it.",
+    "Make a fearsome beast with a combination of black and red colors, perfect for battles.",
+    "Show me a mythical creature that has a strong connection to nature and the ground.",
+    "Give me a Pokemon that has a distinct rocky texture and can summon earthquakes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Black",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Huge",
+    "distinctive_features": [
+      "Spiky back",
+      "Large claws",
+      "Distinctive snout",
+      "Armored body",
+      "Thick limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Powerful",
+      "Protective",
+      "Fierce"
+    ],
+    "habitat": "Desert",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Groudon/1.png",
+  "pokemon_name": "Groudon"
+}

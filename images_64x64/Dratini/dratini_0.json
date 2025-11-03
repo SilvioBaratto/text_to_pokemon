@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a flowing body and soft blue colors.",
+    "Imagine a serpentine Pokemon that glides gracefully through the water.",
+    "Design a dragon-like creature with a sleek shape and tranquil demeanor.",
+    "Generate a Pokemon that looks like a small, friendly sea serpent.",
+    "Show me a cute, blue dragon with elegant fins and a gentle expression.",
+    "Make a Pokemon that combines features of both a snake and a dragon.",
+    "Give me a design for a Pokemon that thrives in aquatic environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long, slender body",
+      "Elegant fins",
+      "Gentle facial features",
+      "Smooth scales"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Water",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Dratini/0.png",
+  "pokemon_name": "Dratini"
+}

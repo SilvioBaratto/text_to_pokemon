@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a gooey, purple Pok\u00e9mon that can melt through obstacles and has a menacing grin.",
+    "Show me a Pok\u00e9mon that resembles a large blob with a vibrant, swirling pattern and a playful attitude.",
+    "Imagine a Pok\u00e9mon that can ooze its way through the city streets, leaving a trail of sludge behind.",
+    "Make a Pok\u00e9mon that is mostly purple with hints of pink, known for its toxic gas abilities.",
+    "Design a Pok\u00e9mon that embodies the essence of waste and pollution, with a slick, shiny surface.",
+    "Generate a Pok\u00e9mon that looks like it\u2019s made of sludge, with an intimidating presence and a playful side.",
+    "Give me a Pok\u00e9mon that thrives in polluted environments and has the ability to absorb toxins."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Sludge-like appearance",
+      "Menacing grin",
+      "Droopy, uneven edges",
+      "Swirling patterns",
+      "Eyes that seem to peer out menacingly"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Intimidating"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Muk/2.png",
+  "pokemon_name": "Muk"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a sleek, elegant design and a mystical aura.",
+    "Imagine a mythical creature that can manipulate space and time using its powerful abilities.",
+    "Generate a small, playful Pokemon that embodies the essence of psychic energy and curiosity.",
+    "Show me a legendary Pokemon with a cute, round body and large expressive eyes.",
+    "Design a Pokemon that floats gracefully and has a soft, pastel color palette.",
+    "Make a creature that resembles a small cat but has magical powers and a mysterious background.",
+    "Give me a Pokemon that can teleport and has a charming, whimsical personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "White"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "White",
+      "accent": "Blue"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large ears",
+      "Long tail",
+      "Big blue eyes",
+      "Small stature",
+      "Round face"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": true,
+    "is_mythical": true,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Curious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Mew/2.png",
+  "pokemon_name": "Mew"
+}

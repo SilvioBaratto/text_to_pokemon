@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a playful Pokemon with a fluffy tail and a mischievous smile.",
+    "Imagine a bipedal creature with a vibrant color scheme and energetic demeanor.",
+    "Show me a Normal-type Pokemon that loves to explore forests and mountains.",
+    "Design a Pokemon that embodies both strength and agility with unique facial features.",
+    "Generate a character that is known for its speed and playful nature in the wild.",
+    "Give me a creature that evolves from a furry baby into a powerful brute.",
+    "Make a cartoonish representation of a Pokemon with a long, fluffy body and bright colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "White"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Fluffy, cream-colored body",
+      "Red tuft on the head",
+      "Long arms with noticeable claws",
+      "Expressive, sharp eyes",
+      "Wide, open mouth often smiling"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Vigoroth/0.png",
+  "pokemon_name": "Vigoroth"
+}

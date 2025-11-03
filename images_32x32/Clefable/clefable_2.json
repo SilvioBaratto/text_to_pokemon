@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a fairy-type Pokemon that has soft pink fur and a whimsical expression.",
+    "Imagine a playful creature that floats in the air with sparkling wings and a cheerful demeanor.",
+    "Show me a Pokemon with large ears and a round body that radiates a calming aura.",
+    "Generate a whimsical creature with pink and cream colors, perfect for a serene forest environment.",
+    "Design an adorable Pokemon that embodies kindness and joy, featuring fluffy hair and charming features.",
+    "Give me a Pokemon that loves to sing and dance, with a cute appearance and vibrant colors.",
+    "Make a Pokemon that represents dreams and positivity, with a unique shape and enchanting colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large ears",
+      "Fluffy body",
+      "Star-shaped tuft on head",
+      "Curved tail",
+      "Sparkling eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Joyful",
+      "Playful",
+      "Kind"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Clefable/2.png",
+  "pokemon_name": "Clefable"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon with a vibrant green body and a cheerful expression.",
+    "I want a cute poison-type Pokemon that has large ears and a round body.",
+    "Generate a unique Pokemon that combines elements of both flowers and mushrooms in its design.",
+    "Make a small, bipedal Pokemon that resembles a walking plant with distinct colors.",
+    "Imagine a Pokemon that thrives in urban environments and has a playful personality.",
+    "Design a Pokemon that can camouflage in forest habitats and has a shy demeanor.",
+    "Show me a Pokemon that has both grass and poison typing, with colorful petals as features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Purple",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, droopy petals",
+      "Round, bulbous shape",
+      "Small, stubby legs",
+      "Big, round eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Shy",
+      "Playful",
+      "Melancholic"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Status Effects"
+  },
+  "image_path": "images/Gloom/2.png",
+  "pokemon_name": "Gloom"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a shell and strong arms for swimming.",
+    "I want to see a rugged turtle-like creature with blue and gray colors.",
+    "Generate a Pokemon with a sturdy build and aquatic features, perfect for battling.",
+    "Make an image of a tough-looking sea creature that resembles a prehistoric turtle.",
+    "Imagine a Pokemon with a large shell and powerful flippers for moving through water.",
+    "Design a Pokemon that combines elements of a turtle and a dinosaur.",
+    "Give me a unique water-type Pokemon that stands out with its bold coloring."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Blue",
+      "accent": "Gray"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large shell",
+      "Powerful flippers",
+      "Strong jaw",
+      "Armored body",
+      "Aquatic build"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Rock",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Defensive",
+      "Resilient",
+      "Determined"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive and tank-like"
+  },
+  "image_path": "images/Carracosta/0.png",
+  "pokemon_name": "Carracosta"
+}

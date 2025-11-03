@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bird Pokemon with fiery orange feathers and a sleek black tail.",
+    "Generate a dual-type Pokemon that embodies both fire and flying elements.",
+    "Make a charming fire-type Pokemon that thrives in forest habitats.",
+    "Imagine a vibrant Pokemon with a strong presence in mountainous regions.",
+    "Show me a Pokemon that has a distinctive orange and blue color scheme.",
+    "Design a Pokemon that showcases agility and a playful personality.",
+    "Give me a small, winged creature that can soar through urban landscapes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Blue",
+      "accent": "Black"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fiery orange plumage",
+      "Black tail with white tips",
+      "Blue chest",
+      "Pointed beak",
+      "Streamlined body shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Flying",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Fast and agile"
+  },
+  "image_path": "images/Fletchinder/0.png",
+  "pokemon_name": "Fletchinder"
+}

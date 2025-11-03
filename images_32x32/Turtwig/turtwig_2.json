@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon with a leafy head and a cheerful expression.",
+    "I want a cute turtle Pokemon that thrives in lush forests and has a green palette.",
+    "Generate a small Pokemon with a round body, brown shell, and adorable plant features.",
+    "Make a Pokemon that embodies the essence of nature with earthy tones and a friendly vibe.",
+    "Imagine a starter Pokemon that loves to play in the grass and is very approachable.",
+    "Design an adorable turtle-like Pokemon with a sunny disposition and vibrant greenery.",
+    "Show me a Pokemon that has a playful personality and a connection to the earth."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Leafy sprout on head",
+      "Round shell",
+      "Wide smile",
+      "Stubby limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Turtwig/2.png",
+  "pokemon_name": "Turtwig"
+}

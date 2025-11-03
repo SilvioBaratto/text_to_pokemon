@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a cocoon-like Pokemon that has a mesmerizing white exterior and a bright red dot.",
+    "Design a bug-type Pokemon with an oval shape and thorn-like protrusions all around its body.",
+    "Imagine a small insect Pokemon that blends perfectly with plant life and has a gentle demeanor.",
+    "Generate a unique Pokemon that evolves from a caterpillar and features a soft, plush-like texture.",
+    "Make a Pokemon that resembles a silken cocoon, showcasing shades of white and a vibrant accent color.",
+    "Show me a creature that can camouflage in grasslands, featuring spiky edges and a round body.",
+    "I want a timid bug Pokemon that thrives in forests and has a shiny, reflective surface."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Cocoon-like shape",
+      "Spiky protrusions",
+      "Central red dot"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Timid",
+      "Gentle"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Silcoon/0.png",
+  "pokemon_name": "Silcoon"
+}

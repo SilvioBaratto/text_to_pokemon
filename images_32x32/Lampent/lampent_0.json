@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that floats with a mystical lantern-like appearance.",
+    "I want a spooky Pokemon that looks like a lamp and has an eerie glow.",
+    "Generate a creature inspired by lanterns, with haunting eyes and a ghostly aura.",
+    "Make a whimsical ghost-type Pokemon with a black top hat and glowing blue flames.",
+    "Imagine a Pokemon that blends light and shadow, showcasing a lantern's charm.",
+    "Design a ghostly figure that represents lost spirits, glowing softly in the dark.",
+    "Give me a Pokemon that looks like a street lamp, but has a mystical and eerie vibe."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Blue",
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Lantern-like appearance",
+      "Glowing blue flames",
+      "Curly tail",
+      "Eyes that resemble lights",
+      "Black top hat"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Fire",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Mysterious",
+      "Playful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Lampent/0.png",
+  "pokemon_name": "Lampent"
+}

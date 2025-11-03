@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a ground-type Pokemon with a sandy texture and three smiling faces.",
+    "I want a playful Pokemon that digs underground and pops up unexpectedly.",
+    "Generate a cute Pokemon that looks like a trio of moles with cheerful expressions.",
+    "Make a Pokemon with brown tones and a rounded, burrowing body that loves to play.",
+    "Imagine a Pokemon that thrives in sandy environments, showcasing its digging skills.",
+    "Design a small, quirky Pokemon that resembles a group of friendly underground creatures.",
+    "Show me a Pokemon that embodies the essence of teamwork with its three adorable faces."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Three distinct heads",
+      "Smiling facial expressions",
+      "Rounded, mole-like body",
+      "Small, stubby limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Sociable"
+    ],
+    "habitat": "Desert",
+    "rarity": "Common",
+    "combat_style": "Burrowing and ambushing"
+  },
+  "image_path": "images/Dugtrio/3.png",
+  "pokemon_name": "Dugtrio"
+}

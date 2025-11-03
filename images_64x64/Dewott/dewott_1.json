@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles an agile and playful otter with a sleek blue body.",
+    "Imagine a Pokemon with unique shell armor and sharp claws, perfect for underwater battles.",
+    "Design a creature that is both playful and courageous, with bright colors and a sleek physique.",
+    "Show me a Pokemon that combines agility and grace, featuring aquatic traits and a friendly demeanor.",
+    "Generate a water-type Pokemon with distinctive facial markings and a strong connection to nature.",
+    "Make a Pokemon that thrives in forest habitats, showcasing vibrant blue colors and an energetic personality.",
+    "Give me a design for a Pokemon that excels in combat, featuring stylish aquatic adaptations and a confident stance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Gray",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Distinctive shell-like structure on the chest",
+      "Facial whiskers",
+      "Webbed hands",
+      "Sharp claws",
+      "Streamlined body shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Courageous",
+      "Agile"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Swift and tactical"
+  },
+  "image_path": "images/Dewott/1.png",
+  "pokemon_name": "Dewott"
+}

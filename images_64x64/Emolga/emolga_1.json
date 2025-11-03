@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a small, electric-type Pokemon with a fluffy tail and bright yellow accents.",
+    "I want a playful creature that can glide through the air, with a cheerful expression.",
+    "Generate a Pokemon that resembles a flying squirrel, showcasing vibrant colors and a friendly demeanor.",
+    "Make a cute, winged Pokemon featuring a combination of gray and yellow, perfect for forest habitats.",
+    "Imagine a Pokemon with distinct facial markings and a bushy tail, known for its agility.",
+    "Design a tiny electric-type creature that has a unique body shape and is always ready for adventure.",
+    "Show me a Pokemon that can harness the power of lightning, with adorable features and a fun personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Black",
+      "accent": "Yellow"
+    },
+    "body_shape": "Winged",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Fluffy tail",
+      "Pointed ears",
+      "Cheerful face",
+      "Gliding capabilities"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Flying",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Agile"
+  },
+  "image_path": "images/Emolga/1.png",
+  "pokemon_name": "Emolga"
+}

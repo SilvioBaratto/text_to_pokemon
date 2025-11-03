@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Generate a playful Normal-type Pokemon with a yellow head and brown body.",
+    "Create a small Pokemon that resembles a mongoose with distinctive features.",
+    "Imagine a cute, furry creature with a yellow tuft on its head and a long tail.",
+    "Design a Pokemon that thrives in urban areas and has a mischievous personality.",
+    "Show me a Pokemon that evolves from a basic form and has a unique color pattern.",
+    "Make a Pokemon that is known for its agility and playful nature in grasslands.",
+    "Give me a Normal-type Pokemon with a combination of brown and yellow colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long, curved tail",
+      "Yellow tuft on head",
+      "Pointed ears",
+      "Small sharp teeth",
+      "Short limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Mischievous"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Fast and agile"
+  },
+  "image_path": "images/Yungoos/1.png",
+  "pokemon_name": "Yungoos"
+}

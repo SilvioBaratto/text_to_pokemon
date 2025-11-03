@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bird Pokemon that has striking brown feathers and sharp red accents.",
+    "Imagine a flying-type Pokemon that embodies speed and agility with long wings.",
+    "Design a Pokemon that resembles a large bird of prey, known for its fierce personality.",
+    "Show me a Pokemon with a powerful beak and dominant presence in the sky.",
+    "Generate a majestic bird Pokemon that thrives in mountainous regions and open fields.",
+    "Give me a Pokemon that can soar through the skies effortlessly with its strong wings.",
+    "Make a Pokemon that is both a Normal and Flying type, showcasing a dynamic pose."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Long, pointed wings",
+      "Sharp, curved beak",
+      "Tail feathers that taper off",
+      "Red crest on the head",
+      "Strong legs with sharp talons"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Agile",
+      "Dominant"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Fearow/0.png",
+  "pokemon_name": "Fearow"
+}

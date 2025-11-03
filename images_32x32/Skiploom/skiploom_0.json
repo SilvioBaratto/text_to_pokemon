@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a playful Pokemon that embodies the spirit of spring with vibrant colors and floral features.",
+    "Imagine a small Pokemon that thrives in grassy areas, with a round, soft body and cheerful personality.",
+    "Design a Pokemon that combines elements of nature and whimsy, perfect for a forest setting.",
+    "Generate a Pokemon with a soothing green hue, featuring floral elements and a gentle demeanor.",
+    "Make a Pokemon that represents the beauty of flowers, with a unique shape and friendly expression.",
+    "Show me a Pokemon that floats gently in the air, adorned with petals and a bright smile.",
+    "Give me a Pokemon that loves sunny days and is often found in lush grassy fields."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body shape",
+      "Petal-like appendage on top",
+      "Large, expressive eyes",
+      "Soft, fluffy appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Friendly"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Skiploom/0.png",
+  "pokemon_name": "Skiploom"
+}

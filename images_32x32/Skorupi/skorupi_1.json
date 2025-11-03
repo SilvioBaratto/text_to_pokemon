@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a blue and black insect Pok\u00e9mon with sharp pincers and a segmented body.",
+    "Generate an image of a small Pok\u00e9mon that resembles a scorpion, with vibrant blue accents.",
+    "Show me a Pok\u00e9mon with a bug-like appearance and a fierce expression, featuring blue tones.",
+    "Imagine a Pok\u00e9mon that thrives in caves, showcasing a sleek, segmented body and sharp claws.",
+    "Design a Pok\u00e9mon that embodies the essence of a scorpion, with a mix of blue and dark colors.",
+    "Give me a visual concept of a Pok\u00e9mon with a tough exterior and a predatory look, primarily blue.",
+    "Make a cool Pok\u00e9mon that resembles an insect but has a scorpion-like tail and pincers."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": "Gray"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Pincers",
+      "Segmented body",
+      "Long tail",
+      "Sharp claws",
+      "Two large horns"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Predatory",
+      "Cautious",
+      "Aggressive"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Physical attacker"
+  },
+  "image_path": "images/Skorupi/1.png",
+  "pokemon_name": "Skorupi"
+}

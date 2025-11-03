@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with fluffy white fur and teal accents.",
+    "I want a dragon-like Pokemon that has a friendly disposition and unique features.",
+    "Generate a whimsical character that resembles a dragon and has a gentle appearance.",
+    "Make a Pokemon that embodies both dragon and normal types with soft colors.",
+    "Imagine a Pokemon that looks like a dragon but has a cuddly and approachable look.",
+    "Design a creature with a long body, unique colors, and a friendly expression.",
+    "Show me a Pokemon that combines elements of dragons and whimsical spirits."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": null,
+      "accent": "Yellow"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Fluffy body",
+      "Long neck",
+      "Big, friendly eyes",
+      "Curled tail",
+      "Teal crest"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Dragon",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Drampa/0.png",
+  "pokemon_name": "Drampa"
+}

@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a Pokemon that embodies the essence of a flower crown with vibrant colors and a cheerful demeanor.",
+    "Design a fairy-type Pokemon that resembles a floral wreath, showcasing a mix of bright red and yellow hues.",
+    "Imagine a whimsical Pokemon with a soft, circular shape, adorned with various flowers and a gentle personality.",
+    "Generate a tiny Pokemon that appears like a living bouquet, perfect for serene forest habitats.",
+    "Show me a charming Pokemon that resembles a floral arrangement, featuring pastel colors and a playful nature.",
+    "Make a Pokemon that looks like a circle of flowers, with a bright and friendly face, ideal for sunny meadows.",
+    "Give me a flower-themed Pokemon that radiates positivity, with a mix of pink, red, and green colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Red",
+      "Pink"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "White",
+      "accent": "Red"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Flower crown",
+      "Circular shape",
+      "Bright, cheerful colors",
+      "Soft texture",
+      "Delicate floral design"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Gentle",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Comfey/1.png",
+  "pokemon_name": "Comfey"
+}

@@ -1,0 +1,50 @@
+{
+  "prompts": [
+    "Create a mysterious Pokemon that resembles a letter with a black and white color scheme.",
+    "Imagine a unique Pokemon that can only be found in ancient ruins, shaped like a symbol.",
+    "Generate a ghostly Pokemon with an enigmatic aura, featuring circular patterns and dark colors.",
+    "Design a Pokemon that represents knowledge and secrets, with a minimalist style and simple shapes.",
+    "Show me a Pokemon made entirely of shadows, with a focus on its eye-catching central design.",
+    "Make a surreal Pokemon that embodies the concept of communication through symbols and letters.",
+    "I want a Pokemon that looks like a letter from the alphabet, blending into its surroundings."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Resembles a letter or symbol",
+      "Circular central design",
+      "Simple and minimalist appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Enigmatic",
+      "Curious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Unown/3.png",
+  "pokemon_name": "Unown"
+}

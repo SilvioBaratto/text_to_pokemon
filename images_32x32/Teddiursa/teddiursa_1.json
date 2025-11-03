@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a cute bear-like Pokemon that loves honey and is often found in forests.",
+    "Imagine a Normal-type Pokemon with a furry body and an adorable plush design.",
+    "Show me a Pokemon that resembles a teddy bear, with soft colors and a friendly demeanor.",
+    "Generate a small, cuddly Pokemon that enjoys playing in grasslands and has a playful personality.",
+    "Make a Pokemon that has a round face with a distinctive cream-colored patch on its forehead.",
+    "Design a friendly bear Pokemon that thrives in mountainous regions, with a calm and gentle nature.",
+    "Give me a Pokemon that is known for its sweetness and charm, often found near sweet treats."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large round ears",
+      "Soft plush-like body",
+      "Cream-colored patch on forehead",
+      "Small rounded paws",
+      "Big expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Gentle",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Teddiursa/1.png",
+  "pokemon_name": "Teddiursa"
+}

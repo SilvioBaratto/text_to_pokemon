@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon that embodies the power of storms with a blue and white color scheme.",
+    "Imagine an electric-type creature with a cloud-like body and a fierce expression, representing thunder.",
+    "Generate a legendary Pokemon with a serpentine body and wings, showcasing the beauty of nature.",
+    "Show me a Pokemon that controls lightning, featuring sharp claws and a striking color palette.",
+    "Design a powerful Electric/Flying Pokemon with elements resembling thunder and clouds in its appearance.",
+    "Make a Pokemon that looks like a storm cloud with electric energy, perfect for a thunderous battle.",
+    "Give me a legendary Pokemon that combines the elements of wind and electricity in a unique design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Purple",
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Cloud-like mane",
+      "Thunderbolt tail",
+      "Sharp claws",
+      "Large wings",
+      "Serpentine body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Flying",
+    "generation": 5,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Energetic",
+      "Proud"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Thundurus/1.png",
+  "pokemon_name": "Thundurus"
+}

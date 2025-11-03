@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a steel-type Pokemon with a sleek metallic body and glowing red eyes.",
+    "Imagine a small, robotic Pokemon that can fly and has a shiny silver surface.",
+    "Design a Pokemon that resembles a mechanical creature, with accents of yellow and black.",
+    "Generate a Pokemon that looks like a futuristic drone, perfect for urban environments.",
+    "Show me a Pokemon with a round, compact body and a unique ability to float.",
+    "Make a Pokemon that embodies the essence of technology, with a minimalist design.",
+    "Give me a vision of a Pokemon that can evolve into a powerful machine-like creature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Metallic body",
+      "Red eye",
+      "Rounded shape",
+      "Minimalistic design",
+      "Absence of limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Intelligent",
+      "Loyal"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Beldum/2.png",
+  "pokemon_name": "Beldum"
+}

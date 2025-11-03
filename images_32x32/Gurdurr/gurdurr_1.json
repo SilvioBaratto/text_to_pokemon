@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a sturdy fighting-type Pokemon that carries a large piece of wood.",
+    "I want a bipedal Pokemon with gray skin and pink accents for my game.",
+    "Generate a medium-sized Pokemon that looks muscular and has a unique stance.",
+    "Make a Pokemon that embodies strength and is often seen in urban environments.",
+    "Imagine a Pokemon that evolves from Timburr and has a distinct fighting style.",
+    "Design a Pokemon that showcases its power through its impressive physical build.",
+    "Show me a Pokemon that prefers mountainous habitats and is known for its resilience."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Muscular build",
+      "Holds a large wooden beam",
+      "Bipedal stance",
+      "Facial expression exuding confidence"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Strong",
+      "Determined",
+      "Hardworking"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Physical attacker"
+  },
+  "image_path": "images/Gurdurr/1.png",
+  "pokemon_name": "Gurdurr"
+}

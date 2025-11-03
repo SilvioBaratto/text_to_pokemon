@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that has a unique purple hue and spiky features.",
+    "Imagine a tiny creature with soft purple skin and large red eyes, perfect for a forest habitat.",
+    "Design a Pokemon that resembles a cocoon, embracing the colors purple and pink.",
+    "Generate a Pokemon with a round body shape and distinct spikes, ideally suited for grasslands.",
+    "Show me a bug-type Pokemon that is rare and has a whimsical personality.",
+    "Make a Pokemon that evolves into a beautiful butterfly, starting as a small, spiky form.",
+    "Give me a creature that thrives in urban areas, showcasing vibrant purple and red colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Spiky protrusions",
+      "Large red eyes",
+      "Round body shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Cautious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Cascoon/1.png",
+  "pokemon_name": "Cascoon"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a steel-type Pokemon with magnet-like features and a metallic body.",
+    "Imagine a Pokemon that evolves from Magnemite into a powerful magnet creature.",
+    "Design a unique Pokemon that can control electricity and has a round shape.",
+    "Show me a Pokemon that has three spherical bodies connected by metal.",
+    "Generate a creature that embodies both Electric and Steel types with a sleek look.",
+    "Make a Pokemon that thrives in urban environments and has a futuristic design.",
+    "Give me a Pokemon with a magnetic personality and a knack for technology."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Red",
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Three spherical bodies",
+      "Magnet-like appendages",
+      "Electric sparks or auras"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Steel",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Curious",
+      "Sociable"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Magneton/0.png",
+  "pokemon_name": "Magneton"
+}

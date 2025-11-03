@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bird-like Pokemon with three heads, showcasing vibrant orange and brown feathers.",
+    "I want a Pokemon that can sprint across grasslands, featuring striking orange plumage and three beaks.",
+    "Generate a Normal-type Pokemon with a sleek body shape, known for its speed and agility.",
+    "Make a Pokemon that thrives in urban environments, with unique traits like multiple heads and bright colors.",
+    "Imagine a Pokemon that can fly and run fast, characterized by its orange and brown color scheme.",
+    "Design a Pokemon with three heads that can quickly adapt to various habitats, including forests and grasslands.",
+    "Show me a Pokemon that embodies speed and teamwork, featuring an eye-catching orange and pink design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Brown",
+      "accent": "Pink"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Three heads",
+      "Long legs",
+      "Feathered body",
+      "Unique beak shapes",
+      "Tail with pink accents"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Loyal",
+      "Playful"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Fast Attacker"
+  },
+  "image_path": "images/Dodrio/3.png",
+  "pokemon_name": "Dodrio"
+}

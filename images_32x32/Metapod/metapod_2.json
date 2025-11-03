@@ -1,0 +1,50 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that resembles a cocoon with a shiny green exterior.",
+    "Generate a Pokemon that is in a transition stage between a caterpillar and a butterfly.",
+    "Show me a Pokemon with a hard shell, primarily green, that is preparing for its next evolution.",
+    "Design a Pokemon that has a smooth, rounded shape and a protective outer layer.",
+    "Imagine a Pokemon that looks like a metamorphosing insect, showcasing shades of green.",
+    "Give me a visual of a bug-type Pokemon that is camouflaged in its forest habitat.",
+    "Make a Pokemon that has a sleek cocoon-like form, hinting at its future beauty."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Cocoon shape",
+      "Smooth surface",
+      "Single eye visible",
+      "Rounded edges"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Patient",
+      "Defensive"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Metapod/2.png",
+  "pokemon_name": "Metapod"
+}

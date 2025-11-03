@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with sharp teeth and a vibrant color scheme.",
+    "I want a fish Pokemon that has a fierce look and bright colors.",
+    "Generate an aquatic creature that boasts both blue and red hues.",
+    "Make a Pokemon that resembles a shark with striking features and a bold design.",
+    "Imagine a Pokemon that can thrive in both the ocean and urban environments.",
+    "Design a Pokemon with spiky fins and a playful yet aggressive demeanor.",
+    "Show me a Pokemon that embodies the essence of water and has a unique shape."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Sharp teeth",
+      "Spiky fins",
+      "Vibrant color contrast",
+      "Streamlined body shape",
+      "Prominent eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Dark",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Playful"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Fast and offensive"
+  },
+  "image_path": "images/Carvanha/1.png",
+  "pokemon_name": "Carvanha"
+}

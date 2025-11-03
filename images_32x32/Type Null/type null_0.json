@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a creature with an armored body and a mask-like face.",
+    "I want a unique hybrid Pokemon that combines features of a dragon and a wolf.",
+    "Generate an unusual Pokemon that appears to be both mechanical and organic in design.",
+    "Make a Pokemon that embodies the essence of stealth, with muted colors and sharp features.",
+    "Imagine a Pokemon that has a blend of animalistic and robotic characteristics, perfect for espionage.",
+    "Design a creature that has a combination of elegant and fierce traits, with a striking color palette.",
+    "Show me a Pokemon that thrives in diverse environments, blending into both urban and natural settings."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Brown",
+      "accent": "Blue"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Armor-like plating on the body",
+      "Mask-like face structure",
+      "Distinctive large ears",
+      "Tail resembling a scorpion's stinger",
+      "Multiple limbs with clawed feet"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cautious",
+      "Curious",
+      "Loyal"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Type Null/0.png",
+  "pokemon_name": "Type Null"
+}

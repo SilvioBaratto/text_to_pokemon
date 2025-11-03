@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a turtle-like Pokemon with a green leafy back and a sturdy yellow shell.",
+    "I want a Pokemon that resembles a small dinosaur with a green body and tree-like features.",
+    "Generate an image of a nature-themed Pokemon that thrives in forest environments.",
+    "Make a Pokemon that combines elements of a turtle and a tree for a unique design.",
+    "Imagine a sturdy, green Pokemon that can blend into grassy habitats effortlessly.",
+    "Design a Pokemon that embodies the essence of earth and nature with vibrant colors.",
+    "Show me a Pokemon that has a strong connection to nature and a playful personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Yellow",
+      "accent": "Brown"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Leafy green foliage on the back",
+      "Thick yellow shell",
+      "Robust limbs",
+      "Short tail",
+      "Brown markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Ground",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Protective"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Grotle/1.png",
+  "pokemon_name": "Grotle"
+}

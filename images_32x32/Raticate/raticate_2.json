@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a small, furry Pokemon that has a bushy tail and sharp teeth.",
+    "Imagine a Pokemon that thrives in urban environments and is known for its speed.",
+    "Design a Normal-type Pokemon with a round body and an orange color scheme.",
+    "Generate a creature that has distinctive whiskers and a playful personality.",
+    "Show me a Pokemon that excels in surprise attacks and has a mischievous nature.",
+    "Give me a speedy Pokemon that can easily navigate through grasslands and forests.",
+    "Make a Pokemon that has a unique blend of orange and white colors with a sleek appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "White"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Brown",
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long whiskers",
+      "Bushy tail",
+      "Sharp teeth",
+      "Round ears",
+      "Small paws"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Quick"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Speed and surprise attacks"
+  },
+  "image_path": "images/Raticate/2.png",
+  "pokemon_name": "Raticate"
+}

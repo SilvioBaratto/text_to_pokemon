@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that embodies mystery with a dark color palette and elegant features.",
+    "I want a psychic Pokemon with a humanoid shape and a striking black dress that captivates onlookers.",
+    "Generate a dual-type Pokemon that blends ghostly elegance with a touch of supernatural charm.",
+    "Make a Pokemon that stands tall and proud in a flowing gown, with unique hair resembling a starry night.",
+    "Imagine a psychic Pokemon adorned with bows and a mysterious aura that it uses to hypnotize its opponents.",
+    "Design a spooky yet stylish Pokemon that is both elegant and intimidating, perfect for a ghostly theme.",
+    "Give me a Pokemon that combines elements of elegance and haunting beauty, with a focus on dark and psychic powers."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [
+      "Gray",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "White",
+      "accent": "Gray"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long flowing dress",
+      "Black hair with large spiky elements",
+      "Bow ties on the dress",
+      "Red eyes",
+      "Elegant posture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Ghost",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Elegant",
+      "Confident"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Defensive and strategic"
+  },
+  "image_path": "images/Gothitelle/1.png",
+  "pokemon_name": "Gothitelle"
+}

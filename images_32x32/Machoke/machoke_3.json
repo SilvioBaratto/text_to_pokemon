@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a muscular Pokemon with a strong stance and defined muscles, perfect for a fighting-type.",
+    "I want a Pokemon that looks tough and can take on any opponent with its powerful physique.",
+    "Generate an image of an agile fighter Pokemon that is both intimidating and impressive.",
+    "Make a Pokemon that embodies strength, with detailed features highlighting its combat abilities.",
+    "Imagine a Pokemon that stands confidently with flexed muscles, ready for a battle.",
+    "Design a Pokemon that showcases its fighting spirit through its bold colors and stance.",
+    "Show me a Pokemon that represents raw power and athleticism, ideal for a bipedal fighter."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Red",
+      "accent": "Blue"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Defined muscles",
+      "Belt with a yellow emblem",
+      "Red markings on arms",
+      "Short, spiky hair",
+      "Strong posture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Confident",
+      "Determined",
+      "Brave"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Common",
+    "combat_style": "Close-range fighter"
+  },
+  "image_path": "images/Machoke/3.png",
+  "pokemon_name": "Machoke"
+}

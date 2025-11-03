@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a fish and has bright orange and white colors.",
+    "Imagine a playful aquatic creature with a floppy body and vibrant patterns swimming in the ocean.",
+    "Design a small, weak Pokemon that evolves into a powerful fish with an epic transformation.",
+    "Generate a Pokemon that embodies a lazy but lovable personality, with a distinctive fin structure.",
+    "Show me a basic water-type Pokemon that has a unique color pattern and a cheerful demeanor.",
+    "Make a Pokemon that is known for its clumsy behavior and bright, eye-catching colors.",
+    "Give me a whimsical fish Pokemon that thrives in both urban and natural water environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "White"
+    ],
+    "secondary_colors": [
+      "Yellow",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Floppy body",
+      "Distinctive fins",
+      "Large, bulging eyes",
+      "Scales with vibrant color patterns"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Clumsy",
+      "Playful",
+      "Loyal"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Weak and defensive"
+  },
+  "image_path": "images/Magikarp/1.png",
+  "pokemon_name": "Magikarp"
+}

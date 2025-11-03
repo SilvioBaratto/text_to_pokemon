@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a flying-type Pokemon with gray feathers and a striking yellow beak.",
+    "Design a bird-like Pokemon that has a sleek body and distinctive wing patterns.",
+    "Generate a Pokemon that resembles a dove, with a calm demeanor and gentle colors.",
+    "Imagine a Pokemon that can soar high in the sky and has a powerful wing flap.",
+    "Make a Pokemon that embodies grace in flight, featuring elegant plumage and bright eyes.",
+    "Show me a Pokemon with a mix of gray and white colors, perfect for blending into urban environments.",
+    "Give me a design for a Pokemon that has a serene personality and loves to explore forested areas."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "White"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Yellow",
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Gray feathers",
+      "Long wings",
+      "Yellow beak",
+      "White underbelly",
+      "Expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Gentle",
+      "Curious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Tranquill/1.png",
+  "pokemon_name": "Tranquill"
+}

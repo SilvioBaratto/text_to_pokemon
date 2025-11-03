@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a chameleon-inspired Pokemon that can change colors based on its environment.",
+    "I want a unique Pokemon that blends into its surroundings, showcasing vibrant patterns.",
+    "Generate a Pokemon with a lizard-like appearance and a bright yellow crest on its head.",
+    "Make a Pokemon that resembles a reptile but has colorful, changing skin tones.",
+    "Imagine a playful Pokemon that uses camouflage to hide in forests and grasslands.",
+    "Design a Pokemon that has a spiraled tail and a quirky, colorful personality.",
+    "Show me a Pokemon that has the ability to adapt its colors to different habitats."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Color-changing ability",
+      "Spiraled tail",
+      "Bright yellow crest",
+      "Red markings on the body",
+      "Lizard-like face"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Adaptive"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Camouflage and ambush"
+  },
+  "image_path": "images/Kecleon/1.png",
+  "pokemon_name": "Kecleon"
+}

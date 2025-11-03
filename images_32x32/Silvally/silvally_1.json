@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a powerful Pokemon that can adapt to various environments and has a sleek design.",
+    "I want an electric-type Pokemon with striking blue patterns and a dynamic pose.",
+    "Generate a mythical creature resembling a wolf with unique elemental abilities and a majestic appearance.",
+    "Make a Pokemon that embodies the spirit of nature, featuring vibrant colors and a gentle demeanor.",
+    "Imagine a legendary Pokemon with a combination of fierce and elegant traits, perfect for epic battles.",
+    "Design a creature that represents harmony, blending multiple colors and showcasing its strength in combat.",
+    "Show me a Pokemon that can change its type and has a mysterious aura, captivating all who see it."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Black",
+      "accent": "Blue"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Four distinctive appendages resembling wings",
+      "Unique crest on the head",
+      "Armor-like body segments",
+      "Red facial markings",
+      "Tail with a fin-like extension"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Steel",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Protective",
+      "Adaptable",
+      "Strategic"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Versatile and tactical"
+  },
+  "image_path": "images/Silvally/1.png",
+  "pokemon_name": "Silvally"
+}

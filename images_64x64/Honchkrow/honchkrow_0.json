@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a Dark/Flying-type Pokemon that combines a menacing look with a stylish hat.",
+    "Generate a Pokemon resembling a big crow with a striking blue and red color scheme.",
+    "Imagine a Pokemon that embodies the essence of a boss bird, complete with a cape.",
+    "Show me a regal-looking avian Pokemon that commands the skies with its presence.",
+    "Design a tough-looking Pokemon inspired by a crow, with unique feathers and a powerful stance.",
+    "Give me a Pokemon that has a dark, mysterious aura and a flamboyant appearance.",
+    "Make a Pokemon that looks like it rules the flock with an air of authority."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Blue",
+      "accent": "Red"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large wings",
+      "Top hat",
+      "Red feather accents",
+      "Yellow beak",
+      "White belly"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": "Flying",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Charismatic",
+      "Dominant"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Honchkrow/0.png",
+  "pokemon_name": "Honchkrow"
+}

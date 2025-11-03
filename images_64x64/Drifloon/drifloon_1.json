@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that floats with a spooky aura and playful demeanor.",
+    "Imagine a balloon-like creature with hauntingly beautiful eyes and whimsical colors.",
+    "Show me a Pokemon inspired by a spooky cloud, with a mix of purple and white.",
+    "Design a creature that represents the spirit of the winds, with floating elements.",
+    "Generate a cute ghost Pokemon with a soft, fluffy top and mischievous personality.",
+    "Make a Pokemon that resembles a playful balloon, perfect for pranks and fun.",
+    "Give me a whimsical ghost Pokemon that embodies the essence of drifting clouds."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "White",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Balloon-like body",
+      "Fluffy cloud top",
+      "String-like appendages",
+      "Large expressive eyes",
+      "Mischievous smile"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Flying",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Friendly"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Drifloon/1.png",
+  "pokemon_name": "Drifloon"
+}

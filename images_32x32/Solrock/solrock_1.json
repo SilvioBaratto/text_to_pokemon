@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a sun-themed Pokemon with bright orange and gold colors, resembling a celestial body.",
+    "I want a Pokemon that embodies the energy of the sun, with spiky rays and a vibrant face.",
+    "Generate an otherworldly creature that glows like a star, featuring an orange body and radiating light.",
+    "Make a Pokemon that looks like a shining sun, with a round shape and sharp, star-like protrusions.",
+    "Imagine a mystical Pokemon inspired by solar energy, showcasing a bright orange core and golden accents.",
+    "Design a sun-like Pokemon that has a fierce yet friendly expression, surrounded by golden spikes.",
+    "Show me a Pokemon that represents the sun, with an orange body and a star-like appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Star-like shape",
+      "Radiating spikes",
+      "Bright central orb",
+      "Facial features resembling eyes",
+      "Color gradient from orange to yellow"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Rock",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Radiant",
+      "Energetic",
+      "Mysterious"
+    ],
+    "habitat": "Desert",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Solrock/1.png",
+  "pokemon_name": "Solrock"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a majestic fire-type Pokemon with flowing flames and a beautiful mane.",
+    "I want a Pokemon that resembles a horse with vibrant orange and yellow colors.",
+    "Generate a mythical creature that gallops through flames, showcasing its fiery spirit.",
+    "Make a Pokemon design that captures the essence of a wild, flame-covered horse.",
+    "Imagine a powerful fire-type Pokemon with a sleek body and a radiant mane.",
+    "Design a Pokemon that embodies speed and grace, with a fiery finish.",
+    "Show me a Pokemon that thrives in grasslands, with bright colors and a dynamic pose."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Orange"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": null,
+      "accent": "Orange"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flame-like mane",
+      "Hooves that appear to be lit",
+      "Sleek, equine body",
+      "Bright coloration",
+      "Expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Passionate",
+      "Loyal"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Fast and agile"
+  },
+  "image_path": "images/Ponyta/4.png",
+  "pokemon_name": "Ponyta"
+}

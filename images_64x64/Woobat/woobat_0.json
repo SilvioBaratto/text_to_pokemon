@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a cute bat-like Pokemon that can fly and has a blue body with fluffy features.",
+    "Imagine a psychic-type Pokemon with a unique shape, featuring large ears and a friendly demeanor.",
+    "Generate a small, winged Pokemon resembling a bat, with a color palette of light blue and gray.",
+    "Show me a whimsical Pokemon with big ears and a round body, perfect for a forest habitat.",
+    "Design a playful Pokemon that uses echolocation, featuring a fluffy texture and large expressive eyes.",
+    "Make a creature that embodies both flying and psychic types, with a color scheme of icy blue.",
+    "I want to see a Pokemon that thrives in caves, with distinct bat-like wings and an adorable face."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": "Gray"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy body",
+      "Large ears",
+      "Bat-like wings",
+      "Heart-shaped nose",
+      "Round body shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Flying",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Cave",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Woobat/0.png",
+  "pokemon_name": "Woobat"
+}

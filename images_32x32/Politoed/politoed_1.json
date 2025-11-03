@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a small frog with vibrant colors and playful traits.",
+    "I want to see a Pokemon inspired by a toad that has a cheerful demeanor and loves to swim.",
+    "Generate an image of a frog-like Pokemon with a round body and unique spiral patterns on its belly.",
+    "Make a design for a charming amphibious Pokemon that enjoys rain and has a bright green appearance.",
+    "Imagine a playful water Pokemon with large eyes and a whimsical antenna, perfect for a fairy tale setting.",
+    "Show me a frog Pokemon that is both cute and powerful, emphasizing its aquatic abilities and friendly nature.",
+    "Design a Pokemon that combines the features of a toad and a playful spirit, with a lively color scheme."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": null,
+      "accent": "Yellow"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Spiral pattern on the belly",
+      "Large expressive eyes",
+      "Short limbs",
+      "Antennas on the head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Friendly"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Politoed/1.png",
+  "pokemon_name": "Politoed"
+}

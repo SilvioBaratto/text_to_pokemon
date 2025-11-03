@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon with swirling purple energy and glowing green accents.",
+    "Imagine a spooky Pokemon made of shadows and fog, with eerie eyes peeking out.",
+    "Design a unique creature that embodies the essence of spirits and energy fields.",
+    "Show me a playful ghost Pokemon with a mischievous grin and a fluffy appearance.",
+    "Generate a Pokemon that resembles a haunted tree with glowing orbs floating around it.",
+    "Make a whimsical spirit Pokemon that blends colors of pink and green with a fluffy texture.",
+    "Give me an ethereal creature that has a haunting presence and a friendly disposition."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy appearance",
+      "Glowing green orbs",
+      "Mysterious face",
+      "Swirling mist-like body",
+      "Symmetrical design"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Dark",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Ethereal",
+      "Friendly"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Trickster"
+  },
+  "image_path": "images/Spiritomb/0.png",
+  "pokemon_name": "Spiritomb"
+}

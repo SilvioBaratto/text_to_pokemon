@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with flowing tentacles and a mystical appearance.",
+    "Imagine a ghostly jellyfish Pokemon that haunts the depths of the ocean.",
+    "Design a Pokemon that resembles a jellyfish but has a fierce battle style.",
+    "Show me an ethereal aquatic creature that glows in the dark underwater.",
+    "Generate a whimsical Pokemon with soft, pastel colors and a gentle demeanor.",
+    "Make a unique Pokemon that combines jellyfish characteristics with ghostly traits.",
+    "Give me a cute yet eerie Pokemon that floats gracefully through the water."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Purple",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Tentacle-like appendages",
+      "Translucent body",
+      "Face with red markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Water",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Playful",
+      "Calm"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Jellicent/2.png",
+  "pokemon_name": "Jellicent"
+}

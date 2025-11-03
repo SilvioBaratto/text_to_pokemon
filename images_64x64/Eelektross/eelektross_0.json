@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with blue scales and a lightning bolt tail.",
+    "I want a flying-type Pokemon that has vibrant yellow feathers and a sharp beak.",
+    "Generate an electric-type Pokemon resembling a serpent with glowing patterns.",
+    "Make a dragon-type Pokemon that features a massive wingspan and fiery breath.",
+    "Imagine a mythical creature that glows in the dark and can control electricity.",
+    "Design a Pokemon that can camouflage in urban environments with a sleek body.",
+    "Show me a fierce ground-type Pokemon that has rocky armor and sharp claws."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": "Yellow"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Long, snake-like body",
+      "Electricity-generating organs",
+      "Glowing yellow patterns",
+      "Finned appendages",
+      "Sharp teeth"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Adaptable",
+      "Playful"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Eelektross/0.png",
+  "pokemon_name": "Eelektross"
+}

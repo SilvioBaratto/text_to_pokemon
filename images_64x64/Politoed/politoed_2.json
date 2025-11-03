@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a friendly frog with vibrant green skin.",
+    "I want a playful amphibian Pokemon that has a unique spiral pattern on its back.",
+    "Generate a Pokemon design featuring a cheerful creature with large expressive eyes and a big smile.",
+    "Make a water Pokemon that can thrive in both urban areas and wetlands, showcasing lively colors.",
+    "Imagine a cute, small frog Pokemon with distinctive yellow spots and a curly antenna.",
+    "Design a Pokemon that has a unique body shape, combining elements of frogs and toads with a whimsical twist.",
+    "Give me an adorable Pokemon that can sing and attract other Pokemon with its charming calls."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Yellow",
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Yellow",
+      "accent": "Blue"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Curly antenna on the head",
+      "Large mouth",
+      "Spiral pattern on the body",
+      "Bright yellow spots on limbs",
+      "Webbed feet"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Sociable"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Politoed/2.png",
+  "pokemon_name": "Politoed"
+}

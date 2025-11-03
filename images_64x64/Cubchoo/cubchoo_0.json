@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create an adorable ice-type Pokemon with a playful demeanor and a fluffy appearance.",
+    "Generate a Pokemon that resembles a little bear, primarily blue, with a snowy theme.",
+    "Design a cute, small Pokemon that enjoys playing in icy environments and loves snow.",
+    "Imagine a Pokemon that has a cute appearance with icy features and a friendly personality.",
+    "Show me a tiny ice-type Pokemon that looks like a baby bear and loves snowy areas.",
+    "Make a cartoonish Pokemon with blue fur and a playful attitude, perfect for snowy regions.",
+    "Give me a description of a lovable blue Pokemon that thrives in cold habitats and has a snowy vibe."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Small snowflake-like nose",
+      "Fluffy white underside",
+      "Large ears resembling a bear",
+      "Ice crystal patterns on the body",
+      "Paw-like feet"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Tundra",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Cubchoo/0.png",
+  "pokemon_name": "Cubchoo"
+}

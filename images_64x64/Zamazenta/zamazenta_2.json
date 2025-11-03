@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a legendary Pokemon that embodies strength and valor, with a majestic appearance.",
+    "Imagine a bipedal creature with a blue and gold color scheme, showcasing its protective nature.",
+    "Design a mythical Pokemon inspired by ancient warriors, featuring armor-like traits and a fierce demeanor.",
+    "Show me a Pokemon that represents defense and bravery, with vibrant colors and a sturdy build.",
+    "Make a creature that has both elegance and power, with intricate designs on its body.",
+    "Generate a Pokemon that is known for its loyalty and bravery, with distinct features and colors.",
+    "Give me an image of a Pokemon that stands tall and proud, radiating strength and courage."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large shield-like front",
+      "Gold armor plating",
+      "Prominent canine-like appearance",
+      "Mane resembling a lion's",
+      "Strong muscular build"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Fighting",
+    "generation": 8,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Brave",
+      "Protective",
+      "Loyal"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Zamazenta/2.png",
+  "pokemon_name": "Zamazenta"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon with vibrant purple skin and yellow spikes on its head.",
+    "Show me a bipedal Pokemon that combines elements of rock and electric types in its design.",
+    "Generate a character that embodies the spirit of a lively and mischievous electric Pokemon.",
+    "Imagine a dual-type Pokemon that thrives in urban environments with a unique punk rock aesthetic.",
+    "Make a Pokemon with a fierce appearance, showcasing bright colors and a dynamic pose.",
+    "Design a quirky Pokemon that has a musical theme, incorporating electric elements in its design.",
+    "Give me an electric Pokemon that has a playful but slightly rebellious personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Black",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Spiky yellow crest on head",
+      "Electric blue markings",
+      "Long limbs",
+      "Sharp claws",
+      "Muscular build"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Poison",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Rebellious",
+      "Energetic"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Toxtricity/1.png",
+  "pokemon_name": "Toxtricity"
+}

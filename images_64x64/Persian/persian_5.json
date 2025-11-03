@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a sleek, feline Pokemon with luxurious fur and piercing eyes.",
+    "Generate a Normal-type Pokemon that embodies elegance and grace.",
+    "Show me a cat-like creature with a shiny coat and a mischievous personality.",
+    "Imagine a Pokemon with a gentle demeanor that thrives in urban environments.",
+    "Design a Pokemon that resembles a Persian cat but has unique color patterns.",
+    "Give me a creative twist on a classic Pokemon, keeping its elegant features.",
+    "Make a representation of a Pokemon that is both friendly and cunning."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Gray",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Pointed ears",
+      "Long tail",
+      "Elegant posture",
+      "Blue jewel on the forehead"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Independent",
+      "Affectionate"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Balanced"
+  },
+  "image_path": "images/Persian/5.png",
+  "pokemon_name": "Persian"
+}

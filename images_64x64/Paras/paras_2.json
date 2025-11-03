@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with a vibrant orange body and mushroom accents.",
+    "Imagine a small, forest-dwelling Pokemon that has a playful personality and crab-like features.",
+    "Show me a Pokemon that blends in with its forest environment, featuring orange and yellow colors.",
+    "Design a tiny Pokemon that has a unique dual-type combination and charming appearance.",
+    "Generate a Pokemon that resembles a small insect with bright colors and distinctively shaped body parts.",
+    "Make a Pokemon that thrives in grasslands, showcasing its adorable features and vibrant color palette.",
+    "Give me an image of a Pokemon that has a cute yet mischievous look, perfect for a forest habitat."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Two mushroom caps on its back",
+      "Crab-like pincers",
+      "Large, expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Grass",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Mischievous"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Status disruptor"
+  },
+  "image_path": "images/Paras/2.png",
+  "pokemon_name": "Paras"
+}

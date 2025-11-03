@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a gentle giant with vibrant flowers growing on it.",
+    "I want a grass-type Pokemon that looks like a giant plant with a friendly face.",
+    "Generate a Pokemon inspired by a lush garden with soft green hues and floral accents.",
+    "Make a whimsical Pokemon that embodies tranquility and nature with a floral design.",
+    "Imagine a healing Pokemon that blends seamlessly with its green surroundings, exuding kindness.",
+    "Design a Pokemon that has a round body, a flower on its back, and a serene expression.",
+    "Show me a creature that represents growth and harmony, with a lush green appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flower on back",
+      "Long neck",
+      "Gentle expression",
+      "Leafy appendages",
+      "Rounded body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Caring",
+      "Nurturing"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Meganium/0.png",
+  "pokemon_name": "Meganium"
+}

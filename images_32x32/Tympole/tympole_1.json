@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a cute face and large ears that looks like it loves music.",
+    "Design a small, round Pokemon that enjoys swimming and has a playful personality.",
+    "Imagine a Pokemon that is primarily blue with a cheerful expression, perfect for a children's game.",
+    "Generate a Pokemon that has headphones and is inspired by aquatic creatures, showcasing a fun vibe.",
+    "Show me a tiny Pokemon that thrives in wetland habitats and has a unique sound-based ability.",
+    "Make a Pokemon that combines a frog-like appearance with bright colors and large expressive eyes.",
+    "Give me a design of a Pokemon that loves to play in the water and has adorable features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": "Black"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large, floppy ears resembling headphones",
+      "Smiling face",
+      "Round, pudgy body",
+      "Bright, cheerful colors"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Friendly"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Tympole/1.png",
+  "pokemon_name": "Tympole"
+}

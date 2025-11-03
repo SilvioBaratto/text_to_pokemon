@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with slimy, purple skin and large, green eyes.",
+    "I want a Pokemon that resembles a slug, featuring soft curves and delicate antennae.",
+    "Generate a creature with pastel colors and a unique, serpentine body shape.",
+    "Make a cute, friendly Pokemon that thrives in forest and cave environments.",
+    "Imagine a small, purple creature with a shiny, smooth exterior and gentle demeanor.",
+    "Design a Pokemon that showcases a blend of dragon and slime characteristics.",
+    "Show me a Pokemon with large expressive eyes and a tranquil personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Slimy body",
+      "Long antennae",
+      "Large, round eyes",
+      "Gentle curves",
+      "Smooth texture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Water",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Friendly",
+      "Tranquil"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Sliggoo/0.png",
+  "pokemon_name": "Sliggoo"
+}

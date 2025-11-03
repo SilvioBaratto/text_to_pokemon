@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a quirky water-type Pokemon that has a round body and a confused expression.",
+    "I want a playful yellow Pokemon that loves to splash around in lakes and rivers.",
+    "Generate a character design for a duck-like Pokemon that often appears in urban areas.",
+    "Make a small, adorable Pokemon with a tendency to get lost and cause mischief.",
+    "Imagine a Pokemon with a round shape and a sleek, yellow body that seems to be always puzzled.",
+    "Design a water-type Pokemon that has a unique ability to cause confusion in battles.",
+    "Give me a fun and friendly Pokemon that thrives in forests and wetlands."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body",
+      "Webbed hands",
+      "Large eyes",
+      "Duck-like bill",
+      "Small tuft of hair on head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Confused",
+      "Playful",
+      "Timid"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Psyduck/1.png",
+  "pokemon_name": "Psyduck"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a cute, small Pokemon with brown fur and large ears, exploring a vibrant forest.",
+    "Imagine a playful creature with a round belly and fluffy tail, perfect for a grassland adventure.",
+    "Design a Pokemon that resembles a small mammal, with a keen sense of smell and bright eyes.",
+    "Generate a Pokemon that is great for urban environments, known for its agility and curiosity.",
+    "Show me a friendly little creature with a unique striped pattern and a knack for finding hidden treasures.",
+    "Make a tiny Pokemon that loves to play hide and seek among the leaves and branches.",
+    "Give me a small, energetic Pokemon that thrives in mountains and has a love for climbing."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large ears",
+      "Round belly",
+      "Striped tail",
+      "Small limbs",
+      "Bright eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Quick and evasive"
+  },
+  "image_path": "images/Sentret/0.png",
+  "pokemon_name": "Sentret"
+}

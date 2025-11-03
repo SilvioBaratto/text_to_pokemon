@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with sharp black features and glowing accents.",
+    "I want a legendary Pokemon that embodies light and darkness with intricate designs.",
+    "Generate a humanoid Pokemon with long limbs and a sleek silhouette in shades of black.",
+    "Make a mythical creature with an enigmatic aura and a combination of shadowy elements.",
+    "Imagine a powerful Pokemon with a unique body shape that represents both strength and mystery.",
+    "Design a ghostly figure that blends into its surroundings and has striking contrasting colors.",
+    "Give me a Pokemon that stands out in battles with its towering presence and radiant features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Long arms with claw-like hands",
+      "Angular head with sharp features",
+      "Spiky protrusions on the body",
+      "Glowing white accents",
+      "Tall and imposing stature"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Steel",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Intelligent",
+      "Determined"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Necrozma/0.png",
+  "pokemon_name": "Necrozma"
+}

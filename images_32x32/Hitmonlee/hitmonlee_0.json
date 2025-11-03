@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a fighting-type Pokemon with a muscular build and dynamic pose.",
+    "I want a Pokemon that specializes in powerful kicks and acrobatic moves.",
+    "Generate an image of a humanoid Pokemon with long legs and a determined expression.",
+    "Make a Pokemon that embodies agility and strength with a unique fighting style.",
+    "Imagine a Pokemon that trains in various terrains to enhance its kicking abilities.",
+    "Design a Pokemon with a focus on martial arts, showcasing its combat stance.",
+    "Show me a bipedal Pokemon with a sleek body and impressive leg muscles."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long legs",
+      "Muscular physique",
+      "Flexible body",
+      "Kick stance",
+      "Bean-like head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Disciplined",
+      "Competitive"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Close combat"
+  },
+  "image_path": "images/Hitmonlee/0.png",
+  "pokemon_name": "Hitmonlee"
+}

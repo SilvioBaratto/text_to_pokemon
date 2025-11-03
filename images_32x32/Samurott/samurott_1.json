@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a strong presence and majestic features like a knight.",
+    "Show me a Pokemon that embodies the spirit of the ocean with a powerful tail and sharp claws.",
+    "Imagine a Pokemon that resembles a samurai, complete with armor and a determined expression.",
+    "Generate a sleek, blue aquatic Pokemon with a regal appearance and unique horn-like features.",
+    "Make a formidable water-type Pokemon that stands tall and commands respect in battle.",
+    "Design a Pokemon that blends elegance and strength, featuring a distinctive flowing mane.",
+    "Give me a powerful Pokemon that looks ready for battle with a fierce gaze and sharp fins."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large, prominent horn on the head",
+      "Armor-like plating",
+      "Powerful tail",
+      "Flowing mane",
+      "Sharp claws"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Brave",
+      "Noble",
+      "Determined"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Samurott/1.png",
+  "pokemon_name": "Samurott"
+}

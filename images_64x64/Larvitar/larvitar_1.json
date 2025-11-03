@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon with a rugged body and sharp features.",
+    "I want a green Pokemon that looks like a small dinosaur with a tough exterior.",
+    "Generate a bipedal creature that has a unique blend of earthy tones and fierce eyes.",
+    "Make a Pokemon that evolves into a powerful beast, showcasing strength and resilience.",
+    "Imagine a creature that thrives in mountainous terrains, with a sturdy build and defensive skills.",
+    "Design a Pokemon that embodies the spirit of nature, with vibrant colors and distinct markings.",
+    "Give me a small, fierce Pokemon with an adventurous personality and a rocky appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Rocky back",
+      "Pointed ears",
+      "Red eyes",
+      "Small arms",
+      "Sturdy legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Ground",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Determined",
+      "Protective"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Larvitar/1.png",
+  "pokemon_name": "Larvitar"
+}

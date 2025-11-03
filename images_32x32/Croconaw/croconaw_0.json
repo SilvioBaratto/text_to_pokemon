@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a strong jaw and a playful demeanor.",
+    "I want a blue aquatic creature that has a spiky dorsal fin and loves to swim.",
+    "Generate a Pokemon that resembles a crocodile, has a cheerful expression, and is great at swimming.",
+    "Make a Pokemon with a turquoise body and bright red spikes that enjoys playing in the water.",
+    "Imagine a medium-sized Pokemon with a friendly personality and a love for wetland habitats.",
+    "Design a Pokemon that combines features of both a crocodile and a playful child.",
+    "Show me a Pokemon that has a blue body, yellow belly, and a strong connection to aquatic environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": "Red"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Spiky red dorsal fin",
+      "Yellow underbelly",
+      "Large jaws",
+      "Short limbs",
+      "Playful expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Close-range attacker"
+  },
+  "image_path": "images/Croconaw/0.png",
+  "pokemon_name": "Croconaw"
+}

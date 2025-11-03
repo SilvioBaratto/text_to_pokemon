@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a tiny flying Pokemon with vibrant yellow wings and a playful personality.",
+    "Design a bug-type Pokemon that resembles a bee, with fuzzy brown and yellow fur.",
+    "Show me a whimsical Pokemon that flutters gracefully through flower-filled meadows.",
+    "Generate a fairy-type creature that has delicate wings and a cute, round face.",
+    "Imagine a Pokemon that thrives in sunny forests, with a knack for collecting pollen.",
+    "Make a cheerful insect-like Pokemon that loves to dance among the flowers.",
+    "Give me a small, adorable Pokemon with a mix of yellow and brown colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Brown"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Delicate wings",
+      "Large round eyes",
+      "Fuzzy body",
+      "Antennae",
+      "Small stature"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Fairy",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Ribombee/1.png",
+  "pokemon_name": "Ribombee"
+}

@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon that embodies both steel and flying elements with a futuristic design.",
+    "Generate a steel-type Pokemon featuring sharp edges and sleek metallic textures, resembling a spacecraft.",
+    "Imagine a unique Pokemon that combines technology and nature, with vibrant green accents and a streamlined body.",
+    "Make a legendary creature that has an ethereal appearance with a blend of metallic and natural colors.",
+    "Show me a Pokemon that looks like a hybrid between a spaceship and a plant, with glowing features.",
+    "Design a creature with a sharp, angular body and bright green colors, soaring high in the skies.",
+    "Give me a Pokemon that represents the fusion of steel and nature, with an intricate and elegant design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Sharp, angular body",
+      "Metallic sheen",
+      "Long, slender limbs",
+      "Wing-like structures",
+      "Streamlined design"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Flying",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Elegant",
+      "Intelligent"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Celesteela/1.png",
+  "pokemon_name": "Celesteela"
+}

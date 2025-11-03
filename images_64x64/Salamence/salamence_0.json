@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a dragon-like Pokemon with blue scales and red wings soaring through the sky.",
+    "Show me a fierce Pokemon with a powerful build and a majestic presence.",
+    "Design a Pokemon that embodies strength and agility, with striking colors and sharp features.",
+    "Imagine a dragon Pokemon that can navigate both land and air with its impressive wingspan.",
+    "Give me a Pokemon that combines elegance and ferocity, with a unique color scheme.",
+    "Generate a Pokemon with a sleek body and a fearsome roar that intimidates its foes.",
+    "Make a Pokemon that reflects the majesty of nature, blending strength with grace."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large dragon wings",
+      "Distinctive elongated snout",
+      "Spiny back",
+      "Powerful limbs",
+      "Sharp claws"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Flying",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Bold",
+      "Confident",
+      "Loyal"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Salamence/0.png",
+  "pokemon_name": "Salamence"
+}

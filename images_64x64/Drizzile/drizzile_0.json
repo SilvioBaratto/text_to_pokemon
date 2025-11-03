@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that is agile and has a playful demeanor.",
+    "Imagine a Pokemon with a blue body and green accents, perfect for stealthy movements.",
+    "Generate a Pokemon that resembles a lizard, with a vibrant color palette and quick reflexes.",
+    "Make a creature that thrives in wetland areas, showcasing shades of blue and green.",
+    "Show me a Pokemon that can blend into its surroundings, featuring unique aquatic traits.",
+    "Give me a design of a Pokemon that is small and bipedal, with distinctive facial markings.",
+    "Design a middle evolution water-type Pokemon with features that hint at its final form."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Green",
+      "accent": "Purple"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large expressive eyes",
+      "Webbed hands and feet",
+      "Long tail",
+      "Distinctive markings on the head",
+      "Slightly elongated limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Clever",
+      "Agile"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Swift and evasive"
+  },
+  "image_path": "images/Drizzile/0.png",
+  "pokemon_name": "Drizzile"
+}

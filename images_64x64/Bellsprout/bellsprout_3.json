@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a plant-based Pokemon with a yellow head and green leaves.",
+    "Imagine a whimsical creature that thrives in forest environments with a bell-shaped head.",
+    "Design a small, playful Pokemon that resembles a sprout with vibrant colors.",
+    "Show me a quirky Pokemon that has a long, stem-like body and bright yellow features.",
+    "Generate a Pokemon that combines elements of grass and poison types in a unique way.",
+    "Make a Pokemon that looks like a flower but has a mischievous personality.",
+    "Give me a depiction of a Pokemon with a slender form and a bright yellow bulb on top."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": null,
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Bell-shaped head",
+      "Long stem-like body",
+      "Leaf-like appendages",
+      "Small root feet"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Mischievous"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Status infliction and support"
+  },
+  "image_path": "images/Bellsprout/3.png",
+  "pokemon_name": "Bellsprout"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a protective mother with a strong physique and a nurturing demeanor.",
+    "I want a Kangaskhan-inspired Pokemon that has a playful baby on its back, showcasing family bonds.",
+    "Generate an image of a powerful Pokemon that embodies both strength and care, suited for family-oriented battles.",
+    "Make a design for a Pokemon that combines maternal instincts with fierce combat abilities, perfect for trainers.",
+    "Imagine a Pokemon with a kangaroo-like appearance, known for its agility and nurturing qualities in the wild.",
+    "Show me a creature that merges the traits of a fighter and a caregiver, with a unique color palette.",
+    "Design a Pokemon that represents the balance between strength and tenderness, ideal for various environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large pouch on the belly",
+      "Powerful hind legs",
+      "Distinctive ear shapes",
+      "Strong arms",
+      "Baby Kangaskhan visible in pouch"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Protective",
+      "Nurturing",
+      "Strong"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Defensive and supportive"
+  },
+  "image_path": "images/Kangaskhan/2.png",
+  "pokemon_name": "Kangaskhan"
+}

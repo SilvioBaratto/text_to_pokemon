@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a sleek, humanoid form and vibrant colors.",
+    "Show me a futuristic Pokemon that embodies the essence of speed and agility.",
+    "Imagine a legendary creature that can manipulate time and space with its psychic powers.",
+    "Design a Pokemon that has a unique blend of red and blue colors, with flowing limbs.",
+    "Give me a powerful psychic Pokemon with a mysterious aura and striking appearance.",
+    "Generate a Pokemon that looks otherworldly, with elongated limbs and a vibrant color scheme.",
+    "Make a Pokemon that represents the ultimate evolution of psychic abilities in the Pokemon world."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Elongated limbs",
+      "Sharp spikes on the head",
+      "Flowing appendages",
+      "Sleek body",
+      "Unique color pattern"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Normal",
+    "generation": 3,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Intelligent",
+      "Agile"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Strategic"
+  },
+  "image_path": "images/Deoxys/3.png",
+  "pokemon_name": "Deoxys"
+}

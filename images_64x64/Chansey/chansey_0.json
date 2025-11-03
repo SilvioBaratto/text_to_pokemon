@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a pink, round Pokemon that looks friendly and carries an egg.",
+    "Generate a cute Pokemon with large ears and a gentle expression.",
+    "Design a healing-type Pokemon that resembles a soft, plush toy.",
+    "Imagine a Pokemon with a nurturing personality and pink color scheme.",
+    "Show me a Pokemon that evolves from a smaller creature and is always smiling.",
+    "Give me a whimsical Pokemon that loves to care for others and has a round body.",
+    "Make a Pokemon that is known for its healing abilities and has a soft appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large ears",
+      "Round body",
+      "Carrying an egg",
+      "Gentle expression",
+      "Fluffy appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Nurturing",
+      "Gentle",
+      "Caring"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Chansey/0.png",
+  "pokemon_name": "Chansey"
+}

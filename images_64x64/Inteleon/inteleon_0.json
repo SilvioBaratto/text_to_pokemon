@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a cool water-type Pokemon that has a sleek body and sharp features.",
+    "I want a Pokemon that can camouflage with its surroundings, featuring blue and yellow tones.",
+    "Generate a bipedal creature with a long tail and a spy-like appearance.",
+    "Make a Pokemon that excels in stealth attacks and has a mysterious aura.",
+    "Imagine a Pokemon that can blend into urban settings with its unique colors.",
+    "Design a water-type Pokemon that is both agile and cunning, perfect for battles.",
+    "Show me an evolved Pokemon that showcases intelligence and grace in its design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow",
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": "Black"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long tail",
+      "Sharp, pointed snout",
+      "Unique fin-like crest on the head",
+      "Elegant posture",
+      "Clawed hands"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Intelligent",
+      "Stealthy"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Inteleon/0.png",
+  "pokemon_name": "Inteleon"
+}

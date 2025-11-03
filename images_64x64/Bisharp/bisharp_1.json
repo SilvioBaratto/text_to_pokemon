@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a steel-type Pokemon that looks like a knight with sharp blades for arms.",
+    "Imagine a Pokemon with a strong presence, featuring red and grey colors and a metallic body.",
+    "Design a bipedal Pokemon that embodies a fierce warrior spirit and has a shiny armor finish.",
+    "Show me a Pokemon that stands out in urban environments, blending steel and dark types.",
+    "Generate an image of a Pokemon that is both intimidating and elegant, with a hint of royalty.",
+    "Give me a Pokemon that combines the essence of a samurai with modern elements.",
+    "Make a character that showcases a perfect balance between offense and defense in battle."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Black",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Blade-like arms",
+      "Metallic armor",
+      "Knight-like appearance",
+      "Crest on head",
+      "Sharp facial features"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": "Steel",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Strategic",
+      "Fearless"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Offensive and Defensive"
+  },
+  "image_path": "images/Bisharp/1.png",
+  "pokemon_name": "Bisharp"
+}

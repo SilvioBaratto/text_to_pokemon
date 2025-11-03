@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a round Electric-type Pokemon that sparkles with energy and has a mischievous grin.",
+    "Show me a playful Pokemon with a vibrant red and white design, perfect for urban environments.",
+    "Imagine a cheeky Electric-type that rolls around, surprising trainers with its electric shocks.",
+    "Design an adorable yet powerful Pokemon that generates electricity from its round body.",
+    "Give me a Pokemon that embodies the spirit of electricity in a fun and lively manner.",
+    "Make a unique Electric-type with a smiling face, showcasing its playful and energetic nature.",
+    "Generate a Pokemon that looks like a giant ball of energy, ready to electrify its opponents."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round shape",
+      "Smiling face",
+      "Large eyes",
+      "Defined red bottom half",
+      "Simple design"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Energetic"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Electrode/3.png",
+  "pokemon_name": "Electrode"
+}

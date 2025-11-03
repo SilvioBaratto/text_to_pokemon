@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a Bug-type Pokemon that resembles a bee and has a happy expression.",
+    "I want a Pokemon with three heads, each looking cheerful and yellow.",
+    "Generate an adorable insect Pokemon with big eyes and tiny wings.",
+    "Make a unique Pokemon that thrives in grassy areas and has a vibrant yellow hue.",
+    "Imagine a small, playful Pokemon that buzzes around flowers, collecting pollen.",
+    "Design a Pokemon that features a trio of smiling faces and has insect-like wings.",
+    "Show me a Pokemon with a round body and a friendly demeanor, perfect for a children's game."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Three heads",
+      "Big eyes",
+      "Small wings",
+      "Round body",
+      "Cheerful expressions"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Combee/0.png",
+  "pokemon_name": "Combee"
+}

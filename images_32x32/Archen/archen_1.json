@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a flying-type Pokemon with vibrant red and yellow feathers.",
+    "I want a prehistoric bird Pokemon that looks playful and energetic.",
+    "Generate a Pokemon that resembles a colorful parrot with blue wings.",
+    "Make a winged creature that has a mix of red, yellow, and blue colors.",
+    "Imagine an ancient Pokemon with a cheerful expression and bright plumage.",
+    "Design a bird-like Pokemon that can soar through forests and mountains.",
+    "Show me a Pokemon inspired by avian features with a striking color palette."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Yellow",
+      "accent": "Blue"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large wings",
+      "Beak resembling a parrot",
+      "Colorful plumage",
+      "Energetic posture",
+      "Prominent tail feathers"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Flying",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Uncommon",
+    "combat_style": "Speed-focused"
+  },
+  "image_path": "images/Archen/1.png",
+  "pokemon_name": "Archen"
+}

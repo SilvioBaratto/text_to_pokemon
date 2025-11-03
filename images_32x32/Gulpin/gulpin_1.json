@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a cute, green Pokemon that resembles a blob with a tiny yellow tail.",
+    "Imagine a Pokemon that loves to lounge around in grassy areas, looking very relaxed.",
+    "Design a small, round Pokemon with a unique tail and a happy expression.",
+    "Generate a funny Pokemon that has a body shaped like a jelly bean and a cheerful vibe.",
+    "Show me a Pokemon that is perfect for a playful character in a game, with vibrant colors.",
+    "Give me an idea for a Pokemon that can blend into the forest environment with its colors.",
+    "Make a Pokemon that embodies a sense of calmness, with soft green and yellow hues."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round body",
+      "Small yellow tail",
+      "Simple facial features",
+      "Soft, squishy appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Calm",
+      "Laid-back"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Gulpin/1.png",
+  "pokemon_name": "Gulpin"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with vibrant red and green colors.",
+    "Show me a small insectoid Pokemon that thrives in forest habitats.",
+    "Imagine a Pokemon that is both poisonous and highly agile.",
+    "Design a unique Pokemon with a round body and striking yellow eyes.",
+    "Generate a creature that resembles a centipede but with a vivid color palette.",
+    "Give me details on a Pokemon that can navigate both grasslands and caves.",
+    "Make a Pokemon that has a distinctive segmented body and a fierce demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Segmented body",
+      "Yellow eyes",
+      "Sharp antennae",
+      "Curved horns"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cautious",
+      "Curious",
+      "Defensive"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Status Attacker"
+  },
+  "image_path": "images/Venipede/1.png",
+  "pokemon_name": "Venipede"
+}

@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a flying-type Pokemon with a vibrant beak and striking black feathers.",
+    "Show me a Pokemon that resembles a toucan, featuring tropical colors and a bold stance.",
+    "Imagine a bird Pokemon with a large colorful bill and a sleek black body.",
+    "Design a Pokemon that embodies the spirit of the jungle with a unique color palette.",
+    "Make a cartoon representation of a toucan Pokemon with exaggerated features and bright colors.",
+    "Generate a Pokemon that thrives in forest habitats, showcasing vivid hues and dynamic wings.",
+    "Give me an illustration of a powerful flying-type Pokemon with a majestic appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Red",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "White",
+      "accent": "Red"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large colorful beak",
+      "Black feathered body",
+      "Bright yellow eye",
+      "Red chest band",
+      "Prominent wings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Sociable"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Toucannon/1.png",
+  "pokemon_name": "Toucannon"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a playful Fighting-type Pokemon with a round body and short limbs.",
+    "I want a small humanoid Pokemon that excels in speed and agility during battles.",
+    "Generate a character inspired by a martial artist, featuring a light purple color and brown accents.",
+    "Make a unique Pokemon that looks like a little fighter with a strong, energetic presence.",
+    "Imagine a cute but tough Pokemon that trains in forests and shows off its skills.",
+    "Design a bipedal Pokemon with a gymnastic appearance and a friendly attitude.",
+    "Show me a vibrant Fighting-type Pokemon that has a mix of playful and fierce traits."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Short limbs",
+      "Round body shape",
+      "Distinctive brown feet",
+      "Large expressive eyes",
+      "Pointed head with a unique shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Playful",
+      "Competitive"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Tyrogue/0.png",
+  "pokemon_name": "Tyrogue"
+}

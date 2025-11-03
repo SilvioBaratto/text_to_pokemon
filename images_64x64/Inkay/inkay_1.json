@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a jellyfish-like body and playful personality.",
+    "I want a water-type Pokemon that has a unique hat feature and a cute appearance.",
+    "Generate a Pokemon that resembles a small creature with tentacles and bright colors.",
+    "Make a dual-type Pokemon with a quirky design and a fun-loving nature.",
+    "Imagine a Pokemon with a blue body and pink accents, perfect for a whimsical environment.",
+    "Design a creature that thrives in urban areas and has both aquatic and psychic abilities.",
+    "Show me a tiny Pokemon that uses its intelligence to outsmart opponents in battles."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Hat resembling an octopus tentacle",
+      "Large expressive eyes",
+      "Rounded body shape",
+      "Soft, smooth texture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": "Psychic",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Cunning"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Trickster"
+  },
+  "image_path": "images/Inkay/1.png",
+  "pokemon_name": "Inkay"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that resembles a small blue beetle with a playful attitude.",
+    "Imagine a Pokemon with a rounded body shape, primarily blue, that loves to explore grasslands.",
+    "Design a quirky Pokemon featuring yellow accents, known for its cheerful personality and speedy movements.",
+    "Show me a water-type Pokemon that has a bulbous form, playful eyes, and a unique color combination.",
+    "Generate a Pokemon that thrives in urban environments, showcasing a distinctive blue and yellow color scheme.",
+    "Make a small, adorable Pokemon that resembles an aquatic creature with bright colors and a happy disposition.",
+    "Give me a Pokemon that embodies the spirit of adventure, with a round body and vibrant colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Bulbous shape",
+      "Large expressive eyes",
+      "Small antennae on top",
+      "Round mouth with a playful smile",
+      "Smooth surface texture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Karrablast/0.png",
+  "pokemon_name": "Karrablast"
+}

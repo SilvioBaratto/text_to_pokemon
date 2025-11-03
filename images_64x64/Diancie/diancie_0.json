@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon that embodies beauty and elegance with sparkling gemstones.",
+    "Generate an elegant Fairy-type Pokemon with a gemstone-like body and delicate features.",
+    "Imagine a Pokemon with an enchanting appearance that glows in the moonlight.",
+    "Show me a Pokemon inspired by precious stones, radiating a colorful aura.",
+    "Design a graceful Pokemon that has a whimsical and magical presence in nature.",
+    "Make a unique Pokemon that combines elegance with a touch of mystery and allure.",
+    "Give me a concept for a Fairy-type Pokemon that brings joy and sparkles wherever it goes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "White",
+      "accent": "Purple"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Gemstone-like body",
+      "Delicate wings",
+      "Crown-like headpiece",
+      "Elegant dress-like appearance",
+      "Radiant glow"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": true,
+    "is_mythical": true,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Graceful",
+      "Playful",
+      "Mysterious"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Diancie/0.png",
+  "pokemon_name": "Diancie"
+}

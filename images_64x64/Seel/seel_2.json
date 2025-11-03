@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a sleek, blue body and playful demeanor.",
+    "I want an adorable Pokemon that resembles a seal, with a soft, rounded shape.",
+    "Generate an aquatic creature with a shiny, icy appearance and a friendly personality.",
+    "Make a small, cute Pokemon that can swim gracefully through the ocean.",
+    "Imagine a Pokemon that uses its flippers to glide through water effortlessly.",
+    "Design a playful, blue Pokemon that loves to frolic in icy waters.",
+    "Give me a charming, aquatic Pokemon with a round face and happy expression."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round face",
+      "Floppy ears",
+      "Short flippers",
+      "Smooth body",
+      "Tail resembling a wave"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Seel/2.png",
+  "pokemon_name": "Seel"
+}

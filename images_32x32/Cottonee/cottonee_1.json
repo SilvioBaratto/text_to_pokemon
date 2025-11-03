@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a cute grass-type Pokemon that looks like a fluffy cloud with green leaves.",
+    "Imagine a Pokemon that has a soft, cotton-like body and can scatter pollen everywhere.",
+    "Design a whimsical little creature that thrives in sunny, grassy areas and has a cheerful demeanor.",
+    "Generate a Pokemon that resembles a small, fluffy cotton ball with vibrant green accents.",
+    "Show me a playful, tiny Pokemon that loves to frolic in flower-filled meadows.",
+    "Make a Pokemon that embodies the essence of springtime with its cottony appearance and green features.",
+    "Give me a Pok\u00e9mon that can blend seamlessly into the grassy terrain, evoking a sense of calm."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Fluffy cotton-like body",
+      "Green leaf-like appendages",
+      "Round shape",
+      "Small size",
+      "Soft texture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Fairy",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Gentle",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Cottonee/1.png",
+  "pokemon_name": "Cottonee"
+}

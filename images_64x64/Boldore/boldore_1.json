@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon with a sturdy body and bright orange spikes.",
+    "I want a Pokemon that features a blue and red color scheme with a unique shape.",
+    "Generate a Pokemon that looks like a boulder but has distinct eyes and claws.",
+    "Make a Pokemon with a rugged appearance that embodies strength and resilience.",
+    "Imagine a Pokemon that can blend into rocky environments with its dark blue color.",
+    "Design a Pokemon that has a shell-like body and vibrant red accents.",
+    "Show me a Pokemon that resembles a rock monster with bright orange details."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Orange spikes on the top",
+      "Large eyes",
+      "Rock-like texture",
+      "Claw-like appendages"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Ground",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Sturdy",
+      "Determined",
+      "Protective"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Boldore/1.png",
+  "pokemon_name": "Boldore"
+}

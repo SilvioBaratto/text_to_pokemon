@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a sleek blue Dragon-type Pokemon with elegant wings and a streamlined body.",
+    "Imagine a Pokemon that resembles a blue aircraft, soaring gracefully in the sky.",
+    "Design a legendary Pokemon with a powerful gaze and an aura of mystique.",
+    "Show me a Pokemon that embodies speed and agility with a striking blue color scheme.",
+    "Generate a mythical creature that can navigate through both mountains and seas effortlessly.",
+    "Make a Pokemon that has a unique blend of dragon and psychic abilities.",
+    "Give me a Pokemon that reflects both elegance and strength, with a vibrant blue hue."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Streamlined body",
+      "Long wings",
+      "Pointed snout",
+      "Twin tails",
+      "Sharp eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Psychic",
+    "generation": 3,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Mysterious",
+      "Protective"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Speed-focused"
+  },
+  "image_path": "images/Latios/2.png",
+  "pokemon_name": "Latios"
+}

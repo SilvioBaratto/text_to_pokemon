@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a legendary Pokemon that embodies the essence of molten lava and metal.",
+    "I want a fire and steel type Pokemon with a rugged, industrial design and glowing accents.",
+    "Generate a mythical creature that thrives in volcanic regions, showcasing powerful heat-based abilities.",
+    "Make a Pokemon that features a robust body, fiery colors, and a fierce attitude towards opponents.",
+    "Imagine a creature that combines the strength of metal with the ferocity of fire, perfect for fierce battles.",
+    "Design a Pokemon that has a unique combination of fire and steel elements with a rugged appearance.",
+    "Show me a powerful Pokemon that resembles molten magma and has an intimidating presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Gray",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large molten-like body",
+      "Glowing yellow accents",
+      "Rock-like limbs",
+      "Magma-inspired textures",
+      "Sharp, jagged edges"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Steel",
+    "generation": 4,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Determined",
+      "Stoic"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Defensive and powerful"
+  },
+  "image_path": "images/Heatran/1.png",
+  "pokemon_name": "Heatran"
+}

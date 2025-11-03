@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a dinosaur-like Pokemon that can harness the power of rocks and darkness.",
+    "Show me a fierce, bipedal Pokemon with a green body and spiky features.",
+    "Imagine a powerful Pokemon that evolves from a smaller creature and dominates the battlefield.",
+    "Design a robust Pokemon that thrives in mountainous terrains and has a rocky appearance.",
+    "Generate a Pokemon with sharp claws and a menacing roar, ready for battle.",
+    "Make a Pokemon that embodies strength and resilience, with a unique dark color palette.",
+    "Give me a representation of a Pokemon that can create earthquakes and intimidate opponents."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Black",
+      "accent": "Blue"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Spiky back",
+      "Large jaws",
+      "Armored body",
+      "Red eyes",
+      "Diamond-shaped chest marking"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Dark",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intimidating",
+      "Resilient",
+      "Fierce"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Tyranitar/3.png",
+  "pokemon_name": "Tyranitar"
+}

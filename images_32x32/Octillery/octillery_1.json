@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles an octopus with bright colors and unique patterns on its body.",
+    "I want a Pokemon that can shoot ink and has a playful personality, perfect for ocean adventures!",
+    "Generate a cute aquatic creature with tentacles and a vibrant red color, suitable for a children's game.",
+    "Make a Pokemon that blends well with its underwater environment but stands out with its striking features.",
+    "Imagine a Pokemon that utilizes its intelligence and agility in battles, showcasing its colorful body.",
+    "Design a fun-loving octopus Pokemon with distinct personality traits that make it a great companion.",
+    "Give me a unique Pokemon that thrives in urban settings while maintaining its oceanic characteristics."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "White"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Octopus-like tentacles",
+      "Bright red body",
+      "White spots",
+      "Large expressive eyes",
+      "Flexible limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Intelligent",
+      "Curious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Ranged"
+  },
+  "image_path": "images/Octillery/1.png",
+  "pokemon_name": "Octillery"
+}

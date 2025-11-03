@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with a sleek blue body and sharp teeth.",
+    "I want a Pokemon that looks like a small shark with a vibrant red belly.",
+    "Generate an adorable ground-type creature with a rounded shape and tiny fins.",
+    "Make a Pokemon that has a blue and red color scheme and a friendly personality.",
+    "Imagine a Pokemon resembling a mini dragon that loves to dig underground.",
+    "Design a small aquatic creature that has a unique shark-like appearance.",
+    "Give me a Pokemon that embodies the essence of both land and sea in its design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Sharp dorsal fin",
+      "Red underbelly",
+      "Large eyes",
+      "Short limbs",
+      "Visible sharp teeth"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Ground",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Adventurous"
+    ],
+    "habitat": "Cave",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Gible/1.png",
+  "pokemon_name": "Gible"
+}

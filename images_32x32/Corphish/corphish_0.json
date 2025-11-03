@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with bright red claws and a cheerful expression.",
+    "I want a crab-like Pokemon that exhibits playful and curious behavior.",
+    "Generate a Pokemon that thrives in both freshwater and coastal habitats.",
+    "Make a small aquatic creature with distinctive large pincers and a vibrant color.",
+    "Imagine a Pokemon that can evolve into a more powerful version with stunning features.",
+    "Design a Pokemon that is known for its feisty personality and energetic movements.",
+    "Show me a creature that blends in well with its wetland environment and is quite rare."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large pincers",
+      "Rounded body",
+      "Bright red coloration",
+      "Beige underbelly"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Bug",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Feisty"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Corphish/0.png",
+  "pokemon_name": "Corphish"
+}

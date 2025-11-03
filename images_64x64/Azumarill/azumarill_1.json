@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a playful demeanor and a round body shape.",
+    "Imagine a cute Pokemon with blue fur and white accents, perfect for aquatic adventures.",
+    "Show me a Pokemon that resembles a small, round creature with cheerful eyes and a bubbly personality.",
+    "Generate a character design for a Pokemon that enjoys swimming in the sea and playing in the waves.",
+    "Make a Pokemon that has big ears, a fluffy tail, and a love for splashing in puddles.",
+    "Design a friendly Pokemon that loves to explore wetlands and has a playful attitude.",
+    "Give me a Pokemon that is blue and white, with a round shape and a knack for finding hidden treasures."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Big ears",
+      "Round body",
+      "Tail resembling a water droplet",
+      "White spots on the body",
+      "Fluffy underbelly"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Fairy",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Friendly"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Azumarill/1.png",
+  "pokemon_name": "Azumarill"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a Bug-type Pokemon with blue and purple wings and a charming personality.",
+    "I want a whimsical Pokemon that flutters through forests, showcasing colorful patterns.",
+    "Generate a creature with graceful wings that can blend into flower gardens.",
+    "Make an enchanting Pokemon inspired by butterflies, using soft pastel colors and delicate features.",
+    "Imagine a Pokemon that thrives in sunny meadows, with vibrant colors and a gentle demeanor.",
+    "Design a flying Pokemon that can dazzle opponents with its beautiful wing patterns.",
+    "Show me a peaceful Bug-type that loves to sip nectar from flowers in lush habitats."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": "Purple"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, colorful wings",
+      "Multi-colored patterns on wings",
+      "Rounded body",
+      "Large compound eyes",
+      "Thin antennae"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Curious",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Butterfree/4.png",
+  "pokemon_name": "Butterfree"
+}

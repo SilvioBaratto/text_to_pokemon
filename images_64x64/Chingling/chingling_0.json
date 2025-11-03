@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a small, yellow Pok\u00e9mon with a cheerful demeanor and red accents on its body.",
+    "I want a ghostly Pok\u00e9mon that has playful traits and resembles a cute bell.",
+    "Generate a Pok\u00e9mon design that is primarily yellow with a whimsical, musical theme.",
+    "Make a tiny Pok\u00e9mon with a round body and vibrant colors that evoke happiness.",
+    "Imagine a Pok\u00e9mon that can be found in urban settings and has a playful personality.",
+    "Design a creature that has bell-like features and is known for its enchanting sound.",
+    "Show me a Pok\u00e9mon that thrives in forests and has a unique mix of yellow and red colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Bell-like shape",
+      "Red appendages resembling ribbons",
+      "Large black eyes",
+      "Small size",
+      "Round and smooth body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Ghost",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Sonic-oriented"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Chingling/0.png",
+  "pokemon_name": "Chingling"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pok\u00e9mon that can fly and has a friendly demeanor.",
+    "Show me a Pok\u00e9mon with bright yellow and blue colors that looks like a bird.",
+    "Design a Pok\u00e9mon that resembles a pelican and has unique aquatic abilities.",
+    "Imagine a Pok\u00e9mon that thrives in wetlands and has a playful personality.",
+    "Generate a creature that embodies the spirit of both water and air.",
+    "I want to see a Pok\u00e9mon that has large wings and a cheerful expression.",
+    "Make a Pok\u00e9mon that is a mix of aquatic and flying traits, in charming colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large bill resembling a pelican",
+      "Prominent wings",
+      "Round body shape",
+      "Cheerful facial expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Flying",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Friendly",
+      "Playful",
+      "Sociable"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Pelipper/1.png",
+  "pokemon_name": "Pelipper"
+}

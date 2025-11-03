@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a spiral shell and long tentacles for arms.",
+    "Imagine a Pok\u00e9mon that can hide in the ocean floor with a hard, protective shell.",
+    "Show me a rock-type Pok\u00e9mon that resembles an ancient sea creature with sharp features.",
+    "Design a Pok\u00e9mon that evolves from a small creature and becomes a giant aquatic beast.",
+    "Generate a mythical Pok\u00e9mon known for its ability to control ocean currents and waves.",
+    "Give me a Pok\u00e9mon that has a hard body and can withstand powerful attacks from opponents.",
+    "Make a Pok\u00e9mon that thrives in oceanic habitats and has a calming, wise personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Blue",
+      "accent": "Gray"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Spiral shell",
+      "Tentacle-like appendages",
+      "Large blue eyes",
+      "Curved body",
+      "Smooth texture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Water",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Intelligent",
+      "Adaptable"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Omastar/2.png",
+  "pokemon_name": "Omastar"
+}

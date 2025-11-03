@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that resembles a playful spirit with a friendly demeanor.",
+    "I want a Pokemon that looks like a soft toy with a mysterious aura and hidden powers.",
+    "Generate a creature that combines elements of a ghost and a doll, with a whimsical design.",
+    "Make a ghostly apparition Pokemon that has a cute, endearing appearance and playful nature.",
+    "Imagine a Pokemon that disguises itself as a shadowy figure, with a touch of mischief and charm.",
+    "Design a Pokemon that has a spooky yet adorable vibe, perfect for haunting playful adventures.",
+    "Give me a ghost-type Pokemon that embodies the essence of a hidden identity and playful tricks."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "White"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "White",
+      "accent": "Brown"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Doll-like appearance",
+      "Ghostly, shadowy cloak",
+      "Sad face drawn on the front"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Fairy",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Shy"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Trickster"
+  },
+  "image_path": "images/Mimikyu/3.png",
+  "pokemon_name": "Mimikyu"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a serpentine Pokemon with vibrant orange and yellow colors that shines in the sunlight.",
+    "Imagine a fierce fire-type Pokemon with long, flowing tails resembling flames, perfect for intense battles.",
+    "Show me a dragon-like creature with a fiery appearance, known for its speed and agility.",
+    "Generate a Pokemon that embodies the spirit of the mountains, with a fiery body and a strong presence.",
+    "Design a Pokemon resembling a centipede, featuring vivid colors and an intimidating stance.",
+    "Make a creature that thrives in urban areas, with a unique mix of fiery and earthy tones.",
+    "Give me a Pokemon with a dynamic body shape, showcasing both elegance and strength in its fiery design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Flame-like tail segments",
+      "Long, slender body",
+      "Sharp, spiky dorsal features",
+      "Vibrant coloration",
+      "Intimidating eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Bug",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Loyal",
+      "Energetic"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Fast and aggressive"
+  },
+  "image_path": "images/Centiskorch/1.png",
+  "pokemon_name": "Centiskorch"
+}

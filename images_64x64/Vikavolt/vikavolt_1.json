@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that resembles a mechanical creature with sharp wings and a streamlined body.",
+    "Generate an electric-type Pokemon that has a unique blend of blue and yellow colors with a metallic look.",
+    "Imagine a Pokemon with an insectoid shape and vivid colors, perfect for a forest or urban habitat.",
+    "Design a Pokemon that combines technology and nature, featuring vibrant wings and an energetic personality.",
+    "Show me a Pokemon with a sleek design, inspired by both insects and machines, with a mix of blue and black.",
+    "Make a bug/electric-type Pokemon that has distinctive facial features and a strong presence in both forests and caves.",
+    "Give me a Pokemon with an aerodynamic form, combining elements of both bug and electric types, and striking visual colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": "Yellow"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large, pointed wings",
+      "Sharp mandibles",
+      "Streamlined body",
+      "Mechanical look",
+      "Vibrant color contrast"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Electric",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Intelligent",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Fast and agile with electric attacks"
+  },
+  "image_path": "images/Vikavolt/1.png",
+  "pokemon_name": "Vikavolt"
+}

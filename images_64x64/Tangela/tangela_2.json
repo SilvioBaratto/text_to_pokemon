@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon with a vibrant blue color and a fluffy appearance.",
+    "I want a Pokemon that resembles a plant with a tangled, vine-like structure.",
+    "Generate a Pokemon featuring a round body covered in leafy tendrils and bright eyes.",
+    "Make a creature that embodies nature with a whimsical, tangled design and playful demeanor.",
+    "Imagine a Pokemon that thrives in forest environments, with a blue and green color palette.",
+    "Design a Pokemon with a unique, amorphous shape and a cheerful personality.",
+    "Show me a Pokemon that has a mix of blue and green colors, resembling a living plant."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Blue",
+      "accent": "Pink"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Tangled vine-like body",
+      "Large, expressive eyes",
+      "Fluffy, bushy appearance",
+      "Pink feet",
+      "Clustered, leafy tendrils"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Tangela/2.png",
+  "pokemon_name": "Tangela"
+}

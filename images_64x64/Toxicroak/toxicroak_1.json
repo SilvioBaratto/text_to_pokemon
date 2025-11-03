@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a blue and pink Pokemon that specializes in poison and fighting techniques.",
+    "Show me a Pokemon with a bipedal stance and unique color patterns, perfect for battling.",
+    "Imagine a creature with vibrant colors that thrives in forest habitats and loves to spar.",
+    "Design a Pokemon that looks tough and agile, with strong arms and an adventurous spirit.",
+    "Generate a Pokemon that resembles a warrior, combining fighting and poison attributes.",
+    "Make a character that embodies both elegance and strength, with a striking color palette.",
+    "Give me a Pokemon that is rare, has a playful personality, and enjoys urban environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Pink",
+      "accent": "Black"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large, muscular arms",
+      "Prominent pink belly",
+      "Sharp claws on hands",
+      "Facial markings",
+      "Pointed head shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": "Fighting",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Competitive",
+      "Mischievous"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Toxicroak/1.png",
+  "pokemon_name": "Toxicroak"
+}

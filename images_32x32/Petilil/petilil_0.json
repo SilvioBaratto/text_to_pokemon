@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a small, green Pokemon with leaf-like features and a cute expression.",
+    "Show me a Grass-type Pokemon that thrives in forest environments and has a round shape.",
+    "Design a Pokemon that resembles a flower bud with playful red eyes and vibrant green accents.",
+    "Imagine a tiny Pokemon with a soft, fluffy appearance, perfect for sunny meadows.",
+    "Generate a Pokemon that embodies the essence of nature, with shades of green and a calm demeanor.",
+    "Give me a detailed description of a Pokemon that is often found in wetlands and has a gentle personality.",
+    "Make a unique Pokemon that evolves from a small plant into a larger, more powerful creature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Leaf-like appendages on top",
+      "Round, soft body",
+      "Red eyes",
+      "Fluffy base resembling petals"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Petilil/0.png",
+  "pokemon_name": "Petilil"
+}

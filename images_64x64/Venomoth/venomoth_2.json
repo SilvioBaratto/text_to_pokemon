@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with vibrant purple wings and soft white body.",
+    "I want a flying-type creature that resembles a butterfly with pastel colors.",
+    "Generate a Pokemon that combines elements of poison and bug types with beautiful wing patterns.",
+    "Make a Pokemon with a delicate appearance and a focus on speed and agility in battle.",
+    "Imagine a Pokemon that thrives in forest environments, showcasing its unique colors and traits.",
+    "Design a character that has a mix of elegance and danger, embodying its poisonous nature.",
+    "Show me a Pokemon that features intricate wing designs and a gentle personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "White"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Pink",
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, colorful wings",
+      "Distinctive compound eyes",
+      "Delicate body structure",
+      "Soft, fluffy appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Mysterious",
+      "Agile"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Status Attacker"
+  },
+  "image_path": "images/Venomoth/2.png",
+  "pokemon_name": "Venomoth"
+}

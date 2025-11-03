@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a majestic Pokemon with powerful wings and a noble demeanor.",
+    "I want a legendary creature that embodies strength and honor in battle.",
+    "Generate an elegant blue Pokemon with a flowing tail and a fierce gaze.",
+    "Make a mythical warrior Pokemon that stands tall and commands respect.",
+    "Imagine a fierce guardian Pokemon with a shimmering sword and a regal presence.",
+    "Design a powerful bipedal Pokemon with armor-like features and a striking color palette.",
+    "Show me a legendary Pokemon that represents valor and bravery in its appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large wings",
+      "Sword-like appendage",
+      "Flowing mane",
+      "Armored body",
+      "Regal posture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": "Steel",
+    "generation": 8,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Noble",
+      "Brave",
+      "Protective"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Zacian/2.png",
+  "pokemon_name": "Zacian"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that loves to swim in ponds and has a playful demeanor.",
+    "Design a creature inspired by frogs, with a vibrant blue body and large round eyes.",
+    "Imagine a Pokemon that can use sound waves to communicate, featuring headphones as part of its design.",
+    "Generate a Pokemon that is both cute and bulky, with a round shape and a friendly smile.",
+    "Make a unique amphibious Pokemon that thrives in wetlands and has a penchant for music.",
+    "Show me a Pokemon that evolves from a tadpole, showcasing aquatic features and a bright personality.",
+    "Give me a water-ground type Pokemon that can camouflage itself in muddy environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, round eyes",
+      "Headphones on its head",
+      "Round, plump body",
+      "Webbed hands and feet"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Ground",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Palpitoad/1.png",
+  "pokemon_name": "Palpitoad"
+}

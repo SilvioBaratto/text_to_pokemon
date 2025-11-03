@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Show me a strong fighting-type Pokemon with a muscular build and construction materials for arms.",
+    "Generate a Pokemon that resembles a humanoid with unique stone-like features and a fierce expression.",
+    "Imagine a powerful Pokemon that excels in combat, showcasing determination and physical strength.",
+    "Create a character design for a Pokemon known for its fighting prowess and unique appearance.",
+    "Design a Pokemon that combines elements of strength training with a robust, bipedal form.",
+    "Give me an illustration of a Pokemon that embodies resilience and hard work, with visible muscles.",
+    "Make a concept for a Pokemon that uses its environment to enhance its fighting capabilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Pink",
+      "accent": "Gray"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Muscular arms resembling concrete pillars",
+      "Facial features with a prominent nose",
+      "Heavyset torso",
+      "Stone-like structures in hands",
+      "Defined musculature"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Strong-willed",
+      "Hardworking"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Conkeldurr/1.png",
+  "pokemon_name": "Conkeldurr"
+}

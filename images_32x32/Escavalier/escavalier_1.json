@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a unique bug-type Pokemon with shiny armor and a fierce look.",
+    "Imagine a steel-type Pokemon with a knight-like appearance and a strong shield.",
+    "Show me a Pokemon that has a mix of red and silver, embodying strength and agility.",
+    "Give me a design for a Pokemon that has a shell and can burrow underground.",
+    "Generate a Pokemon that combines the traits of a knight and a bug, with sharp features.",
+    "Make a Pokemon that looks like a warrior with a metal body and a proud stance.",
+    "Design a Pokemon that thrives in forested areas and has a strong defensive mechanism."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Gray",
+      "accent": "Blue"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Knight-like helmet",
+      "Metallic shell",
+      "Long lance-like appendages",
+      "Bulky body structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Steel",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Brave",
+      "Defensive",
+      "Loyal"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Defensive and strategic"
+  },
+  "image_path": "images/Escavalier/1.png",
+  "pokemon_name": "Escavalier"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with vibrant blue fur and playful features.",
+    "Design a cute monkey Pokemon that loves to splash water everywhere.",
+    "Generate a Pokemon character that resembles a lion but with a unique aquatic twist.",
+    "Imagine a Pokemon that can control water with its hands and has a fun personality.",
+    "Show me a colorful water-type Pokemon that lives in lush forests and playful rivers.",
+    "Make a Pokemon with a lion-like appearance and a love for water sports.",
+    "Give me a lively Pokemon that embodies the spirit of water and joy."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Aquatic mane resembling water waves",
+      "Long tail with a tuft",
+      "Large, expressive ears",
+      "Playful facial expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Simipour/1.png",
+  "pokemon_name": "Simipour"
+}

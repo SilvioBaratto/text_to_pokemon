@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon with a skeletal design and a mischievous expression.",
+    "Imagine a ground-type Pokemon that uses bones as its weapon of choice.",
+    "Generate a Pokemon that embodies the spirit of the desert with a rugged appearance.",
+    "Show me a unique evolution of a bipedal Pokemon that has a spooky vibe.",
+    "Design a Pokemon that thrives in caves and has a tough exterior.",
+    "Give me an idea for a ghostly Pokemon with a playful personality and bone motifs.",
+    "Make a Pokemon that has both ground and ghost types with a haunting aura."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Gray",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Skeletal structure",
+      "Bone club tail",
+      "Crest on head",
+      "Large skull-shaped head",
+      "Ghostly aura"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": "Ghost",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Loyal",
+      "Mischievous"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Melee"
+  },
+  "image_path": "images/Marowak/2.png",
+  "pokemon_name": "Marowak"
+}

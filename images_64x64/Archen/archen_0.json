@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a flying-type Pokemon with vibrant red and blue feathers, showcasing a playful personality.",
+    "Show me a dinosaur-inspired Pokemon that has distinct yellow wings and a friendly demeanor.",
+    "Imagine a prehistoric Pokemon that looks like a bird with a bright color palette and energetic stance.",
+    "Design a small Pokemon with a unique blend of red, blue, and yellow, perfect for a forest setting.",
+    "Give me a Pokemon that combines a dragon-like appearance with cheerful colors and a curious nature.",
+    "Generate a creature that has a combination of feathered wings and a playful attitude, set in grasslands.",
+    "Make a Pokemon that features a bright red head, blue wings, and an adventurous spirit, thriving in urban areas."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Blue",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Feathered wings",
+      "Unique red head",
+      "Bright yellow body",
+      "Long tail",
+      "Curved beak"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Flying",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Energetic"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Fast and agile"
+  },
+  "image_path": "images/Archen/0.png",
+  "pokemon_name": "Archen"
+}

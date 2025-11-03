@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a sleek, agile Pokemon that thrives in urban areas, with a black and white color scheme.",
+    "Imagine a Pokemon that can burrow underground, using its sharp claws and fast movements to evade danger.",
+    "Show me a Pokemon that has a playful personality and enjoys exploring forest habitats.",
+    "Design a Pokemon that resembles a badger, featuring distinctive stripes and a keen sense of smell.",
+    "Generate a Pokemon that has a small, compact body and can camouflage itself among grasslands.",
+    "Make a Pokemon with a mischievous nature, known for stealing food from unsuspecting trainers.",
+    "Give me a Pokemon that evolves from a smaller, cuter version into a more formidable, agile form."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "White"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "White",
+      "accent": "Gray"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Distinctive black and white stripes",
+      "Long, slender body",
+      "Sharp claws",
+      "Pointed snout",
+      "Red tongue"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Agile"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Linoone/1.png",
+  "pokemon_name": "Linoone"
+}

@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a small, round Pokemon with big eyes and a friendly demeanor.",
+    "I want a Pokemon that resembles an owl, with vibrant colors and a unique pattern.",
+    "Generate a cute, nocturnal Pokemon that has a brown body and striking red eyes.",
+    "Make a whimsical Pokemon inspired by nature, featuring bird-like traits and soft textures.",
+    "Imagine a Pokemon that is perfect for the forest, with earthy colors and a playful personality.",
+    "Design a quirky Pokemon that can fly, with a charming appearance and distinctive markings.",
+    "Show me a Pokemon that is both adorable and mysterious, with large expressive eyes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Red"
+    ],
+    "secondary_colors": [
+      "White",
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": "Red"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large round body",
+      "Prominent big eyes",
+      "Unique facial markings",
+      "Small feet",
+      "Feathered appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful",
+      "Alert"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Hoothoot/2.png",
+  "pokemon_name": "Hoothoot"
+}

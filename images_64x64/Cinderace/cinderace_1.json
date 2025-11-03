@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bipedal fire-type Pokemon with striking orange fur and agile limbs.",
+    "I want a Pokemon that embodies speed and agility, featuring fiery accents.",
+    "Generate an energetic fire Pokemon with a competitive spirit and a sleek design.",
+    "Make a vibrant fire-type Pokemon that excels in urban environments and sports.",
+    "Imagine a unique Pokemon with bold orange and white colors, ready for battle.",
+    "Design a sporty fire-type Pokemon that can leap high and run fast.",
+    "Give me a dynamic fire Pokemon that combines athleticism with fiery abilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "White",
+      "accent": "Red"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flame-like ears",
+      "Athletic build",
+      "Long, agile limbs",
+      "Prominent rabbit-like features",
+      "Flaming tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Competitive",
+      "Courageous"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Fast and agile"
+  },
+  "image_path": "images/Cinderace/1.png",
+  "pokemon_name": "Cinderace"
+}

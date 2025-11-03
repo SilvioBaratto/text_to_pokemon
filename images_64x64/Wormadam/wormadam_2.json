@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that can blend into its surroundings with a green and brown color palette.",
+    "Imagine a fairy-type Pokemon that sparkles with pink hues and has floral designs all over its body.",
+    "Generate a ghost-type Pokemon that has a haunting presence and is shrouded in dark colors and mist.",
+    "Make a dual-type Pokemon that combines fairy and bug features with vibrant wings and a whimsical appearance.",
+    "Design a Pokemon that thrives in forest habitats, showcasing earthy tones and delicate, flower-like structures.",
+    "Show me a Pokemon that represents nature, featuring soft colors and a gentle demeanor, perfect for forest environments.",
+    "Give me a bug and steel-type Pokemon that has a shiny metallic body and intricate patterns."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Gray",
+      "accent": "Purple"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Flower-like structure at the base",
+      "Metallic appendage on top",
+      "Wavy pink petals",
+      "Soft and rounded body shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Steel",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Defensive",
+      "Adaptable"
+    ],
+    "habitat": "Forest",
+    "rarity": "Uncommon",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Wormadam/2.png",
+  "pokemon_name": "Wormadam"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a whimsical design and unique facial expressions.",
+    "Show me a playful Pokemon that has a humanoid shape and a bright color palette.",
+    "Imagine a Pokemon that combines elements of mime artistry with vibrant colors and unique features.",
+    "Generate a character that embodies the spirit of a mischievous entertainer Pokemon.",
+    "Design a Pokemon that showcases a blend of pink and blue tones with an intriguing body shape.",
+    "Give me an idea for a Pokemon that can perform tricks and has a quirky personality.",
+    "Make a psychic-themed Pokemon that stands out with its unique accessories and colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Blue",
+      "accent": "White"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large clown-like ears",
+      "Round pink body with blue accents",
+      "Mime-like hands and facial expression",
+      "Small feet with a unique stance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Creative"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Mr. Mime/0.png",
+  "pokemon_name": "Mr. Mime"
+}

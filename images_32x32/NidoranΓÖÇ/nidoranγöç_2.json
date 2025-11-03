@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a playful, small Pokemon that resembles a cute, spiky creature with a blue hue.",
+    "Imagine a Pokemon that can thrive in forest and grassland environments, with a distinct poison-type feature.",
+    "Design a two-toned Pokemon that has a round shape and a spiky back, perfect for a fantasy game.",
+    "Generate a tiny creature with light blue fur and red spots, showcasing its playful personality.",
+    "Show me a Pokemon that looks adorable and has a unique combination of poison and normal types.",
+    "Make a small Pokemon with a round body and distinctive features, perfect for trainers who love cuteness.",
+    "Give me a description of a Pokemon that has a rare habitat, combining elements of forest and cave."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Spiky back",
+      "Large ears",
+      "Red spots",
+      "Small fangs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": "Normal",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Nidoran\u0393\u00d6\u00c7/2.png",
+  "pokemon_name": "Nidoran\u0393\u00d6\u00c7"
+}

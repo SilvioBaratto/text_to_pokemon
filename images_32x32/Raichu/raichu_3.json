@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create an Electric-type Pokemon with bright yellow fur and a lightning bolt tail.",
+    "Imagine a playful Pokemon that sparks joy and energy in any environment.",
+    "Design a medium-sized Pokemon that loves to explore urban landscapes and forests.",
+    "Show me a Pokemon with long ears and a mischievous personality, perfect for a comic.",
+    "Generate a Pokemon that can harness electricity and has a sleek, agile body.",
+    "Make a Pokemon that evolves from a smaller form and is known for its speed.",
+    "Give me a vision of a Pokemon that radiates positivity and has a cheerful demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long ears",
+      "Lightning bolt tail",
+      "Round body",
+      "Cheek pouches",
+      "Whiskers"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Energetic"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Fast and agile"
+  },
+  "image_path": "images/Raichu/3.png",
+  "pokemon_name": "Raichu"
+}

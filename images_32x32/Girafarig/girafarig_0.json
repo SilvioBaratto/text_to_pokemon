@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a unique Pokemon that resembles a giraffe but has a vibrant color scheme.",
+    "I want a Pokemon that combines elements of a giraffe and a psychic creature with bright colors.",
+    "Generate a Pokemon inspired by a giraffe, featuring unusual traits and a playful personality.",
+    "Make a whimsical Pokemon that has a long neck and showcases colorful patterns.",
+    "Imagine a playful giraffe-like Pokemon with a dual color scheme and interesting features.",
+    "Design a Pokemon that is a mix of a giraffe and a mystical creature, with bright yellow and brown.",
+    "Show me a Pokemon that looks like a giraffe but has magical abilities and an eye-catching design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Brown",
+      "accent": "Red"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long neck",
+      "Two heads (front and back)",
+      "Spikes along the back",
+      "Unique tail structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Psychic",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Girafarig/0.png",
+  "pokemon_name": "Girafarig"
+}

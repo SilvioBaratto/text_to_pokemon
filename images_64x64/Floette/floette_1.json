@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a charming fairy-type Pokemon with delicate petals and a playful demeanor.",
+    "Imagine a small Pokemon that always brings sunshine wherever it goes, adorned with floral attire.",
+    "Design a whimsical character inspired by flowers, featuring bright colors and an enchanting aura.",
+    "Show me a tiny Pokemon that dances in the meadows, spreading joy and positivity to everyone.",
+    "Generate a delightful creature that embodies the beauty of nature with vibrant floral patterns.",
+    "Make a fairy-like Pokemon with a serene expression and a magical flower crown, perfect for gardens.",
+    "Give me a Pokemon that looks like it emerged from a flower, with soft colors and a gentle spirit."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Blue",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Flower-like head",
+      "Long stem-like arms",
+      "Petal-like features",
+      "Small stature",
+      "Charming expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Joyful",
+      "Gentle",
+      "Playful"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Floette/1.png",
+  "pokemon_name": "Floette"
+}

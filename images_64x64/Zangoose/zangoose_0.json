@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a sleek, white and red Pokemon with sharp claws and a fierce expression.",
+    "Show me a Pokemon that has a bipedal stance, sporting a distinctive red crest and sharp tail.",
+    "Imagine a powerful Normal-type Pokemon with a striking appearance and agile movements.",
+    "Generate a Pokemon design that features a mix of red and white colors, resembling a predator.",
+    "Make a dynamic-looking Pokemon with strong limbs, emphasizing speed and agility in its design.",
+    "Give me a concept for a Pokemon that thrives in forest habitats, with unique visual traits.",
+    "Design a Pokemon that is known for its rivalry with others, showcasing its fierce demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Red"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, sharp claws",
+      "Red crest on the head",
+      "Sleek body design",
+      "Prominent tail",
+      "Aggressive stance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Competitive",
+      "Determined"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Zangoose/0.png",
+  "pokemon_name": "Zangoose"
+}

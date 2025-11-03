@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with shimmering blue scales and a fierce expression.",
+    "Imagine a water-type Pokemon that resembles a serpentine creature with sharp fins.",
+    "Show me a Pokemon that has a large, intimidating presence and is known for its powerful attacks.",
+    "Design a mythical creature that has a deep blue body and a long, flowing tail.",
+    "Generate an aquatic Pokemon that can soar through the water like a majestic dragon.",
+    "Make a fearsome Pokemon that thrives in ocean habitats and has a legendary reputation.",
+    "Give me a Pokemon with a mix of blue and beige colors that can unleash devastating waves."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Huge",
+    "distinctive_features": [
+      "Long, serpentine body",
+      "Fierce, open mouth with sharp teeth",
+      "Large fins on the sides and tail",
+      "Distinctive whiskers",
+      "Scales with a glossy finish"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Dragon",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Proud",
+      "Powerful"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Gyarados/0.png",
+  "pokemon_name": "Gyarados"
+}

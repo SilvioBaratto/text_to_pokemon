@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a dark-type Pokemon that resembles a small wolf with sharp teeth and bright eyes.",
+    "Show me a Pokemon with a sleek body, gray fur, and a mischievous expression.",
+    "Imagine a quadruped Pokemon with a blend of gray and red colors, perfect for stealthy attacks.",
+    "Generate a Pokemon that embodies the spirit of a cunning hunter in a forest environment.",
+    "Design a Pokemon with an agile build and a fierce gaze, ready to pounce on its prey.",
+    "Give me a description of a small, dark-colored Pokemon that thrives in urban areas.",
+    "Make a Pokemon that has a wolf-like appearance and a playful yet fierce personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Pointed ears",
+      "Sharp teeth",
+      "Red eyes",
+      "Spiked back",
+      "Short tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Playful",
+      "Loyal"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Stealth and ambush"
+  },
+  "image_path": "images/Poochyena/1.png",
+  "pokemon_name": "Poochyena"
+}

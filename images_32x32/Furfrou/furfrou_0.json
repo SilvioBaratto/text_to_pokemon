@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a fluffy, white Pokemon that resembles a dog with elegant fur and a playful demeanor.",
+    "Imagine a Normal-type Pokemon known for its stylish hairstyles and grooming habits.",
+    "Show me a Pokemon that has a sleek, quadruped body with a friendly expression and a love for urban environments.",
+    "Generate a unique Pokemon with a cloud-like appearance and a penchant for social interactions with trainers.",
+    "Design a Pokemon that thrives in grassy areas, displaying distinctive fur patterns and a cheerful personality.",
+    "Give me a Pokemon that features a high-maintenance grooming style and a playful attitude towards battles.",
+    "Make a Normal-type Pokemon with thick, luxurious fur that can change styles to fit its mood."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Gray",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Fluffy fur",
+      "Stylish appearance",
+      "Long tail",
+      "Pointed ears",
+      "Expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Elegant",
+      "Friendly"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Furfrou/0.png",
+  "pokemon_name": "Furfrou"
+}

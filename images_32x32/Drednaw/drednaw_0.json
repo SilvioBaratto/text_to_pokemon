@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that has a large shell and sharp teeth.",
+    "I want a Pokemon that resembles a dinosaur with a rugged shell and powerful limbs.",
+    "Generate an aquatic Pokemon with a thick, armored body and a fierce expression.",
+    "Make a Pokemon that features a unique blend of blue and yellow colors with a prehistoric look.",
+    "Imagine a Pokemon that has a strong connection to the sea and a tough exterior.",
+    "Design a creature that stands low to the ground, combining elements of a turtle and a dinosaur.",
+    "Show me a Pokemon with a strong defensive nature and a vibrant turquoise color."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Green",
+      "accent": "Brown"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large shell on its back",
+      "Sharp teeth",
+      "Prominent spikes on the head",
+      "Thick limbs",
+      "Armored body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Rock",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Defensive",
+      "Determined",
+      "Loyal"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive and offensive tactics"
+  },
+  "image_path": "images/Drednaw/0.png",
+  "pokemon_name": "Drednaw"
+}

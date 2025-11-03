@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a graceful fairy-type Pokemon that embodies elegance and psychic powers.",
+    "I want a psychic Pokemon with flowing garments and a serene expression.",
+    "Generate a humanoid creature with a beautiful dress and a kind demeanor.",
+    "Make a Pokemon that radiates calm energy with green and white colors.",
+    "Imagine a Pokemon that protects others with its psychic abilities and gentle nature.",
+    "Design a Pokemon with a distinctive head shape and a flowing gown.",
+    "Show me a psychic-type Pokemon that can teleport and has a nurturing personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "White"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Pink",
+      "accent": "White"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long flowing dress",
+      "Distinctive head shape resembling a veil",
+      "Elegant posture",
+      "Gentle facial expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Fairy",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Protective",
+      "Calm"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Gardevoir/3.png",
+  "pokemon_name": "Gardevoir"
+}

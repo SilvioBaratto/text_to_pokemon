@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a cute fire-type Pokemon that resembles a small red creature with playful features.",
+    "I want a Pokemon that looks like a red ball with cheerful eyes and a fiery personality.",
+    "Generate a whimsical creature with orange accents and a round shape, perfect for a kids' show.",
+    "Make a Pokemon that has a fiery theme, with large expressive eyes and a charming smile.",
+    "Imagine a tiny fire-type Pokemon with a unique round body and distinct yellow markings.",
+    "Design a playful Pokemon with a bright red color scheme and silly horns on its head.",
+    "Show me a small, adorable fire-type Pokemon that loves to play in the desert."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body shape",
+      "Large expressive eyes",
+      "Horns on top of the head",
+      "Yellow markings resembling teeth",
+      "Cheerful expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Curious"
+    ],
+    "habitat": "Desert",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Darumaka/0.png",
+  "pokemon_name": "Darumaka"
+}

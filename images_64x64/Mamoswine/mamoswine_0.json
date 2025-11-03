@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a Pokemon inspired by ancient mammoths, featuring large tusks and a fluffy coat.",
+    "I want a Pokemon that thrives in snowy environments, showcasing unique ice powers.",
+    "Generate a creature with a robust body and strong defensive capabilities, perfect for battling.",
+    "Make a Pokemon that resembles a woolly mammoth, complete with icy blue accents.",
+    "Imagine a Pokemon that can summon blizzards, characterized by its thick fur and tusks.",
+    "Design a Pokemon that embodies strength and resilience, with features reminiscent of prehistoric beasts.",
+    "Show me a Pokemon that blends earth and ice elements, creating a formidable presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": "Blue"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large tusks",
+      "Fluffy fur",
+      "Blue markings around the eyes",
+      "Stocky build",
+      "Short legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": "Ground",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Sturdy",
+      "Loyal",
+      "Protective"
+    ],
+    "habitat": "Tundra",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Mamoswine/0.png",
+  "pokemon_name": "Mamoswine"
+}

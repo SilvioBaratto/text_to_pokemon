@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon with a steel-like body and shiny blue eyes.",
+    "Imagine a small Pokemon that resembles a metal creature, glimmering in the sunlight.",
+    "Show me a Pokemon that has a round shape and is primarily gray with blue accents.",
+    "Design a Pokemon that feels tough and durable, perfect for mountainous terrains.",
+    "Generate a creature that has features resembling both steel and rock, with a sturdy appearance.",
+    "Give me a description of a Pokemon that is known for its defensive capabilities and metallic body.",
+    "Make a Pokemon that is a small, steel-type with a unique eye color and rounded features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round metallic body",
+      "Shiny blue eyes",
+      "Small limbs",
+      "Steel-like texture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Rock",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Defensive",
+      "Sturdy"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Aron/0.png",
+  "pokemon_name": "Aron"
+}

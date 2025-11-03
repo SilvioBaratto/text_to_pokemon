@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon with a round cap and small arms that resembles a mushroom.",
+    "Imagine a cute mushroom Pokemon that has pink spots and a gray base.",
+    "Show me a unique grass/poison Pokemon that hides in forest environments.",
+    "Generate a Pokemon that has a quirky mushroom appearance with vibrant colors.",
+    "Make a whimsical creature that could be found in grasslands, with a round, mushroom-like shape.",
+    "Design a playful Pokemon with a large cap and small ball-shaped features.",
+    "Give me a Pokemon that blends in with its forest surroundings, resembling a toadstool."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Pink",
+      "Gray"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Pink",
+      "accent": "Gray"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Mushroom cap",
+      "Round body",
+      "Small arms",
+      "Spore-like patterns",
+      "Two ball-shaped features"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Mischievous"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Amoonguss/0.png",
+  "pokemon_name": "Amoonguss"
+}

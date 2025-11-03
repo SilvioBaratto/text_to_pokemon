@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a majestic fire-type Pokemon with vibrant orange wings and a fiery personality.",
+    "Imagine a bug-type creature that glows in the dark with intricate patterns and a warm color palette.",
+    "Generate an elegant Pokemon with a unique body shape, featuring red and yellow accents for a stunning look.",
+    "Show me a winged insectoid Pokemon that embodies the beauty of a sunset with its color scheme.",
+    "Design a Pokemon that thrives in forests, showcasing a mix of fire and bug characteristics in its appearance.",
+    "Give me a detailed description of a Pokemon with striking colors and an impressive wingspan, perfect for aerial battles.",
+    "Make an artistic rendition of a Pokemon that combines fierce beauty with a blend of fire and bug elements."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Yellow",
+      "accent": "Orange"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Four large, fiery wings",
+      "Flame-like antennae",
+      "Insectoid body structure",
+      "Colorful patterns on wings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Fire",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Majestic",
+      "Mysterious",
+      "Passionate"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Volcarona/1.png",
+  "pokemon_name": "Volcarona"
+}

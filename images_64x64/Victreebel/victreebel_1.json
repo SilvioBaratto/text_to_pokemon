@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a plant-based Pokemon with vibrant yellow and green colors, featuring a unique drooping flower.",
+    "Imagine a Pokemon that resembles a carnivorous plant, combining shades of yellow and black for a striking look.",
+    "Design a whimsical creature inspired by tropical plants, with a playful expression and bright color palette.",
+    "Show me a Pokemon with vine-like extensions and a bell shape, perfect for a forest setting.",
+    "Generate a quirky Pokemon that has a large mouth and an interesting leaf design, perfect for battling.",
+    "Make a Pokemon that thrives in grasslands, featuring a sharp contrast of yellow and green in its body.",
+    "Give me a unique Pokemon that has an unusual size and shape, looking both inviting and dangerous."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": "Green"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Bell-shaped body",
+      "Vine-like appendages",
+      "Large mouth for capturing prey",
+      "Leafy crown",
+      "Distinctive black eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cunning",
+      "Adaptable"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Status infliction and trap-setting"
+  },
+  "image_path": "images/Victreebel/1.png",
+  "pokemon_name": "Victreebel"
+}

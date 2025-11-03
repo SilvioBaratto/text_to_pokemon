@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Show me an electric-type Pokemon that can generate powerful thunderbolts and has a playful personality.",
+    "Design a Pokemon that resembles a mouse but has a striking yellow and brown color scheme.",
+    "Create a whimsical creature that embodies the spirit of electricity with a cheerful demeanor.",
+    "Imagine a Pokemon that can harness lightning, with a round body and long, curled tail.",
+    "Give me a cute yet fierce Pokemon that thrives in urban environments and loves to explore.",
+    "Generate a Pokemon with a vibrant yellow hue and a strong connection to its electrical powers.",
+    "Make a character that represents speed and agility, with a sleek, bipedal form."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Brown",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long, pointed ears",
+      "Curled tail with a lightning bolt shape",
+      "Round cheeks",
+      "Thick, furry body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Curious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Speed and Special Attack"
+  },
+  "image_path": "images/Raichu/4.png",
+  "pokemon_name": "Raichu"
+}

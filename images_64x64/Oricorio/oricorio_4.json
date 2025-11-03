@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a graceful flying Pokemon with a pink body and fluffy white features.",
+    "Imagine a bird-like Pokemon that dances elegantly, featuring vibrant colors and a cheerful demeanor.",
+    "Show me a fairy-type Pokemon with a soft pink appearance and a gentle, nurturing personality.",
+    "Generate a whimsical Pokemon that thrives in lush areas, showcasing a blend of pink and white hues.",
+    "Make a playful Pokemon that embodies the spirit of celebration, adorned with a fluffy skirt and bright colors.",
+    "Design a unique Pokemon that uses its wings to charm others, featuring a mix of pink and white.",
+    "I want to see a Pokemon inspired by ballet, complete with flowing features and a joyful expression."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy skirt-like feathers",
+      "Elegant wing structure",
+      "Pink coloration",
+      "Dancing pose",
+      "Cheerful expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Flying",
+    "type2": "Psychic",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Elegant",
+      "Playful"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Oricorio/4.png",
+  "pokemon_name": "Oricorio"
+}

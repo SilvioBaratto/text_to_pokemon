@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a small, rock-type Pokemon with orange claws and a shell-like body.",
+    "I want a bug-type creature that has distinctive orange and gray colors, resembling a hermit crab.",
+    "Generate a Pokemon with a rugged appearance and vivid orange accents, perfect for a rocky terrain.",
+    "Make a creature that embodies the essence of a forest-dwelling critter with a tough exterior.",
+    "Imagine a tiny, orange-clawed Pokemon that thrives in caves and mountains, showcasing its unique features.",
+    "Design a Pokemon that combines elements of both bug and rock types with a fierce personality.",
+    "Show me a Pokemon with a distinct shell shape and striking orange features, ready for battle."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Gray",
+      "accent": "Brown"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Orange claws",
+      "Rock-like shell",
+      "Small size",
+      "Facial features resembling a hermit crab"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Rock",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Resourceful",
+      "Defensive",
+      "Adaptable"
+    ],
+    "habitat": "Cave",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Dwebble/1.png",
+  "pokemon_name": "Dwebble"
+}

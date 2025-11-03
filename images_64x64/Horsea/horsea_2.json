@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a sleek body and a long tail, swimming gracefully in the ocean.",
+    "Imagine a cute dragon-type creature with blue scales and fins, living in coral reefs.",
+    "Generate a unique aquatic Pokemon with a charming face and delicate features that resemble a seahorse.",
+    "Design a small water-type Pokemon that has a playful personality and loves to splash water everywhere.",
+    "Show me a Pokemon that has a serpentine body and a friendly demeanor, perfect for underwater adventures.",
+    "Make a whimsical water-type creature that has a rounded snout and large fins, suitable for a tropical habitat.",
+    "Give me a Pokemon with a charming smile and fluid movements that can be found in serene lakes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Long, curved tail",
+      "Spiny dorsal fin",
+      "Small mouth and large eyes",
+      "Fins on the side resembling wings",
+      "Curved head shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Gentle"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Horsea/2.png",
+  "pokemon_name": "Horsea"
+}

@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a fairy-type Pokemon that resembles a flower with vibrant colors and elegant features.",
+    "Imagine a Pokemon with a floral design that can manipulate nature and charm its opponents.",
+    "Generate a whimsical Pokemon that embodies the beauty of gardens and has a gentle personality.",
+    "Show me a Pokemon that represents spring with colorful petals and a graceful, flowing appearance.",
+    "Design a Pokemon that thrives in lush environments and has a calming presence around it.",
+    "Make a Pokemon that showcases floral patterns and uses nature-based powers in battles.",
+    "Give me a Pokemon that has a fairy-like appearance and can heal other Pokemon with its abilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Green",
+      "accent": "Red"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Flower-like head with petals",
+      "Long leafy arms",
+      "Delicate, flowing design",
+      "Vibrant floral colors",
+      "Elegant posture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Charming",
+      "Graceful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Florges/0.png",
+  "pokemon_name": "Florges"
+}

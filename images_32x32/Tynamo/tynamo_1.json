@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon with a sleek, elongated body and a bright aura.",
+    "I want a water-type Pokemon that resembles a small fish, with shimmering scales and a playful demeanor.",
+    "Generate a unique Pokemon that embodies the essence of electricity and aquatic environments.",
+    "Make a Pokemon that looks like a tiny aquatic creature, with vibrant colors and a friendly expression.",
+    "Imagine a Pokemon that thrives in the sea, characterized by its smooth body and electric abilities.",
+    "Design a small, fish-like Pokemon that emits sparks of electricity when excited or threatened.",
+    "Show me a playful electric Pokemon that can swim swiftly through water and has a bright appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": "White"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Sleek, elongated body",
+      "Bright yellow stripes",
+      "Large, expressive eyes",
+      "Small fins",
+      "Smooth texture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Energetic"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Tynamo/1.png",
+  "pokemon_name": "Tynamo"
+}

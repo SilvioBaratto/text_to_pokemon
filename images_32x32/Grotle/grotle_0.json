@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a powerful grass-type Pokemon with a sturdy shell and vibrant foliage.",
+    "Imagine a Pokemon that thrives in forested areas, showcasing a rich green palette.",
+    "Design a Pokemon with a big, leafy back and a friendly, protective demeanor.",
+    "Show me a Pokemon that embodies the essence of nature, with earthy colors and a strong presence.",
+    "Generate a unique turtle-like Pokemon that combines toughness and gentleness in its design.",
+    "Make a Pokemon that represents growth and resilience, featuring lush greenery and a robust build.",
+    "I want to see a Pokemon that captures the spirit of the forest with its earthy tones and sturdy shape."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large leafy shell",
+      "Sturdy, turtle-like body",
+      "Short legs",
+      "Big eyes",
+      "Thick, textured skin"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Ground",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Protective",
+      "Loyal"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Grotle/0.png",
+  "pokemon_name": "Grotle"
+}

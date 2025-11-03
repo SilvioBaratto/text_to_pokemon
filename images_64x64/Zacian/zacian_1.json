@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a legendary Pokemon that embodies the spirit of a noble wolf.",
+    "Imagine a mythical creature with a powerful blue aura and a majestic sword.",
+    "Design a Pokemon that thrives in lush forests and has a fierce demeanor.",
+    "Generate a combat-ready Pokemon that showcases the elegance of a warrior.",
+    "Show me a Pokemon with striking blue fur and a regal appearance.",
+    "Make a Pokemon that balances grace and strength, perfect for epic battles.",
+    "Give me a visual of a majestic canine Pokemon with a unique weapon."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Brown",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Brown",
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Sword-like weapon",
+      "Flowing mane",
+      "Armor-like collar",
+      "Regal posture",
+      "Fierce expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": "Steel",
+    "generation": 8,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Noble",
+      "Fierce",
+      "Protective"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Zacian/1.png",
+  "pokemon_name": "Zacian"
+}

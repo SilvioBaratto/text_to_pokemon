@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Show me a weather-themed Pokemon that can change forms based on the season.",
+    "Create a Pokemon that embodies the essence of clouds with a gentle personality.",
+    "Imagine a water-type Pokemon that can transform into different weather conditions.",
+    "Make a cute and fluffy Pokemon that represents the atmosphere and climate.",
+    "Generate a Pokemon that looks like a cloud with a playful demeanor and soft features.",
+    "Design a Pokemon that can adapt its form to reflect various weather types.",
+    "Give me a small, amorphous Pokemon that brings rain and sunshine wherever it goes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White"
+    ],
+    "secondary_colors": [
+      "Gray",
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Gray",
+      "accent": "Black"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Cloud-like appearance",
+      "Round body shape",
+      "Large, expressive eyes",
+      "Swirling tail",
+      "Soft edges"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Adaptable",
+      "Gentle"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Castform/1.png",
+  "pokemon_name": "Castform"
+}

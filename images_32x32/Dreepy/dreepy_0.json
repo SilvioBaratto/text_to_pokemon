@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that resembles a small dragon with a hauntingly playful expression.",
+    "Imagine a Pokemon with a sleek, serpentine body and vibrant green and red colors.",
+    "Show me a small, aquatic Pokemon with unique wing-like structures and mysterious features.",
+    "Design a Pokemon that blends elements of a dragon and a ghost with a whimsical design.",
+    "Generate a tiny, playful Pokemon that has a dragon-like appearance with bright yellow eyes.",
+    "Make a ghostly creature that hovers gracefully, combining both elegance and a ghostly charm.",
+    "Give me an image of a Pokemon that can be found near caves and has an ethereal look."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Dragon-like head",
+      "Transparent wings",
+      "Long tail",
+      "Large yellow eyes",
+      "Ruffled red fins"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Dragon",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Curious"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Speed and evasion"
+  },
+  "image_path": "images/Dreepy/0.png",
+  "pokemon_name": "Dreepy"
+}

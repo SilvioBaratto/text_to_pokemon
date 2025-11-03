@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a cute, fluffy Pokemon that brings joy to everyone around it.",
+    "Show me a playful creature with soft pink fur and big blue eyes.",
+    "Imagine a small, round Pokemon that loves to sing and dance in the fields.",
+    "Generate a whimsical character with a cheerful personality and a love for adventure.",
+    "Design an adorable Pokemon that can float in the air with its big ears.",
+    "Give me a friendly creature that enjoys making friends with other Pokemon.",
+    "Make a round Pokemon with a soft body and a charming smile."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "White"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Blue",
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large ears",
+      "Fluffy body",
+      "Round shape",
+      "Blue eyes",
+      "Small mouth"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Friendly"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Wigglytuff/2.png",
+  "pokemon_name": "Wigglytuff"
+}

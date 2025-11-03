@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon that resembles a fluffy cloud with wings.",
+    "I want a serene flying-type Pokemon that looks like it's made of cotton candy.",
+    "Generate a graceful Pokemon with a soft blue hue and fluffy cloud-like features.",
+    "Make a whimsical Pokemon design inspired by the sky and fluffy clouds.",
+    "Imagine a gentle dragon Pokemon that glides through the air with ease.",
+    "Design a Pokemon that embodies tranquility with its soft colors and serene appearance.",
+    "Give me a Pokemon that has a unique cloud-like form and a soothing blue color."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Fluffy cloud-like body",
+      "Large wings",
+      "Long tail",
+      "Soft, rounded shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Flying",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Serene",
+      "Playful"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Altaria/3.png",
+  "pokemon_name": "Altaria"
+}

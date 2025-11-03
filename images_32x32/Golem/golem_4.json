@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon with a sturdy exterior and a playful demeanor.",
+    "I want a Pokemon that resembles a boulder but has a vibrant personality.",
+    "Generate a Pokemon that combines earthy colors with an energetic pose.",
+    "Make a tough-looking Pokemon that can roll into a ball and crush its foes.",
+    "Imagine a Pokemon with rocky features and a friendly disposition that thrives in caves.",
+    "Design a Pokemon that embodies both strength and playfulness in its appearance.",
+    "Give me a rugged Pokemon that can adapt to various habitats like mountains and caves."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Gray"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Gray",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Rocky, boulder-like body",
+      "Large arms",
+      "Open mouth with a tongue visible",
+      "Sturdy legs",
+      "Prominent eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Ground",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Sturdy",
+      "Friendly"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Golem/4.png",
+  "pokemon_name": "Golem"
+}

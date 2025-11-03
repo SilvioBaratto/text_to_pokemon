@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a rocky Pokemon that can withstand heavy hits and has a blue and gray color scheme.",
+    "Imagine a Pokemon that rolls into a ball, showcasing a unique mix of rock and ground types.",
+    "Show me a sturdy Pokemon with a sturdy body and a tough shell, perfect for battles in tough terrains.",
+    "Generate a Pokemon that resembles a boulder, with shades of blue and gray, ready for a rocky adventure.",
+    "Make a Pokemon that blends into mountainous environments, featuring a round, heavy-set body and a tough exterior.",
+    "Design a Pokemon that is both formidable and grounded, with a mixture of sharp and round features.",
+    "Give me a Pokemon that embodies strength and resilience, with a distinctive rocky texture and vibrant blue accents."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "White",
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Rocky exterior",
+      "Round body shape",
+      "Prominent protrusions resembling arms",
+      "Gray and blue color scheme",
+      "Large, solid appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Ground",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Sturdy",
+      "Determined",
+      "Defensive"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Golem/2.png",
+  "pokemon_name": "Golem"
+}

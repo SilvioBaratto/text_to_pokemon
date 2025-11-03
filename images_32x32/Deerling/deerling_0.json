@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon that resembles a cute deer with colorful antlers.",
+    "Imagine a small Pokemon that can change colors with the seasons, like Deerling.",
+    "Design a Pokemon that thrives in grassy fields and has a gentle personality.",
+    "Show me a Pokemon with a leafy crown that lives in forest habitats.",
+    "Generate a Pokemon that looks like a fawn and has unique seasonal forms.",
+    "Give me a Pokemon with a bright orange body and white accents, perfect for spring.",
+    "Make a Pokemon that embodies the essence of nature and the changing seasons."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "White"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Brown",
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Colorful antlers",
+      "Short legs",
+      "White belly",
+      "Large ears",
+      "Fluffy tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Normal",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Deerling/0.png",
+  "pokemon_name": "Deerling"
+}

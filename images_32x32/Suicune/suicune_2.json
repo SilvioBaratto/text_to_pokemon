@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a majestic water-type Pokemon with flowing mane and shimmering scales that glisten in the sunlight.",
+    "Imagine a legendary creature that roams the wetlands, embodying grace and elegance with its vibrant colors.",
+    "Design an ethereal Pokemon with a serene expression, perfect for a tranquil forest habitat surrounded by mist.",
+    "Show me a mythical Pokemon that radiates calmness and strength, adorned with unique patterns and a sleek body.",
+    "Generate a stunning quadruped with a crystal-like structure on its back, reflecting its watery environment.",
+    "Make a Pokemon that embodies beauty and power, with colors that blend seamlessly like a sunrise over the ocean.",
+    "Give me a legendary Pokemon that has a gentle demeanor but is fierce in battle, with striking blue and purple hues."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Purple",
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Flowing blue mane",
+      "Translucent fin-like crest",
+      "Elegant quadrupedal stance",
+      "Spotted white patterns on body",
+      "Long tail with fin-like end"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Noble",
+      "Protective"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Suicune/2.png",
+  "pokemon_name": "Suicune"
+}

@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a yellow body and distinctive ear shapes.",
+    "Generate an image of a cute Pokemon that embodies a shy personality in a serene forest setting.",
+    "Show me a character design for an adorable tiny Pokemon that likes to meditate.",
+    "Imagine a whimsical Pokemon species specifically designed for habiting grassy meadows with bright colors.",
+    "Give me a sketch of a Pokemon that can teleport, featuring a playful and mysterious vibe.",
+    "Design a Pokemon that specializes in psychic abilities, showcasing its unique features and colors.",
+    "Make an illustration of a serene and peaceful Pokemon that enjoys urban environments and quiet spaces."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "large ears",
+      "big, expressive eyes",
+      "arms hugging a Cadabra's spoon",
+      "tail with a point",
+      "calm demeanor"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "shy",
+      "calm",
+      "thoughtful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Abra/3.png",
+  "pokemon_name": "Abra"
+}

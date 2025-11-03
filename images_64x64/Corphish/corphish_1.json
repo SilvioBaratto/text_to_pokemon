@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that is small and has a bright red body and large claws.",
+    "Imagine a Pokemon with a crab-like appearance, featuring vibrant colors and aquatic attributes.",
+    "Show me a Pokemon that thrives in wetlands, with distinctive claws and a playful personality.",
+    "Design a creature that resembles a crustacean with an eye-catching design and a competitive spirit.",
+    "Generate a Pokemon that has a unique combination of red and white colors, making it stand out.",
+    "Give me a small, lively Pokemon that loves to explore both sea and grassland habitats.",
+    "Make a Pokemon that embodies the essence of a fierce underwater fighter with striking features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large claws",
+      "Exposed eyes",
+      "Rounded body",
+      "Short legs",
+      "Prominent antennae"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Bug",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Competitive"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Corphish/1.png",
+  "pokemon_name": "Corphish"
+}

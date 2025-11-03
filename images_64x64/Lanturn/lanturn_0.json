@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a glowing fish with bright yellow accents and a friendly expression.",
+    "Imagine a Pokemon that illuminates dark waters, combining electric and aquatic features in a sleek design.",
+    "Design a Pokemon with a round body and long antennae, showcasing shades of blue and yellow, perfect for underwater adventures.",
+    "Generate a unique Pokemon that has a playful demeanor and lights up its surroundings, blending electric and water elements.",
+    "Show me a Pokemon with a whimsical appearance, featuring a bulbous body and bright fins, ideal for ocean exploration.",
+    "Make a Pokemon that appears both cute and mysterious, with luminescent features and a sleek aquatic shape.",
+    "Give me a Pokemon that combines aquatic grace with electric charm, showcasing a vibrant color palette and an enchanting glow."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Antennas resembling a fishing lure",
+      "Bulbous, rounded body",
+      "Large, expressive eyes",
+      "Fins that resemble wings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Electric",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Lanturn/0.png",
+  "pokemon_name": "Lanturn"
+}

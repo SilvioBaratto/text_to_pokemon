@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a small, green Pokemon with large leaves and a cheerful expression.",
+    "I want a Pokemon that embodies nature, featuring vibrant yellow and green colors.",
+    "Generate a cute, flower-like creature that thrives in grassy areas.",
+    "Make a Pokemon with a playful personality and a whimsical design.",
+    "Imagine a Pokemon that resembles a plant but has a friendly, round face.",
+    "Design a tiny Pokemon that loves to hide among the flowers and grass.",
+    "Show me a Pokemon that represents growth and vitality with a unique shape."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Green"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": null,
+      "accent": "Green"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Leafy head",
+      "Round body",
+      "Small red eyes",
+      "Short green neck",
+      "Leaf-like appendages"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Petilil/1.png",
+  "pokemon_name": "Petilil"
+}

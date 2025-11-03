@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a streamlined body and large fins.",
+    "Generate a serene creature that glides gracefully through the ocean waves.",
+    "Make a Pokemon that resembles a manta ray, with soft colors and gentle features.",
+    "Imagine a friendly aquatic Pokemon that enjoys playing with trainers in the sea.",
+    "Design a Pokemon with a unique swimming technique and beautiful blue patterns.",
+    "Show me a Pokemon that can soar through water and air with ease.",
+    "I want a calming Pokemon that embodies the tranquility of the ocean depths."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Pink",
+      "accent": "Gray"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large pectoral fins",
+      "Flat, disc-like body",
+      "Long tail fin",
+      "Two prominent antennae",
+      "Gradient color pattern"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Playful",
+      "Calm"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Mantine/0.png",
+  "pokemon_name": "Mantine"
+}

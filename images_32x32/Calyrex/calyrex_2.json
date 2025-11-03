@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon that rides a ghostly steed, combining elegance and mystery.",
+    "Show me a dual-type Pokemon with a regal appearance and a heart emblem.",
+    "Imagine a ghost-type creature surrounded by a mist, featuring a small, shadowy horse.",
+    "Generate a legendary Pokemon with a unique color palette of green and purple tones.",
+    "Give me a Pokemon that embodies the spirit of nature, with flowing features and ethereal elements.",
+    "Design a creature that blends into a magical forest setting, showcasing both grace and power.",
+    "Make a Pokemon that symbolizes the bond between nature and the supernatural, with striking designs."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Green",
+      "accent": "Purple"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Rider on the back of a horse-like figure",
+      "Heart-shaped emblem",
+      "Flowing mist or ethereal mane",
+      "Regal posture and elegant design",
+      "Dark coloration with glowing accents"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Grass",
+    "generation": 8,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Noble",
+      "Mysterious",
+      "Intelligent"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Strategic and evasive"
+  },
+  "image_path": "images/Calyrex/2.png",
+  "pokemon_name": "Calyrex"
+}

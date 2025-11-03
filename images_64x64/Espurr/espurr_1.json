@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon that looks fluffy and has large, expressive ears.",
+    "Imagine a small, cute Pokemon that has big blue eyes and a unique tail design.",
+    "Design a Pokemon that embodies a mixture of innocence and mysterious charm.",
+    "Show me a playful creature that can blend into urban environments with its subtle colors.",
+    "Give me a whimsical Pokemon that captures the essence of softness and gentleness.",
+    "Generate an adorable psychic Pokemon with a round body and a curious demeanor.",
+    "Make a Pokemon that can be found in serene forest habitats, showcasing its gentle nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large, round ears",
+      "Big blue eyes",
+      "Fluffy body",
+      "Small stature",
+      "Mysterious expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Shy",
+      "Curious",
+      "Gentle"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Espurr/1.png",
+  "pokemon_name": "Espurr"
+}

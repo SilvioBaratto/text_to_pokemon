@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon that resembles a fortress with unique geometric features.",
+    "Generate an ancient-looking Pokemon with a sturdy body and multiple legs for stability.",
+    "Design a Pokemon that is a fusion of stone and technology, featuring glowing accents.",
+    "Imagine a legendary Pokemon that embodies the essence of a mountain and ancient ruins.",
+    "Show me a unique Pokemon that has a square shape and is built for defense.",
+    "Give me a detailed description of a mythical Pokemon with a massive, blocky appearance.",
+    "Make a Pokemon that has a sturdy build and blends seamlessly into rocky environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Block-like body",
+      "Multiple legs",
+      "Geometric patterns",
+      "Glowing blue accents",
+      "Fortress-like appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Steel",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Stoic",
+      "Protective",
+      "Resilient"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Stakataka/1.png",
+  "pokemon_name": "Stakataka"
+}

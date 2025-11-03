@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a small, bipedal Pokemon with sleek black scales and a fiery red tail.",
+    "Imagine a cunning fire and poison-type Pokemon with unique dark features and agile movements.",
+    "Show me a Pokemon with a striking black and red color scheme, perfect for a stealthy hunter.",
+    "Design a small, agile Pokemon that thrives in urban environments, featuring fiery accents.",
+    "Generate a Pokemon that embodies the essence of a dual-type fire and poison creature.",
+    "Make a creature that has a dynamic pose, showcasing its vibrant red tail and dark physique.",
+    "Give me a visually appealing Pokemon that combines elements of both fire and poison types."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Sleek, elongated body",
+      "Fiery red tail",
+      "Dark, glossy scales",
+      "Large, expressive eyes",
+      "Sharp claws"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Poison",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Agile",
+      "Stealthy"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Salandit/1.png",
+  "pokemon_name": "Salandit"
+}

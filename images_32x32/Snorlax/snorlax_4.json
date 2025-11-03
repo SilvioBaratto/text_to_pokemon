@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a cozy, large Pokemon that loves to sleep and eat constantly.",
+    "Imagine a Pokemon with a round body and a gentle demeanor, perfect for cuddling.",
+    "Generate a hefty creature that enjoys lounging in sunny spots, surrounded by nature.",
+    "Design a laid-back Pokemon that can be found snoring in serene environments.",
+    "Show me a Pokemon that embodies relaxation with its soft features and calm personality.",
+    "Make a creature that radiates tranquility and is known for its love of food.",
+    "Give me a hefty, friendly Pokemon that brings joy wherever it snoozes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": null,
+      "accent": "Brown"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Huge",
+    "distinctive_features": [
+      "Large round body",
+      "Sleepy expression",
+      "Short limbs",
+      "Thick belly",
+      "Visible claws"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Laid-back",
+      "Gentle",
+      "Sleepy"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Snorlax/4.png",
+  "pokemon_name": "Snorlax"
+}

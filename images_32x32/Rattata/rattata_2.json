@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a playful mouse Pokemon with mischievous eyes and a long tail.",
+    "I want a cute purple rodent Pokemon that loves to scurry around urban areas.",
+    "Generate a Pokemon that resembles a small, agile creature with oversized ears.",
+    "Make a tiny Normal-type Pokemon with a sleek body and a penchant for stealing food.",
+    "Imagine a Pokemon with bright purple fur and a knack for navigating through grasslands.",
+    "Design a Pokemon that is quick and clever, often found in forests and caves.",
+    "Show me a Rattata-inspired creature that embodies agility and resourcefulness."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "White",
+      "accent": "Brown"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large ears",
+      "Long whiskers",
+      "Small, agile body",
+      "Long tail",
+      "Sharp front teeth"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful",
+      "Agile"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Rattata/2.png",
+  "pokemon_name": "Rattata"
+}

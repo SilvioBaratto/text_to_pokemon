@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a snake-like Pokemon with earthy tones and a unique pattern",
+    "Imagine a Pokemon that resembles a sand snake, with a sleek design and camouflaged colors",
+    "Generate a Pokemon with a round body and a playful expression, perfect for desert habitats",
+    "Show me a Pokemon that coils around itself, featuring shades of brown and green",
+    "Make a Pokemon that has a sandy appearance, blending into its environment effortlessly",
+    "Design a Ground-type Pokemon with a distinctive eye pattern and a laid-back demeanor",
+    "Give me a Pokemon that represents the beauty of deserts with its unique coloration and shape"
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Green"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Green",
+      "accent": "White"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Coiled body",
+      "Patterned scales",
+      "Large, expressive eyes",
+      "Smooth, streamlined shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Adaptable",
+      "Playful"
+    ],
+    "habitat": "Desert",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Sandaconda/0.png",
+  "pokemon_name": "Sandaconda"
+}

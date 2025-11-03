@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a sleek, humanoid Pokemon that embodies speed and elegance with long limbs and antennae.",
+    "Design a mystical creature with a striking white and gold color palette that flies gracefully.",
+    "Show me a bug-type Pokemon with insect-like features and a slender, agile body that can move swiftly.",
+    "Generate a legendary Pokemon that resembles a delicate dancer, with wings that shimmer in sunlight.",
+    "Imagine a bug/fighting type Pokemon that stands tall, showcasing a combination of grace and power.",
+    "Make an ultra-rare Pokemon that has elegant curves and a futuristic appearance, fitting for the Ultra Beasts.",
+    "Give me a Pokemon that exudes confidence and agility, with features that make it look like a ballet dancer."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long limbs",
+      "Delicate wings",
+      "Antennae",
+      "Elegant posture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Fighting",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Graceful",
+      "Agile",
+      "Confident"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Pheromosa/1.png",
+  "pokemon_name": "Pheromosa"
+}

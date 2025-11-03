@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a dark-type Pokemon with sharp wings and a sleek, menacing design.",
+    "Imagine a legendary creature that harnesses the power of light and darkness.",
+    "Show me a Pokemon that embodies mystery with angular shapes and a shadowy appearance.",
+    "Design a mythical Pokemon that can manipulate energy and has an imposing presence.",
+    "Generate a creature that has a jet-black color scheme and radiates a powerful aura.",
+    "Give me a Pokemon with a unique silhouette that's both elegant and intimidating.",
+    "Make a creature that can blend into the shadows with an ethereal glow."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Gray",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Sharp angular wings",
+      "Long slender body",
+      "Glowing features",
+      "Intimidating silhouette"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Steel",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Intimidating",
+      "Intellectual"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Necrozma/3.png",
+  "pokemon_name": "Necrozma"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a dark and fiery Pokemon that resembles a small dog with sharp features.",
+    "Imagine a Pokemon that thrives in urban environments with a strong sense of loyalty and protection.",
+    "Design a small quadruped Pokemon with a sleek black coat and bright orange markings.",
+    "Generate a Pokemon that embodies the spirit of the night, with a mysterious aura and fiery attacks.",
+    "Show me a Pokemon that is both fierce and playful, perfect for trainers who love adventure.",
+    "Make a Pokemon that can blend into dark environments but has a fiery personality and abilities.",
+    "Give me a medium-sized, dog-like Pokemon with a dual nature of fire and dark elements."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Gray",
+      "accent": "Orange"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Pointed ears",
+      "Flame-like tail",
+      "Orange markings on the body",
+      "Sharp teeth",
+      "Prominent canine structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": "Fire",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Loyal",
+      "Playful",
+      "Protective"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Houndour/0.png",
+  "pokemon_name": "Houndour"
+}

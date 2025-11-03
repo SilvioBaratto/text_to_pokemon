@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with vibrant green eyes and red wings.",
+    "I want a flying Pokemon that has an insectoid appearance and unique coloration.",
+    "Generate a Pokemon resembling a dragonfly, showcasing bright colors and speedy traits.",
+    "Make a tiny bug Pokemon that thrives in forests with distinctive wing patterns.",
+    "Imagine a small winged Pokemon that can camouflage with its surrounding environment.",
+    "Design a Pokemon that combines elements of a dragonfly and a vibrant color palette.",
+    "Show me a Pokemon with characteristics of both insects and flying creatures."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Red",
+      "accent": "Orange"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large green eyes",
+      "Red and orange wings",
+      "Long slender body",
+      "Two pairs of wings",
+      "Large antennae"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Energetic",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Yanma/0.png",
+  "pokemon_name": "Yanma"
+}

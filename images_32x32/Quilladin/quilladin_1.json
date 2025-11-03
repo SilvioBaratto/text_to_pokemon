@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a spiky green creature with a cheerful expression and a round body.",
+    "Imagine a Pokemon with brown legs and a vibrant green body, showcasing its love for nature.",
+    "Generate a Pokemon that has a playful personality, with an appearance that blends earth and plant features.",
+    "Show me a Pokemon that embodies the spirit of forests with its green colors and sturdy build.",
+    "Design a Pokemon that uses its plant-like traits to defend itself against opponents in battle.",
+    "Make a Pokemon with a mix of earthy tones and bright accents that radiates joy and friendliness.",
+    "Give me a Pokemon that stands out with its unique shape and vibrant colors, perfect for a garden."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": "Red"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Spiky head with leaf-like protrusions",
+      "Chubby body with a round shape",
+      "Red accents on the arms",
+      "Bright eyes with a cheerful expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Ground",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Protective"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Quilladin/1.png",
+  "pokemon_name": "Quilladin"
+}

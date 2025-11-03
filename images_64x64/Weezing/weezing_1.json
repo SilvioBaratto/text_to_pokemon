@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a toxic-themed Pokemon that resembles a gas cloud with multiple floating orbs.",
+    "Design a dual-type Poison and Flying Pokemon with a unique gas emission feature.",
+    "Imagine a Pokemon that is an amalgamation of smoke and sludge, featuring green accents.",
+    "Generate a creature that embodies pollution, with a body shaped like a container of toxic waste.",
+    "Show me a Pokemon that has two tall smokestacks on its head and a bulbous body.",
+    "Make a Pokemon that represents environmental hazards, with a focus on its gaseous appearance.",
+    "Give me a character that combines elements of poison and waste, with a playful yet menacing vibe."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Green",
+      "accent": "Gray"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Two tall smokestacks",
+      "Bulbous body",
+      "Green toxic orbs",
+      "Gas emissions"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Cunning",
+      "Playful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Weezing/1.png",
+  "pokemon_name": "Weezing"
+}

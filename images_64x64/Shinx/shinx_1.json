@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a cute, electric-type Pokemon that has a playful demeanor and bright colors.",
+    "Show me a small Pokemon with blue fur and a star-shaped tail, perfect for a children's show.",
+    "Imagine a playful Pokemon that combines elements of a cat and a lightning bolt.",
+    "Generate a Pokemon with vibrant yellow accents and a friendly personality, ideal for trainers.",
+    "Design a creature that emits sparks and has a sleek, agile body, resembling a small lion.",
+    "Give me a whimsical electric Pokemon that loves to explore urban environments and play with trainers.",
+    "Make a Pokemon that has a bright blue coat and is known for its energetic nature and speed."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Star-shaped tail",
+      "Large, expressive eyes",
+      "Pointed ears",
+      "Electric sparks on body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Friendly"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Speed-based, hit-and-run tactics"
+  },
+  "image_path": "images/Shinx/1.png",
+  "pokemon_name": "Shinx"
+}

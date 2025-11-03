@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a plant-like Pokemon with vibrant green leaves and a unique flower shape.",
+    "I want a Pokemon that resembles a carnivorous plant with sharp features and a playful demeanor.",
+    "Generate a Pokemon with a yellow body and green accents that thrives in forests and grasslands.",
+    "Make a quirky Pokemon that looks like a pitcher plant and has a sneaky personality.",
+    "Imagine a Pokemon that blends seamlessly into its woodland environment with distinctive foliage.",
+    "Design a Pokemon that has a bulbous shape and dangling vines, perfect for a jungle setting.",
+    "Show me a Pokemon with a vibrant color palette and a unique ability related to its plant features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Yellow",
+      "accent": "Pink"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Pitcher-shaped body",
+      "Vining tendrils",
+      "Wide-open mouth",
+      "Large leaf-like structures",
+      "Colorful flower-like features"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Sneaky",
+      "Adaptable"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Victreebel/3.png",
+  "pokemon_name": "Victreebel"
+}

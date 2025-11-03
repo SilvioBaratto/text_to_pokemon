@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a fiery insect Pokemon with vivid orange wings and a majestic body.",
+    "Imagine a butterfly-like creature with black and orange patterns, radiating warmth.",
+    "Design a Pokemon that embodies both fire and bug elements with a stunning color palette.",
+    "Show me a large, elegant Pokemon with beautiful wings and a fierce demeanor.",
+    "Generate an insectoid Pokemon that thrives in hot climates and dazzles with its colors.",
+    "Make a Pokemon with a striking orange body and intricate wing designs that resemble flames.",
+    "Give me a unique Pokemon that combines the beauty of nature and the power of fire."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Black"
+    ],
+    "secondary_colors": [
+      "White",
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Black",
+      "accent": "Blue"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large, ornate wings resembling flames",
+      "Black and orange body with a white underbelly",
+      "Blue markings on the head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Fire",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Graceful",
+      "Fiery",
+      "Protective"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Volcarona/0.png",
+  "pokemon_name": "Volcarona"
+}

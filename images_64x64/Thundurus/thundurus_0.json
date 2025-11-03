@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Generate an electric-type Pokemon with a stormy appearance and a strong, muscular build.",
+    "Create a mythical creature that has a striking blue color and powerful wings.",
+    "Show me a Pokemon that embodies the power of thunder with a bold design.",
+    "Imagine a legendary Pokemon that commands the skies and has a mischievous personality.",
+    "Design a Pokemon that is both intimidating and majestic, with an electric aura.",
+    "Give me a detailed description of a flying-type Pokemon with a unique, cloud-like tail.",
+    "Make a creature that represents the essence of storms and has a dynamic presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Thundercloud-like body",
+      "Muscular arms",
+      "Lightning bolt-shaped tail",
+      "Large wings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Flying",
+    "generation": 5,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Powerful",
+      "Proud"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Thundurus/0.png",
+  "pokemon_name": "Thundurus"
+}

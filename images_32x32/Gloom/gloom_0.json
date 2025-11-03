@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a plant-based Pokemon with vibrant colors and a unique flower crown.",
+    "Show me a small, round Pokemon that has a big, expressive face and colorful petals.",
+    "Generate a Pokemon that thrives in forests, resembling a cross between a flower and a blob.",
+    "Make a whimsical creature that uses its flowers to release spores in battle.",
+    "Imagine a Pokemon with a playful personality, often found lurking in grassy areas.",
+    "Design a Pokemon that can evolve into a more powerful version with a stunning bloom.",
+    "Give me a description of a Pokemon that looks like it's perpetually drooping but holds hidden power."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Purple",
+      "accent": "Red"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Flower-like shape on top of its head",
+      "Round body",
+      "Drooping petals",
+      "Large, expressive eyes",
+      "Spores released from its body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Shy",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Status-inflicting"
+  },
+  "image_path": "images/Gloom/0.png",
+  "pokemon_name": "Gloom"
+}

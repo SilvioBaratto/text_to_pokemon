@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a cheerful grass-type Pokemon that resembles a sunflower and has a friendly demeanor.",
+    "Imagine a Pokemon that thrives in sunny environments and has vibrant yellow petals.",
+    "Show me a whimsical character that embodies the essence of spring with green leaves and a bright face.",
+    "Design a playful creature that loves to dance in the sunlight and has a cute, flower-like appearance.",
+    "Generate a small Pokemon that can be found in gardens, with a round face and leafy limbs.",
+    "Give me a friendly grass-type Pokemon that resembles a flower and is known for its sunny personality.",
+    "Make a character that is designed for sunny habitats and has a joyful expression."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Green"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Sunflower-like head",
+      "Leafy arms",
+      "Bright yellow petals",
+      "Round face",
+      "Green stem-like body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Friendly"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Sunflora/2.png",
+  "pokemon_name": "Sunflora"
+}

@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a majestic fire-type Pokemon that gallops with flames trailing behind it.",
+    "I want a swift Pokemon with a fiery mane and a sleek, equine body.",
+    "Generate an elegant creature resembling a horse, adorned in bright flames.",
+    "Make a dynamic Pokemon that embodies the spirit of fire and speed.",
+    "Imagine a powerful fire-type Pokemon, with a golden body and a mane of flames.",
+    "Design a Pokemon that roams the grasslands, leaving a trail of fire in its wake.",
+    "Show me a Pokemon that combines grace and ferocity, with a fiery tail and hooves."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Yellow",
+      "accent": "Red"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flaming mane",
+      "Flaming tail",
+      "Sleek horse-like body",
+      "Hooves",
+      "Sparkling eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Proud",
+      "Loyal"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Fast and aggressive"
+  },
+  "image_path": "images/Rapidash/4.png",
+  "pokemon_name": "Rapidash"
+}

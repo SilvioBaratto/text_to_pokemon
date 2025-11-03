@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that resembles a fluffy pink ball with a dark gray top.",
+    "Show me a Pokemon with a round, soft body and a pointy hat-like feature.",
+    "Imagine a Pokemon that has bright yellow eyes and a woolly appearance.",
+    "Design a Pokemon that is primarily pink with a ghostly vibe and a unique shape.",
+    "Generate a creature that blends into grasslands, with a soft texture and bug-like features.",
+    "Give me an adorable Pokemon that looks like it's made of cotton candy with a mischievous expression.",
+    "Make a Pokemon that has a whimsical design, combining elements of fluffiness and a mysterious aura."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Gray",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Fluffy round body",
+      "Pointed dark gray head",
+      "Bright yellow eyes",
+      "Two small appendages resembling arms"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Grass",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Mischievous"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Burmy/5.png",
+  "pokemon_name": "Burmy"
+}

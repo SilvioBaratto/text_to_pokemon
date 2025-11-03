@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a sea creature with spikes and a glossy shell.",
+    "Imagine a cute Pokemon that has a round body, pink spikes, and lives in the ocean.",
+    "Design an aquatic Pokemon with a dark body and bright pink accents, perfect for underwater battles.",
+    "Generate a unique Pokemon that has a spiky appearance and can blend into rocky environments.",
+    "Show me a Pokemon inspired by marine life, featuring a smooth surface with vibrant, protruding details.",
+    "Give me a Pokemon that is small, round, and has a playful personality, thriving in coastal areas.",
+    "Make a Pokemon that has a blob-like shape and is known for its defensive abilities in combat."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body shape",
+      "Spiky pink protrusions",
+      "Glossy surface texture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Defensive",
+      "Calm"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Pyukumuku/0.png",
+  "pokemon_name": "Pyukumuku"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a fire-type Pokemon that resembles a snowman but with a fiery personality.",
+    "I want a Pokemon that combines elements of both fire and ice, showcasing a unique design.",
+    "Generate a Pokemon with a round body and fiery features, perfect for a winter setting.",
+    "Make a character that embodies both warmth and whimsy, with a vibrant color palette.",
+    "Imagine a playful fire-type Pokemon that uses its heat to melt snow around it.",
+    "Design a Pokemon that represents the duality of fire and cold, with distinct visual traits.",
+    "Show me a creature that combines a playful demeanor with fiery attacks and a friendly appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "White"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "White",
+      "accent": "Orange"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flame-like crest on top of the head",
+      "Round, snowman-like body",
+      "Red eyebrows",
+      "Orange hands",
+      "Frowning facial expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Fierce",
+      "Impulsive"
+    ],
+    "habitat": "Desert",
+    "rarity": "Common",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Darmanitan/3.png",
+  "pokemon_name": "Darmanitan"
+}

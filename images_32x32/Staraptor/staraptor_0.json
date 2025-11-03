@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bird Pokemon with a fierce look and strong wings, ready for battle.",
+    "Imagine a flying-type Pokemon that commands respect with its striking colors and powerful stance.",
+    "Generate a Pokemon that embodies speed and agility, featuring vibrant plumage in shades of brown and red.",
+    "Design a Pokemon that thrives in urban environments, with a keen eye for spotting prey from high above.",
+    "Give me a Pokemon that showcases a perfect blend of elegance and ferocity, with sharp features and a bold color scheme.",
+    "Show me a Pokemon that is both a fierce competitor and a loyal friend, with a striking appearance and unique abilities.",
+    "Make a Pokemon that represents the spirit of the mountains, with rugged features and a dynamic flying style."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Red"
+    ],
+    "secondary_colors": [
+      "White",
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Red",
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Prominent red crest",
+      "Strong beak",
+      "Sharp talons",
+      "Distinctive black and white markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Loyal",
+      "Bold"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Staraptor/0.png",
+  "pokemon_name": "Staraptor"
+}

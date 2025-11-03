@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a whimsical poison-type Pokemon that floats and has a playful demeanor.",
+    "I want a cartoonish creature that emits gas and has a round, purple body.",
+    "Generate a cute Pokemon with a bubbly personality and a penchant for mischief.",
+    "Make a quirky Pokemon that spreads clouds of toxic gas and has a cheerful smile.",
+    "Imagine a small, round Pokemon that loves to play in urban areas and cause trouble.",
+    "Design a playful, amorphous Pokemon that can easily blend into a city environment.",
+    "Show me a Pokemon that has a jolly expression and releases colorful gas clouds."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round shape",
+      "Gas emission",
+      "Facial expression with a smile",
+      "Two smaller orbs on top",
+      "Cloud-like appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Cheerful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Status infliction"
+  },
+  "image_path": "images/Koffing/2.png",
+  "pokemon_name": "Koffing"
+}

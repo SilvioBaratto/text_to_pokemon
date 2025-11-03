@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon with a haunting appearance and flowing garments.",
+    "Show me a spooky Pokemon that has a mystical aura and mysterious eyes.",
+    "Imagine a ghostly creature that floats and has an ethereal design with purple hues.",
+    "Generate a Pokemon that resembles a specter, featuring a wide-brimmed hat and flowing cloak.",
+    "Make a Pokemon that embodies the essence of mystery and has a playful yet eerie demeanor.",
+    "Design a ghost-type Pokemon with unique visual traits that captivate and intrigue trainers.",
+    "Give me a dark, enchanting Pokemon with a whimsical and spectral presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Pink",
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Pink",
+      "accent": "Orange"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Flowing cloak-like body",
+      "Wide-brimmed hat",
+      "Glowing yellow eyes",
+      "Floating appearance",
+      "Fringed edges resembling smoke"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Eerie",
+      "Mysterious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Mismagius/0.png",
+  "pokemon_name": "Mismagius"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a cute fairy-type Pokemon that has big ears and fluffy features.",
+    "Imagine a Pokemon with pink fur and bright blue eyes that loves to sing.",
+    "Design a fluffy, round creature that can float in the air gracefully.",
+    "Give me a whimsical Pokemon that has a playful personality and colorful accents.",
+    "Show me a small, adorable Pokemon that thrives in forests and plays with friends.",
+    "Generate a Pokemon with a round body, large ears, and a cheerful demeanor.",
+    "Make a fairy-type Pokemon that looks soft and cuddly, perfect for a child\u2019s toy."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Black",
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, floppy ears",
+      "Fluffy body",
+      "Bright blue eyes",
+      "Round shape",
+      "Small, round paws"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Caring"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Wigglytuff/3.png",
+  "pokemon_name": "Wigglytuff"
+}

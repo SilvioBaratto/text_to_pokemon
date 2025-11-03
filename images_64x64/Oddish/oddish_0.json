@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a plant-based Pokemon that thrives in forest environments, featuring vibrant green leaves.",
+    "Imagine a small, blue Pokemon with a round shape and large green foliage on top.",
+    "Generate a cute, nature-themed Pokemon with a playful personality and a round body.",
+    "Show me a whimsical Pokemon that resembles a flower, with a blue base and bright green accents.",
+    "Make a grass-type Pokemon with a unique leaf design that lives in grassy areas.",
+    "Design a quirky little Pokemon that loves sunlight and has a round blue body.",
+    "Give me a Pokemon that embodies the essence of a forest with its leafy appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round body shape",
+      "Large green leaves on top",
+      "Small, stubby legs",
+      "Red eyes",
+      "Mouth with a smile"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Gentle",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Oddish/0.png",
+  "pokemon_name": "Oddish"
+}

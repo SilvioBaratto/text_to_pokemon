@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a legendary Pokemon with molten rock features and a fiery core.",
+    "Imagine a water and fire dual-type creature that can control steam.",
+    "Show me a Pokemon that embodies both volcanic power and aquatic grace.",
+    "Design a mythical creature with a vibrant red body and glowing blue accents.",
+    "I want a Pokemon that resembles a giant magma monster with elemental abilities.",
+    "Generate an image of a bulky Pokemon with a circular lava ring around its body.",
+    "Make a powerful creature that thrives in volcanic habitats with a fierce demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Blue",
+      "accent": "Orange"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Circular lava ring",
+      "Magma-like body texture",
+      "Glowing blue orbs",
+      "Powerful legs",
+      "Steam-emitting features"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Water",
+    "generation": 6,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Protective",
+      "Loyal"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Volcanion/1.png",
+  "pokemon_name": "Volcanion"
+}

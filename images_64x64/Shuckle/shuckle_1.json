@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a unique Pokemon that combines features of a turtle and a snake.",
+    "Imagine a colorful Pokemon with a hard shell and a long neck, perfect for battles.",
+    "Design a quirky Pokemon that can hide in its shell and emerge to surprise opponents.",
+    "Generate a nature-loving Pokemon that thrives in forest habitats and has vibrant colors.",
+    "Show me a Pokemon that looks like a hybrid of a snail and an ancient creature.",
+    "Make a playful Pokemon with a shell that has eye-catching patterns and bright colors.",
+    "Give me a creative take on a Pokemon that is both defensive and adaptable in nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Red"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Red",
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long, thin neck",
+      "Shell with circular patterns",
+      "Multiple limbs extending from shell"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Rock",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Defensive",
+      "Patient",
+      "Adaptable"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Shuckle/1.png",
+  "pokemon_name": "Shuckle"
+}

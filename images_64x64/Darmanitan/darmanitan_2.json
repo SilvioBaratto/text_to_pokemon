@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a fire-type Pokemon that can withstand extreme temperatures and has a fierce expression.",
+    "I want a Pokemon with a unique blend of red and white colors, showcasing its powerful abilities.",
+    "Generate an image of a Pokemon with interesting facial features and an imposing stature.",
+    "Make a fiery creature that embodies strength and resilience, perfect for battles.",
+    "Imagine a Pokemon that thrives in urban environments but can adapt to various terrains.",
+    "Design a Pokemon that is both fierce and playful, with striking color combinations.",
+    "Give me a visual of a powerful fire-type Pokemon ready to unleash its energy in combat."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "White"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "White",
+      "accent": "Blue"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large, round head",
+      "Fierce facial expression",
+      "Thick, muscular arms",
+      "Flame-like patterns on body",
+      "Prominent eyebrows"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Energetic",
+      "Playful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Darmanitan/2.png",
+  "pokemon_name": "Darmanitan"
+}

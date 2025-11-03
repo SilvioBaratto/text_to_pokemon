@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a flying-type Pokemon with elegant wings and a gentle demeanor.",
+    "I want a fairy-type Pokemon that spreads joy and has a serene appearance.",
+    "Generate a whimsical creature with a unique design that incorporates various colors.",
+    "Make a Pokemon that embodies happiness and has soft, cloud-like features.",
+    "Imagine a creature that floats gracefully through the air with a playful spirit.",
+    "Design a Pokemon that can bring peace and positivity to its surroundings.",
+    "Give me a Pokemon that looks friendly and inviting with a magical charm."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Blue",
+      "accent": "Red"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, elegant wings",
+      "Round body shape",
+      "Distinctive red and blue markings",
+      "Soft, cloud-like texture",
+      "Cheerful expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": "Flying",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Joyful",
+      "Gentle",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Togekiss/1.png",
+  "pokemon_name": "Togekiss"
+}

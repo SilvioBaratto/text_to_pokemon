@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a bunny-like Pokemon with fluffy ears and a gentle smile.",
+    "I want a Normal-type Pokemon that can blend into forest environments.",
+    "Generate a Pokemon with long ears and a warm brown color scheme.",
+    "Make a cute Pokemon with a playful personality and agile movements.",
+    "Imagine a Pokemon that thrives in grasslands and loves to hop around.",
+    "Design a Pokemon with a unique fluffy tail and soft fur texture.",
+    "Show me a Pokemon that embodies elegance and agility with its design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long ears",
+      "Fluffy fur",
+      "Distinctive tail",
+      "Large expressive eyes",
+      "Agile limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Gentle",
+      "Agile"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Lopunny/0.png",
+  "pokemon_name": "Lopunny"
+}

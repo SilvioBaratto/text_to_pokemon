@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a team of six Pokemon that work together in perfect harmony during battle.",
+    "Show me a unique Bug-type Pokemon with bright yellow and red features.",
+    "Imagine a Pokemon that embodies teamwork, with multiple members forming one cohesive unit.",
+    "Generate a description for a Pokemon that thrives in grasslands and forests.",
+    "Make a visual concept of a Pokemon with a playful and energetic personality.",
+    "Design a Pokemon that has a strong connection to its environment and its companions.",
+    "Give me an idea of a Pokemon that is small in size but has a big heart."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Multiple small bodies connected",
+      "Spiky red headpieces",
+      "Large expressive eyes",
+      "Rounded body segments"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cooperative",
+      "Energetic",
+      "Loyal"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Team-based attacks"
+  },
+  "image_path": "images/Falinks/0.png",
+  "pokemon_name": "Falinks"
+}

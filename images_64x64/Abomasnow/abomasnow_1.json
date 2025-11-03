@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a grass-type Pok\u00e9mon resembling a tree with icy features and a snowy appearance.",
+    "Design a Pok\u00e9mon with ice abilities and plant-like characteristics for a forest environment.",
+    "Imagine a Pok\u00e9mon that has both ice and grass powers, looking like a frosty creature.",
+    "Generate a Pok\u00e9mon that combines icy traits with leafy aesthetics.",
+    "Give me a Pok\u00e9mon with frozen limbs and green accents, perfect for snowy habitats.",
+    "Show me a creature that thrives in cold climates with a natural, leafy design.",
+    "Make a Pok\u00e9mon that is sturdy and snow-covered, with a strong connection to nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Green",
+      "accent": "Black"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Snowy fur covering its body",
+      "Branch-like arms with leaves",
+      "Icicle-like protrusions",
+      "Large, pointed ears",
+      "Red nose"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": "Grass",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Protective",
+      "Stoic",
+      "Resilient"
+    ],
+    "habitat": "Tundra",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Abomasnow/1.png",
+  "pokemon_name": "Abomasnow"
+}

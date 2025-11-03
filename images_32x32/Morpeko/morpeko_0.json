@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a cute Pokemon that can change its appearance based on its mood.",
+    "Imagine a fluffy creature that has a half-light and half-dark design.",
+    "Generate an electric-type Pokemon that looks like a small rodent with a split color scheme.",
+    "Show me a Pokemon that has both cheerful and mischievous expressions.",
+    "Design a Pokemon that can adapt to different environments, appearing in various colors.",
+    "Give me a small Pokemon that thrives in urban settings and has a playful personality.",
+    "Make a Pokemon that features unique traits from both light and dark types."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Brown",
+      "accent": "Black"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Split color appearance",
+      "Round face with large eyes",
+      "Cheeks with a playful expression",
+      "Small limbs",
+      "Tail resembling a lightning bolt"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Dark",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Adaptable"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Fast and agile"
+  },
+  "image_path": "images/Morpeko/0.png",
+  "pokemon_name": "Morpeko"
+}

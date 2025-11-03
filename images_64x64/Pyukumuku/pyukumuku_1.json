@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a soft, round body and unique spiky features.",
+    "I want a Pokemon that has a jelly-like appearance with bright pink accents.",
+    "Generate a creature that thrives in coastal habitats with a quirky personality.",
+    "Make a small, round, aquatic Pokemon that can blend into its surroundings.",
+    "Imagine a cute, blob-like Pokemon with a playful and friendly demeanor.",
+    "Design a Pokemon that has a unique combination of pink and black colors.",
+    "Show me an adorable Pokemon that has a squishy body and prominent spikes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round, squishy body",
+      "Spiky pink appendages",
+      "Small, star-like pattern on the body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Pyukumuku/1.png",
+  "pokemon_name": "Pyukumuku"
+}

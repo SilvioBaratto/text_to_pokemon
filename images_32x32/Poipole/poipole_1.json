@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a mystical Pokemon with vibrant purple and pink hues that can manipulate energy.",
+    "Generate a legendary creature featuring unique patterns and a sleek, ethereal body.",
+    "Show me a Pokemon with a playful demeanor and colorful markings that thrives in lush environments.",
+    "Design a whimsical creature that embodies the essence of poison and psychic energy.",
+    "Make a fantastical being with flowing shapes and a striking color palette that captivates its surroundings.",
+    "Imagine a creature that blends charm and danger, showcasing vivid colors and a unique silhouette.",
+    "Give me a Pokemon that represents both beauty and mystery, with a body that hints at its ghostly powers."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Pink",
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Pink",
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, round eyes",
+      "Long, flowing appendages",
+      "Star-shaped marking on the chest",
+      "Curved, pointed ears",
+      "Sleek, streamlined body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": "Psychic",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Curious"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Status-inflicting"
+  },
+  "image_path": "images/Poipole/1.png",
+  "pokemon_name": "Poipole"
+}

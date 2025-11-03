@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon that embodies the concept of creation and has a celestial theme.",
+    "I want a powerful legendary Pokemon with an ethereal appearance and divine attributes.",
+    "Generate a Pokemon that represents the balance of nature, with elements of light and shadow.",
+    "Make a majestic creature with a horse-like body and shimmering, radiant colors.",
+    "Imagine a Pokemon that can manipulate space and time, featuring intricate patterns on its body.",
+    "Design a legendary being with a sleek, streamlined form and glowing accents throughout.",
+    "Give me a unique Pokemon with a combination of elegance and strength, radiating an aura of mystery."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Black",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Four legs with a horse-like appearance",
+      "Golden markings around its body",
+      "A distinctive ring-like structure on its back",
+      "A flowing mane and tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": true,
+    "is_mythical": true,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Wise",
+      "Mysterious",
+      "Calm"
+    ],
+    "habitat": "Urban",
+    "rarity": "Very Rare",
+    "combat_style": "Balanced"
+  },
+  "image_path": "images/Arceus/1.png",
+  "pokemon_name": "Arceus"
+}

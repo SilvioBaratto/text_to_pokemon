@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with icy blue fur and majestic tusks.",
+    "Show me a large aquatic creature that resembles a walrus and has snow-like features.",
+    "Imagine a Pokemon that thrives in icy waters, with an impressive ice attack ability.",
+    "Generate an adorable evolution of a walrus Pokemon that enjoys playing in the snow.",
+    "Design a fierce Pokemon that uses its blubber for protection against icy environments.",
+    "Make a Pokemon that exhibits both grace and strength while swimming in cold oceans.",
+    "Give me a creative take on a sea-dwelling Pokemon with a playful disposition."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large tusks",
+      "Fluffy white fur",
+      "Rounded body",
+      "Flippers",
+      "Icicle-like whiskers"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": "Water",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Resilient"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Walrein/0.png",
+  "pokemon_name": "Walrein"
+}

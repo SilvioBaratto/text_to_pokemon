@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon with a rugged exterior and glowing eyes.",
+    "Show me a bipedal Pokemon that thrives in mountainous regions.",
+    "Generate a Pokemon that resembles a living boulder with a fierce smile.",
+    "Imagine a creature with a rocky shell and a playful personality.",
+    "Make a Pokemon that has a dark gray body and bright red eyes.",
+    "Design a Pokemon with unique sharp features and a sturdy stance.",
+    "Give me a Pokemon that embodies the spirit of the mountains."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Rocky exterior",
+      "Glowing red eyes",
+      "Distinct spikes on the back",
+      "Heavy-set body",
+      "Large stone-like arms"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Ground",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Sturdy",
+      "Loyal",
+      "Playful"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Golem/5.png",
+  "pokemon_name": "Golem"
+}

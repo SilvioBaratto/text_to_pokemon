@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon with a crystalline appearance and a soft, fluffy body.",
+    "Show me a Pokemon that resembles a small, gem-like creature with a gentle demeanor.",
+    "Imagine a Fairy-type Pokemon with a unique blend of blue and purple colors, featuring soft textures.",
+    "Generate a cute Pokemon that has a diamond-like structure and fluffy white accents.",
+    "Design a mystical Pokemon that embodies the essence of caves and mountains with sparkling features.",
+    "Give me a Pokemon that is small in size, with a heart shape and a shiny, textured surface.",
+    "Make a Pokemon that appears shy and gentle, adorned with soft colors and a unique gem."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Blue",
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Gem-like structure on top",
+      "Fluffy, cloud-like body",
+      "Heart-shaped overall appearance",
+      "Sparkling blue accents"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Fairy",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Shy",
+      "Calm"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Carbink/1.png",
+  "pokemon_name": "Carbink"
+}

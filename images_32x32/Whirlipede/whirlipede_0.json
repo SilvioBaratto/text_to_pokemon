@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with a segmented body and vibrant colors.",
+    "I want a unique Pokemon that can blend into urban environments effortlessly.",
+    "Generate a Pokemon that features sharp spikes and a rounded shell.",
+    "Make a creature that can thrive in both forest and mountain habitats.",
+    "Imagine a poison-type Pokemon with a sleek, shiny exterior and vibrant accents.",
+    "Design a Pokemon that evolves from a small caterpillar into a formidable creature.",
+    "Show me a Pokemon with defensive capabilities and a unique camouflage technique."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Red",
+      "accent": "Black"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Segmented body",
+      "Sharp spikes",
+      "Large eyes",
+      "Curved tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Defensive",
+      "Cunning",
+      "Adaptable"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Whirlipede/0.png",
+  "pokemon_name": "Whirlipede"
+}

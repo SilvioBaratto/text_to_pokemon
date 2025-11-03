@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bird Pokemon with majestic feathers and a strong presence in urban areas.",
+    "Show me a flying-type Pokemon that has a regal appearance and thrives in grasslands.",
+    "Design a Pokemon that resembles a large bird with gray and brown plumage, perfect for mountainous habitats.",
+    "Generate a Normal-type Pokemon that is known for its elegant flight and sociable nature.",
+    "Imagine a Pokemon that combines beauty and strength, ideal for trainers who love aerial battles.",
+    "Make a majestic bird Pokemon with unique color patterns and a charming personality.",
+    "Give me a powerful flying Pokemon that excels in aerial combat and is often seen in forests."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Brown",
+      "accent": "Yellow"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long tail feathers",
+      "Sharp beak",
+      "Vibrant eye color",
+      "Elegant wing structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Sociable",
+      "Elegant",
+      "Proud"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Aerial"
+  },
+  "image_path": "images/Unfezant/0.png",
+  "pokemon_name": "Unfezant"
+}

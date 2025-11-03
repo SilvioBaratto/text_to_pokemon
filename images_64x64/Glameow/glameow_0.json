@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a playful feline Pokemon with a sleek gray body and distinct pink accents.",
+    "Imagine a Pokemon that blends elegance and stealth, featuring a captivating tail.",
+    "Show me a mischievous cat-like Pokemon with charming blue eyes and a long, curled tail.",
+    "Design a Pokemon that embodies grace and agility, perfect for urban environments.",
+    "Generate a stylish Pokemon that thrives in city landscapes, showcasing a mix of gray and pink.",
+    "Make a striking Normal-type Pokemon with unique features, ideal for a trainer's companion.",
+    "Give me a Pokemon that reflects cunning and independence with a sleek design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Pink",
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Pink",
+      "accent": "Blue"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long curled tail",
+      "Pointed ears",
+      "Blue eyes",
+      "Sleek body",
+      "Pink ear insides"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cunning",
+      "Agile"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Speed and evasion"
+  },
+  "image_path": "images/Glameow/0.png",
+  "pokemon_name": "Glameow"
+}

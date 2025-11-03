@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Show me a bird-like Pokemon with a sword and a green feathered cape.",
+    "Imagine a warrior Pokemon that uses a leek as a weapon and has a proud stance.",
+    "Create a noble-looking Pokemon with white feathers and a determined expression.",
+    "Generate an elegant Pokemon that embodies the spirit of chivalry and nature.",
+    "Make a Pokemon that resembles a knight with leafy armor and a sword-like leek.",
+    "Design a Pokemon with a striking green and white color scheme, showcasing its leafy attributes.",
+    "Give me a Pokemon that stands tall and proud, equipped with a unique weapon."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Green",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Leek sword",
+      "Green leafy cape",
+      "White feathered body",
+      "Proud posture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": "Flying",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Proud",
+      "Noble",
+      "Determined"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Sirfetch'd/1.png",
+  "pokemon_name": "Sirfetch'd"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with blue fur and striking green eyes.",
+    "I want a playful cat-like Pokemon that uses psychic powers in battles.",
+    "Generate a sleek, blue Pokemon with notable white markings and a charming demeanor.",
+    "Make a unique Pokemon that resembles a small, agile feline with mystical abilities.",
+    "Imagine a mysterious, blue Pokemon that thrives in urban environments and enjoys exploration.",
+    "Design a Pokemon that stands out with its elegant blue coat and playful personality.",
+    "Show me a Pokemon that has a distinct psychic aura and captivating green eyes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Green",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long, bushy tail",
+      "Pointed ears",
+      "Unique white facial markings",
+      "Bright green eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Intelligent"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Meowstic/0.png",
+  "pokemon_name": "Meowstic"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a flying-type Pokemon with a sleek blue body and vibrant red accents.",
+    "I want a bird-like Pokemon that embodies the spirit of freedom and agility.",
+    "Generate a Pokemon that resembles a small, energetic swallow with striking colors.",
+    "Make a unique design for a Pokemon that thrives in urban environments with a lively personality.",
+    "Imagine a Pokemon that can soar high in the sky with graceful wings and a cheerful demeanor.",
+    "Design a playful, small bird Pokemon that loves to flutter around in grassy areas.",
+    "Give me a concept for a Pokemon that represents the beauty of nature and the sky."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Red"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Streamlined body",
+      "Long wings",
+      "Short tail",
+      "Brightly colored chest"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Fast Attacker"
+  },
+  "image_path": "images/Taillow/1.png",
+  "pokemon_name": "Taillow"
+}

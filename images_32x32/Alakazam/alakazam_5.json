@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a sleek body and a wise expression.",
+    "Imagine a Pokemon that uses telekinesis to battle in various terrains.",
+    "Generate a bipedal Pokemon that exudes intelligence and elegance in its design.",
+    "Design an evolved Pokemon that can manipulate objects with its mind and has a mystical aura.",
+    "Show me a Pokemon with golden hues and a strikingly intelligent gaze.",
+    "Give me a concept for a psychic Pokemon that excels in strategy and mind games.",
+    "Make a Pokemon that embodies the essence of wisdom and mental prowess."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Purple",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Purple",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Two spoons held in hands",
+      "Pointed ears",
+      "Long mustache-like whiskers",
+      "Psychic aura around its head",
+      "Thin, streamlined body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Cunning",
+      "Calm"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Alakazam/5.png",
+  "pokemon_name": "Alakazam"
+}

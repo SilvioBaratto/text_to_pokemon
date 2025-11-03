@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with sharp teeth and a playful demeanor.",
+    "I want a ground-type Pokemon that looks like a small shark and has a bright blue skin.",
+    "Generate a Pokemon that resembles a baby dragon with a vibrant orange belly.",
+    "Make a fierce looking Pokemon that is primarily blue and has fins like a fish.",
+    "Imagine a small, adorable Pokemon with a round body and a toothy grin.",
+    "Design a Pokemon that is a mix between a shark and a dragon, with a playful personality.",
+    "Show me a Pokemon that thrives in mountainous habitats and has a unique blue coloration."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Toothy grin",
+      "Sharp dorsal fin",
+      "Short limbs",
+      "Large eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Ground",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Adventurous"
+    ],
+    "habitat": "Cave",
+    "rarity": "Common",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Gible/0.png",
+  "pokemon_name": "Gible"
+}

@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with elegant blue armor and graceful movements.",
+    "I want a fighting-type Pokemon that embodies honor and skill with a noble stance.",
+    "Generate a Pokemon that combines psychic and fighting attributes with a sleek design.",
+    "Make a Pokemon that showcases bravery and determination in its battle stance.",
+    "Imagine a Pokemon characterized by its swift motions and agile attacks.",
+    "Design a Pokemon that thrives in forest habitats and has a noble appearance.",
+    "Show me a Pokemon with a strong connection to nature and a fierce combat style."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": "Green"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Blade-like arms",
+      "Elegant cape",
+      "Green head crest",
+      "Defined musculature",
+      "Sharp facial features"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Fighting",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Brave",
+      "Noble",
+      "Disciplined"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Gallade/1.png",
+  "pokemon_name": "Gallade"
+}

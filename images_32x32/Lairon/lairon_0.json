@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon with a sturdy body and jagged edges.",
+    "Imagine a steel-type creature with metallic armor and a fierce expression.",
+    "Design a Pokemon that thrives in mountainous regions with gray and white colors.",
+    "Show me a middle evolution Pokemon that has unique spikes on its back.",
+    "Give me a large quadruped Pokemon that blends in with rocky terrains.",
+    "Generate a Pokemon that resembles a tank with defensive features and a tough exterior.",
+    "Make a Pokemon that has a playful personality but looks intimidating."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [
+      "White",
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "White",
+      "accent": "Black"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Spiked back",
+      "Heavy body",
+      "Short limbs",
+      "Large jaw",
+      "Rounded head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Rock",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Defensive",
+      "Sturdy",
+      "Loyal"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Uncommon",
+    "combat_style": "Defense-focused"
+  },
+  "image_path": "images/Lairon/0.png",
+  "pokemon_name": "Lairon"
+}

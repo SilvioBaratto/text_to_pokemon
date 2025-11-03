@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a star and has vibrant colors.",
+    "Design a unique aquatic creature with a starfish shape and bright yellow accents.",
+    "Imagine a Pokemon that glows in the sea, featuring a star-like design and playful demeanor.",
+    "Show me a star-shaped Pokemon that thrives in ocean habitats with a cheerful personality.",
+    "Generate a small, colorful aquatic Pokemon with distinctive features like a gem in its center.",
+    "Give me a water-type Pokemon inspired by celestial bodies, showcasing a star shape and bright colors.",
+    "Make a detailed concept of a Pokemon that combines oceanic themes with a star-like appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Brown",
+      "accent": "Red"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Star-shaped body",
+      "Red gem in the center",
+      "Pointed tips on each arm",
+      "Symmetrical design",
+      "Smooth texture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Gentle"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Staryu/2.png",
+  "pokemon_name": "Staryu"
+}

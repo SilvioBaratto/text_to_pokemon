@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a fairy-type Pokemon with fluffy pink fur and a round red pom-pom on its head.",
+    "Show me a cute Pokemon that resembles a dessert, featuring soft shapes and pastel colors.",
+    "Imagine a small, whimsical creature that loves to frolic in flower-filled meadows.",
+    "Generate a character design for a Pokemon that has a sweet, charming personality and enjoys baking.",
+    "Make a Pokemon with a round body and big, fluffy ears, perfect for a children's game.",
+    "Design a playful fairy-type Pokemon that brings joy to those around it.",
+    "Give me a visual of a Pokemon that embodies sweetness and light, with a colorful appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy body",
+      "Round pom-pom on head",
+      "Large, expressive eyes",
+      "Flared collar",
+      "Small arms and legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Friendly"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Slurpuff/1.png",
+  "pokemon_name": "Slurpuff"
+}

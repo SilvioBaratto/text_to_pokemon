@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon with a rugged exterior and bright orange accents.",
+    "I want a Pokemon that resembles ancient ruins with powerful stone arms.",
+    "Generate a legendary Pokemon that embodies the strength of mountains and rocks.",
+    "Make a creature that looks like a boulder but has fiery orange highlights.",
+    "Imagine a Pokemon with a sturdy build and a unique rock-like appearance.",
+    "Design a mythical Pokemon with a combination of gray and red colors.",
+    "Give me a Pokemon that has a solid form and a powerful presence in battle."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Rock-like body",
+      "Large stone arms",
+      "Facial markings resembling eyes",
+      "Chunky legs",
+      "Angular design"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Stoic",
+      "Resilient",
+      "Defensive"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Regirock/1.png",
+  "pokemon_name": "Regirock"
+}

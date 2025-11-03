@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a unique Pokemon that can transform into any shape or form.",
+    "I want a Pokemon that changes its appearance based on its surroundings.",
+    "Generate a creature that can mimic other Pokemon in battles.",
+    "Make an amorphous Pokemon with a playful personality and soft edges.",
+    "Imagine a Pokemon that can blend into various habitats effortlessly.",
+    "Design a Pokemon known for its trickster nature and adaptability.",
+    "Show me a shape-shifting Pokemon with a simple, smooth silhouette."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Blobby shape",
+      "Smooth texture",
+      "Lack of limbs",
+      "Flexible form"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Adaptable"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Trickster"
+  },
+  "image_path": "images/Ditto/1.png",
+  "pokemon_name": "Ditto"
+}

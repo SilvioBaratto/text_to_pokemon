@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a fighting-type Pokemon that has a spinning motion and a strong sense of balance.",
+    "Imagine a Pokemon with a round body and blue accents, perfect for competitive battling.",
+    "Show me a unique fighting Pokemon that incorporates elements of dance and martial arts.",
+    "Design a Pokemon that resembles a spinning top and has a playful yet fierce demeanor.",
+    "Generate a character that embodies agility and strength, with a vibrant golden and blue color scheme.",
+    "Give me a Pokemon that excels in close combat and has an interesting dual color pattern.",
+    "Make a unique creature that balances on one foot, showcasing intricate design elements and colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Spinning top appearance",
+      "Three blue orbs on limbs",
+      "Round body",
+      "Bipedal stance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Determined",
+      "Agile"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Close Combat"
+  },
+  "image_path": "images/Hitmontop/1.png",
+  "pokemon_name": "Hitmontop"
+}

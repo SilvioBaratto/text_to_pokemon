@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a fiery Pokemon with a strong and agile stance, featuring bright colors and a fierce expression.",
+    "Imagine a powerful fire-type creature with muscular limbs and a striking orange and cream color scheme.",
+    "Design a Pokemon that embodies speed and strength, combining elements of fire and martial arts.",
+    "Show me a Pokemon that can leap high and use fire-based attacks, with a distinctive beak-like mouth.",
+    "Generate a Pokemon with long legs and flame-like features, perfect for a competitive battle environment.",
+    "Give me a unique design for a bipedal fire-type Pokemon that thrives in mountainous regions.",
+    "Make a fierce-looking Pokemon that has a combination of agility and fire abilities, ideal for trainers."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": null,
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flame-like tuft on head",
+      "Muscular limbs",
+      "Long, powerful legs",
+      "Beak-like mouth",
+      "Tail with flame tips"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Fighting",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Confident",
+      "Brave"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Blaziken/0.png",
+  "pokemon_name": "Blaziken"
+}

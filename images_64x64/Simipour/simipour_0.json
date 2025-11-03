@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that has a playful personality and a vibrant blue color scheme.",
+    "Imagine a Pokemon that excels in aqua-themed abilities and has a unique monkey-like appearance.",
+    "Design a Pokemon inspired by aquatic creatures, featuring a bright blue mane and a friendly disposition.",
+    "Generate a playful, blue-colored Pokemon with a knack for water-based attacks and agile movements.",
+    "Show me a Pokemon with a monkey-like form, bright cyan fur, and charming features that make it stand out.",
+    "Make a whimsical blue Pokemon that lives near water bodies and interacts joyfully with trainers and other creatures.",
+    "Give me a fun, energetic water-type Pokemon that showcases vivid colors and cheerful expressions."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Bright blue hair-like mane",
+      "Monkey-like facial features",
+      "Long tail resembling water",
+      "Webbed hands",
+      "Cheerful expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Energetic"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Simipour/0.png",
+  "pokemon_name": "Simipour"
+}

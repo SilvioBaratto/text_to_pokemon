@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon that resembles a plant with vibrant green leaves and a yellow flower.",
+    "I want to design a whimsical Pokemon that has a long, slender body and bright colors that stand out.",
+    "Generate a tiny Pokemon with a unique flower-like head and green, leafy appendages.",
+    "Show me a cute, small grass-type creature that thrives in forest environments.",
+    "Imagine a Pokemon that can camouflage itself among plants, featuring a yellow and green color scheme.",
+    "Make a Pokemon with a bell-shaped head and a plant-like body, perfect for battles in nature.",
+    "Give me a Pokemon that has characteristics of a flower and a vine, emphasizing its grass-type abilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Bell-shaped head",
+      "Two green leaves",
+      "Slender stem",
+      "Small size",
+      "Flower-like appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Curious",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Bellsprout/1.png",
+  "pokemon_name": "Bellsprout"
+}

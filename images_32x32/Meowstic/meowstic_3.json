@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a sleek, blue and white Pokemon with distinctive ears and a confident expression.",
+    "Generate a psychic-type Pokemon that has elegant features and a playful demeanor.",
+    "Imagine a bipedal Pokemon with a long tail and a charming appearance, perfect for urban settings.",
+    "Design a cute Pokemon with a mix of blue and white colors, known for its cleverness.",
+    "Show me a playful psychic-type Pokemon with unique whiskers and a striking gaze.",
+    "Make a small, agile Pokemon with a soft body and an affinity for forest habitats.",
+    "Give me a Pokemon that is both charming and intelligent, dressed in blue and white hues."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long whiskers",
+      "Pointy ears",
+      "Large eyes",
+      "Elegant tail",
+      "White scarf-like collar"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Clever",
+      "Playful",
+      "Confident"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Meowstic/3.png",
+  "pokemon_name": "Meowstic"
+}

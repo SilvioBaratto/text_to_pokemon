@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon with vibrant green foliage and a large flower on its back.",
+    "Imagine a Pokemon that has both plant and poison elements, showcasing a balance of beauty and danger.",
+    "Generate a creature with a bulbous shape, perfect for a nature-themed Pokemon that evolves from a smaller form.",
+    "Design a Pokemon that thrives in forests and grasslands, featuring a unique combination of colors and features.",
+    "Show me a Pokemon that resembles a small dinosaur, adorned with blooming flowers and thick leaves.",
+    "Give me a visual representation of a charming middle evolution Pokemon that is friendly yet fierce in battle.",
+    "Make a Pokemon that embodies the essence of nature with a gentle personality and a striking floral accent."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Blue",
+      "accent": "Pink"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large flower on back",
+      "Thick green leaves",
+      "Bulbous body shape",
+      "Short limbs",
+      "Wide eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Friendly",
+      "Protective"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Ivysaur/2.png",
+  "pokemon_name": "Ivysaur"
+}

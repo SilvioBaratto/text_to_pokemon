@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a playful water-type Pokemon with a round body and vibrant colors that make it stand out.",
+    "Imagine a cute, small Pokemon that thrives in sandy environments and has a unique pattern on its back.",
+    "Show me a ground-type Pokemon that resembles a hippo but with exaggerated features and a cheerful expression.",
+    "Design a Pokemon with earthy tones and a relaxed demeanor that enjoys lounging in shallow waters.",
+    "Generate a Pokemon that has a blend of brown and yellow colors, perfect for blending into the desert.",
+    "Make a Pokemon with a chubby body that loves to roll around in the mud and has big expressive eyes.",
+    "Give me a unique ground-type Pokemon that has a small, round shape and a friendly personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Brown"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": null,
+      "accent": "Brown"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body",
+      "Large single eye",
+      "Short limbs",
+      "Distinctive brown spots"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Calm",
+      "Friendly"
+    ],
+    "habitat": "Desert",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Hippopotas/1.png",
+  "pokemon_name": "Hippopotas"
+}

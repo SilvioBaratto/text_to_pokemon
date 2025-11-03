@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon with vibrant floral features and a cheerful demeanor.",
+    "I want a Pokemon that embodies the essence of a flourishing garden, bright and lively.",
+    "Generate a small Pokemon with cute round shapes and colorful plant decorations.",
+    "Make a Pokemon that looks like a mix between a flower and a playful creature.",
+    "Imagine a nature-loving Pokemon with a gentle personality and green leafy body.",
+    "Design a Pokemon with a flowery crown and soft green petals for a calming effect.",
+    "Show me a whimsical Pokemon that thrives in lush environments and loves to dance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Red"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": null,
+      "accent": "Red"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Flower petals on head",
+      "Round body",
+      "Leaf-like lower body",
+      "Bright red flowers",
+      "Green coloration"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Gentle"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Bellossom/0.png",
+  "pokemon_name": "Bellossom"
+}

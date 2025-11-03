@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a Fighting-type Pokemon with a small, muscular build and a determined expression.",
+    "Show me a playful, bipedal Pokemon that loves to train and show off its skills.",
+    "Design a Pokemon that thrives in urban environments and has a brown and purple color scheme.",
+    "Imagine a tiny Pokemon that specializes in close combat and is always ready for a challenge.",
+    "Generate a character that embodies agility and spirit, with short limbs and a spiky hairstyle.",
+    "Make a small, energetic Pokemon that can be found in grasslands and loves sparring.",
+    "Give me a quirky Fighting-type Pokemon with a unique appearance and a strong competitive nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Brown"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": null,
+      "accent": "Brown"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Muscular arms",
+      "Pointed head with spiky hair",
+      "Short legs with a round body",
+      "Fists ready for combat"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Competitive",
+      "Determined"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Close-range fighter"
+  },
+  "image_path": "images/Tyrogue/2.png",
+  "pokemon_name": "Tyrogue"
+}

@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a bird Pok\u00e9mon with vibrant red and black feathers that loves to explore forests.",
+    "I want a small, agile Pok\u00e9mon with a striking blue eye and a playful personality.",
+    "Generate a Flying-type Pok\u00e9mon that has a unique woodpecker design and a curious nature.",
+    "Make a Pok\u00e9mon that resembles a tiny woodpecker, combining black and red colors perfectly.",
+    "Imagine a Pok\u00e9mon that thrives in forest habitats, with a distinctive beak and playful demeanor.",
+    "Design a Pok\u00e9mon that is known for its speed and agility, with a striking color palette.",
+    "Show me a Pok\u00e9mon that loves to peck trees, with a bright red crest and keen eyesight."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Red"
+    ],
+    "secondary_colors": [
+      "White",
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Red",
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Distinctive red crest",
+      "Sharp beak",
+      "Bright blue eye",
+      "White belly",
+      "Black wings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful",
+      "Energetic"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Pikipek/0.png",
+  "pokemon_name": "Pikipek"
+}

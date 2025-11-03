@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with a friendly demeanor and soft colors.",
+    "Imagine a powerful dragon with large wings and a round body shape.",
+    "Design a playful dragon Pokemon that loves to fly over mountains.",
+    "Generate a Pokemon that combines dragon features with a gentle personality.",
+    "Show me a water-type Pokemon that resembles a dragon in appearance.",
+    "Make a Pokemon with orange scales and a white underbelly that can soar high.",
+    "I want a unique dragon Pokemon that can adapt to both land and sea."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "White"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "White",
+      "accent": "Green"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large wings",
+      "Round body",
+      "Short limbs",
+      "Long tail",
+      "Two antennae"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Friendly",
+      "Playful",
+      "Courageous"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Dragonite/2.png",
+  "pokemon_name": "Dragonite"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a Pokemon that has a unique shape and can adapt its type to different environments.",
+    "Show me a creature with a sleek design, featuring a mix of colors that represent technology and nature.",
+    "Imagine a legendary Pokemon that can transform its abilities based on its surroundings and challenges.",
+    "Generate a Pokemon that embodies both strength and versatility, with distinct visual traits that stand out.",
+    "Design a Pokemon with a futuristic appearance, showcasing elements of both power and elegance.",
+    "Make a creature that thrives in various habitats and has multiple types to choose from.",
+    "Give me a Pokemon that can represent the balance between nature and technology, with an intricate design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Black",
+      "accent": "Blue"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Multi-colored appendages",
+      "Unique facial markings",
+      "Large ears resembling wings",
+      "A mechanical appearance in certain areas"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Adaptable",
+      "Intelligent",
+      "Mysterious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Versatile"
+  },
+  "image_path": "images/Silvally/3.png",
+  "pokemon_name": "Silvally"
+}

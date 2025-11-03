@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a cute teddy bear-like Pokemon with pink fur and brown feet.",
+    "I want a fluffy Pokemon that looks like a stuffed animal with big eyes.",
+    "Generate a playful Pokemon with a round body and a cute smile.",
+    "Make a Pokemon that resembles a soft toy, featuring a unique color pattern.",
+    "Imagine a friendly Pokemon with a cuddly appearance and a cheerful demeanor.",
+    "Design a Pokemon that has a plushy look and a playful personality.",
+    "Give me a whimsical Pokemon that combines pink and brown colors in its design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy body",
+      "Large round ears",
+      "Chubby limbs",
+      "Cute face with big eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cuddly",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Stufful/1.png",
+  "pokemon_name": "Stufful"
+}

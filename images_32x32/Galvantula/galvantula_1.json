@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that resembles a spider and has vibrant yellow and blue colors.",
+    "I want a Pokemon that can zap its foes with electricity while looking like an agile arachnid.",
+    "Generate an electric bug-type creature with distinctive long legs and a playful personality.",
+    "Make a Pokemon inspired by a web-slinging insect with striking color patterns and unique features.",
+    "Imagine a spider-like Pokemon that thrives in forests, showcasing a mix of yellow and blue hues.",
+    "Design an electric-type Pokemon that embodies agility and speed, perfect for quick attacks.",
+    "Show me an insectoid Pokemon that captures the essence of both bug and electric types."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Blue",
+      "accent": "Brown"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Eight long legs",
+      "Large eyes",
+      "Web-like patterns on body",
+      "Electric orb-like shapes on legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Electric",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Agile",
+      "Cunning"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Speed and agility focused"
+  },
+  "image_path": "images/Galvantula/1.png",
+  "pokemon_name": "Galvantula"
+}

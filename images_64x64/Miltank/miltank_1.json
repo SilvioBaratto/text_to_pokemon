@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a playful Normal-type Pokemon that resembles a happy cow with a pink and black color scheme.",
+    "Imagine a Pokemon that enjoys grazing in fields, showcasing a blend of pink and white hues.",
+    "Design a cute, round Pokemon with a friendly demeanor and distinctive udders for milk production.",
+    "Generate a Pokemon that thrives in grasslands, known for its soft pink body and playful personality.",
+    "Give me a Pokemon with a distinctive cow-like appearance, featuring a mix of black and pink colors.",
+    "Show me a Pokemon that embodies the charm of a dairy cow, complete with cheerful expressions and a rounded shape.",
+    "Make a vibrant Normal-type Pokemon with a focus on cuteness and a lovable personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Black",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Cow-like appearance",
+      "Udders",
+      "Round body shape",
+      "Black spots",
+      "Large eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Friendly",
+      "Playful",
+      "Gentle"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Miltank/1.png",
+  "pokemon_name": "Miltank"
+}

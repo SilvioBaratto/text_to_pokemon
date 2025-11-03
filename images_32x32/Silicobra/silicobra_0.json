@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a snake-like Pokemon with sandy colors and a unique ability to blend in with the desert.",
+    "Design a Pokemon that resembles a burrowing animal, featuring earthy tones and a playful demeanor.",
+    "Generate a creature with a long, slender body and bright green eyes, perfect for desert environments.",
+    "Make a ground-type Pokemon with a camouflage pattern that helps it thrive in arid regions.",
+    "Imagine a Pokemon that can curl itself into a ball, showcasing its protective scales and vibrant eyes.",
+    "Show me a serpentine Pokemon with a distinct head shape and the ability to dig tunnels quickly.",
+    "Give me a Pokemon inspired by a sand snake, with a smooth texture and a calm personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Green"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": "Green"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long, slender body",
+      "Distinctive head shape",
+      "Bright green eyes",
+      "Smooth texture",
+      "Camouflage pattern"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Desert",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Silicobra/0.png",
+  "pokemon_name": "Silicobra"
+}

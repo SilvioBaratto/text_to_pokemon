@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a powerful ground-type Pokemon that resembles a tank with tough armor and a huge mouth.",
+    "Show me a Pokemon that can thrive in deserts, featuring a large, bulky body and a tough hide.",
+    "Imagine a Pokemon with a massive jaw and a love for sunbathing in sandy environments.",
+    "Generate a formidable creature with earthy tones, capable of causing tremors with its strength.",
+    "Design a Pokemon that embodies resilience, with a tough exterior and a playful demeanor.",
+    "Give me a Pokemon that looks like it could easily blend into desert landscapes and intimidate foes.",
+    "Make a Pokemon that is both intimidating and adorable, with features that reflect its ground-type nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large mouth with visible teeth",
+      "Thick, sturdy legs",
+      "Heavy, armored back"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Stubborn",
+      "Protective",
+      "Playful"
+    ],
+    "habitat": "Desert",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Hippowdon/1.png",
+  "pokemon_name": "Hippowdon"
+}

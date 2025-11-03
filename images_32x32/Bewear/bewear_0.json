@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a playful bear-like Pokemon with vibrant pink and black colors.",
+    "Imagine a cuddly Pokemon that can fight with its strong arms and soft fur.",
+    "Design a Pokemon that excels in both strength and charm, featuring a mix of pink and black.",
+    "Generate a bear Pokemon that loves to hug and has a strong affinity for nature.",
+    "Make a cute yet powerful Pokemon with unique features and a friendly personality.",
+    "Show me a Pokemon that embodies both combat readiness and a lovable appearance.",
+    "Give me a fluffy bear-like creature that thrives in forests and grasslands."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Black"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large arms",
+      "Round face",
+      "Soft fur",
+      "White snout",
+      "Pink paw pads"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Fighting",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Affectionate",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Bewear/0.png",
+  "pokemon_name": "Bewear"
+}

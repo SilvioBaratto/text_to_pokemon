@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a legendary bird Pok\u00e9mon with electric powers and striking yellow feathers.",
+    "Imagine a flying-type Pok\u00e9mon that can summon thunderstorms with its wings.",
+    "Design a mythical creature resembling a bird, featuring sharp beak and talons.",
+    "Generate a Pok\u00e9mon that embodies the essence of electricity and speed.",
+    "Show me a majestic bird Pok\u00e9mon with a vibrant yellow color palette.",
+    "Give me a powerful Pok\u00e9mon that is both electric and flying with a bold design.",
+    "Make a unique Pok\u00e9mon that thrives in mountainous habitats and commands the skies."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Sharp beak",
+      "Long wings with pointed tips",
+      "Electric bolts pattern on body",
+      "Talons",
+      "Fierce expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Majestic",
+      "Energetic"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Fast and powerful attacks"
+  },
+  "image_path": "images/Zapdos/3.png",
+  "pokemon_name": "Zapdos"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a playful fairy-type Pokemon with fluffy white fur and green accents.",
+    "I want a whimsical Pokemon that resembles a cotton ball with tree-like features.",
+    "Generate a small, adorable Pokemon with a brown base and fluffy white cloud-like hair.",
+    "Make a Pokemon that embodies nature, with soft features and a friendly demeanor.",
+    "Imagine a creature that thrives in forests, sporting a light brown trunk and puffy white foliage.",
+    "Design a Pokemon that blends in with its grassy surroundings, featuring vibrant green elements.",
+    "Show me a cute, cuddly Pokemon with a mix of earthy and fluffy traits."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Green",
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy white cloud-like hair",
+      "Brown trunk-like body",
+      "Green leaf accents"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Fairy",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Whimsicott/0.png",
+  "pokemon_name": "Whimsicott"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with a vibrant red shell and tiny blue wings.",
+    "Imagine a small, cheerful Pokemon that has round eyes and a playful demeanor.",
+    "Show me a unique insect-like Pokemon design with a mix of orange and green colors.",
+    "Generate a cute creature that thrives in forest habitats, featuring distinctive round patterns.",
+    "Make a Pokemon that resembles a ladybug but incorporates fantastical elements and colors.",
+    "Design a playful bug Pokemon with a round body and large expressive eyes.",
+    "Give me an adorable Pokemon that is small and has a vibrant color palette."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large eyes",
+      "Rounded body",
+      "Six legs",
+      "Two prominent horns",
+      "Blue spots on the body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Ledyba/2.png",
+  "pokemon_name": "Ledyba"
+}

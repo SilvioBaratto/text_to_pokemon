@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a cute, furry Pokemon that loves to dig in the dirt and play around.",
+    "I want a playful Pokemon that can roll around and disrupt its surroundings.",
+    "Generate a small Pokemon with a zigzag pattern on its fur and a cheerful expression.",
+    "Make a Pokemon that resembles a raccoon with a love for exploration and adventure.",
+    "Imagine a Pokemon that can blend into its forest habitat and is known for its speed.",
+    "Design a Pokemon that has a brown coat and is known for its agility and playful nature.",
+    "Show me a Pokemon that has a unique body shape and a knack for finding hidden treasures."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Zigzag fur pattern",
+      "Small, rounded body",
+      "Large, expressive eyes",
+      "Short limbs",
+      "Pointed snout"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Energetic"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Zigzagoon/0.png",
+  "pokemon_name": "Zigzagoon"
+}

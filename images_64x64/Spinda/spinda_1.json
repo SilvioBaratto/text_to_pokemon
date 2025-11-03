@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a playful Pokemon that has unique patterns on its body.",
+    "I want an adorable creature with big eyes and a cheerful expression.",
+    "Generate a quirky Pokemon that stands out with its colorful markings.",
+    "Make a charming character that embodies fun and mischief.",
+    "Imagine a small, fluffy creature with a whimsical design and bright colors.",
+    "Design a Pokemon that reflects joy and has a distinctive style.",
+    "Show me a cute creature that has a unique appearance and vibrant colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Red",
+      "accent": "Black"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Spiral patterns on ears",
+      "Large, expressive eyes",
+      "Round body shape",
+      "Small limbs",
+      "Cheerful smile"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Quirky"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Spinda/1.png",
+  "pokemon_name": "Spinda"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a sleek, bipedal Pokemon with a fiery personality and dark scales.",
+    "I want a unique Fire/Poison type Pokemon that has bright pink accents.",
+    "Generate a Pokemon that thrives in urban areas and has a cunning demeanor.",
+    "Make a formidable creature that combines agile movements with powerful fire attacks.",
+    "Imagine a Pokemon that has a long tail and a striking color pattern.",
+    "Design a fierce-looking Pokemon with a preference for mountainous terrains.",
+    "Give me a Pokemon that is rare and known for its strategic combat style."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Purple",
+      "accent": "Pink"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, slender body",
+      "Unique tail with a flame-like appearance",
+      "Sharp claws",
+      "Lizard-like head",
+      "Vibrant color patterns"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Poison",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Fierce",
+      "Agile"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Strategic"
+  },
+  "image_path": "images/Salazzle/1.png",
+  "pokemon_name": "Salazzle"
+}

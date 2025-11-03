@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a fire-type Pokemon with a molten shell and a gooey body.",
+    "I want a snail-like Pokemon that emits steam and has orange accents.",
+    "Generate a Pokemon design featuring a fiery creature with blue highlights.",
+    "Make a unique fire-type with a pink, lava-like exterior and a rocky shell.",
+    "Imagine a Pokemon that resembles a slug with vibrant colors and a rocky back.",
+    "Design a creature that combines fire and rock elements in its appearance.",
+    "Show me a Pokemon that has a shell resembling hot magma and a gooey base."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Blue",
+      "accent": "Orange"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Molten, lava-like appearance",
+      "Rocky shell",
+      "Gooey body texture",
+      "Large eyes",
+      "Steam emission"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Rock",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Lively",
+      "Hot-headed",
+      "Sociable"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Magcargo/1.png",
+  "pokemon_name": "Magcargo"
+}

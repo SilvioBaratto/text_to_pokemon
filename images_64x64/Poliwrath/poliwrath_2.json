@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a round body and muscular arms, showcasing its strength.",
+    "Imagine a Pokemon that excels in both fighting and swimming, with a spiral pattern on its belly.",
+    "Generate a blue and white Pokemon known for its powerful punches and aquatic agility.",
+    "Show me a Pokemon that thrives in wetland habitats and has a unique spiral design.",
+    "Design a bipedal Pokemon that balances strength and speed, perfect for battling in water.",
+    "Make a Pokemon that is both adorable and fierce, with a distinct whirlpool pattern.",
+    "Give me a water-fighting type Pokemon that can easily adapt to different environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Spiral pattern on the belly",
+      "Muscular arms",
+      "Large round head",
+      "Webbed hands",
+      "Defined legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Fighting",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Fierce",
+      "Playful"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Physical attacker"
+  },
+  "image_path": "images/Poliwrath/2.png",
+  "pokemon_name": "Poliwrath"
+}

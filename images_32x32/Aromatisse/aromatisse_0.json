@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a whimsical fairy-type Pokemon with soft pink and purple hues and magical accessories.",
+    "Imagine a playful Pokemon that brings joy and happiness, with a fluffy, cloud-like body.",
+    "Generate a charming Pokemon that embodies the spirit of celebration, surrounded by sparkles and glitter.",
+    "Make a fairy-type Pokemon that is known for its enchanting powers and bright colors.",
+    "Show me a cute and fluffy Pokemon that has a vibrant personality and loves to dance.",
+    "Design a magical creature that thrives in enchanting environments, adorned with floral patterns.",
+    "Give me a Pokemon that radiates positivity and is often found in lush gardens and forests."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "White",
+      "accent": "Purple"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy cloud-like body",
+      "Large expressive eyes",
+      "Decorative floral elements",
+      "Curvy antennae-like appendages"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Enchanting"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Aromatisse/0.png",
+  "pokemon_name": "Aromatisse"
+}

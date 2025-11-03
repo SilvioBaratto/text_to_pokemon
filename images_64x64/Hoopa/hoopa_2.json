@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon with a mix of pink and purple hues and a playful demeanor.",
+    "Design a magical creature that thrives in urban areas and has psychic abilities.",
+    "Show me a small, mystical Pokemon that can teleport and has colorful rings.",
+    "Imagine a Pokemon that resembles a genie, adorned with golden accessories and vibrant colors.",
+    "Give me a whimsical Pokemon that appears in fairy tales, featuring large, expressive eyes.",
+    "Generate a creature that embodies mischief, with a round body and unique horned features.",
+    "Make a legendary Pokemon that has a blend of psychic and fairy characteristics."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Yellow",
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Purple",
+      "accent": "Yellow"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Two large, curved horns",
+      "Gold rings around its body",
+      "Vibrant green eyes",
+      "Round, chubby body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Ghost",
+    "generation": 6,
+    "is_legendary": true,
+    "is_mythical": true,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Hoopa/2.png",
+  "pokemon_name": "Hoopa"
+}

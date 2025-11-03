@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a playful fire-type Pokemon that loves to swing from trees.",
+    "Imagine a fiery monkey Pokemon with a bright orange body and blue accents.",
+    "Generate a dynamic Pokemon that embodies the spirit of both fire and fighting types.",
+    "Make an energetic creature that thrives in forest habitats and has a mischievous personality.",
+    "Show me a Pokemon that evolves from a small monkey to a fierce fire fighter.",
+    "Design a Pokemon with a unique combination of agility and fiery powers.",
+    "Give me a creature that exhibits both playful charm and fierce combat skills."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Brown",
+      "accent": "Blue"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flame-tipped tail",
+      "Blue face mask",
+      "Long limbs",
+      "Energetic pose",
+      "Furry body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Fighting",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Mischievous"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Monferno/0.png",
+  "pokemon_name": "Monferno"
+}

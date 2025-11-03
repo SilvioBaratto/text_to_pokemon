@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a small, round Pokemon that has a cute appearance and is based on an owl.",
+    "I want a nature-loving Pokemon that can blend into its surroundings with green and brown colors.",
+    "Generate a starter Pokemon that evolves into a majestic bird and has a friendly personality.",
+    "Make a Pokemon design that features a round body and a beak, with a focus on forest habitats.",
+    "Imagine a Pokemon that combines grass and flying types, showcasing vibrant greens and soft browns.",
+    "Design an adorable Pokemon that has big eyes and a small body, perfect for a grassland environment.",
+    "Give me a Pokemon that is both cute and capable of flight, with a unique leaf-like feature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Green"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": "Green"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body shape",
+      "Large circular eyes",
+      "Leaf-shaped bowtie",
+      "Soft feather texture",
+      "Small beak"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Flying",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Friendly",
+      "Curious",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Rowlet/0.png",
+  "pokemon_name": "Rowlet"
+}

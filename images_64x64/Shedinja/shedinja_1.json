@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon with a mysterious aura and a unique hollow body.",
+    "Imagine a bug-type Pokemon that can disguise itself using its environment.",
+    "Show me a Pokemon that has a haunting appearance and can blend into shadows.",
+    "Design a creature that represents the spirit of nature with an ethereal glow.",
+    "Make a Pokemon that is inspired by a deserted shell, conveying a sense of solitude.",
+    "Generate a ghostly figure that floats effortlessly with a translucent body.",
+    "Give me a Pokemon with a shell-like exterior and a hauntingly beautiful presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Gray"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": "Gray"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Hollow shell",
+      "Floating appearance",
+      "Angelic halo",
+      "Insect-like limbs",
+      "Transparent body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Ghost",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Evasive",
+      "Solitary"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Shedinja/1.png",
+  "pokemon_name": "Shedinja"
+}

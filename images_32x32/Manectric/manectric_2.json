@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon that resembles a wild dog with bright yellow and blue fur.",
+    "Imagine a Pokemon that has sharp, spiky features and a sleek body, depicting both speed and agility.",
+    "Show me a powerful electric Pokemon with a striking color palette of blue and yellow, standing in a forest.",
+    "Design a Pokemon that combines elements of lightning and speed, showcasing a dynamic and energetic personality.",
+    "Make an electric-type Pokemon that is both intimidating and friendly, with a unique fur pattern.",
+    "Generate a Pokemon that has a streamlined, quadruped body, reflecting its electric nature and agility.",
+    "Give me a detailed description of a Pokemon that thrives in urban settings, with vibrant blue and yellow colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Spiky mane",
+      "Pointed ears",
+      "Long tail",
+      "Electric blue color",
+      "Yellow accents on limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Loyal",
+      "Playful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Fast and agile attacks"
+  },
+  "image_path": "images/Manectric/2.png",
+  "pokemon_name": "Manectric"
+}

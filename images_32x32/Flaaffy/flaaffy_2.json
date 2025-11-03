@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a cute Electric-type Pokemon with fluffy features and playful personality.",
+    "Show me a Pokemon that looks like a small, pink sheep with curly hair.",
+    "Imagine a fluffy Electric-type creature that loves to frolic in the grass.",
+    "Generate a bipedal Pokemon with a round body and a cheerful expression.",
+    "Design a playful Pokemon that emits sparks and has a wooly appearance.",
+    "Give me a Pokemon resembling a small, pink lamb with a soft tail.",
+    "Make a friendly Electric-type Pokemon that enjoys sunbathing in fields."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "White",
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "White",
+      "accent": "Blue"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Curly white wool on head",
+      "Fluffy tail",
+      "Round body",
+      "Large expressive eyes",
+      "Small blue sphere at the tail end"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Friendly"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Flaaffy/2.png",
+  "pokemon_name": "Flaaffy"
+}

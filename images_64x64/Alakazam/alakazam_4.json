@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon that has a sleek, humanoid shape and wields spoons as weapons.",
+    "I want a yellow Pokemon with mental powers and a mysterious aura, designed for battles.",
+    "Generate a Pokemon that resembles a wizard, with a focus on telekinesis and psychic abilities.",
+    "Make a character that embodies intelligence and agility, showcasing unique psychic powers.",
+    "Imagine a Pokemon with a slender form and sharp features, exuding confidence and wisdom.",
+    "Design a creature that combines agility and brainpower, perfect for strategic combat scenarios.",
+    "Show me a Pokemon that can manipulate objects with its mind, featuring a bright yellow color scheme."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Wields two silver spoons",
+      "Pointed ears",
+      "Long, thin arms",
+      "Large, expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Cunning",
+      "Calm"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Strategic"
+  },
+  "image_path": "images/Alakazam/4.png",
+  "pokemon_name": "Alakazam"
+}

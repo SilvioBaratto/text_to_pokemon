@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a butterfly Pokemon with shimmering blue wings and a gentle personality.",
+    "Show me a bug-type creature inspired by nature, featuring bright colors and elegant flight.",
+    "I want a fairy-like Pokemon with delicate wings and a calm demeanor, perfect for gardens.",
+    "Design a Pokemon that resembles a butterfly, incorporating white and blue hues with a graceful appearance.",
+    "Imagine a Pokemon with intricate patterns on its wings that reflect its serene nature.",
+    "Generate an insect Pokemon that flits through forests, showcasing vibrant colors and gentle movements.",
+    "Make a whimsical bug Pokemon that thrives in sunny meadows, adorned with beautiful colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, delicate wings",
+      "Red eyes",
+      "Blue body",
+      "White markings on wings",
+      "Elegant antennae"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Calm",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Butterfree/3.png",
+  "pokemon_name": "Butterfree"
+}

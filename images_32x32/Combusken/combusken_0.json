@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a fighting-type Pokemon with fiery orange feathers and a determined expression.",
+    "Imagine a bipedal Pokemon that excels in agility and has striking yellow and orange colors.",
+    "Show me a dynamic fire-type Pokemon that has a unique combination of fowl-like features and martial arts poses.",
+    "Design a Pokemon that embodies the spirit of a fiery fighter, with bright colors and a fierce look.",
+    "Generate a medium-sized Pokemon with a vibrant orange body and a confident stance, perfect for battles.",
+    "Make a fiery bird-like creature that combines agility and strength, showcasing its bright colors.",
+    "I want to see a Pokemon that looks like a martial artist with colorful feathers and an energetic vibe."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Gray",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Feathered crest on head",
+      "Strong legs for kicking",
+      "Flame-like tail",
+      "Sharp claws"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Fighting",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Brave",
+      "Confident"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Combusken/0.png",
+  "pokemon_name": "Combusken"
+}

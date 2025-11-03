@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a small creature poking out of the ground with a curious expression.",
+    "I want a quirky underground Pokemon that can dig rapidly and appears cute.",
+    "Generate a small, brown Pokemon with a round shape and a friendly pink mouth.",
+    "Make a Pokemon that thrives in dirt and is known for its speed and stealth.",
+    "Imagine a Pokemon that can burrow underground and surprises its opponents with quick attacks.",
+    "Design a Pokemon that looks like it's emerging from the soil, with a playful demeanor.",
+    "Show me a tiny Pokemon that's great at hiding and loves to explore underground tunnels."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": "Pink"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Small, round body",
+      "Visible pink mouth",
+      "Emerging from the ground",
+      "Simple facial features",
+      "No limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful",
+      "Energetic"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Diglett/4.png",
+  "pokemon_name": "Diglett"
+}

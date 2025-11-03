@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with tentacle-like limbs and a vibrant blue color scheme.",
+    "Imagine a Pokemon that resembles an octopus, featuring striking yellow accents and a fierce expression.",
+    "Show me a Pokemon with a unique design inspired by sea creatures, emphasizing its agility and strength.",
+    "Generate a fighting-type Pokemon that has a sleek, muscular build and a deep blue hue.",
+    "Make a creature that embodies the spirit of the ocean, with distinctive patterns and a playful demeanor.",
+    "Design a Pokemon that thrives in underwater environments, showcasing its adaptability and combat skills.",
+    "Give me a Pokemon that combines elements of strength and grace, with a captivating color palette."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow",
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": "Purple"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Tentacle-like arms",
+      "Bold yellow markings",
+      "Large, expressive eyes",
+      "Suction cup-like appendages"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": "Water",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Playful",
+      "Strategic"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Close-range fighter with grappling techniques"
+  },
+  "image_path": "images/Grapploct/0.png",
+  "pokemon_name": "Grapploct"
+}

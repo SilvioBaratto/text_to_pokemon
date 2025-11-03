@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a sleek body and elegant fins.",
+    "I want a Pokemon that resembles a fish with vibrant colors and graceful movements.",
+    "Generate a creature that thrives in oceans, with a mix of blue and pink hues.",
+    "Make a whimsical aquatic Pokemon with distinct tail fins and a playful demeanor.",
+    "Imagine a small, charming fish Pokemon that embodies the beauty of underwater life.",
+    "Design a Pokemon that showcases a smooth silhouette with colorful accents.",
+    "Give me a unique water Pokemon that has both elegance and agility in its design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": "Pink"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, flowing fins",
+      "Streamlined body",
+      "Prominent dorsal fin",
+      "Vibrant color patterns",
+      "Angular tail fin"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Graceful",
+      "Curious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Agile and evasive"
+  },
+  "image_path": "images/Finneon/0.png",
+  "pokemon_name": "Finneon"
+}

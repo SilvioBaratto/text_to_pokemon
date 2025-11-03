@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a flying-type Pokemon with bright yellow feathers and striking blue accents.",
+    "I want a dinosaur-inspired Pokemon that can soar through the skies with elegance.",
+    "Generate an ancient bird Pokemon that embodies speed and agility in its design.",
+    "Make a colorful, winged creature that has a majestic presence and fierce determination.",
+    "Imagine a Pokemon that combines vibrant colors and sharp features to assert dominance.",
+    "Show me a prehistoric Pokemon with a blend of yellow and blue, known for its swiftness.",
+    "Design a Pokemon with a unique beak and a fiery spirit, ready for any battle."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Blue",
+      "accent": "Red"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large wings with blue feathers",
+      "Red tail feathers",
+      "Beak resembling a dinosaur",
+      "Prominent crest on the head",
+      "Muscular legs for strong flight"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Flying",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Proud",
+      "Cunning"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Uncommon",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Archeops/1.png",
+  "pokemon_name": "Archeops"
+}

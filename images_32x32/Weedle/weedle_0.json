@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with a segmented body and unique patterns all over.",
+    "I want a Pokemon that resembles a small insect, featuring bright colors and a cute appearance.",
+    "Generate a tiny Pokemon that thrives in forest environments and has a soft, rounded body.",
+    "Make a creepy crawly creature that has a dual nature of being both adorable and slightly threatening.",
+    "Imagine a Pokemon that can blend into its surroundings with colors that mimic nature.",
+    "Design a Pokemon with a playful demeanor and distinct physical traits, perfect for a children's cartoon.",
+    "Show me a Pokemon that evolves into a larger creature, starting from a tiny, caterpillar-like form."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Pink",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Pink",
+      "accent": "White"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Segmented body",
+      "Large pink nose",
+      "Two white horns on the head",
+      "Small size",
+      "Purple spots along the body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful",
+      "Gentle"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Weedle/0.png",
+  "pokemon_name": "Weedle"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a lightning-fast Pokemon that can generate electric fields and has a playful personality.",
+    "I want a Pokemon that can harness electricity and has a fluffy tail, perfect for dynamic battles.",
+    "Generate an energetic electric-type Pokemon with a round body and pointy ears that loves to explore.",
+    "Make a Pokemon that looks like a small, agile creature with vibrant colors and a charming smile.",
+    "Imagine a nimble, electric-type Pokemon that can leap high and has a strong bond with its trainer.",
+    "Design a Pokemon with a striking yellow hue and a mischievous look, known for its speed in combat.",
+    "Give me an electric Pokemon that thrives in urban environments and has unique lightning-shaped markings."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Brown",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Brown",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Pointy ears",
+      "Fluffy tail",
+      "Electricity spark tail",
+      "Cheeks with electric pouches",
+      "Round body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Loyal"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Fast and agile attacks"
+  },
+  "image_path": "images/Raichu/2.png",
+  "pokemon_name": "Raichu"
+}

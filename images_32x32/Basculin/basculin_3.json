@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a fish with vibrant blue and green scales.",
+    "I want a Pokemon with sharp fins and a sleek body, showcasing the power of the ocean.",
+    "Generate a unique aquatic creature inspired by real-life fish, featuring bold colors and dynamic patterns.",
+    "Make a Pokemon that embodies speed and agility in the water, with a streamlined shape and vivid colors.",
+    "Imagine a Pokemon that can camouflage in the ocean, blending striking colors with natural aquatic hues.",
+    "Design a fish-like Pokemon that has a playful personality, with distinctive features that highlight its water type.",
+    "Show me a Pokemon that thrives in marine environments, showcasing both beauty and strength through its design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Green"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Green",
+      "accent": "White"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Sharp fins",
+      "Streamlined body",
+      "Prominent eyes",
+      "Vivid color patterns",
+      "Tail fin"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Agile",
+      "Curious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Basculin/3.png",
+  "pokemon_name": "Basculin"
+}

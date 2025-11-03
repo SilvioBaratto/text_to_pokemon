@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a shark with vibrant blue and yellow patterns.",
+    "Generate a fierce aquatic creature that has sharp fins and a sleek design, perfect for the ocean.",
+    "Imagine a Pokemon that combines speed and strength, showcasing a fierce predator in vibrant colors.",
+    "Show me a Pokemon with a streamlined body and a powerful jaw, ready to hunt in the sea.",
+    "Make a design for an aquatic Pokemon with striking features and a dynamic swimming style.",
+    "I want to see a Pokemon that embodies the essence of the ocean, with a bold color palette.",
+    "Design a shark-like Pokemon that exudes confidence and agility, with an eye-catching appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Sharp teeth",
+      "Pointed snout",
+      "Large dorsal fin",
+      "Streamlined body",
+      "Vibrant patterns"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Dark",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Playful",
+      "Cunning"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Sharpedo/3.png",
+  "pokemon_name": "Sharpedo"
+}

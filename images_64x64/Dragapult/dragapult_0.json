@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon that looks sleek and can fly swiftly through the skies.",
+    "I want a ghostly creature with a serpentine body and vibrant colors that glows in the dark.",
+    "Generate a Pokemon that has a long, flowing tail and can shoot energy blasts from its mouth.",
+    "Make a majestic dragon Pokemon with a mix of green and blue shades that lives in the mountains.",
+    "Imagine a Pokemon that has the ability to camouflage in its surroundings and appears ethereal.",
+    "Design a Pokemon that embodies speed and agility, with sharp features and a streamlined body.",
+    "Give me a dragon Pokemon that has a haunting presence and can summon fog around it."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Black",
+      "accent": "Red"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, tapered tail",
+      "Two smaller dragon heads on top",
+      "Sharp, angular design",
+      "Glowing, ethereal appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Ghost",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cunning",
+      "Loyal"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Dragapult/0.png",
+  "pokemon_name": "Dragapult"
+}

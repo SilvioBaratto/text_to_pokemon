@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a playful water-type Pokemon with big ears and a round body for kids to love.",
+    "I want a cute, blue Pokemon that can swim and play in the ocean waves.",
+    "Generate a friendly Pokemon with a bubbly personality and a love for adventure.",
+    "Make a water fairy Pokemon with distinctive round features and a cheerful expression.",
+    "Imagine a charming Pokemon with large ears that loves to splash around in lakes.",
+    "Design a small aquatic creature that can fit into any family of trainers.",
+    "Give me an adorable Pokemon that brings joy and happiness wherever it goes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": "Pink"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large ears",
+      "Round body",
+      "Tail with a ball",
+      "White spots on the body",
+      "Cheerful face"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Fairy",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Friendly"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Azumarill/0.png",
+  "pokemon_name": "Azumarill"
+}

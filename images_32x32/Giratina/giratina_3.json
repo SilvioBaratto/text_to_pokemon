@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon with a haunting design and a shadowy aura.",
+    "I want a dragon Pokemon that embodies both power and mystery with dark colors.",
+    "Generate a multi-headed creature resembling a serpent, with ominous features and a regal look.",
+    "Make a legendary Pokemon that has a strong connection to the underworld and the afterlife.",
+    "Imagine a powerful ghost-dragon hybrid that dominates the realm of shadows and darkness.",
+    "Design a Pokemon with sharp, metallic features and an ethereal presence.",
+    "Give me a mythical creature that can traverse different dimensions with ease."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Yellow",
+      "accent": "Gray"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Huge",
+    "distinctive_features": [
+      "Multiple heads",
+      "Dark, shadowy design",
+      "Long, serpentine body",
+      "Golden accents",
+      "Wing-like appendages"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Dragon",
+    "generation": 4,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Menacing",
+      "Powerful"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Defensive and strategic"
+  },
+  "image_path": "images/Giratina/3.png",
+  "pokemon_name": "Giratina"
+}

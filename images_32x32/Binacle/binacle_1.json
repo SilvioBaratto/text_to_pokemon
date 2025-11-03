@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a shell-like body and two green plant arms.",
+    "Imagine a Pokemon that resembles a two-headed creature with earthy tones and aquatic elements.",
+    "Design a unique Pokemon that looks like a mix between a shell and a plant.",
+    "Show me a bipedal Pokemon with blue tones, featuring two green plant appendages.",
+    "Generate a creature that has a rocky exterior with vibrant green accents.",
+    "Make a Pokemon that embodies both land and sea with a combination of earthy colors.",
+    "Give me a detailed description of a dual-type Pokemon that thrives in wet habitats."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Blue",
+      "accent": "Green"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Two plant-like appendages",
+      "Shell-like base",
+      "Orange stripes on arms"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Rock",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Adaptable"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Binacle/1.png",
+  "pokemon_name": "Binacle"
+}

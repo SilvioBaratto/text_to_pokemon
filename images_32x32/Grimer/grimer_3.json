@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a toxic Pok\u00e9mon that oozes with purple slime and has a mischievous grin.",
+    "I want a Pok\u00e9mon that thrives in urban areas, with a gooey, amorphous body.",
+    "Generate a Pok\u00e9mon with a squishy, blob-like appearance and a strong poison type.",
+    "Make a Pok\u00e9mon that can blend into muddy habitats, with a dark core and vibrant exterior.",
+    "Imagine a Pok\u00e9mon that can camouflage in a forest, featuring dark purple and gray tones.",
+    "Design a Pok\u00e9mon with an amorphous shape, showcasing a playful nature and toxic abilities.",
+    "Give me a Pok\u00e9mon that embodies the essence of pollution, with a striking purple hue."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Slime-like texture",
+      "Gooey appearance",
+      "Wide mouth",
+      "Two small eyes",
+      "Undulating body shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Sly"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Status-inflicting"
+  },
+  "image_path": "images/Grimer/3.png",
+  "pokemon_name": "Grimer"
+}

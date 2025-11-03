@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with shimmering scales and vibrant fins.",
+    "I want a Pokemon that evolves from a small fish into a powerful creature.",
+    "Generate a playful aquatic Pokemon that loves to splash around.",
+    "Make a Pokemon that is known for its weak attack but is loved by many.",
+    "Imagine a unique Pokemon that can be found in urban ponds and rivers.",
+    "Design a whimsical Pokemon that has a bright red body and golden fins.",
+    "Show me a fun Pokemon that inspires trainers despite its low battle stats."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Scaly body",
+      "Two large fins on the sides",
+      "A distinctive fin on the back",
+      "Large, expressive eyes",
+      "A small mouth"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Determined",
+      "Endearing"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Weak"
+  },
+  "image_path": "images/Magikarp/0.png",
+  "pokemon_name": "Magikarp"
+}

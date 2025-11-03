@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a sleek, elegant cat-like Pokemon that embodies grace and agility.",
+    "Imagine a Pokemon with a luxurious golden fur coat and playful demeanor.",
+    "Design a feline creature that prowls urban areas, stealthy and cunning.",
+    "Make a Pokemon that loves to nap in the sun, with a soft and fluffy appearance.",
+    "Generate a Pokemon inspired by Egyptian mythology, with distinct markings and regal posture.",
+    "Show me a Pokemon that thrives in grassy environments, with vibrant yellow highlights.",
+    "Give me a swift and elusive Pokemon that can blend into its surroundings effortlessly."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "White"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Pointy ears",
+      "Long, curled tail",
+      "Elegant whiskers",
+      "Sleek body structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cunning",
+      "Independent"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Persian/2.png",
+  "pokemon_name": "Persian"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a snake-like Pokemon with dark scales and vibrant accents.",
+    "Imagine a dual-type Pokemon featuring a poisonous theme with striking colors.",
+    "Show me a serpentine creature that blends into forested areas.",
+    "Generate a large, intimidating snake Pokemon with unique patterns.",
+    "Design a Pokemon that can thrive in urban environments and grasslands.",
+    "Give me a fierce-looking Pokemon with distinctive fangs and a long body.",
+    "Make a legendary snake Pokemon that represents danger and stealth."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Yellow",
+      "accent": "Purple"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, slender body",
+      "Forked tongue",
+      "Distinctive tail with a blade-like feature",
+      "Yellow patterning on body",
+      "Purple markings on head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Stealthy",
+      "Aggressive"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Long-range attacker with status effects"
+  },
+  "image_path": "images/Seviper/0.png",
+  "pokemon_name": "Seviper"
+}

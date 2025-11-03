@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with bright yellow and white colors, featuring a distinctive horn.",
+    "Imagine a tiny Pokemon that resembles a caterpillar, with eyes that express curiosity and innocence.",
+    "Generate a whimsical insect Pokemon that thrives in grassy areas, showcasing vibrant colors and playful features.",
+    "Make a unique creature with a segmented body and a small spike on its head, perfect for a forest setting.",
+    "Show me a Pokemon that evolves into a more powerful form, starting as a small, yellow caterpillar-like creature.",
+    "Design an adorable, non-legendary Pokemon with a friendly demeanor, ideal for trainers who love bug types.",
+    "Give me a visual of a Basic stage Pokemon that prefers to live in wooded areas, easily recognizable by its colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Segmented body",
+      "Small horn on the head",
+      "Large eyes",
+      "Soft, rounded body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful",
+      "Docile"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Physical"
+  },
+  "image_path": "images/Weedle/2.png",
+  "pokemon_name": "Weedle"
+}

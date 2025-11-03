@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon with a rugged appearance and glowing orange details.",
+    "Show me a Pokemon that resembles a coal pile with an energetic personality.",
+    "Design a Pokemon that has a unique shape, combining elements of rocks and flames.",
+    "Imagine a Pokemon that thrives in mountainous terrains, with a dark and fiery aesthetic.",
+    "Generate a creature that looks like it's made from volcanic rocks, with a cheerful face.",
+    "Make a Pokemon that embodies the essence of both rock and fire types, with a sturdy build.",
+    "Give me a Pokemon that is small, compact, and has a playful disposition."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Red",
+      "accent": "Orange"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Rough, rocky surface",
+      "Glowing orange accents",
+      "Bright, expressive eyes",
+      "Compact, rounded form"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Fire",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Energetic",
+      "Curious"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Carkol/0.png",
+  "pokemon_name": "Carkol"
+}

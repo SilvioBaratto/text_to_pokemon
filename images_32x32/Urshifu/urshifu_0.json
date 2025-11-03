@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a powerful fighting-type Pokemon with a muscular build and dark fur.",
+    "I want a Pokemon that combines the strength of a bear with the agility of a martial artist.",
+    "Generate a creature that embodies both resilience and ferocity, ideal for battle scenarios.",
+    "Make a Pokemon that has a unique fighting style, inspired by traditional martial arts.",
+    "Imagine a dark-colored Pokemon with striking yellow accents and a confident stance.",
+    "Design a Pokemon that stands out in a forest environment with its robust form.",
+    "Show me a legendary fighter Pokemon that dominates in both strength and strategy."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Muscular build",
+      "Clawed hands",
+      "Distinctive yellow markings",
+      "Fur texture",
+      "Fighting stance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": "Dark",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fearless",
+      "Determined",
+      "Disciplined"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Urshifu/0.png",
+  "pokemon_name": "Urshifu"
+}

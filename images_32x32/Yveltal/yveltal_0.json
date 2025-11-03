@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a dark-type Pokemon with black feathers and intimidating red eyes.",
+    "I want a Pokemon that embodies the essence of destruction and chaos.",
+    "Generate a legendary creature with powerful wings and a menacing aura.",
+    "Make a mythical Pokemon that represents life and death in balance.",
+    "Imagine a Pokemon with a sleek, predatory design that excels in aerial combat.",
+    "Design a creature that thrives in dark, mysterious environments.",
+    "Show me a Pokemon that has the ability to absorb energy from its surroundings."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Black",
+      "accent": "Gray"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large, bat-like wings",
+      "Prominent red markings",
+      "Sharp, clawed hands",
+      "Intimidating facial features"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": "Flying",
+    "generation": 6,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Menacing",
+      "Destructive",
+      "Mysterious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Aerial Attacker"
+  },
+  "image_path": "images/Yveltal/0.png",
+  "pokemon_name": "Yveltal"
+}

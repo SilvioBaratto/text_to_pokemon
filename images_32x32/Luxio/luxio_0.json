@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon with a sleek blue and black design, featuring striking yellow accents.",
+    "Imagine a Pokemon that resembles a lion cub, with a fluffy mane and bright blue fur.",
+    "Design a small, agile Pokemon that combines elements of both feline and electric features.",
+    "Show me a Pokemon with a playful personality, characterized by its vibrant colors and dynamic pose.",
+    "Generate a Pokemon that thrives in urban environments, showcasing a combination of speed and agility.",
+    "Give me a Pokemon with a tail that has a star shape, emphasizing its electric abilities.",
+    "Make a Pokemon that embodies both cuteness and strength, with striking blue and yellow tones."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Pointy ears",
+      "Fluffy mane",
+      "Star-shaped tail",
+      "Bright yellow eyes",
+      "Thick, bushy tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Loyal"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Fast and agile"
+  },
+  "image_path": "images/Luxio/0.png",
+  "pokemon_name": "Luxio"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that floats and has a mischievous grin.",
+    "I want a spooky Pokemon design inspired by classic horror themes and shadows.",
+    "Generate a creature that embodies the essence of fear, with dark colors and floating features.",
+    "Make a ghostly Pokemon that can disappear into smoke and has glowing eyes.",
+    "Imagine a ghost-type Pokemon that lurks in dark places, with a round and puffy appearance.",
+    "Design a haunting Pokemon with a playful personality, surrounded by a misty aura.",
+    "Show me a ghost Pokemon that combines cuteness with a chilling presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Purple"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Purple",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Floating appearance",
+      "Glowing white eyes",
+      "Round, puffy body",
+      "Smoke-like wisps around it",
+      "Subtle face expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Cunning"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Gastly/0.png",
+  "pokemon_name": "Gastly"
+}

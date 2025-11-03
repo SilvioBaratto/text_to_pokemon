@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a whimsical mushroom Pokemon that glows in the dark and has a cute face.",
+    "Show me a fairy-type Pokemon with colorful caps and magical spores floating around it.",
+    "Design an adorable Pokemon that resembles a mushroom with a pink umbrella and a playful attitude.",
+    "Imagine a Pokemon that thrives in forests, with a mushroom-like appearance and a vibrant color scheme.",
+    "Generate a small, enchanting Pokemon that uses its spores to create illusions in the forest.",
+    "Make a Pokemon that looks like a friendly fungus, exuding charm and a gentle nature.",
+    "Give me a unique design of a Pokemon inspired by mushrooms with a fairy-like personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Purple",
+      "accent": "Green"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Mushroom cap resembling an umbrella",
+      "Gentle smile",
+      "Small arms and legs",
+      "Glowing spores"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": "Grass",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Playful",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Shiinotic/1.png",
+  "pokemon_name": "Shiinotic"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a grass and flying-type Pokemon that has large leaf-like wings.",
+    "I want a Pokemon that resembles a dinosaur but is covered in green foliage.",
+    "Generate a creature with a long neck and tropical features for a new Pokemon.",
+    "Make a Pokemon that blends into the forest with its vibrant green colors.",
+    "Imagine a Pokemon that can fly and has a unique fruit-like appearance.",
+    "Design a friendly Pokemon with a cheerful demeanor and bright green colors.",
+    "Show me a creature that lives in jungles and has a gentle nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Brown"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large leaf-like wings",
+      "Long neck",
+      "Tropical fruit-like features",
+      "Brown body texture",
+      "Fruit on the back"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Flying",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Friendly",
+      "Loyal"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Tropius/1.png",
+  "pokemon_name": "Tropius"
+}

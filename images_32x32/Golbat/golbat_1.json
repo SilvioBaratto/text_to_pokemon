@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a bat-like Pokemon with vibrant blue wings and a sleek black body.",
+    "Show me a flying-type Pokemon inspired by nocturnal creatures, featuring advanced echolocation abilities.",
+    "Design a dual-type Pokemon that thrives in caves, with a unique color pattern of blue and black.",
+    "Imagine a Pokemon that uses poison and flying attacks, sporting sharp fangs and sharp wings.",
+    "Generate a Pokemon that resembles a cross between a bat and a mythical creature with glowing wings.",
+    "Make a small Pokemon with a dark body and light blue accents, perfect for stealthy nighttime adventures.",
+    "Give me a creature that embodies the essence of a cave dweller, with distinctive wing shapes and coloration."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, pointed ears",
+      "Fang-like teeth",
+      "Long wings with a unique shape",
+      "Red eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Stealthy",
+      "Aggressive",
+      "Curious"
+    ],
+    "habitat": "Cave",
+    "rarity": "Common",
+    "combat_style": "Speed and evasiveness"
+  },
+  "image_path": "images/Golbat/1.png",
+  "pokemon_name": "Golbat"
+}

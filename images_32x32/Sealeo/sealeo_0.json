@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a playful ice-type Pokemon that loves to slide on ice and has a round body.",
+    "Generate a water-type creature that resembles a seal but has unique whiskers and playful eyes.",
+    "Imagine a cute Pokemon that enjoys swimming and has a fluffy belly and bright blue fur.",
+    "Design a friendly Pokemon that thrives in cold habitats and has a round, aquatic shape.",
+    "Show me a Pokemon with a chubby body and a love for snow, featuring large flippers and a cheerful expression.",
+    "Make a water/ice hybrid Pokemon with a sleek design and distinctive white whiskers.",
+    "Give me a Pokemon that resembles a blue polar bear with a playful personality and a love for the sea."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Fluffy whiskers",
+      "Round body shape",
+      "Large flippers",
+      "Small tusks",
+      "Cute facial expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": "Water",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Sealeo/0.png",
+  "pokemon_name": "Sealeo"
+}

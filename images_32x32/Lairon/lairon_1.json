@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon that looks like a dinosaur with gray armor and a big mouth.",
+    "I want to see a Pokemon that resembles a prehistoric creature with metallic features and vibrant colors.",
+    "Generate an image of a Pokemon that combines elements of a turtle and a dinosaur with spikes.",
+    "Make a Pokemon design with a tough exterior and a cheerful personality, featuring shades of gray and blue.",
+    "Imagine a steel-type Pokemon that is robust and has a playful demeanor, suitable for battles.",
+    "Design a Pokemon with a unique combination of rock and steel elements, showcasing a strong presence.",
+    "Show me a Pokemon that embodies strength and resilience, with a body shape resembling that of a quadruped."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Blue",
+      "accent": "Brown"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Armored body with spiky back",
+      "Large mouth with visible teeth",
+      "Prominent blue eyes",
+      "Sturdy legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Rock",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Strong",
+      "Loyal"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Lairon/1.png",
+  "pokemon_name": "Lairon"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a mythical fire-type Pokemon with elegant tails and a graceful posture.",
+    "I want a Pokemon that resembles a fox, with shimmering gold fur and flowing tails.",
+    "Generate a creature with multiple colorful tails that radiates warmth and beauty.",
+    "Make a majestic fire-type Pokemon with a gentle demeanor and captivating eyes.",
+    "Imagine a Pokemon with a regal appearance, known for its cunning and charm.",
+    "Design a fox-like Pokemon that thrives in mystical forests and warm climates.",
+    "Show me a creature with a unique blend of elegance and power, embodying the spirit of fire."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "White"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Nine flowing tails",
+      "Elegant fur",
+      "Pointed ears",
+      "Red gem on forehead",
+      "Graceful posture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Graceful",
+      "Intelligent"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Ninetales/4.png",
+  "pokemon_name": "Ninetales"
+}

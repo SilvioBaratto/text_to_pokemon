@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that embodies shadows and mystery with a playful personality.",
+    "I want a small, mischievous creature with fiery eyes and a stealthy appearance.",
+    "Generate a Pokemon design that features dark, shadowy hues with a bright accent.",
+    "Make a cute ghostly Pokemon with a combination of gray and green colors.",
+    "Imagine a mythical Pokemon that blends into the shadows and has a unique fighting style.",
+    "Design a Pokemon that has a bipedal stance and emanates an aura of secrecy.",
+    "Show me a Pokemon with a mischievous grin and a body that resembles a shadow."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Green",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fiery eyes",
+      "Shadowy body",
+      "Green wispy hair",
+      "Mischievous grin",
+      "Thin arms"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Fighting",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": true,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Stealthy"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Agile and evasive"
+  },
+  "image_path": "images/Marshadow/1.png",
+  "pokemon_name": "Marshadow"
+}

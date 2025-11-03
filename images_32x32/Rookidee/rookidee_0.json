@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a bird-like Pokemon that has a unique color pattern and a small size.",
+    "Imagine a Pokemon with a striking blue body and a bold black crest on its head.",
+    "Show me a small flying Pokemon that lives in urban areas and has an eye-catching design.",
+    "Design a Pokemon that combines elements of a common bird and a mythical creature.",
+    "Generate a Pokemon that embodies agility and speed, with vibrant colors and distinctive features.",
+    "Make a tiny Pokemon that thrives in forest environments and has a playful demeanor.",
+    "Give me a unique Pokemon that can blend into its environment with its colorful plumage."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": "Black"
+    },
+    "body_shape": "Winged",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Black crest on head",
+      "Prominent red eye",
+      "Streamlined body shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Flying",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Rookidee/0.png",
+  "pokemon_name": "Rookidee"
+}

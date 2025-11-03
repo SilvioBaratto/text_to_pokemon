@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water/grass-type Pokemon with a cheerful personality and a fun-loving appearance.",
+    "I want a Pokemon that looks like a frog, with vibrant colors and a joyful expression.",
+    "Generate a Pokemon that thrives in wetlands, featuring a unique blend of green and yellow hues.",
+    "Make a character that resembles a lily pad, with fun features and a playful demeanor.",
+    "Imagine a Pokemon that dances in the rain, showcasing its aquatic and plant-like traits.",
+    "Design a Pokemon with a big smile, green body, and a hat like a traditional sombrero.",
+    "Show me a Pokemon that loves to swim and play in the water, with a fun personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Yellow",
+      "accent": "Brown"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Lily pad on head",
+      "Webbed hands and feet",
+      "Wide mouth with a big smile",
+      "Round body shape",
+      "Leaf-like patterns"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Grass",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Friendly"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Ludicolo/0.png",
+  "pokemon_name": "Ludicolo"
+}

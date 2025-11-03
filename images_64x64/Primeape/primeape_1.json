@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bipedal Pokemon with a fierce expression and bright orange fur.",
+    "I want to see a fighting-type Pokemon that has a muscular build and wild attitude.",
+    "Generate a unique Pokemon with a mix of vibrant colors and an energetic pose.",
+    "Make a character that embodies strength and agility, with prominent limbs and a bold design.",
+    "Imagine a playful Pokemon that loves to engage in battles, showcasing its fierce nature.",
+    "Design a Pokemon that thrives in urban environments, known for its quick movements and combat skills.",
+    "Show me a lively creature that has a striking appearance and a strong fighting spirit."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "White"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Brown",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Muscular arms",
+      "Long tail",
+      "Fur-covered body",
+      "Fierce facial expression",
+      "Prominent eyebrows"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Aggressive",
+      "Energetic"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Primeape/1.png",
+  "pokemon_name": "Primeape"
+}

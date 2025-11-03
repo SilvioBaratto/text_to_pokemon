@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with a segmented body and vibrant colors.",
+    "I want a Pokemon that resembles a caterpillar with unique spikes and a friendly face.",
+    "Generate a cute, small Pokemon that thrives in forest environments and has a unique evolution.",
+    "Make a whimsical Pokemon that has a mix of red and white colors with bug-like features.",
+    "Imagine a tiny Pokemon that can camouflage against leaves, featuring bright red accents.",
+    "Design a Pokemon that has a soft body with a spiky head, perfect for young trainers.",
+    "Show me a Pokemon that evolves into a beautiful butterfly, starting as a tiny caterpillar."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "White"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Spiky head with yellow tips",
+      "Segmented body",
+      "Large, expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful",
+      "Gentle"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Wurmple/0.png",
+  "pokemon_name": "Wurmple"
+}

@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a legendary water-type Pokemon with sleek, dragon-like features and vibrant hues.",
+    "I want a majestic Pokemon that embodies the essence of space and time, with shimmering colors.",
+    "Generate a creature that resembles a mythical guardian of oceans, showcasing blue and pink shades.",
+    "Make a towering, bipedal Pokemon with a regal stance and intricate patterns on its body.",
+    "Imagine a celestial Pokemon with sharp claws and a flowing design, fitting for a powerful deity.",
+    "Design a cosmic water dragon Pokemon that stands out with unique color gradients and features.",
+    "Show me a robust Pokemon that exudes both strength and elegance, with a blend of blue and purple."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Purple",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Blue",
+      "accent": "Purple"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Long, flowing appendages",
+      "Sharp claws",
+      "Dragon-like head with a prominent crest",
+      "Armored, sleek body",
+      "Elegant, elongated tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Dragon",
+    "generation": 4,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Majestic",
+      "Proud",
+      "Mysterious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Palkia/2.png",
+  "pokemon_name": "Palkia"
+}

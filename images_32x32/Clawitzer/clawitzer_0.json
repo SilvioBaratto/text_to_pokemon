@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a sleek design and a powerful cannon arm.",
+    "Imagine a Pokemon that resembles a deep-sea creature with vibrant blue colors and unique features.",
+    "Show me a Pokemon that combines aquatic traits with a futuristic robotic look.",
+    "Generate a character that is part lobster and part dragon, with striking color contrasts.",
+    "Design a Pokemon that has a large, vibrant shell and a cool underwater combat style.",
+    "Make a Pokemon that embodies the essence of the ocean, featuring shades of blue and yellow.",
+    "I want a Pokemon that looks like an undersea warrior with advanced weaponry and elegant fins."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large cannon-like arm",
+      "Distinctive blue shell",
+      "Vibrant yellow accents",
+      "Long antennae",
+      "Sharp claws"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Strategic",
+      "Protective"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Ranged attacks with powerful water blasts"
+  },
+  "image_path": "images/Clawitzer/0.png",
+  "pokemon_name": "Clawitzer"
+}

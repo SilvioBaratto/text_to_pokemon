@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon that has a unique, dream-like appearance with soft colors.",
+    "I want a Pokemon that embodies sleep and dreams, showcasing soothing yellow tones.",
+    "Generate an adorable creature that combines yellow and brown colors, with a focus on its hypnotic abilities.",
+    "Make a bipedal Pokemon with distinct features that evoke a sense of mystery and calmness.",
+    "Imagine a Pokemon that represents subconscious thoughts, featuring a rounded body and friendly demeanor.",
+    "Design a creature that is a master of sleep, adorned in yellow and brown hues.",
+    "Show me a quirky Pokemon that uses its psychic powers in playful and peaceful ways."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large nose",
+      "Round body",
+      "Sleepy eyes",
+      "Short arms",
+      "Ears resembling a bell"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Sleepy",
+      "Calm",
+      "Gentle"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Drowzee/1.png",
+  "pokemon_name": "Drowzee"
+}

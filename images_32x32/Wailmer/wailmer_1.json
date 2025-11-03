@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a large whale with a playful smile.",
+    "Show me a Pokemon with a big, round body and a cheerful expression, perfect for the ocean.",
+    "Imagine a blue aquatic creature that loves to splash around and play in the sea.",
+    "Design a Pokemon that has a blubbery body and a friendly demeanor, great for swimming.",
+    "Generate an image of a large, playful whale Pokemon that enjoys floating in the water.",
+    "Give me a visual of a round, blue Pokemon with a big mouth, ideal for a water habitat.",
+    "Make a Pokemon that embodies the fun of the ocean, with a large body and a happy face."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large round body",
+      "Big smiling mouth",
+      "Blubbery texture",
+      "Short fins",
+      "Prominent circular shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Joyful"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Wailmer/1.png",
+  "pokemon_name": "Wailmer"
+}

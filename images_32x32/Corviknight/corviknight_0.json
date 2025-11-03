@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a dark-type Pokemon that resembles a bird with metallic feathers and a fierce expression.",
+    "Show me a Pokemon that can fly gracefully through urban environments, featuring a sleek design.",
+    "Generate an imposing steel-type creature with a powerful beak and a glossy dark plumage.",
+    "Imagine a Pokemon that is both intimidating and majestic, soaring high above mountains.",
+    "Design a Pokemon known for its protective nature, often seen guarding its territory in forests.",
+    "Make a creature that embodies the essence of strength and resilience, with a unique wing structure.",
+    "Give me a bird-like Pokemon that thrives in urban areas and exhibits a bold personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Gray"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": null,
+      "accent": "Gray"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Metallic feathers",
+      "Sharp beak",
+      "Red eyes",
+      "Large wingspan",
+      "Robust body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Flying",
+    "type2": "Steel",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Protective",
+      "Bold",
+      "Loyal"
+    ],
+    "habitat": "Urban",
+    "rarity": "Uncommon",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Corviknight/0.png",
+  "pokemon_name": "Corviknight"
+}

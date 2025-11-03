@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a gooey Pokemon with a mischievous smile and vibrant green color.",
+    "I want a toxic-type creature that oozes with purple sludge and has a playful personality.",
+    "Generate a Pokemon that embodies pollution, with a blobby form and striking blue accents.",
+    "Make a monster that lurks in the shadows, featuring a ghostly appearance and a menacing grin.",
+    "Imagine a Pokemon made of slime, with features that suggest it can absorb its surroundings.",
+    "Design a creature that thrives in urban environments, showcasing a unique blend of green and blue.",
+    "Show me a Pokemon that is both playful and sneaky, with a distinctive ooze-like body."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Blue",
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Sludge-like, dripping body",
+      "Wide mouth with a playful grin",
+      "Large, expressive eyes",
+      "Wavy, uneven edges"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Sneaky"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Grimer/5.png",
+  "pokemon_name": "Grimer"
+}

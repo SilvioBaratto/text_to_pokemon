@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a quirky Pokemon that loves to paint and has a playful personality.",
+    "Design a Pokemon that uses its tail like a paintbrush and has a creative flair.",
+    "Generate a unique Normal-type Pokemon that expresses itself through art and color.",
+    "Imagine a small, artistic Pokemon that thrives in urban environments and loves to explore.",
+    "Make a Pokemon that can imitate others and has a mischievous attitude.",
+    "Show me a Pokemon that carries a palette of colors in its paws and enjoys nature.",
+    "Give me a fun, expressive Pokemon that uses its artistic abilities in battles."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Brown",
+      "accent": "Green"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Paintbrush tail",
+      "Large ears",
+      "Artistic expression",
+      "White fur",
+      "Green accent on tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Creative",
+      "Playful",
+      "Mischievous"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Smeargle/0.png",
+  "pokemon_name": "Smeargle"
+}

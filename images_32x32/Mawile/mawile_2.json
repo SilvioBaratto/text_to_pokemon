@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a fairy-type Pokemon with a large, flowing mane and a mischievous smile.",
+    "I want a dark-type Pokemon that combines elegance with an intimidating presence.",
+    "Generate a dual-type Pokemon that uses its deceptive appearance to confuse opponents.",
+    "Make a whimsical creature that blends both softness and sharpness in its design.",
+    "Imagine a unique Pokemon that embodies the themes of illusion and charm.",
+    "Design a Pokemon that has a striking contrast between its colors and features.",
+    "Give me a character that looks cute but has a hidden fierce side."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Black"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": null,
+      "accent": "Black"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large black hair resembling a jaw",
+      "Red eyes",
+      "Small stature",
+      "Yellow dress-like body",
+      "Sharp teeth visible"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": "Steel",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Playful",
+      "Deceptive"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Trickster"
+  },
+  "image_path": "images/Mawile/2.png",
+  "pokemon_name": "Mawile"
+}

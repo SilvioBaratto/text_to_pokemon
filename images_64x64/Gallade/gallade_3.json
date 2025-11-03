@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bipedal Pokemon with striking blue and green accents, wearing a knightly armor.",
+    "Imagine a psychic-type Pokemon that uses its blades to battle, showcasing elegance and power.",
+    "Show me a Pokemon with a humanoid shape and sharp features, blending grace and combat skill.",
+    "Design a Pokemon that thrives in forest habitats, characterized by a blue body and green details.",
+    "Generate a fighting-type creature with an athletic build and a fierce expression, perfect for battles.",
+    "Give me a Pokemon that combines psychic abilities with a warrior's stance, adorned with elegant colors.",
+    "Make a Pokemon that represents courage and strength, featuring distinctive blades and a blue-green palette."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Green",
+      "accent": "Red"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Blade-like arms",
+      "Strong jawline",
+      "Pointed head crest",
+      "Stylized legs",
+      "Elegant posture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Fighting",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Brave",
+      "Noble",
+      "Determined"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Melee focused with speed and agility"
+  },
+  "image_path": "images/Gallade/3.png",
+  "pokemon_name": "Gallade"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon with striking yellow fur and a powerful stance.",
+    "Generate a large feline creature that harnesses the power of lightning in its moves.",
+    "Imagine a Pokemon that glows with electric energy, showcasing a muscular build.",
+    "Design a legendary beast with a sleek body, sharp features, and vibrant colors.",
+    "Give me a majestic creature that roams the mountains and commands thunder.",
+    "Show me a Pokemon that embodies speed and agility, with a striking color palette.",
+    "Make a fearsome electric Pokemon that has a distinctive mane and fierce expression."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Electric mane",
+      "Stripe patterns on legs",
+      "Fierce facial expression",
+      "Thunderbolt tail",
+      "Muscular build"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Noble",
+      "Quick",
+      "Fierce"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Fast and powerful attacks"
+  },
+  "image_path": "images/Raikou/2.png",
+  "pokemon_name": "Raikou"
+}

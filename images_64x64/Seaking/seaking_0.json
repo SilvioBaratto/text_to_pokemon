@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with vibrant orange and white patterns reminiscent of ocean waves.",
+    "I want a Pokemon that resembles a fish, featuring elegant fins and a striking horn.",
+    "Generate a design for a quirky aquatic Pokemon that brings joy and excitement to battles.",
+    "Make a Pokemon that has a round body, large fins, and a playful expression, perfect for trainers.",
+    "Imagine a fish Pokemon that thrives in underwater environments while exhibiting strong combat skills.",
+    "Design a Pokemon that can gracefully glide through water with a colorful body and unique features.",
+    "Give me an aquatic creature with a bright color palette that showcases both beauty and strength."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "White"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long horn",
+      "Large fins",
+      "Round body",
+      "Bright coloration",
+      "Prominent eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Friendly"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Seaking/0.png",
+  "pokemon_name": "Seaking"
+}

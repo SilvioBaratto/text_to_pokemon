@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a golden crown and a mystical aura.",
+    "Show me a bipedal Pokemon with sleek purple fur and hypnotic eyes.",
+    "Imagine a powerful psychic creature that can read minds and levitate objects.",
+    "Generate a Pokemon that embodies wisdom and intelligence with an elegant design.",
+    "Design a Pokemon with three distinctive spoons, showcasing its telekinetic powers.",
+    "Give me a psychic Pokemon that thrives in urban environments, known for its cunning.",
+    "Make a majestic Pokemon with a balance of purple and yellow colors, symbolizing knowledge."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Yellow",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Three spoons held in hands",
+      "Pointed ears",
+      "Long, slender limbs",
+      "Psychic aura around its head",
+      "Facial markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Cunning",
+      "Mysterious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Alakazam/1.png",
+  "pokemon_name": "Alakazam"
+}

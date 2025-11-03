@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that resembles a fiery centipede with bright orange and yellow colors.",
+    "Imagine a Pokemon with a serpentine body covered in scales that glow with heat.",
+    "Design an insectoid creature with a long tail and strikingly vibrant colors for a new game.",
+    "Show me a fire-type Pokemon that has multiple legs and emits flames from its body.",
+    "Generate a Pokemon that lives in caves and has a fierce personality with bold colors.",
+    "Make a unique Pokemon that combines features of a centipede and a dragon with fiery accents.",
+    "Give me a centipede-inspired Pokemon that thrives in forest habitats and is known for its speed."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Orange",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Black",
+      "accent": "Yellow"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flame-like antennae",
+      "Segmented body",
+      "Vibrant color gradients",
+      "Multiple legs",
+      "Long tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Bug",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fiery",
+      "Aggressive",
+      "Energetic"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Centiskorch/0.png",
+  "pokemon_name": "Centiskorch"
+}

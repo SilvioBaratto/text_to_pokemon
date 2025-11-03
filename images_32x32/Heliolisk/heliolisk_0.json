@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a vibrant electric-type Pokemon that looks like a lizard with a bright yellow body and a sleek design.",
+    "Design a unique Pokemon that combines elements of a reptile and a solar panel, showcasing its electric powers.",
+    "Imagine a Pokemon that embodies lightning, with striking colors and a dynamic pose, perfect for showcasing speed.",
+    "Generate a character based on a lizard that harnesses electricity, featuring vivid colors and an adventurous spirit.",
+    "Show me a Pokemon that's agile and colorful, with features inspired by both reptiles and solar energy.",
+    "Make a Pokemon with a sleek design, electric abilities, and colors that pop, representing energy and vitality.",
+    "Give me a concept for a Pokemon that thrives in sunny environments, featuring electric traits and a friendly demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": "Orange"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Frilled neck",
+      "Long tail",
+      "Pointed snout",
+      "Zigzag pattern on its back",
+      "Large, expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Normal",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Energetic"
+    ],
+    "habitat": "Desert",
+    "rarity": "Rare",
+    "combat_style": "Speed-oriented attacks"
+  },
+  "image_path": "images/Heliolisk/0.png",
+  "pokemon_name": "Heliolisk"
+}

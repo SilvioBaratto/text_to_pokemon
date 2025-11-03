@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that has a spooky appearance and ethereal features.",
+    "Design a small, shadowy Pokemon that blends into urban environments and haunts its prey.",
+    "Make a Pokemon with a unique, amorphous shape that embodies the essence of trickery and mischief.",
+    "Imagine a ghostly creature with piercing eyes and a playful yet eerie demeanor, lurking in the shadows.",
+    "Generate an apparition-like Pokemon that appears in dark forests and is known for its mischievous nature.",
+    "Show me a spooky Pokemon that has a haunting presence and can manipulate emotions in battle.",
+    "Give me a tiny ghost-type Pokemon that thrives in urban settings and has a playful personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Pointed top resembling a hat",
+      "Large yellow eyes",
+      "Floating appearance",
+      "Slightly jagged bottom edge"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Eerie"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Trickster"
+  },
+  "image_path": "images/Shuppet/0.png",
+  "pokemon_name": "Shuppet"
+}

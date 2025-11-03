@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a sleek, humanoid design and sharp, blade-like arms.",
+    "I want a Pokemon that embodies elegance and strength, featuring a green and blue color scheme.",
+    "Generate an image of a Gallade-inspired Pokemon that is agile and protective, standing tall in a forest.",
+    "Make a bipedal fighter Pokemon with a noble appearance and unique arm blades ready for battle.",
+    "Imagine a Pokemon that combines psychic abilities with a warrior's spirit, showcasing green and white colors.",
+    "Design a Gallade-like creature that thrives in mountainous regions, with a striking pose and fierce gaze.",
+    "Show me a Pokemon with a graceful stance and a focus on speed and agility in combat."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "White",
+      "accent": "Blue"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Blade-like arms",
+      "Pointed head crest",
+      "Armored body structure",
+      "Elegant posture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Fighting",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Noble",
+      "Protective",
+      "Determined"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Melee fighter"
+  },
+  "image_path": "images/Gallade/2.png",
+  "pokemon_name": "Gallade"
+}

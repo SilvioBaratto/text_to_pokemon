@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a sleek, humanoid shape and vibrant colors.",
+    "Imagine a legendary Pokemon that can change its form based on the environment.",
+    "Design a futuristic Pokemon with flowing features and an otherworldly appearance.",
+    "Show me a powerful psychic creature with unique arm extensions and glowing accents.",
+    "Generate a Pokemon with an alien look, featuring unusual body proportions and colors.",
+    "Give me a mythical being that appears in urban areas, known for its intelligence.",
+    "Make a Pokemon that embodies cosmic energy and has a distinct, slender physique."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, flowing appendages",
+      "Triangular head with a unique crest",
+      "Centrally located blue orbs on the body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Mysterious",
+      "Calculating"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Strategic"
+  },
+  "image_path": "images/Deoxys/2.png",
+  "pokemon_name": "Deoxys"
+}

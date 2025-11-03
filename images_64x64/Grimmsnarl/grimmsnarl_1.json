@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a shadowy Pokemon that excels in stealth and has a mischievous personality.",
+    "Imagine a dark-type Pokemon with long limbs and a sneaky appearance, perfect for surprise attacks.",
+    "Design a Pokemon that thrives in forests and has a unique blend of purple and black colors.",
+    "Show me a menacing creature that uses trickery in battles and has a humanoid shape.",
+    "Generate a Pokemon with distinct features like sharp claws and a fierce gaze, embodying darkness.",
+    "Make a creature that lurks in caves, with a playful yet intimidating nature.",
+    "Give me a unique Pokemon design that emphasizes agility and cunning in combat."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Long, slender limbs",
+      "Sharp claws",
+      "Distinct facial features",
+      "Hair-like protrusions",
+      "Mischievous grin"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": "Fairy",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Cunning",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Trickster"
+  },
+  "image_path": "images/Grimmsnarl/1.png",
+  "pokemon_name": "Grimmsnarl"
+}

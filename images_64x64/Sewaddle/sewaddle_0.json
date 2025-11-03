@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that camouflages with leaves and has a friendly expression.",
+    "Imagine a tiny critter Pokemon with a green body and a yellow face, perfect for forest adventures.",
+    "Generate a Pokemon that blends in with nature, featuring leaf-like wings and a cheerful demeanor.",
+    "Make a cute insect Pokemon that uses foliage for protection, with a round, friendly face.",
+    "Show me a small Pokemon that resembles a leaf, with colors that reflect its forest habitat.",
+    "Design a Pokemon that thrives in grasslands, showcasing vibrant greens and earthy tones.",
+    "Give me a playful bug Pokemon with a unique leaf disguise and an adorable smile."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": "Yellow"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Leaf-like body structure",
+      "Round yellow face",
+      "Small antennae",
+      "Brown and green coloring",
+      "Textured leaf patterns"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Grass",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Sewaddle/0.png",
+  "pokemon_name": "Sewaddle"
+}

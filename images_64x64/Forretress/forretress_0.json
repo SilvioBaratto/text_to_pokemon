@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with a round body and a spiky exterior.",
+    "Generate a steel-type creature that resembles a fortress with metallic elements.",
+    "Imagine a Pokemon with a shell-like body and sharp features for defense.",
+    "Design a Pokemon that blends into forest environments with earthy colors.",
+    "Show me a sturdy Pokemon that can withstand attacks with a strong outer shell.",
+    "Give me a Pokemon that has an armored appearance and is known for its resilience.",
+    "Make a Pokemon that can camouflage in grasslands with a combination of red and gray."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Gray",
+      "accent": "Black"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Circular body shape",
+      "Multiple spikes on top",
+      "Large, round eyes",
+      "Steel-like shell exterior"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Steel",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Defensive",
+      "Sturdy",
+      "Calm"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Forretress/0.png",
+  "pokemon_name": "Forretress"
+}

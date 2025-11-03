@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a playful Pokemon that loves to carry heavy objects and works hard.",
+    "Design a tough-looking Fighting-type Pokemon that stands strong against opponents.",
+    "Generate an adorable Pokemon that thrives in forest environments and enjoys lifting logs.",
+    "Imagine a small, bipedal Pokemon with a unique color scheme and a friendly demeanor.",
+    "Show me a Pokemon that evolves into a stronger fighter and has a cheeky personality.",
+    "Give me a design for a Pokemon that is often found in urban areas helping out.",
+    "Make a Pokemon that embodies hard work and determination, perfect for teamwork."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Pink"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": "Pink"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Carries a large log",
+      "Short arms",
+      "Large expressive eyes",
+      "Stout body",
+      "Pink markings on body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Hardworking",
+      "Cheerful",
+      "Determined"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Timburr/1.png",
+  "pokemon_name": "Timburr"
+}

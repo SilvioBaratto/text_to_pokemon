@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that embodies the essence of a lost soul with a haunting appearance.",
+    "Imagine a spooky Pokemon with dark colors and an eerie mask, perfect for a Halloween theme.",
+    "Design a Pokemon that roams ancient ruins, blending seamlessly into its ghostly surroundings.",
+    "Show me a Pokemon that represents sorrow and mystery, featuring a blend of black and yellow.",
+    "Generate a character based on a spirit that guides lost travelers through misty forests.",
+    "Make a Pokemon that has a shadowy figure and a mask-like face, evoking feelings of nostalgia.",
+    "Give me a ghostly creature with a unique shape and a connection to the afterlife."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Mask-like face",
+      "Floating body",
+      "Dark color scheme",
+      "Red markings",
+      "Ghostly aura"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Sorrowful",
+      "Mysterious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Trickster"
+  },
+  "image_path": "images/Yamask/2.png",
+  "pokemon_name": "Yamask"
+}

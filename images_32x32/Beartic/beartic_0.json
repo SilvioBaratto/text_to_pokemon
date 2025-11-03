@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a powerful ice-type Pokemon that embodies strength and resilience in its design.",
+    "Imagine a bear-like creature with snow-white fur and icy blue accents for a winter-themed Pokemon.",
+    "Show me a Pokemon that features large claws and a fierce expression, perfect for a battle setting.",
+    "Design a majestic ice Pokemon that roams the snowy mountains, showcasing its icy abilities.",
+    "Generate a friendly bear Pokemon that loves to play in the snow and is adored by trainers.",
+    "Make a Pokemon that resembles a giant, fluffy polar bear with unique frosty features.",
+    "Give me an ice-type Pokemon that can control snowstorms and has a strong presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Gray",
+      "accent": "Blue"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Furry body",
+      "Large claws",
+      "Icicle-like tusks",
+      "Frosty breath",
+      "Intimidating eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Protective",
+      "Loyal"
+    ],
+    "habitat": "Tundra",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Beartic/0.png",
+  "pokemon_name": "Beartic"
+}

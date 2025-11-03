@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a flying-type Pokemon that resembles a small bird with vibrant colors and friendly expression.",
+    "I want a Pokemon that has a round body shape and can be found in urban areas, with colorful feathers.",
+    "Generate a cute Normal/Flying type Pokemon that is known for its agility and speed while flying.",
+    "Make a Pokemon that has brown and cream colors, with a distinctive tail and a cheerful demeanor.",
+    "Imagine a bird-like Pokemon with the ability to soar high in the sky, showcasing its impressive wingspan.",
+    "Design a small Pokemon that loves to gather in forests and is often seen chirping happily.",
+    "Show me a basic evolution flying Pokemon with a gentle personality, commonly found in grasslands."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": "Pink"
+    },
+    "body_shape": "Winged",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round body shape",
+      "Short beak",
+      "Tail feathers",
+      "Small wings",
+      "Charming expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Friendly",
+      "Cheerful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Speed-focused"
+  },
+  "image_path": "images/Pidgey/3.png",
+  "pokemon_name": "Pidgey"
+}

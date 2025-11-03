@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon that embodies music and dance, with flowing hair and serene expressions.",
+    "I want a graceful Pokemon that can control sound waves, featuring vibrant colors and elegant movements.",
+    "Generate a Pokemon that resembles a musical muse, with an ethereal appearance and captivating aura.",
+    "Make a serene, humanoid Pokemon with a melodic voice and enchanting abilities, perfect for peaceful habitats.",
+    "Imagine a Pokemon that thrives in vibrant environments, showcasing a blend of soothing colors and fluid shapes.",
+    "Design a whimsical Pokemon with a unique vocal ability, resembling a dancer that enchants its audience.",
+    "Show me a melodic Pokemon with a blend of light colors and graceful features, perfect for a serene setting."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Gray",
+      "accent": "White"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flowing green hair",
+      "Musical note patterns",
+      "Ballet-like stance",
+      "Elegant dress-like body structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Psychic",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": true,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Artistic",
+      "Enigmatic"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Meloetta/0.png",
+  "pokemon_name": "Meloetta"
+}

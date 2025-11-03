@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a robust elephant-like Pokemon with a sturdy shell and sharp tusks.",
+    "I want a Pokemon that has a powerful ground-type attack and looks like a tank.",
+    "Generate a Pokemon that resembles a prehistoric creature, with a tough exterior and strong limbs.",
+    "Make a Pokemon that thrives in desert environments and can roll into a ball for protection.",
+    "Imagine a Pokemon that has a playful personality, enjoys rolling around, and has a rocky back.",
+    "Design a Pokemon that is known for its impressive strength and can dig through the ground.",
+    "Show me a Pokemon with a blue-gray body and red accents, perfect for battling in the wild."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Red",
+      "accent": "Blue"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Thick, armored body",
+      "Large, curved tusks",
+      "Rolling ability",
+      "Short, sturdy legs",
+      "Rugged back shell"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Sturdy",
+      "Loyal"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Donphan/2.png",
+  "pokemon_name": "Donphan"
+}

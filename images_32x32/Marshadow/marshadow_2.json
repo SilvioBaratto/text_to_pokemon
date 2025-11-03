@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a shadowy, ghost-type Pokemon with glowing eyes and a misty aura.",
+    "I want a small, mischievous Pokemon that can blend into the darkness effortlessly.",
+    "Generate an eerie creature that embodies stealth and agility with a cute appearance.",
+    "Make a ghostly figure with unique features like a shadowy tail and fiery eyes.",
+    "Imagine a tiny Pokemon that thrives in urban environments, lurking in the shadows.",
+    "Design a Pokemon that has a playful yet mysterious personality and a dark color scheme.",
+    "Show me a Pokemon that could be found in forests and caves, often playing tricks."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Glowing red eyes",
+      "Shadowy, mist-like body",
+      "Small stature",
+      "Eerie silhouette",
+      "Tail resembling a shadow"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Fighting",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": true,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Stealthy"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Speed and agility based"
+  },
+  "image_path": "images/Marshadow/2.png",
+  "pokemon_name": "Marshadow"
+}

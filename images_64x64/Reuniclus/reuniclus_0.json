@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a unique green color scheme and three floating arms.",
+    "Design a whimsical Pokemon that embodies intelligence and has a jelly-like structure.",
+    "Imagine a creature that uses psychic abilities to manipulate its surroundings, with a soft green body.",
+    "Show me a Pokemon that resembles a brain and has a playful yet mysterious personality.",
+    "Generate a quirky Pokemon with a round body and an eye-catching color palette, perfect for battle.",
+    "Make a Pokemon that looks like it came from a dream, featuring gentle curves and bright colors.",
+    "Give me a Pokemon that floats gracefully and has an aura of mystery, with important psychic powers."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "White",
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "White",
+      "accent": "Pink"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Three floating arms",
+      "Large round body",
+      "Visible jelly-like texture",
+      "Facial features resembling a face with eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Playful",
+      "Mysterious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Supportive and tactical"
+  },
+  "image_path": "images/Reuniclus/0.png",
+  "pokemon_name": "Reuniclus"
+}

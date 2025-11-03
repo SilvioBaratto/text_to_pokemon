@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a graceful design and a calming presence.",
+    "I want a small, cute Pokemon that inspires tranquility and has soothing colors.",
+    "Generate a Pokemon that embodies a sense of innocence and psychic abilities.",
+    "Make a whimsical creature that blends green and pink colors, perfect for a forest setting.",
+    "Imagine a Pokemon with a gentle demeanor, featuring a flower-like appearance and psychic powers.",
+    "Design a tiny Pokemon that floats effortlessly and has a serene expression.",
+    "Show me a Pokemon that looks mysterious yet friendly, with soft, rounded features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Flower-like head",
+      "Large, expressive eyes",
+      "Thin, flowing body",
+      "White ribbon-like appendage",
+      "Distinctive color pattern"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Fairy",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Timid",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Ralts/0.png",
+  "pokemon_name": "Ralts"
+}

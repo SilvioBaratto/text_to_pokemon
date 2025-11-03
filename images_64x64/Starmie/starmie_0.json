@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a star shape and vibrant colors.",
+    "Show me a mystical Pokemon inspired by ocean creatures and celestial bodies.",
+    "Imagine a Pokemon that resembles a gem-encrusted star, perfect for battles.",
+    "Design a unique aquatic Pokemon that shines in the light and dazzles opponents.",
+    "Generate a powerful water Pokemon that can manipulate waves and currents.",
+    "Give me an elegant star-shaped creature that thrives in underwater environments.",
+    "Make a Pokemon with a striking appearance that reflects its oceanic origins."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Yellow",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Yellow",
+      "accent": "Red"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Star-shaped body",
+      "Gem center",
+      "Radiating spikes",
+      "Bright colors",
+      "Symmetrical design"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Psychic",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Intelligent",
+      "Graceful"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Starmie/0.png",
+  "pokemon_name": "Starmie"
+}

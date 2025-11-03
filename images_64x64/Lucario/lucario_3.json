@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a fighting-type Pokemon with blue fur and red gloves, standing confidently.",
+    "Imagine a bipedal creature with a sleek body and a metallic aura, showcasing its agility.",
+    "Show me a Pokemon that embodies loyalty, with striking colors and a powerful stance.",
+    "Design a Pokemon that blends elements of steel and fighting, with a unique ear shape.",
+    "Generate a character that represents teamwork, featuring a strong build and a determined expression.",
+    "Make a Pokemon with a dual nature, combining blue and yellow in a harmonious design.",
+    "Give me a Pokemon that thrives in urban environments, showcasing its combat skills and intelligence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Yellow",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": "Red"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Pointed ears",
+      "Lithe build",
+      "Red gloves",
+      "Aura sensors on the head",
+      "Tail with a spiky end"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": "Steel",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Loyal",
+      "Brave",
+      "Protective"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Lucario/3.png",
+  "pokemon_name": "Lucario"
+}

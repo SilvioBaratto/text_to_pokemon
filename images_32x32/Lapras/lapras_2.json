@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a large sea creature with a graceful body.",
+    "I want to design a Pokemon that has a serene look and can swim gracefully in the ocean.",
+    "Generate a mythical Pokemon with a combination of blue and white colors, perfect for aquatic environments.",
+    "Make a legendary Pokemon that embodies the essence of the ocean with a friendly demeanor.",
+    "Imagine a creature that can transport trainers across water, featuring a sleek and elegant design.",
+    "Show me a Pokemon with a large shell and a gentle expression, suited for calm waters.",
+    "Give me a water-type Pokemon that evokes a sense of tranquility and connection with nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": "White"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large shell on the back",
+      "Long neck",
+      "Gentle eyes",
+      "Flippers for swimming",
+      "Water wave pattern on the body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Friendly",
+      "Calm"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Lapras/2.png",
+  "pokemon_name": "Lapras"
+}

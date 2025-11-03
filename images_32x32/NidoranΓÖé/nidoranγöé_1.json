@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a dual-type Pokemon that blends blue and white colors with elegant wings.",
+    "I want to design a small, charming creature with a playful personality and unique ear shapes.",
+    "Generate a Pokemon inspired by forest habitats, featuring vibrant colors and agile movements.",
+    "Make a medium-sized Pokemon with strong defensive traits, showcasing a mix of purple and white.",
+    "Imagine a cute, non-legendary Pokemon with a friendly demeanor and distinctively pointed ears.",
+    "Show me a whimsical creature that thrives in grasslands and has an energetic combat style.",
+    "Design a Pokemon with both poison and fairy traits, displaying soft curves and vivid colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Purple",
+      "accent": "Blue"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large ears",
+      "Spiky back",
+      "Round body",
+      "Red eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Nidoran\u0393\u00d6\u00e9/1.png",
+  "pokemon_name": "Nidoran\u0393\u00d6\u00e9"
+}

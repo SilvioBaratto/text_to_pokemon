@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create an intriguing Psychic-type Pokemon with a mystical aura and mesmerizing abilities.",
+    "I want a whimsical yellow creature that loves to nap and can teleport.",
+    "Generate a Pokemon that exudes a serene vibe, featuring big eyes and a playful pose.",
+    "Make a Psychic Pokemon that can perform mind tricks, with a sleek and slender body.",
+    "Imagine an elegant Pokemon that radiates calmness and has unique levitation skills.",
+    "Design a cute Pokemon with a strong psychic energy, showcasing its powerful abilities.",
+    "Show me a small yellow creature that specializes in psychic powers and has a sleepy demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Pointed ears",
+      "Closed eyes",
+      "Curled body posture",
+      "Short limbs",
+      "Cat-like appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Sleepy",
+      "Calm",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Abra/2.png",
+  "pokemon_name": "Abra"
+}

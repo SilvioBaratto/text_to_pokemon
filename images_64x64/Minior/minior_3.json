@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a shiny Pokemon that resembles a star with a vibrant orange hue and celestial patterns.",
+    "Imagine a playful Pokemon that sparkles in the sunlight, featuring bright colors and a cheerful demeanor.",
+    "Design a unique Pokemon that embodies the essence of a shooting star, with a bright orange body and glowing accents.",
+    "Show me a whimsical Pokemon that floats gently through the air, adorned with star-like shapes and a sunny color palette.",
+    "Generate a Pokemon that captures the beauty of a sunset, showcasing a warm orange shade and distinctive star motifs.",
+    "Give me a Pokemon that resembles a cosmic entity, glowing with orange light and surrounded by twinkling stars.",
+    "Make a Pokemon that reflects joy and brightness, with a round body and playful features in shades of orange."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round body",
+      "Star-like shape",
+      "Bright orange color",
+      "Glowing patterns"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Flying",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Minior/3.png",
+  "pokemon_name": "Minior"
+}

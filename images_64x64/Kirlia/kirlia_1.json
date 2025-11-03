@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a graceful Pokemon that resembles a flower with radiant colors and an enchanting aura.",
+    "Imagine a psychic Pokemon that uses its powers to create illusions, adorned with vibrant petals.",
+    "Show me a delicate creature that dances through meadows, exuding a calming and serene presence.",
+    "Design a Pokemon that embodies elegance and mystery, featuring soft hues and a whimsical design.",
+    "Generate a character inspired by flowers, with flowing shapes and a gentle demeanor in battle.",
+    "Make a Pokemon that captivates others with its beauty while wielding powerful psychic abilities.",
+    "Give me a vision of a Pokemon that thrives in lush environments, blending seamlessly with nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "White"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Pink",
+      "accent": "White"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Petal-like hair",
+      "Delicate arms resembling flower stems",
+      "Elegant dress-like body structure",
+      "Leaf accents",
+      "Soft facial features"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Fairy",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Empathetic",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attack"
+  },
+  "image_path": "images/Kirlia/1.png",
+  "pokemon_name": "Kirlia"
+}

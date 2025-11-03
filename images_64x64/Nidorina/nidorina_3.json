@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a Pokemon that embodies the essence of nature with vibrant green scales and floral patterns.",
+    "Imagine a small, playful creature with bright blue fur and mischievous purple spots.",
+    "Design a Pokemon with a sleek, agile body covered in shimmering shades of teal and lavender.",
+    "Generate a water-type Pokemon with flowing fins and a graceful, serpentine shape.",
+    "Show me a Pokemon that can camouflage perfectly in a forest with earthy and leafy colors.",
+    "Make a fierce-looking Pokemon that has striking red eyes and a spiked back.",
+    "Give me a cute, cuddly Pokemon with round features and pastel colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Purple",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large ears",
+      "Spiked back",
+      "Distinctive purple spots",
+      "Red eyes",
+      "Smooth, rounded body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": "Ground",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Protective"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Nidorina/3.png",
+  "pokemon_name": "Nidorina"
+}

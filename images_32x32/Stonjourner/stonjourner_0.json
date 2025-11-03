@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon with a rugged appearance and a mountainous habitat.",
+    "Imagine a Pokemon that resembles a stone monument, with strong defensive capabilities.",
+    "Design a Pokemon inspired by ancient megaliths, featuring earthy tones and a sturdy build.",
+    "Generate a Pokemon with a unique blend of rock and ground types, ideal for battles.",
+    "Show me a Pokemon that embodies the tranquility of nature with rock formations.",
+    "Make a Pokemon with a large, solid body and a calm demeanor, perfect for a guardian role.",
+    "Give me a visual of a Pokemon that looks like stacked stones, representing stability and endurance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Brown"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Resembles stacked stones",
+      "Has a large, solid structure",
+      "Features a flat top with smaller stones",
+      "Rugged texture resembling rock formations",
+      "X-shaped markings on the front"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Sturdy",
+      "Protective"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Stonjourner/0.png",
+  "pokemon_name": "Stonjourner"
+}

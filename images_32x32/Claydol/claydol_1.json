@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a round body and colorful patterns.",
+    "Generate a creature resembling an ancient artifact, with floating capabilities and intricate designs.",
+    "Design a Pokemon that embodies the concept of balance and stability, with a mystical aura.",
+    "Imagine a two-headed Pokemon that guards sacred sites with its enigmatic presence.",
+    "Show me a Pokemon with a meditative expression, surrounded by cosmic energy.",
+    "Make a creature that blends elements of ancient cultures and modern aesthetics.",
+    "Give me a Pokemon that appears to be a guardian of the earth, with a unique color scheme."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [
+      "Pink",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Pink",
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body with a flat base",
+      "Multiple circular patterns",
+      "Two large eyes resembling ancient symbols",
+      "Decorative pink and white markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Ground",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Calm",
+      "Balanced"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Claydol/1.png",
+  "pokemon_name": "Claydol"
+}

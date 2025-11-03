@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a strong Pokemon that embodies the essence of steel with a majestic blue and gold design.",
+    "I want a mythical creature that resembles a powerful horse, showcasing unique colors and a regal stance.",
+    "Generate an image of a bipedal Pokemon with striking turquoise fur and sharp, golden accents.",
+    "Make a legendary Pokemon with a fierce look, combining elements of nature and strength in its design.",
+    "Imagine a Pokemon that blends steel and fighting characteristics, with a vibrant color palette and elegant features.",
+    "Design a majestic creature that symbolizes harmony and strength, with a unique color combination and distinct traits.",
+    "Show me a Pokemon that stands tall with a commanding presence, featuring beautiful shades of blue and gold."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Golden horn-like structure on the head",
+      "White facial fur",
+      "Strong, muscular build",
+      "Prominent front legs",
+      "Shiny, metallic appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Fighting",
+    "generation": 5,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Noble",
+      "Determined",
+      "Protective"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Balanced and defensive"
+  },
+  "image_path": "images/Cobalion/0.png",
+  "pokemon_name": "Cobalion"
+}

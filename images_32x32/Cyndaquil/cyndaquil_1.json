@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a small fire-type Pokemon with a blue belly and bright orange flames on its back.",
+    "I want a cute fire Pokemon that has a yellow body and is perfect for beginners.",
+    "Generate a Pokemon design featuring a body shape that's compact and fiery with vibrant colors.",
+    "Make a playful fire-type creature that has a unique flame color and a round shape.",
+    "Imagine a Pokemon that can evolve into a larger fire creature, starting with a tiny, adorable form.",
+    "Design a Pokemon with a gentle personality and a vibrant flame, ideal for forest habitats.",
+    "Give me a fiery Pokemon with a small stature, featuring bright orange and yellow accents."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Red",
+      "accent": "Orange"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Flames on its back",
+      "Compact body shape",
+      "Large ears",
+      "Short limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Cyndaquil/1.png",
+  "pokemon_name": "Cyndaquil"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a legendary Pokemon with a robotic appearance and bright yellow accents.",
+    "Imagine a giant, bipedal creature covered in white with green and yellow details.",
+    "Show me an ancient Pokemon that resembles a powerful machine with arms.",
+    "Design a mythical being that is both imposing and benevolent, standing on two legs.",
+    "Generate a Pokemon with a striking color combination of white, green, and yellow.",
+    "I want a creature that embodies strength and resilience with a humanoid shape.",
+    "Make a Pokemon that is reminiscent of ancient constructs with a friendly demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White"
+    ],
+    "secondary_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Green",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Huge",
+    "distinctive_features": [
+      "Large robotic arms",
+      "Golden circular markings",
+      "Multi-colored dots on the torso",
+      "Sturdy, muscular build",
+      "Prominent neck with yellow accents"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Benevolent",
+      "Powerful",
+      "Stoic"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Regigigas/1.png",
+  "pokemon_name": "Regigigas"
+}

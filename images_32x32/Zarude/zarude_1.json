@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a unique grass-type Pokemon with a playful demeanor and striking green features.",
+    "I want a fierce-looking dark-type Pokemon that blends into forest environments with shadowy colors.",
+    "Generate a Pokemon with a muscular build and vibrant green accents that embodies nature's strength.",
+    "Make a Pokemon that resembles a primate with wild hair and a mischievous personality.",
+    "Imagine a legendary creature that roams the jungles, with features that reflect its stealth and agility.",
+    "Design a Pokemon that thrives in urban areas, using its agility and speed to navigate the streets.",
+    "Show me a Pokemon that has the ability to control plant life with its powerful dark and green colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Black"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": null,
+      "accent": "Black"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long arms resembling vines",
+      "Facial markings that resemble a mask",
+      "Thick, muscular build",
+      "Distinctive long hair-like foliage"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Dark",
+    "generation": 8,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Protective"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Aggressive and agile, using stealth and environment to its advantage"
+  },
+  "image_path": "images/Zarude/1.png",
+  "pokemon_name": "Zarude"
+}

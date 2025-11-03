@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with vibrant purple and gold colors, featuring unique antennae and a sleek body.",
+    "Imagine a creature that combines elegance and mystery, with a shimmering white and purple appearance.",
+    "Design a unique Pokemon that embodies the essence of cosmic energy with a striking golden and teal color scheme.",
+    "Generate a mythical Pokemon with a flowing body and intricate patterns, showcasing a blend of white and orange hues.",
+    "Show me a Pokemon that resembles a celestial being, featuring glowing accents and a graceful silhouette.",
+    "Make a creature with a delicate yet powerful presence, showcasing purple and gold tones in its design.",
+    "I want a Pokemon that feels otherworldly, with elegant features and an ethereal color palette of white and teal."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": null,
+      "accent": "Purple"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Antennae-like protrusions",
+      "Elegant, flowing body",
+      "Glowing turquoise eyes",
+      "Intricate patterns on the body",
+      "Curved, sleek design"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": "Psychic",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Playful",
+      "Intelligent"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Poipole/2.png",
+  "pokemon_name": "Poipole"
+}

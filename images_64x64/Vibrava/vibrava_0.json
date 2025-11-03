@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with vibrant green wings and a small, insect-like body.",
+    "Imagine a flying Pokemon that has leaf-like features and a calm demeanor.",
+    "Design a Pokemon that resembles a dragonfly with green accents and a slender form.",
+    "Show me a creature that thrives in forests, sporting bright colors and unique wings.",
+    "Generate an insectoid Pokemon that has a mix of green and yellow shades.",
+    "Make a Pokemon that embodies agility and grace, with large, striking wings.",
+    "Give me a Pokemon that has a blend of nature and flight, with a delicate appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": null,
+      "accent": "Yellow"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large, leaf-like wings",
+      "Slender body",
+      "Compound eyes",
+      "Long antennae"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Agile"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Vibrava/0.png",
+  "pokemon_name": "Vibrava"
+}

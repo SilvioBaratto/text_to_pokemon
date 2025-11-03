@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with sleek, blue skin and a long, flexible tongue.",
+    "Generate a ninja-inspired Pokemon that blends into its surroundings with dark colors.",
+    "Show me a Pokemon that can swim gracefully and has stealthy movement abilities.",
+    "Design a Pokemon that excels in combat with agility and water-based attacks.",
+    "Imagine a Pokemon that has unique blue patterns and is known for its speed.",
+    "Make a bipedal Pokemon that can use both water and ninja-like techniques.",
+    "Give me a Pokemon that thrives in both urban and natural environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": "Pink"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, flexible tongue",
+      "Ninja-like posture",
+      "Dark skin with blue patterns",
+      "Webbed feet",
+      "V-shaped crest on head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Dark",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Stealthy",
+      "Agile",
+      "Clever"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Speed-focused"
+  },
+  "image_path": "images/Greninja/2.png",
+  "pokemon_name": "Greninja"
+}

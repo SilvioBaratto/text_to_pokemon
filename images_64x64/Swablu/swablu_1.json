@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bird-like Pokemon with fluffy white wings and a bright blue body.",
+    "Show me an adorable Pokemon that resembles a cloud with cheerful features.",
+    "Imagine a small, flying Pokemon with a soft blue appearance and white accents.",
+    "Design a Pokemon that combines the colors of the sky and clouds into a cute creature.",
+    "Generate a whimsical Pokemon that embodies the essence of a sunny day.",
+    "Make a Pokemon that looks like it came from a serene mountain landscape with a blue hue.",
+    "Give me a flying-type Pokemon that appears friendly and playful, with a soft color palette."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Fluffy cloud-like wings",
+      "Round body shape",
+      "Small beak",
+      "Blue coloration",
+      "Cute, expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Gentle",
+      "Friendly"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Swablu/1.png",
+  "pokemon_name": "Swablu"
+}

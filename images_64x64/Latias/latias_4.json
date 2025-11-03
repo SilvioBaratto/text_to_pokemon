@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a dragon-like Pokemon with sleek, aerodynamic features and vibrant colors.",
+    "Imagine a legendary Pokemon that embodies grace and speed, soaring through the skies.",
+    "Generate a mythical creature with a delicate balance of red and blue tones.",
+    "Show me a Pokemon that feels both powerful and elegant, perfect for a fantasy setting.",
+    "Make a design for a Pokemon that combines beauty and strength in its appearance.",
+    "Give me a concept of an ancient, mystical Pokemon with a connection to the skies.",
+    "Design a Pokemon that looks both friendly and fierce, with unique wing patterns."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "White"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Red",
+      "accent": "Blue"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Sleek aerodynamic body",
+      "Distinctive red markings",
+      "Large wings",
+      "Sharp, pointed tail",
+      "Expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Psychic",
+    "generation": 3,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Protective",
+      "Curious"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Latias/4.png",
+  "pokemon_name": "Latias"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with a round body and large expressive eyes.",
+    "Imagine a tiny Pokemon that resembles a small caterpillar with vibrant colors.",
+    "Design a Pokemon that can camouflage in grasslands and forests.",
+    "Generate a Pokemon that has a friendly personality and loves to explore.",
+    "Show me a bug Pokemon that evolves into a majestic butterfly.",
+    "Make a Pokemon that is often found in urban areas and loves flowers.",
+    "Give me a small Pokemon that has a playful nature and flutters around."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Black",
+      "accent": "Brown"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large, expressive eyes",
+      "Flat, oval body",
+      "Short antennae",
+      "Small legs",
+      "Soft, rounded edges"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful",
+      "Friendly"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Scatterbug/0.png",
+  "pokemon_name": "Scatterbug"
+}

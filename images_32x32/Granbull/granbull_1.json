@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a playful Pokemon that has a large, round body and a big smile.",
+    "Imagine a pink, bipedal creature with strong arms and a cheerful demeanor.",
+    "Design a friendly Pokemon with a stout build and floppy ears, perfect for cuddling.",
+    "Show me a fierce yet adorable Pokemon that embodies both strength and charm.",
+    "Generate a whimsical creature with a soft purple hue and a love for adventure.",
+    "Make a Pokemon that stands confidently on two legs, showcasing its unique personality.",
+    "Give me a Pokemon that resembles a bulldog but with a magical twist."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Prominent jaw",
+      "Large ears",
+      "Stout body",
+      "Short limbs",
+      "Facial expression showing friendliness"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Loyal",
+      "Affectionate"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Physical attacker"
+  },
+  "image_path": "images/Granbull/1.png",
+  "pokemon_name": "Granbull"
+}

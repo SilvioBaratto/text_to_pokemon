@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with dark purple wings and a green body.",
+    "I want a flying-type creature that has a fierce expression and vibrant colors.",
+    "Generate a Pokemon that resembles a bat, with a sleek design and striking colors.",
+    "Make a mythical dragon Pokemon featuring a mix of blue and black accents.",
+    "Imagine a winged Pokemon that thrives in urban areas and has a playful demeanor.",
+    "Design a large Pokemon with a unique blend of green and purple shades.",
+    "Show me a Pokemon with bat-like wings and a menacing gaze."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Purple",
+      "accent": "Red"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Bat-like wings",
+      "Pointed ears",
+      "Fierce red eyes",
+      "Long fangs",
+      "Streamlined body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Flying",
+    "type2": "Dragon",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Fierce",
+      "Intelligent"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Agile and evasive"
+  },
+  "image_path": "images/Noivern/1.png",
+  "pokemon_name": "Noivern"
+}

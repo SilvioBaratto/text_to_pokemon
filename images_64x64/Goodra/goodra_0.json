@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with a long, elegant tail and soft, pastel colors.",
+    "I want a gentle-looking Pokemon that has a playful personality and is primarily purple.",
+    "Generate a cute, bipedal Pokemon with a whimsical design and bright green accents.",
+    "Make a Pokemon that loves to roam in lush environments, showcasing its slimy texture.",
+    "Imagine a dragon Pokemon that stands out with its unique features and friendly demeanor.",
+    "Design a Pokemon that embodies both strength and grace, with a soft purple palette.",
+    "Show me a Pokemon with a captivating appearance that thrives in forest habitats."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Green"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": null,
+      "accent": "Green"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Long, slimy tail",
+      "Big, expressive eyes",
+      "Soft, rounded body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Fairy",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Playful",
+      "Affectionate"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Goodra/0.png",
+  "pokemon_name": "Goodra"
+}

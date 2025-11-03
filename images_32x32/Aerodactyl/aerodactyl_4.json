@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a prehistoric flying Pokemon with sharp claws and a fierce gaze.",
+    "Show me a dragon-like Pokemon soaring in the sky with a streamlined body.",
+    "Design a Pokemon that has long wings and a ferocious roar, perfect for battles.",
+    "Imagine an ancient creature with purple skin and a powerful tail for aerial combat.",
+    "Generate a fierce-looking Pokemon that can be found in rocky terrains and caves.",
+    "Give me a Pokemon that embodies speed and agility, with an impressive wingspan.",
+    "Make a Pokemon that has sharp fangs and a predatory stance, ideal for hunting."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Gray",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Sharp fangs",
+      "Large wings",
+      "Pointed ears",
+      "Long tail",
+      "Streamlined body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Aggressive",
+      "Predatory"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Aerial"
+  },
+  "image_path": "images/Aerodactyl/4.png",
+  "pokemon_name": "Aerodactyl"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that has a sleek elongated body and sharp fins.",
+    "Imagine a Pokemon with vibrant blue scales and an elegant serpentine shape.",
+    "Show me a creature that combines aquatic features with a dragon-like appearance.",
+    "Generate a design for a Pokemon that thrives in both water and coastal habitats.",
+    "Make a fantasy water creature with spiky fins and a graceful swimming motion.",
+    "Give me an illustration of a Pokemon that resembles a sea horse but with a more powerful look.",
+    "Design a Pokemon with luminous blue colors and intricate fins that shimmer in the light."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Spiky dorsal fins",
+      "Long, slender body",
+      "Curved tail",
+      "Prominent snout",
+      "Scales with a shiny texture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Graceful",
+      "Playful"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Seadra/3.png",
+  "pokemon_name": "Seadra"
+}

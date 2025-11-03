@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that has a fluffy appearance and bright pink colors.",
+    "I want a grass-type evolution that looks like a flower and has a playful vibe.",
+    "Generate a fairy-type Pokemon with large wings and a whimsical design.",
+    "Make a tiny bug-type character that can blend into its surroundings with pastel colors.",
+    "Imagine a Pokemon that evolves from a caterpillar into a beautiful flower-like creature.",
+    "Design a pink and green Pokemon that embodies the spirit of nature and growth.",
+    "Show me a unique Pokemon that has a playful personality and a magical aura."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Gray",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy body",
+      "Flower-like shape",
+      "Long, pointed structures on top",
+      "Soft, rounded edges",
+      "Large, expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Grass",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Gentle",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Wormadam/5.png",
+  "pokemon_name": "Wormadam"
+}

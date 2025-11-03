@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a sleek blue body and distinctive yellow accents.",
+    "Generate a penguin-like Pokemon that showcases icy features and a proud demeanor.",
+    "I want a Pokemon that embodies the spirit of exploration and has a unique aquatic design.",
+    "Make a charming water Pokemon that is both playful and fiercely protective of its territory.",
+    "Show me a Pokemon that blends elements of sea life with a regal, avian appearance.",
+    "Imagine a Pokemon that thrives in icy habitats and has a striking blue and white color scheme.",
+    "Design a Pokemon that represents the beauty of the ocean and has a confident, determined personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Penguin-like appearance",
+      "Yellow crown-like feathers",
+      "White belly",
+      "Distinctive flipper-like arms"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Proud",
+      "Confident",
+      "Protective"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Prinplup/1.png",
+  "pokemon_name": "Prinplup"
+}

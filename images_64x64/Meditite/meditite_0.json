@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon that embodies calmness with a serene expression and soft colors.",
+    "Show me a unique fighting-type Pokemon with a slender build and a meditative stance.",
+    "Imagine a Pokemon that combines blue and white colors, showcasing a peaceful warrior spirit.",
+    "Generate a humanoid Pokemon with a distinct head shape and circular features, evoking tranquility.",
+    "Design a small psychic Pokemon with soft, rounded features and a focus on meditation.",
+    "Make a bipedal Pokemon that reflects both fighting prowess and serene meditation in its design.",
+    "Give me a Pokemon with graceful movements, emphasizing its psychic abilities and fighting style."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": "Gray"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Meditative posture",
+      "Curly ear-like structures",
+      "Distinct head shape resembling a swirl",
+      "Small, round body",
+      "Calm facial expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": "Psychic",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Determined",
+      "Focused"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Common",
+    "combat_style": "Balanced"
+  },
+  "image_path": "images/Meditite/0.png",
+  "pokemon_name": "Meditite"
+}

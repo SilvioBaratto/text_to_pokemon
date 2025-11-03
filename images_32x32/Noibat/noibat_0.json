@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a flying-type Pokemon that has large purple ears and a sleek body.",
+    "Imagine a dragon-like creature with a mix of purple and black colors, perfect for stealth.",
+    "Show me a tiny Pokemon with bat-like wings and a playful personality.",
+    "Design a Pokemon that thrives in caves, featuring shades of purple and striking yellow eyes.",
+    "Give me a Pokemon that can soar through forests with its impressive flying abilities.",
+    "Generate an adorable Pokemon with a unique body shape and vibrant purple hues.",
+    "Make a Pokemon that embodies the essence of nocturnal creatures with its dark coloration."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Black",
+      "accent": "Yellow"
+    },
+    "body_shape": "Winged",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large bat-like ears",
+      "Small size",
+      "Yellow eyes",
+      "Winged body",
+      "Pointed snout"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Flying",
+    "type2": "Dragon",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Agile"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Speedy and evasive"
+  },
+  "image_path": "images/Noibat/0.png",
+  "pokemon_name": "Noibat"
+}

@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Show me a cute Pokemon that looks playful and fluffy, perfect for a children's game.",
+    "Create a small, adorable Pokemon that loves to explore forest environments and make friends.",
+    "Imagine a Pokemon with a bushy tail and big ears, ideal for a cozy and friendly cartoon.",
+    "Generate a character that can evolve into multiple forms, showcasing its unique adaptability.",
+    "Design a Pokemon that can blend into its natural surroundings, with earthy tones and a gentle demeanor.",
+    "Give me a Pokemon that represents loyalty and companionship, suitable for a pet-themed adventure.",
+    "Make a Pokemon that can charm its way through battles with its playful nature and cuteness."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large pointed ears",
+      "Fluffy cream-colored collar",
+      "Bushy tail",
+      "Round face",
+      "Small pink nose"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Eevee/3.png",
+  "pokemon_name": "Eevee"
+}

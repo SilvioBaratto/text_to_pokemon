@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that has vibrant purple scales and electric blue spikes.",
+    "Show me a unique Pokemon with a bipedal stance, featuring both poison and electric abilities.",
+    "Imagine a creature that thrives in urban areas, with a colorful appearance and a rock star vibe.",
+    "Generate a Pokemon with a striking mix of colors, resembling a musical instrument in its design.",
+    "Design a bipedal Pokemon that can harness electric energy and has a punk aesthetic.",
+    "Make a Pokemon that combines elements of poison and electric types with a cool, edgy look.",
+    "Give me a Pokemon that embodies a rebellious spirit, with a bold color palette and spiky features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Pink",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Blue",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Electric spikes on the head",
+      "Loudspeaker-like structure on the chest",
+      "Long, spiky tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Poison",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Rebellious",
+      "Energetic",
+      "Musical"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Toxtricity/2.png",
+  "pokemon_name": "Toxtricity"
+}

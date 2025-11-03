@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a flower-themed Pokemon with vibrant colors and a soft demeanor.",
+    "Imagine a tiny fairy Pokemon that embodies the essence of springtime.",
+    "Generate a whimsical creature that dances through fields of flowers.",
+    "Make a Pokemon that has a large flower on its head and is friendly.",
+    "Design a grass-type Pokemon that loves to play in sunny meadows.",
+    "Show me a delicate Pokemon that can heal others with its floral powers.",
+    "Give me a unique Pokemon that has a gentle personality and a bright appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "White",
+      "accent": "Orange"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large orange flower-like head",
+      "Green stem-like body",
+      "Small arms",
+      "Delicate features",
+      "Bright, expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Floette/2.png",
+  "pokemon_name": "Floette"
+}

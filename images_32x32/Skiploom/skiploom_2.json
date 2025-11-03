@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon that resembles a small fluffy cloud with floral features.",
+    "Imagine a cute Pokemon that has green body and yellow flower accents, perfect for sunny days.",
+    "Design a Pokemon that embodies the spirit of nature with vibrant colors and soft, round shapes.",
+    "Generate a whimsical creature that floats gently in the air, surrounded by flowers and greenery.",
+    "Show me a Pokemon with a cheerful appearance, featuring a round body and a bright floral crown.",
+    "Give me a Pokemon that thrives in forest environments, showcasing a blend of green and yellow hues.",
+    "Make a playful Pokemon that represents growth and happiness, with distinct floral elements."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body",
+      "Floral crown",
+      "Big eyes",
+      "Fluffy appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Gentle"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Skiploom/2.png",
+  "pokemon_name": "Skiploom"
+}

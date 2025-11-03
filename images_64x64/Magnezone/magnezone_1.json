@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a futuristic electric-type Pokemon with metallic features and a sleek design.",
+    "I want a Pokemon that looks like a floating machine with shiny surfaces and glowing lights.",
+    "Generate an electric and steel-type Pokemon inspired by technology and magnetism.",
+    "Make a Pokemon that has a circular body with protruding parts, resembling advanced machinery.",
+    "Imagine a robot-like Pokemon that combines elements of electricity and magnetism in its appearance.",
+    "Design a Pokemon that captures the essence of magnetism, with a unique and modern look.",
+    "Show me an electric-type Pokemon that embodies the concept of magnetism with a scientific twist."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Red",
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Three spherical magnets protruding from its sides",
+      "A small antenna on top",
+      "A large round body with a metallic finish"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Steel",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Curious",
+      "Loyal"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Magnezone/1.png",
+  "pokemon_name": "Magnezone"
+}

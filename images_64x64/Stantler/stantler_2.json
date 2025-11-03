@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a Pokemon with antlers that blends into forest environments.",
+    "Imagine a majestic creature that roams grassy plains with a gentle demeanor.",
+    "Show me a Pokemon that embodies the spirit of the wild with brown fur and elegant features.",
+    "Design a Normal-type Pokemon that showcases a unique blend of reindeer and deer characteristics.",
+    "Generate a creature with large antlers and a calm personality, perfect for soothing forest spirits.",
+    "Make a Pokemon that thrives in mountainous terrains and has a soft, friendly appearance.",
+    "Give me a Pokemon that represents natural beauty with a mix of brown and white colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large antlers",
+      "White underbelly",
+      "Gentle expression",
+      "Short, sturdy legs",
+      "Fluffy tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Calm",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Stantler/2.png",
+  "pokemon_name": "Stantler"
+}

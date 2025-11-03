@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a humanoid creature with multiple arms and a rocky appearance.",
+    "I want a water-type Pokemon that has green claws and a rugged body design.",
+    "Generate a Pokemon with a fierce look, featuring blue and brown colors for a natural vibe.",
+    "Make a creature that has a strong, muscular build and a unique shell-like appearance.",
+    "Imagine a Pokemon that thrives in rocky terrains with a mix of earthy and aquatic colors.",
+    "Design a Pokemon that embodies strength and agility, perfect for battling in diverse environments.",
+    "Give me a Pokemon that combines features of both land and sea creatures in its design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Blue",
+      "accent": "Green"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Multiple arms",
+      "Rocky texture",
+      "Claw-like appendages",
+      "Muscular build",
+      "Shell-like structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Water",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Resilient",
+      "Strategic"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Barbaracle/0.png",
+  "pokemon_name": "Barbaracle"
+}

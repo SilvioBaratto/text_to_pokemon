@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a sleek water-type Pokemon that glides through the ocean with ease and grace.",
+    "Imagine a Pokemon that resembles a manta ray, with unique patterns and soft colors.",
+    "Design a flying aquatic Pokemon with a gentle personality and smooth, flowing movements.",
+    "Give me a Pokemon that has a body shape similar to a winged creature, perfect for underwater currents.",
+    "Generate a calm and friendly Pokemon that thrives in oceanic environments and loves to socialize.",
+    "Show me a Pokemon that can soar through the water like a bird in the sky, with beautiful colors.",
+    "Make a whimsical Pokemon that embodies the essence of the sea and has a playful nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": "Gray"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large, wing-like fins",
+      "Streamlined body",
+      "Long, slender tail",
+      "Blue and white coloration",
+      "Prominent facial structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Playful",
+      "Sociable"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Mantine/1.png",
+  "pokemon_name": "Mantine"
+}

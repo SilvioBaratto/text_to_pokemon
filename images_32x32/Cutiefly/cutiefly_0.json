@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a cute fairy-type Pokemon that resembles a small insect with bright colors.",
+    "Imagine a tiny bug Pokemon that flutters around flowers and has a cheerful demeanor.",
+    "Generate a small, yellow Pokemon with delicate wings and large, expressive eyes.",
+    "Make a whimsical Pokemon that loves to play in sunny meadows and has a playful spirit.",
+    "Show me a Pokemon that is known for its sweetness and ability to brighten anyone's day.",
+    "Design a Pokemon that thrives in lush environments and has a gentle, friendly personality.",
+    "I want a Pokemon that embodies joy and is often found hovering over blossoms."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large, round eyes",
+      "Delicate wings",
+      "Small, rounded body",
+      "Long antennae",
+      "Tiny legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Fairy",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Gentle"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Cutiefly/0.png",
+  "pokemon_name": "Cutiefly"
+}

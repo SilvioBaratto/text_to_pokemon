@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon that embodies time with intricate clock-like features and a majestic appearance.",
+    "Imagine a powerful dragon-type Pokemon with a shimmering blue body and elegant metallic accents.",
+    "Show me a legendary Pokemon that controls time, featuring unique crystal structures on its back.",
+    "Design a Pokemon with a sleek, futuristic design, showcasing elements that represent both steel and dragon types.",
+    "Generate an image of a giant, winged Pokemon that exudes an aura of authority and wisdom.",
+    "Make a Pokemon that combines aspects of a dinosaur and a celestial being, with stunning blue hues.",
+    "Give me a legendary creature that stands tall and proud, symbolizing the power of time and space."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Gray",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Gray",
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Metallic blue body",
+      "Crystal-like structures on back",
+      "Wing-like appendages",
+      "Elegant tail",
+      "Facial crest resembling a clock"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Dragon",
+    "generation": 4,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Wise",
+      "Mysterious",
+      "Proud"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Very Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Dialga/0.png",
+  "pokemon_name": "Dialga"
+}

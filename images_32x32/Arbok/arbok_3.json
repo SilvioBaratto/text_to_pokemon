@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a slithering Pokemon with a menacing grin and vibrant yellow eyes.",
+    "Show me a dark-type snake Pokemon that has a purple body and a unique hood.",
+    "Imagine a serpent-like Pokemon with glowing features and a fierce expression.",
+    "Generate an intimidating Pokemon design that resembles a snake, with striking colors.",
+    "Make a serpentine Pokemon that blends into urban environments with a stealthy appearance.",
+    "Design a Pokemon with a hood that displays a mysterious face and captivating colors.",
+    "Give me a Pokemon that embodies the essence of a snake, with bold purple hues."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Yellow",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Yellow",
+      "accent": "Red"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Hooded head",
+      "Glowing yellow eyes",
+      "Red forked tongue",
+      "Menacing facial markings",
+      "Long, slender body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Stealthy",
+      "Aggressive"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Strategic and ambush-based"
+  },
+  "image_path": "images/Arbok/3.png",
+  "pokemon_name": "Arbok"
+}

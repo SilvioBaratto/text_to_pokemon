@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that embodies the essence of winter with icy features.",
+    "Imagine an ice-type creature with a mystical aura and crystalline structures.",
+    "Show me a Pokemon that combines elegance with a chilling presence, perfect for snowy landscapes.",
+    "Generate a design for a Pokemon that uses snow and ice as part of its attack strategy.",
+    "Make a Pokemon that has a haunting beauty, with a body resembling a snow-covered figure.",
+    "Give me a unique ice-type Pokemon that can blend into its frosty environment seamlessly.",
+    "Design a Pokemon with a magical appearance that thrives in cold habitats and snowy regions."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Purple",
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": "Purple"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Snowy veil-like appearance",
+      "Large, expressive eyes",
+      "Icicle-like hands",
+      "Frosty motifs on the body",
+      "Ghostly aura"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": "Ghost",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Elegant",
+      "Playful"
+    ],
+    "habitat": "Tundra",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Froslass/1.png",
+  "pokemon_name": "Froslass"
+}

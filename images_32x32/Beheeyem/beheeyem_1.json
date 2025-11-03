@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a wooden appearance and green accents.",
+    "Imagine a Pokemon that resembles a humanoid with a unique head shape and colorful hands.",
+    "Show me a Pokemon with mysterious powers and a design inspired by aliens.",
+    "Generate a creature with a brown body and bright green eyes, known for its psychic abilities.",
+    "Give me a Pokemon that stands out with its quirky features and a unique personality.",
+    "Design a Pokemon that thrives in urban environments and has a playful demeanor.",
+    "Make a creature with a distinct bipedal stance, showcasing its strong psychic powers."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Green",
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Green",
+      "accent": "Pink"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Distinctive head shape resembling a helmet",
+      "Green eyes",
+      "Colorful hands with pink and green accents",
+      "Bipedal stance",
+      "Patterns on the body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Intelligent",
+      "Playful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Psychic attacks and support"
+  },
+  "image_path": "images/Beheeyem/1.png",
+  "pokemon_name": "Beheeyem"
+}

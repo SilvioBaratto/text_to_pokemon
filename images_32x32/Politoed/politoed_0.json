@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a round body and a playful expression.",
+    "Imagine a frog-like Pokemon that can control water and loves to sing.",
+    "Generate a vibrant green Pokemon that's known for its jumping abilities.",
+    "Design a Politoed-inspired creature with unique patterns on its skin.",
+    "Show me a Pokemon that thrives in wetlands and has charming vocal skills.",
+    "Make a cute amphibian Pokemon with swirling patterns and a cheerful demeanor.",
+    "Give me a Pokemon that resembles a toad and has a shiny, bright appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Yellow",
+      "accent": "Blue"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large round body",
+      "Spiral pattern on the belly",
+      "Prominent antenna-like appendage",
+      "Wide mouth",
+      "Cheeks with pink blush"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Sociable"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Politoed/0.png",
+  "pokemon_name": "Politoed"
+}

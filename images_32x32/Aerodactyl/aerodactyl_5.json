@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a fierce flying-type Pokemon with sharp teeth and a menacing glare.",
+    "Show me a prehistoric dragon Pokemon that swoops through the skies with grace.",
+    "Imagine a Pokemon with a sleek body and spiky wings, perfect for swift battles.",
+    "Design a rock-type Pokemon with a fierce expression and powerful wings.",
+    "Generate an ancient Pokemon that embodies the spirit of the skies and mountains.",
+    "Make a Pokemon with a unique mix of purple and gray colors, showcasing its agility.",
+    "Give me a Pokemon that looks like a flying dinosaur, exuding strength and speed."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Gray",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Sharp, pointed teeth",
+      "Spiky wing structure",
+      "Fanged mouth",
+      "Aerodynamic body shape",
+      "Long tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Cunning",
+      "Adventurous"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Fast and offensive, relying on aerial assaults"
+  },
+  "image_path": "images/Aerodactyl/5.png",
+  "pokemon_name": "Aerodactyl"
+}

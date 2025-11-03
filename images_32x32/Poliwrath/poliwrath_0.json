@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a muscular build and a swirling pattern on its belly.",
+    "I want a unique design for a Pokemon that can thrive in both water and land environments.",
+    "Generate a blue Pokemon that embodies strength and agility, perfect for aquatic battles.",
+    "Make a bipedal Pokemon that has strong arms and a fierce expression.",
+    "Imagine a Pokemon that can manipulate water currents in its habitat, showcasing powerful limbs.",
+    "Design a Pokemon with a distinct round pattern on its body, emphasizing its water-type nature.",
+    "Show me a Pokemon that blends features of amphibians and aquatic creatures, emphasizing its fighting style."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Swirling pattern on the belly",
+      "Muscular arms",
+      "Large round eyes",
+      "Webbed hands",
+      "Defined legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Fighting",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Fierce",
+      "Loyal"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Poliwrath/0.png",
+  "pokemon_name": "Poliwrath"
+}

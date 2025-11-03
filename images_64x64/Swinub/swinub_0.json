@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a cute, small Pokemon that resembles a round, fluffy mammal with a pink nose.",
+    "Imagine a Pokemon that thrives in snowy environments, with a brown body and a white underbelly.",
+    "Show me a Pokemon that can burrow underground, with a compact shape and small limbs.",
+    "Design a Pokemon with a unique blend of earth and ice attributes, featuring a rounded shape.",
+    "Give me a Pokemon that loves cold climates, showcasing a small, brown creature with a cuddly appearance.",
+    "Generate a Pokemon characterized by its ability to find food buried in snow, with a tiny stature.",
+    "Make a Pokemon that resembles a baby boar, with distinctive colors and playful behavior."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Fluffy body",
+      "Small, round shape",
+      "Prominent pink nose"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": "Ground",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful"
+    ],
+    "habitat": "Tundra",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Swinub/0.png",
+  "pokemon_name": "Swinub"
+}

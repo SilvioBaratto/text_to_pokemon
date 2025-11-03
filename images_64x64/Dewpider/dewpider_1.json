@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a shiny, blue body and aquatic features.",
+    "I want a unique insectoid Pokemon that blends seamlessly into its wetland habitat.",
+    "Generate a Pokemon that has a bubble-like head and a vibrant green exoskeleton.",
+    "Make a small, cute spider Pokemon that can also swim effortlessly in water.",
+    "Imagine a Pokemon with large, expressive eyes and a playful personality.",
+    "Design an adorable, water-dwelling creature that has a distinct shell-like back.",
+    "Give me a tiny Pokemon with a mix of bug and water features, perfect for underwater exploration."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": "Green"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Bubble-like head",
+      "Six legs",
+      "Large, expressive eyes",
+      "Shell-like back",
+      "Web-like structures"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Bug",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Dewpider/1.png",
+  "pokemon_name": "Dewpider"
+}

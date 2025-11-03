@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a graceful Grass-type Pokemon with vibrant pink and green accents.",
+    "I want a Pokemon that resembles a flower, with large, leafy appendages and bright colors.",
+    "Generate a Pokemon inspired by tropical plants, showcasing a mix of red and green hues.",
+    "Make a majestic creature that embodies the beauty of nature and has a delicate appearance.",
+    "Imagine a Pokemon with striking floral features, known for its elegance and charm.",
+    "Design a Pokemon that thrives in lush environments, featuring bold colors and intricate details.",
+    "Show me a Pokemon that has a unique blend of plant-like and insect-like characteristics."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Red",
+      "accent": "Green"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large, leaf-like appendages",
+      "Flower-like appearance",
+      "Prominent pink coloration",
+      "Green accents resembling foliage",
+      "Insect-like body structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Bug",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Elegant",
+      "Charming",
+      "Protective"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Strategic"
+  },
+  "image_path": "images/Lurantis/0.png",
+  "pokemon_name": "Lurantis"
+}

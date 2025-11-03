@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a flat body and sharp fins.",
+    "I want a quirky Pokemon that resembles a fish but has unique patterns.",
+    "Generate a Pokemon that thrives in muddy environments and has an earthy color palette.",
+    "Make a Pokemon that appears to be both fish and amphibian, with distinctive markings.",
+    "Imagine a ground-type Pokemon that can camouflage with its surroundings very well.",
+    "Design a Pokemon that looks like a blend of a fish and a flat creature, with vibrant colors.",
+    "Show me a Pokemon that lives in wetlands and has a quirky personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Green"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "White",
+      "accent": "Green"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Flat, rounded body",
+      "Two large eyes",
+      "Spiky dorsal fin",
+      "Green patches resembling moss",
+      "White circular markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": "Electric",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Adaptable",
+      "Quirky",
+      "Playful"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Stunfisk/1.png",
+  "pokemon_name": "Stunfisk"
+}

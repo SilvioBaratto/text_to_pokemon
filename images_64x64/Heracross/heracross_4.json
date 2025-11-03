@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with a large blue body and impressive horns.",
+    "Imagine a powerful fighter Pokemon that can lift heavy objects with its claws.",
+    "Show me a Pokemon that thrives in forest habitats and has a distinctive horn.",
+    "Generate a Pokemon that looks like a beetle, with bright colors and an intimidating stance.",
+    "Design a Pokemon that is known for its strength and is often found in grasslands.",
+    "Make a fierce-looking blue insect Pokemon that evolves from a smaller creature.",
+    "Give me a Pokemon with a unique blend of blue and red colors, showcasing its battle-ready stance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large horn on the head",
+      "Powerful pincers",
+      "Sturdy blue exoskeleton",
+      "Red eyes",
+      "Bulky muscular build"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Fighting",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Brave",
+      "Determined",
+      "Loyal"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Physical attacker"
+  },
+  "image_path": "images/Heracross/4.png",
+  "pokemon_name": "Heracross"
+}

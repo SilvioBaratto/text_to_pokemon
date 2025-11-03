@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a powerful ice-type Pokemon with large tusks and a furry body.",
+    "I want a Pokemon that resembles a woolly mammoth, standing strong in icy terrains.",
+    "Generate an adorable Pokemon that has a round body, white tusks, and a blue mask.",
+    "Make a Pokemon with a thick brown coat and bright blue eyes for an icy battle.",
+    "Imagine a stout and furry Pokemon with distinctive features inspired by prehistoric creatures.",
+    "Design a Pokemon that thrives in snowy habitats and showcases unique tusk-like features.",
+    "Show me a Pokemon that combines characteristics of a mammoth with playful, friendly traits."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Blue",
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Long white tusks",
+      "Furry body",
+      "Blue eyes with a mask",
+      "Stout legs",
+      "Large, rounded body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": "Ground",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Friendly",
+      "Sturdy",
+      "Protective"
+    ],
+    "habitat": "Tundra",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Mamoswine/1.png",
+  "pokemon_name": "Mamoswine"
+}

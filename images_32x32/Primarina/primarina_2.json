@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with flowing blue hair and a graceful tail.",
+    "I want a fairy-type creature that sparkles and has a vibrant, colorful appearance.",
+    "Generate an elegant Pokemon that resembles a mermaid with enchanting features.",
+    "Make a whimsical Pokemon with a bubbly personality and a majestic presence.",
+    "Imagine a Pokemon that dances gracefully on the waves, adorned in colorful motifs.",
+    "Design a Pokemon that showcases beauty and charm, with a serene and calming aura.",
+    "Give me a cute yet powerful creature that can control the ocean's currents."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": "Pink"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flowing aquatic mane",
+      "Mermaid-like tail",
+      "Elegant posture",
+      "Singular ear-like fin",
+      "Colorful shell patterns"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Fairy",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Graceful",
+      "Gentle",
+      "Playful"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Primarina/2.png",
+  "pokemon_name": "Primarina"
+}

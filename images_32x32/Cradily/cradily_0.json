@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a plant, with green leaves and pink flowers.",
+    "I want a water-type Pokemon that has a long, curvy body and eye-catching colors.",
+    "Generate a creature inspired by ancient plants, featuring a unique spiral design.",
+    "Make a Pokemon with a friendly demeanor and a soft, green appearance.",
+    "Imagine a Pokemon that thrives in wet environments, showcasing vibrant colors and distinctive shapes.",
+    "Design a Pokemon with a serene personality and features reminiscent of a prehistoric plant.",
+    "Give me a Pokemon with a unique combination of colors, elegant posture, and an otherworldly charm."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Curved neck",
+      "Spiral patterns",
+      "Flower-like appendages",
+      "Leafy protrusions"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Grass",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Resilient",
+      "Adaptable"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Cradily/0.png",
+  "pokemon_name": "Cradily"
+}

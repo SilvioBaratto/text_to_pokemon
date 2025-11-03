@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with vibrant green and yellow colors and unique web-like patterns.",
+    "Imagine a small insect Pokemon that can camouflage in grassy environments, using its colors to blend in.",
+    "Show me a Pokemon that has a shiny green body with a tiny blue dot on its head, resembling a spider.",
+    "Design a Pokemon that can spin webs and is often found in forested areas, showcasing its insectoid features.",
+    "Generate a Pokemon with a round body and long legs, featuring yellow accents and big expressive eyes.",
+    "Make a Pokemon that thrives in urban habitats, using its colors to create visually appealing webs.",
+    "Give me a Pokemon with a distinct bug-like appearance, known for its agility and clever tactics in battle."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": null,
+      "accent": "Yellow"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large expressive eyes",
+      "Long legs",
+      "Web-like patterns on its body",
+      "Tiny blue dot on its head",
+      "Vulnerable appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cautious",
+      "Clever",
+      "Agile"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Status Attacker"
+  },
+  "image_path": "images/Spinarak/1.png",
+  "pokemon_name": "Spinarak"
+}

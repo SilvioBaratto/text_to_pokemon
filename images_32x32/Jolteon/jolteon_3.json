@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon with bright yellow fur and spiky features.",
+    "I want a design for a Pokemon resembling a small, agile creature that can generate electricity.",
+    "Generate a Pokemon that combines elements of a fox and a lightning bolt.",
+    "Make a vibrant character that embodies speed and electricity in its appearance.",
+    "Imagine a Pokemon with electric energy surging through its bright yellow fur and sharp spikes.",
+    "Design a fast and energetic Pokemon that thrives in urban environments and has electric powers.",
+    "Show me a Pokemon that has a sleek body, sharp spikes, and a lively personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": null,
+      "accent": "Black"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Spiky fur",
+      "Pointy ears",
+      "Long, spiky tail",
+      "Bright yellow coloration",
+      "Sharp, expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Playful",
+      "Loyal"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Speed-focused"
+  },
+  "image_path": "images/Jolteon/3.png",
+  "pokemon_name": "Jolteon"
+}

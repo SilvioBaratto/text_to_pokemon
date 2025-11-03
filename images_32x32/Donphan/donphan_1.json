@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a sturdy Pok\u00e9mon that resembles an elephant and has a powerful ground attack.",
+    "Imagine a Pok\u00e9mon with a tough exterior and the ability to roll into a ball for defense.",
+    "Design a Pok\u00e9mon that thrives in mountainous terrains and has a defensive combat style.",
+    "Give me a Pok\u00e9mon that can burrow underground and has a playful personality.",
+    "Generate a Pok\u00e9mon that looks like a combination of a mammoth and a rhino, with unique features.",
+    "Show me a Pok\u00e9mon that is known for its resilience and can adapt to different habitats.",
+    "Make a Pok\u00e9mon that uses its large tusks to dig and has a friendly demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Brown",
+      "accent": "Green"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large tusks",
+      "Thick, armored body",
+      "Short, sturdy legs",
+      "Curved trunk",
+      "Earthy coloration"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Sturdy",
+      "Friendly"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Donphan/1.png",
+  "pokemon_name": "Donphan"
+}

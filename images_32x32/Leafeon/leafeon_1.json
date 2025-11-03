@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon with vibrant green leaves and soft fur.",
+    "Imagine a Pokemon that embodies nature, featuring leafy accents and a playful demeanor.",
+    "Design an elegant Pokemon with a blend of earthy tones and striking foliage.",
+    "Generate a creature that resembles a forest spirit, showcasing vivid greens and a graceful posture.",
+    "Show me a Pokemon that thrives in lush environments, complete with plant-like features.",
+    "Give me a Pokemon with a serene personality and a design inspired by summer foliage.",
+    "Make a quadrupedal Pokemon that blends into forested areas with its leaf motifs."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Leaf-like ears",
+      "Bushy green tail",
+      "Soft yellow fur",
+      "Leaf patterns on legs",
+      "Bright green foliage accents"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Playful",
+      "Loyal"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Leafeon/1.png",
+  "pokemon_name": "Leafeon"
+}

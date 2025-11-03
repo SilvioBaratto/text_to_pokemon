@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a multi-type Pokemon that can adapt to various terrains and environments.",
+    "I want a unique Pokemon design that showcases a combination of agility and strength.",
+    "Generate an image of a Pokemon with a majestic appearance and powerful wings.",
+    "Make a Pokemon that embodies both beauty and ferocity with striking colors.",
+    "Imagine a creature that blends elements of technology and nature in its design.",
+    "Design an impressive Pokemon that can transform its abilities based on its surroundings.",
+    "Show me a legendary Pokemon that inspires awe with its colorful, intricate features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Black",
+      "accent": "Green"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Mechanical elements",
+      "Wings resembling feathers",
+      "A distinct headpiece with a color gradient",
+      "Four powerful limbs",
+      "A tail that hints at technology"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Steel",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Adaptable",
+      "Loyal",
+      "Intelligent"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Versatile"
+  },
+  "image_path": "images/Silvally/5.png",
+  "pokemon_name": "Silvally"
+}

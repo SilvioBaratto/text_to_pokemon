@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon with vibrant blue skin and a unique serpentine shape.",
+    "Show me a Pokemon that combines features of an eel and a fish, with a striking color palette.",
+    "Imagine a water-dwelling Pokemon that emits electric shocks, featuring bright red and blue colors.",
+    "Design a Pokemon that resembles a sea creature, with distinct fins and a twisty body.",
+    "Make a Pokemon that is playful and mischievous, showcasing a mix of blue and red hues.",
+    "Give me a Pokemon that thrives in water and has a unique, flowing design with bright colors.",
+    "Generate a Pokemon with an eye-catching design, featuring aquatic traits and electric abilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long, serpentine body",
+      "Fins resembling wings",
+      "Brightly colored patterns",
+      "Large eyes",
+      "Prominent tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Energetic"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Eelektrik/1.png",
+  "pokemon_name": "Eelektrik"
+}

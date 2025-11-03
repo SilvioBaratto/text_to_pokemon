@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon that has a round body and a cute, playful expression.",
+    "I want a whimsical Pokemon with a light blue color scheme and oversized ears.",
+    "Generate a fairy-like creature that resembles a balloon and has a gentle demeanor.",
+    "Make a Pokemon that looks like it could float in the air and has a serene aura.",
+    "Imagine a Pokemon with a soft, rounded figure and a friendly personality.",
+    "Design a creature that is both enchanting and mysterious, with delicate features.",
+    "Show me a cozy-looking Pokemon that enjoys wandering through lush forests."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body shape",
+      "Large ears",
+      "Small arms",
+      "Soft facial features",
+      "Gentle expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Fairy",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Playful",
+      "Mysterious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Hattrem/0.png",
+  "pokemon_name": "Hattrem"
+}

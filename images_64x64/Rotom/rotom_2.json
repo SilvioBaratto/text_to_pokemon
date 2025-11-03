@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that resembles a friendly spirit with a glowing aura.",
+    "I want a water-type Pokemon that has a sleek design and can swim gracefully through rivers.",
+    "Generate a fire-type Pokemon with a fiery mane and a playful personality.",
+    "Make a steel-type Pokemon that has a sturdy body and sharp, metallic features.",
+    "Imagine an electric-type Pokemon with bright colors and a dynamic, energetic pose.",
+    "Design a flying-type Pokemon with vibrant wings that can soar through the skies effortlessly.",
+    "Give me a grass-type Pokemon that blends in with its forest habitat and has leafy features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Circular body",
+      "Propeller-like appendage",
+      "Transparent window",
+      "Electrical energy discharges"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Ghost",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Tricky",
+      "Curious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Rotom/2.png",
+  "pokemon_name": "Rotom"
+}

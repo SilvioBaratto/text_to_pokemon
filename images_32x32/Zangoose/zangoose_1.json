@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a sleek, agile Pokemon with sharp claws and a striking appearance.",
+    "I want a fierce-looking creature that embodies both speed and precision in battle.",
+    "Generate a bipedal Pokemon that thrives in grasslands and forests with a unique color palette.",
+    "Make a Pokemon that can be both a fierce fighter and a loyal companion in various habitats.",
+    "Imagine a creature that blends agility with a fierce personality, perfect for competitive battles.",
+    "Design a Pokemon that showcases powerful claws and a sporty demeanor, ready for any challenge.",
+    "Show me a Pokemon with a striking red and white color scheme, standing out in the wild."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "White"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Sharp claws",
+      "Red and white fur",
+      "Long tail",
+      "Pointed ears",
+      "Angry facial expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Agile",
+      "Competitive"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Physical attacker"
+  },
+  "image_path": "images/Zangoose/1.png",
+  "pokemon_name": "Zangoose"
+}

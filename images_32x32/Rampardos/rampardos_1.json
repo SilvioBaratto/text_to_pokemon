@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a dinosaur-like Pokemon with a powerful head and a blue crest.",
+    "Imagine a Pokemon that can smash through rocks with its massive skull.",
+    "Show me a fierce-looking Pokemon that thrives in mountainous regions.",
+    "Design a Pokemon inspired by prehistoric creatures with a strong physical build.",
+    "Generate a Pokemon that has a gray body and striking blue accents.",
+    "Give me a powerful Pokemon that can intimidate opponents with its size.",
+    "Make a Pokemon that embodies strength and resilience in battle."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Blue",
+      "accent": "Red"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large skull",
+      "Prominent blue crest",
+      "Red eyes",
+      "Thick tail",
+      "Powerful limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Determined",
+      "Powerful"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Rampardos/1.png",
+  "pokemon_name": "Rampardos"
+}

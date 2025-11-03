@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a cute fire-type Pokemon with a small body and a cheerful expression.",
+    "I want a chubby Pokemon that blends in with desert environments, featuring earthy colors.",
+    "Generate a Pokemon that has both fire and ground traits, resembling a camel.",
+    "Make a friendly-looking Pokemon with a round shape and a playful demeanor.",
+    "Imagine a Pokemon with a vibrant green top, standing out against its sandy body.",
+    "Design a Pokemon that thrives in arid habitats and has a warm color palette.",
+    "Show me a unique creature that embodies both heat and resilience in its design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Green"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Hump-like structure on back",
+      "Round body shape",
+      "Short limbs",
+      "Small eyes",
+      "Smooth skin texture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Ground",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Friendly",
+      "Playful"
+    ],
+    "habitat": "Desert",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Numel/1.png",
+  "pokemon_name": "Numel"
+}

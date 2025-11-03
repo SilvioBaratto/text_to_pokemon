@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a whimsical grass-type Pokemon that loves to dance and spread joy in flower-filled meadows.",
+    "I want a vibrant Pokemon with bright red flowers and a charming green body that radiates happiness.",
+    "Generate a small, playful Pokemon that thrives in sunny environments, surrounded by colorful blooms.",
+    "Make a flower-themed Pokemon that can harness the power of nature to heal its allies.",
+    "Imagine a Pokemon that embodies the spirit of spring, with a lush green body and cheerful demeanor.",
+    "Design a Pokemon that has a unique blend of floral and fairy characteristics, perfect for enchanting gardens.",
+    "Give me a Pokemon that is known for its gentle personality and ability to attract other creatures with its beauty."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Bright red flower petals on its head",
+      "Round body shape",
+      "Large green leaves resembling a skirt",
+      "Big expressive eyes",
+      "Cheerful and inviting appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Fairy",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Gentle"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Bellossom/2.png",
+  "pokemon_name": "Bellossom"
+}

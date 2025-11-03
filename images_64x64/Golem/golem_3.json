@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon with a sturdy build and boulder-like features.",
+    "I want a Pokemon that resembles a massive turtle made of stone with a fierce expression.",
+    "Generate a Pokemon that embodies strength and durability, with a rocky exterior.",
+    "Make a Pokemon with a round, rocky body and small limbs, perfect for defense.",
+    "Imagine a Pokemon with a tough, earthy appearance, known for its resilience in battles.",
+    "Design a Pokemon that looks like a living mountain, with a color palette of grays and browns.",
+    "Give me a Pokemon that exudes power and stability, resembling a boulder on legs."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Brown",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Brown",
+      "accent": "Red"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Rock-like body",
+      "Small arms and legs",
+      "Face with a fierce expression",
+      "Round, boulder appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Ground",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Sturdy",
+      "Defensive",
+      "Resilient"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Golem/3.png",
+  "pokemon_name": "Golem"
+}

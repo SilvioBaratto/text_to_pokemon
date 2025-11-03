@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a dual-type Pokemon that looks like a pair of swords with a mystical aura.",
+    "Show me an armored Pokemon with ghostly features and a spectral design.",
+    "Imagine a Pokemon that embodies the spirit of ancient warriors with hauntingly beautiful colors.",
+    "Design a Pokemon that resembles a ghostly knight, wielding dual blades with elegance.",
+    "Make a Pokemon that combines both steel and ghost elements in a unique visual style.",
+    "Generate an eerie but majestic Pokemon featuring swords and a spectral appearance.",
+    "I want a Pokemon that captures the essence of battle with its sword-like features and ghostly colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Pink",
+      "accent": "Purple"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Dual sword-like appearance",
+      "Ghostly, ethereal design",
+      "Intricate blade patterns",
+      "Spectral glow",
+      "Armor-like structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Ghost",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Loyal",
+      "Protective"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Defensive and strategic"
+  },
+  "image_path": "images/Doublade/0.png",
+  "pokemon_name": "Doublade"
+}

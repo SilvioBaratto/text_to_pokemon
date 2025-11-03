@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a fierce feline Pokemon with gray fur and sharp claws, perfect for a battle.",
+    "I want a unique Pokemon design inspired by Norse mythology, featuring metallic elements.",
+    "Generate a Pokemon that combines elements of a cat and a warrior with striking colors.",
+    "Make a Pokemon that embodies strength and agility, showcasing a powerful stance.",
+    "Imagine a Pokemon that resembles a rugged mountain beast, with a wild and untamed look.",
+    "Design a Pokemon with a spiky appearance and a menacing grin to intimidate opponents.",
+    "Give me a Pokemon that is both a protector and a fighter, standing strong in its environment."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Brown",
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Brown",
+      "accent": "Orange"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Pointed ears",
+      "Spiky fur",
+      "Large fangs",
+      "Sharp claws"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Normal",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Brave",
+      "Loyal",
+      "Aggressive"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Perrserker/0.png",
+  "pokemon_name": "Perrserker"
+}

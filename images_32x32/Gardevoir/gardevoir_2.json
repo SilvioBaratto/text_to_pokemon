@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a flowing gown and elegant features.",
+    "I want a fairy-like Pokemon that radiates calm and grace, with a green color scheme.",
+    "Generate a humanoid Pokemon with a mystical aura and delicate details in its design.",
+    "Make a Pokemon that embodies kindness and protection, featuring soft colors and elegant movements.",
+    "Imagine a powerful psychic Pokemon with a serene expression and flowing attire, perfect for battles.",
+    "Design a Pokemon that combines beauty and strength, showcasing a graceful form and magical abilities.",
+    "Show me a Pokemon that looks like a guardian spirit, adorned in white and green with an ethereal presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "White"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Pink",
+      "accent": "White"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long flowing gown",
+      "Curved body silhouette",
+      "Elegant, delicate hands",
+      "Long hair with a prominent headpiece",
+      "Bright red eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Fairy",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Protective",
+      "Loyal"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Gardevoir/2.png",
+  "pokemon_name": "Gardevoir"
+}

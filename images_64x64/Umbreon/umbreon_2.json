@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a sleek, dark Pokemon with glowing yellow accents and a mysterious aura.",
+    "Imagine a shadowy feline creature that thrives in the moonlight and has a calming presence.",
+    "Design an elegant creature with a jet-black body and bright yellow rings that represents the night.",
+    "Show me a Pokemon that embodies stealth and agility, with a sleek design and captivating eyes.",
+    "Generate a nocturnal Pokemon that roams forests and has a dark, alluring appearance.",
+    "Make a creature that is both playful and elusive, with a shiny black coat and striking features.",
+    "Give me a Pokemon that blends seamlessly with the shadows, radiating an aura of calm confidence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [
+      "Yellow",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Yellow",
+      "accent": "Red"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Glowing yellow rings on ears and tail",
+      "Red eyes",
+      "Sleek body",
+      "Pointed ears"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Loyal",
+      "Calm"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Umbreon/2.png",
+  "pokemon_name": "Umbreon"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with sharp blades for arms and green wings.",
+    "Design a fierce Pokemon that resembles an insect and has a sleek, agile appearance.",
+    "Imagine a dual-type Pokemon that can fly and fight using its scythe-like appendages.",
+    "Generate a Pokemon with a striking green body and transparent wings, perfect for stealth.",
+    "Make a powerful bug-type creature with a unique evolution stage and sharp claws.",
+    "Show me an agile Pokemon that thrives in forested areas and has a predatory nature.",
+    "Give me a visual concept of a Pokemon that embodies speed and precision in battles."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Scythe-like arms",
+      "Wings",
+      "Long antennae",
+      "Large, sharp claws"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Agile",
+      "Predatory",
+      "Stealthy"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Fast and offensive"
+  },
+  "image_path": "images/Scyther/0.png",
+  "pokemon_name": "Scyther"
+}

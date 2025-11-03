@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a playful personality and a sleek design.",
+    "Imagine a Pokemon that resembles a small amphibian with vibrant blue colors.",
+    "Show me a creature that thrives in wetlands and has a friendly demeanor.",
+    "Generate a cute, aquatic Pokemon that loves to splash around in ponds.",
+    "Design a small Pokemon with unique orange fins that help it swim faster.",
+    "Make a Pokemon that is a starter choice, featuring a round body and big eyes.",
+    "Give me a Pokemon that has a blend of blue and orange hues with a cheerful look."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Orange",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Orange gills on the sides of the head",
+      "Round, pudgy body",
+      "Tail with a fin-like structure",
+      "Big, expressive eyes",
+      "Webbed feet"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Mudkip/2.png",
+  "pokemon_name": "Mudkip"
+}

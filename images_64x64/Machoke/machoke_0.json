@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a muscular Pokemon that embodies strength and determination, with a focus on a blue and gray color palette.",
+    "I want a Pokemon that looks like a humanoid fighter, showcasing its powerful arms and confident stance.",
+    "Generate a character design for a Pokemon that represents both toughness and discipline, using shades of blue and purple.",
+    "Make a Pokemon that has an athletic build, featuring striking red accents on its arms and a prominent belt.",
+    "Imagine a Pokemon that specializes in martial arts, exhibiting a rugged appearance and a fierce expression.",
+    "Design a bipedal Pokemon that combines elements of strength and agility, with a unique color scheme of gray and blue.",
+    "Show me a Pokemon that stands out with its powerful physique and fighting spirit, highlighted by its muscular features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Muscular build",
+      "Prominent belt",
+      "Large arms",
+      "Defined pectoral muscles",
+      "Intense expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Disciplined",
+      "Fierce"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Common",
+    "combat_style": "Physical attacker"
+  },
+  "image_path": "images/Machoke/0.png",
+  "pokemon_name": "Machoke"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a giant turtle Pokemon with a lush, leafy tree on its back and strong earth powers.",
+    "Design a Pokemon that resembles a tortoise, featuring vibrant green foliage and a sturdy shell.",
+    "Imagine a Pokemon that embodies nature, combining a heavy-set body with a massive tree as its crown.",
+    "Generate a powerful ground-type Pokemon that has a rocky exterior and thrives in forest habitats.",
+    "Show me a Pokemon that represents the harmony between land and nature, with earthy tones and greenery.",
+    "Make a Pokemon that walks slowly but is incredibly resilient, carrying a world of trees on its back.",
+    "Give me a Pokemon with a wise demeanor, showcasing the strength of nature and the earth."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large tree on its back",
+      "Rock-like shell",
+      "Thick legs",
+      "Leafy crown",
+      "Facial expression resembling wisdom"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Ground",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Wise",
+      "Protective"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Torterra/1.png",
+  "pokemon_name": "Torterra"
+}

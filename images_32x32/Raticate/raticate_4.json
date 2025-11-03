@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a rat with a fluffy tail and bright orange fur.",
+    "I want a character design for a small, agile, brown-colored creature that loves to scavenge.",
+    "Generate an image of a Pokemon that is a fierce, orange rodent with sharp teeth.",
+    "Make a quirky rat-like Pokemon with a round body and a big mouth, ready to battle.",
+    "Imagine a Pokemon that is primarily brown, with a playful personality and a mischievous grin.",
+    "Design a Pokemon that embodies the spirit of a cunning scavenger, with distinctive whiskers.",
+    "Show me a cartoonish version of a Pokemon that is small, round, and full of energy."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large front teeth",
+      "Fluffy tail",
+      "Pointed ears",
+      "Whiskers",
+      "Round body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Playful",
+      "Aggressive"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Raticate/4.png",
+  "pokemon_name": "Raticate"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that loves playing in the rain and has a friendly demeanor.",
+    "Design a Pokemon with fins and a bubbly personality, perfect for swimming in rivers.",
+    "Imagine a cute amphibious creature that can evolve into a powerful water master.",
+    "Show me a small Pokemon that thrives in wetlands and is known for its playful nature.",
+    "Generate a Pokemon with vibrant blue colors and distinct orange features, ideal for a water battle.",
+    "Make a Pokemon that can glide through water effortlessly and has a mischievous side.",
+    "Give me a Pokemon that looks like a small fish but walks on land, with a cheerful expression."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Orange",
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Orange",
+      "accent": "Pink"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, rounded head",
+      "Fin-like ears",
+      "Tail resembling a rudder",
+      "Orange gills on the cheeks",
+      "Smooth, rounded body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Mudkip/1.png",
+  "pokemon_name": "Mudkip"
+}

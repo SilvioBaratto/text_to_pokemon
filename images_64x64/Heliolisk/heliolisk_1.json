@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bipedal electric-type Pokemon with vibrant yellow skin and a sleek black hood.",
+    "I want a Pokemon that resembles a lizard and features bright colors and a playful personality.",
+    "Generate an electric Pokemon with a long tail and distinctive markings on its body.",
+    "Make a character inspired by Heliolisk, focusing on its unique features and habitat preferences.",
+    "Imagine a Pokemon that thrives in urban settings, showcasing a blend of agility and electric power.",
+    "Design a Pokemon with a striking color palette of yellow and black, known for its speed.",
+    "Give me a creature that embodies the essence of light and electricity, with playful traits."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": "Orange"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Black hood covering the head",
+      "Long tail with an orange tip",
+      "Bright blue eyes",
+      "Distinctive yellow and orange markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Normal",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Curious"
+    ],
+    "habitat": "Desert",
+    "rarity": "Rare",
+    "combat_style": "Speed-based and strategic"
+  },
+  "image_path": "images/Heliolisk/1.png",
+  "pokemon_name": "Heliolisk"
+}

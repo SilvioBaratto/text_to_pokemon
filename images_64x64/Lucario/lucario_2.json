@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a Pokemon that embodies the essence of courage and determination.",
+    "Show me a powerful fighter Pokemon with blue fur and sharp claws.",
+    "Imagine a steel-type Pokemon that is agile, with sleek features and a fierce look.",
+    "Design a bipedal Pokemon that excels in martial arts and has a strong presence.",
+    "Generate a Pokemon with a striking blue and black color scheme that's known for its loyalty.",
+    "Make a unique Pokemon that balances strength and speed, perfect for battling.",
+    "Give me a Pokemon that has a mystical aura and a strong connection to its trainer."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Black"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Pointed ears",
+      "Armored chest",
+      "Long tail",
+      "Fierce red eyes",
+      "Clawed hands"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": "Steel",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Loyal",
+      "Brave",
+      "Determined"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Close-range fighter"
+  },
+  "image_path": "images/Lucario/2.png",
+  "pokemon_name": "Lucario"
+}

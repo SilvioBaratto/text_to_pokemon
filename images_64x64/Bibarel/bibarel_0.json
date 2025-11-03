@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon resembling a beaver with a big tail and a friendly smile.",
+    "I want a small, fluffy creature with brown fur and a playful demeanor to add to my collection.",
+    "Generate a Pokemon that has distinct features like big teeth, a flat tail, and a bright personality.",
+    "Make an adorable creature that thrives in wetlands and has characteristics of both land and water animals.",
+    "Imagine a Pokemon that uses its strong front teeth to build dams and has a charming, curious nature.",
+    "Design a Normal-type Pokemon that combines elements of a rodent and a playful aquatic animal.",
+    "Show me a Pokemon that looks like a beaver and can evolve into a more powerful version over time."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Black",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": "Black"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Big flat tail",
+      "Large front teeth",
+      "Short limbs",
+      "Round body",
+      "Small ears"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Water",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Hardworking"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Bibarel/0.png",
+  "pokemon_name": "Bibarel"
+}

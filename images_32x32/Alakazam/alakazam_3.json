@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a sleek yellow body and a mysterious aura.",
+    "Imagine a powerful Pokemon that uses telekinesis and has a humanoid shape.",
+    "Generate a Pokemon that has two spoons and a bright yellow color scheme.",
+    "Show me a creature that excels in strategy and has a bipedal stance.",
+    "Design a Pokemon that thrives in urban areas and displays a keen intellect.",
+    "Make a Pokemon that is known for its speed and has psychic abilities.",
+    "Give me a detailed description of a Pokemon that evolves from Kadabra."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Two spoons held in hands",
+      "Pointed ears",
+      "Large, expressive eyes",
+      "Long, thin legs",
+      "Bald head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Cunning",
+      "Strategic"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Alakazam/3.png",
+  "pokemon_name": "Alakazam"
+}

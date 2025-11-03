@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a gooey, green Pok\u00e9mon that can blend into its surroundings seamlessly.",
+    "Generate a Pok\u00e9mon that resembles a sludge monster with a mischievous grin.",
+    "Show me a Pok\u00e9mon that thrives in polluted urban environments, covered in grime.",
+    "Imagine a Pok\u00e9mon that can ooze through tight spaces, with a body made of sludge.",
+    "Design a Pok\u00e9mon that can absorb toxins and uses them to power its attacks.",
+    "Make a Pok\u00e9mon that looks like a puddle of goo, with a big mouth and playful eyes.",
+    "Give me a Pok\u00e9mon that has a slimy appearance, with a vibrant blue accent."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Yellow",
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Sludgy, dripping form",
+      "Large mouth with sharp teeth",
+      "Bright yellow markings on chest",
+      "Big, white eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Unpredictable"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Grimer/1.png",
+  "pokemon_name": "Grimer"
+}

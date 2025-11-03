@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a sleek yellow body and a mysterious aura.",
+    "Show me a Pokemon that can manipulate objects with its mind and has unique psychic abilities.",
+    "Imagine a creature that can teleport and has a distinctive star-shaped tail.",
+    "Design a Pokemon that thrives in urban environments and uses its psychic powers to navigate.",
+    "Give me a character that has a strong bond with its trainer and is fiercely loyal.",
+    "Generate a Pokemon known for its speed and agility, perfect for quick battles.",
+    "Make a bipedal Pokemon that has a playful nature and loves to explore."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large ears",
+      "Star-shaped tail",
+      "Almond-shaped eyes",
+      "Brow with a spoon",
+      "Thin limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Kadabra/0.png",
+  "pokemon_name": "Kadabra"
+}

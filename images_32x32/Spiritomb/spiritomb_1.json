@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon with a swirling purple body and glowing green orbs.",
+    "I want a spooky Pokemon that looks like a dark cloud with a mischievous grin.",
+    "Generate a Pokemon with a round, amorphous shape and eerie green eyes.",
+    "Make a ghostly creature that floats in the air and has a haunting presence.",
+    "Imagine a Pokemon that embodies the essence of shadows with a playful personality.",
+    "Design a Pokemon with a unique purple hue and mysterious, otherworldly features.",
+    "Give me a ghost-type Pokemon that lurks in dark places, ready to scare trainers."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Glowing green orbs",
+      "Mischievous grin",
+      "Swirling body shape",
+      "Eerie eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Dark",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Eerie",
+      "Playful"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Trickster"
+  },
+  "image_path": "images/Spiritomb/1.png",
+  "pokemon_name": "Spiritomb"
+}

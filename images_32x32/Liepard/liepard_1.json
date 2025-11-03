@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a sleek feline Pokemon with shiny purple fur and striking yellow accents.",
+    "Imagine a nimble creature that blends into urban environments with a purple and yellow color scheme.",
+    "Generate a stealthy Pokemon with sharp features and a playful personality, perfect for sneaking around.",
+    "Show me a cat-like Pokemon that is agile and has distinct markings to confuse its prey.",
+    "Design a Pokemon that thrives in grasslands and has a mix of dark and vibrant colors.",
+    "Give me a Pokemon that embodies elegance and cunning, with an eye-catching purple coat.",
+    "Make a character that represents agility and charm, with a focus on stealth and evasiveness."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Sleek body shape",
+      "Pointed ears",
+      "Long tail with a curl",
+      "Distinctive yellow markings",
+      "Sharp, expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Agile",
+      "Playful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Liepard/1.png",
+  "pokemon_name": "Liepard"
+}

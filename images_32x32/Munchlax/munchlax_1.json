@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a playful and chubby Pokemon that loves to eat and sleep.",
+    "Imagine a small, blue creature with a big appetite and a friendly demeanor.",
+    "Design a Pokemon that resembles a cuddly bear and enjoys lounging in sunny spots.",
+    "Generate a round Pokemon with a joyful expression and a love for berry picking.",
+    "Show me a lazy Pokemon that nibbles on grass and takes long naps in the forest.",
+    "Give me a cute, food-loving Pokemon that has a soft, fluffy body.",
+    "Make a Pokemon with a big smile and a penchant for snacking on everything."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Chubby body",
+      "Big round eyes",
+      "Small ears",
+      "Large mouth",
+      "Short limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Lazy",
+      "Playful",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Munchlax/1.png",
+  "pokemon_name": "Munchlax"
+}

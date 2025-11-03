@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with vibrant yellow and blue colors in a forest setting.",
+    "Show me a flying Pokemon with unique insect-like features and a striking color pattern.",
+    "Imagine a Pokemon that resembles a bee, with distinct wings and a playful personality.",
+    "Generate an aggressive bug Pokemon that excels in aerial battles with bright accents.",
+    "Make a Pokemon that combines elements of bees and wasps, showcasing striking colors.",
+    "Design a fierce insect Pokemon that thrives in grasslands and has a playful nature.",
+    "Give me an evolution of a bee-inspired Pokemon that has powerful stinging abilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": "Blue"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large wings",
+      "Stinger",
+      "Black stripes",
+      "Compound eyes",
+      "Angled body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Aggressive",
+      "Energetic"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Aerial attacks"
+  },
+  "image_path": "images/Beedrill/4.png",
+  "pokemon_name": "Beedrill"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon with bright green fur and sharp yellow accents.",
+    "Imagine a Pokemon that has the agility of a cat and the energy of a lightning bolt.",
+    "Show me a Pokemon that thrives in forests and has a playful personality.",
+    "Design a small, quadruped Pokemon with electric powers and a sleek, agile body.",
+    "Generate a Pokemon that looks like a miniature dinosaur but can summon thunderstorms.",
+    "Make a creature that blends seamlessly into grasslands, with vibrant colors and a lively demeanor.",
+    "Give me an electric-type Pokemon that can outrun its opponents with incredible speed."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Pointed ears",
+      "Tail shaped like a lightning bolt",
+      "Bright yellow stripe on the back",
+      "Large, expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Uncommon",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Electrike/1.png",
+  "pokemon_name": "Electrike"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bipedal Pokemon with sharp features and a vibrant purple hue, showcasing some blue accents.",
+    "I want a fierce-looking Pokemon inspired by Nidorino, combining elements of poison and aggression.",
+    "Generate a Pokemon that embodies the traits of Nidorino, focusing on its spiky appearance and color scheme.",
+    "Make a unique evolution of Nidorino that incorporates more vibrant colors and an intimidating stance.",
+    "Imagine a Pokemon similar to Nidorino, but with a broader body and additional colors like green or yellow.",
+    "Design a new Pokemon that can evolve from Nidorino, featuring enhanced spikes and a more menacing expression.",
+    "Give me a concept for a Pokemon that resembles Nidorino but has a more aquatic theme and colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large ears",
+      "Prominent horn",
+      "Spiky back",
+      "Vivid coloration",
+      "Long tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": "Ground",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Loyal",
+      "Playful"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Nidorino/1.png",
+  "pokemon_name": "Nidorino"
+}

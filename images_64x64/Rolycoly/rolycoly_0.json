@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon resembling a coal-like creature with a bright orange eye.",
+    "Show me a small, round Pokemon that has a dark surface and a single orange spot.",
+    "Imagine a playful rock Pokemon that rolls around in caves and mountains, looking for shiny objects.",
+    "Generate a cute Pokemon that looks like a piece of coal, featuring a shiny orange accent.",
+    "Design a Pokemon that embodies the spirit of coal, with a focus on earthy tones and a bright detail.",
+    "Give me a simple, round Pokemon that has a black body and a striking orange dot.",
+    "Make a rock-type Pokemon with a smooth, rounded shape that resembles a small boulder."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Orange",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round shape",
+      "Single orange eye",
+      "Coal-like texture",
+      "Smooth surface"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Light-hearted"
+    ],
+    "habitat": "Cave",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Rolycoly/0.png",
+  "pokemon_name": "Rolycoly"
+}

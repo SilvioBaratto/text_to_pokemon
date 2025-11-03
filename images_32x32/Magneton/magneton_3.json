@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a unique Electric-type Pokemon that resembles a futuristic machine with metallic colors.",
+    "Imagine a trio of magnet-like creatures that can control magnetic forces and emit sparks.",
+    "Generate a Pokemon that embodies the essence of electricity with a sleek, metallic design.",
+    "Show me a Pokemon with a round body and magnetic properties, featuring a cool color palette.",
+    "Design an Electric/Steel-type Pokemon that has a unique shape and emits energy waves.",
+    "Make a Pokemon that is based on technology and magnetism, showcasing bright colors.",
+    "Give me an idea for a Pokemon that has a robotic appearance and can float in the air."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Red",
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Three spherical bodies connected by magnets",
+      "Red magnets on the ends",
+      "Shiny metallic surface",
+      "Circular white cores",
+      "Floating appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Steel",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Static",
+      "Energetic"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Magneton/3.png",
+  "pokemon_name": "Magneton"
+}

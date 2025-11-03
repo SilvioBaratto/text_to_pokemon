@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that resembles a candle with a mischievous expression.",
+    "Imagine a small, flickering flame Pokemon with a playful personality and a ghostly aura.",
+    "Show me a Pokemon that could blend into a spooky forest, with a waxy body and glowing light.",
+    "Generate a cute, candle-like creature that lights up the night with its eerie flames.",
+    "Design a ghostly Pokemon that appears to float and has a candle flame for a head.",
+    "Give me a whimsical Pokemon that represents the spirit of lost candles in a dark cave.",
+    "Make a Pokemon that looks like a tiny candle, with a gentle flame and a friendly demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Purple",
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Candle-like shape",
+      "Flickering flame on top",
+      "Waxy body texture",
+      "Small yellow round spot",
+      "Floating appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Fire",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Gentle"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Litwick/1.png",
+  "pokemon_name": "Litwick"
+}

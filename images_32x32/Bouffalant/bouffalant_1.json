@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a strong Normal-type Pokemon with impressive horns and a fluffy mane.",
+    "Generate a robust Pokemon designed for resilience, featuring brown fur and a powerful physique.",
+    "Make a Pokemon that embodies the spirit of the wild with earthy tones and a sturdy build.",
+    "Imagine a ferocious creature with a massive head, perfect for battling in grasslands.",
+    "Show me a Pokemon that combines strength and agility, showcasing a unique horned design.",
+    "Design a Pokemon that reflects its natural habitat with colors and features suited for open fields.",
+    "Give me a Pokemon that stands out with its distinctive woolly texture and mighty horns."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Black",
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large, fluffy mane",
+      "Imposing horns",
+      "Thick, muscular body",
+      "Short legs",
+      "Defined snout"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Stubborn",
+      "Brave",
+      "Protective"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Bouffalant/1.png",
+  "pokemon_name": "Bouffalant"
+}

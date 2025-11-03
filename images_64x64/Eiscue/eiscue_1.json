@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a snowy penguin Pokemon with icy blue colors and a playful expression.",
+    "Imagine a Pokemon that looks like a cheerful ice creature with a unique headpiece.",
+    "Generate a design for a cute, frost-themed Pokemon that loves to play in the snow.",
+    "Show me a penguin-inspired Pokemon with icy abilities and a fun personality.",
+    "Make a small, adorable Pokemon that embodies the essence of winter and joy.",
+    "Design a whimsical ice-type Pokemon with a frosty aura and penguin-like features.",
+    "Give me an image of a playful Pokemon that thrives in cold habitats and loves snow."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Blue",
+      "accent": "Gray"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Ice block headpiece",
+      "Round body",
+      "Short flippers"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Friendly"
+    ],
+    "habitat": "Tundra",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Eiscue/1.png",
+  "pokemon_name": "Eiscue"
+}

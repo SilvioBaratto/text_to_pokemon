@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a sleek body and long fins that resemble ribbons.",
+    "I want an adorable aquatic creature that swims gracefully with blue tones and gentle features.",
+    "Generate a small Pokemon that has a round shape and an elongated tail, perfect for ocean environments.",
+    "Make a whimsical Pokemon that has a soft blue color and playful demeanor, ideal for children.",
+    "Imagine a serene water Pokemon that floats effortlessly and has comforting personality traits.",
+    "Design a Pokemon with a smooth appearance and gentle curves, showcasing shades of blue and aqua.",
+    "Show me a friendly Pokemon that embodies calmness and tranquility, with a cute, rounded body."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long ribbon-like tail",
+      "Rounded body shape",
+      "Blue spots on the body",
+      "Large, expressive eyes",
+      "Soft, gentle fins"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Phione/0.png",
+  "pokemon_name": "Phione"
+}

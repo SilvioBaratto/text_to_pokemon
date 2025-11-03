@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with sharp stingers and vibrant wings that buzzes around flowers.",
+    "I want a flying-type Pokemon that resembles a bee but has a fierce look and striking colors.",
+    "Generate an insect-like Pokemon with multiple stingers and a sleek, aerodynamic design for quick movements.",
+    "Make a Pokemon that embodies the essence of a wasp, complete with a dangerous sting and agile flight.",
+    "Imagine a Pokemon with a yellow and black striped body, perfect for camouflage in its natural habitat.",
+    "Design a Pokemon that can glide through forests effortlessly, showcasing its beautiful transparent wings.",
+    "Show me a bug-type Pokemon that is both graceful and intimidating, with a unique color palette."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Black"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large, transparent wings",
+      "Stinger on the tail",
+      "Striped body",
+      "Compound eyes",
+      "Antennae"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Diligent",
+      "Loyal"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Beedrill/2.png",
+  "pokemon_name": "Beedrill"
+}

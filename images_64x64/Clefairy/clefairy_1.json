@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a cute Pokemon that resembles a small, fluffy creature with a cheerful demeanor.",
+    "Show me a pink, round Pokemon with big ears and a starry background.",
+    "Imagine a whimsical character that floats in the air, glowing softly under the moonlight.",
+    "Design a playful Pokemon with a round body, small hands, and a joyful expression.",
+    "Generate a character that loves to dance and spread happiness wherever it goes.",
+    "Make a fairy-type Pokemon that looks adorable and has a charming personality.",
+    "Give me a Pokemon that embodies the essence of friendship and joy in its appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "White"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "White",
+      "accent": "Brown"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body",
+      "Large ears",
+      "Star-shaped tail",
+      "Cheerful expression",
+      "Blushing cheeks"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Joyful",
+      "Playful",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Clefairy/1.png",
+  "pokemon_name": "Clefairy"
+}

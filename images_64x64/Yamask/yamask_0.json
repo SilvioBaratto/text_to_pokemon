@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that haunts ancient ruins and wears a mysterious mask.",
+    "I want a Pokemon that looks like a shadowy figure, with a haunting presence and eerie abilities.",
+    "Generate a spooky creature with a flowing, ghostly form and a connection to the spirit world.",
+    "Make a Pokemon that embodies the essence of lost souls, featuring an ancient artifact as part of its design.",
+    "Imagine a ghostly entity that roams graveyards, cloaked in darkness and carrying a sorrowful tale.",
+    "Design a Pokemon that combines elements of ancient history and ghostly apparitions, with unique visual traits.",
+    "Show me a spectral Pokemon with distinct features that symbolize its connection to the afterlife."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Wearing a mask",
+      "Two floating arms",
+      "Ghostly appearance",
+      "Symbolic red marking"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Sorrowful",
+      "Playful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Yamask/0.png",
+  "pokemon_name": "Yamask"
+}

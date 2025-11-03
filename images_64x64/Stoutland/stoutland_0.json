@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a large, furry Pokemon that resembles a dog and has a gentle demeanor.",
+    "Show me a Pokemon with a thick coat of fur, ideal for a cold environment.",
+    "Imagine a stout, four-legged creature with a bushy tail and wise eyes.",
+    "Generate a Pokemon that provides companionship and loyalty to trainers during adventures.",
+    "Design a Pokemon that blends well into forest habitats and has a friendly personality.",
+    "Give me a Pokemon that exudes a sense of calm and protection with its presence.",
+    "Make a Pokemon whose strong build and fluffy appearance make it look very approachable."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": "Gray"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Fluffy white fur around the face",
+      "Long bushy tail",
+      "Large paws",
+      "Prominent ears",
+      "Thick body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Loyal",
+      "Gentle",
+      "Protective"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Stoutland/0.png",
+  "pokemon_name": "Stoutland"
+}

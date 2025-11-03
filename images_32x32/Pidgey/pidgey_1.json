@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bird-like Pokemon that has vibrant feathers and a cheerful demeanor.",
+    "Show me a flying Pokemon with sleek wings and a friendly expression.",
+    "Imagine a small Pokemon that can be found in urban areas, known for its agility.",
+    "Design a Pokemon that resembles a sparrow, with hints of orange and white in its plumage.",
+    "Generate a Normal/Flying type Pokemon that loves to perch on trees and chirp.",
+    "Make a cute Pokemon that evolves into something larger and more powerful.",
+    "Give me a Pokemon that embodies the spirit of freedom and adventure."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Yellow",
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Short beak",
+      "Small, rounded body",
+      "Feathered wings",
+      "Bright eyes",
+      "Tail feathers"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Social"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Pidgey/1.png",
+  "pokemon_name": "Pidgey"
+}

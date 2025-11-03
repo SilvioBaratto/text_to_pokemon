@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with elegant flowing fins and a vibrant color palette.",
+    "Imagine a playful fish Pokemon that has a striking white and orange design.",
+    "Show me a Pokemon that thrives in aquatic environments, sporting beautiful scales.",
+    "Design a small water creature that has unique fins and a cheerful demeanor.",
+    "Generate a Pokemon that looks like a goldfish, with a vibrant and eye-catching appearance.",
+    "Make a Pokemon that embodies grace and fluidity, perfect for swimming.",
+    "Give me a Pokemon with a charming smile and a mix of bright colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Orange"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": null,
+      "accent": "Orange"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Flowing fins",
+      "Large eyes",
+      "Distinctive tail shape",
+      "Streamlined body",
+      "Ornamental features"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Graceful"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Special Attack"
+  },
+  "image_path": "images/Goldeen/3.png",
+  "pokemon_name": "Goldeen"
+}

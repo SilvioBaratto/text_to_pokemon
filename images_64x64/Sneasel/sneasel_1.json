@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a sleek and agile Pokemon with icy blue fur and sharp claws.",
+    "Imagine a Pokemon that excels in stealth with dark colors and quick movements.",
+    "Generate a mischievous creature with vibrant pink accents and a playful personality.",
+    "Show me a Pokemon that thrives in mountainous terrains with a focus on speed.",
+    "Design a creature that embodies cunning and agility, featuring pointed ears and quick reflexes.",
+    "Make a Pokemon that blends into its forest habitat, sporting stealthy colors and features.",
+    "Give me a Pokemon that is both elusive and fierce, with a unique body shape."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Pink"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": "Pink"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Sharp claws",
+      "Pointed ears",
+      "Long tail",
+      "Sleek body structure",
+      "Vibrant pink markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": "Ice",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Agile",
+      "Mischievous"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Sneasel/1.png",
+  "pokemon_name": "Sneasel"
+}

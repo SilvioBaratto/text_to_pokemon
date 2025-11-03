@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a horse-like Pokemon with flaming mane and a cheerful expression.",
+    "Show me a fire-type Pokemon that represents speed and agility with vibrant colors.",
+    "Generate a Pokemon that embodies warmth and energy, featuring bright orange and yellow flames.",
+    "Design a Pokemon that roams grassy fields and has a majestic fiery appearance.",
+    "Imagine a mythical creature with a fiery mane, known for its swift movement and grace.",
+    "Give me a Pokemon with a playful personality, known for its speed and striking color palette.",
+    "Make a Pokemon that has a unique blend of fire and horse features, perfect for racing."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Orange",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Orange",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flaming mane",
+      "Flaming tail",
+      "Equine body structure",
+      "Bright, cheerful eyes",
+      "Sleek legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Loyal"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Fast and agile attacks"
+  },
+  "image_path": "images/Ponyta/0.png",
+  "pokemon_name": "Ponyta"
+}

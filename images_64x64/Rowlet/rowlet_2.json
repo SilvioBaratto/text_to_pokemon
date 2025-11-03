@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a cute bird Pokemon that has round features and a green leafy design.",
+    "I want a Pokemon that resembles an owl, with a focus on its adorable eyes and fluffy feathers.",
+    "Generate a small grass-type creature that blends with nature and has a round body shape.",
+    "Make a Pokemon that looks like a mix between an owl and a plant, emphasizing its charming personality.",
+    "Imagine a starter Pokemon that is both an owl and a symbol of the forest.",
+    "Design a Pokemon with big expressive eyes and green wings, suitable for a calm forest environment.",
+    "Show me a whimsical bird Pokemon that loves to hide among trees and has a soft, friendly appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Green"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": "Green"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body shape",
+      "Large, expressive eyes",
+      "Leaf-like wings",
+      "Fluffy feathered appearance",
+      "Small beak"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Flying",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Friendly",
+      "Curious",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Rowlet/2.png",
+  "pokemon_name": "Rowlet"
+}

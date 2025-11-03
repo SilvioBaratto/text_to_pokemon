@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a playful water-type Pokemon that glides effortlessly through the ocean waves.",
+    "Imagine a cute aquatic creature with a smooth body and large, expressive eyes.",
+    "Design a friendly Pokemon that loves to surf and play with trainers in the water.",
+    "Show me a serene Pokemon that embodies the calmness of the sea with its gentle movements.",
+    "Generate a small, enchanting Pokemon that can be found near coral reefs and sandy beaches.",
+    "Give me a charming creature that has a unique ability to communicate with other sea life.",
+    "Make a whimsical design for a Pokemon that resembles a manta ray but is much cuter."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large rounded body",
+      "Two prominent fins resembling antennae",
+      "Smooth texture",
+      "Gentle facial expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Gentle",
+      "Curious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Mantyke/1.png",
+  "pokemon_name": "Mantyke"
+}

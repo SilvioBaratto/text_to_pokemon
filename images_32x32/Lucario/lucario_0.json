@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a fighting-type Pokemon that excels in martial arts and has a fierce appearance.",
+    "Imagine a Pokemon with a sleek blue design and a strong, agile stance, perfect for battles.",
+    "Generate a humanoid Pokemon with steel elements, showcasing its power and agility in combat.",
+    "Make a Pokemon that can harness aura energy, with a striking color palette of blue and black.",
+    "Design a Pokemon with a unique bipedal form, featuring sharp claws and a confident demeanor.",
+    "Show me a Pokemon that thrives in both urban and forest environments, with a blend of blue and gray.",
+    "Give me a fighting-type Pokemon with a mixture of elegance and strength, illustrated in a dynamic pose."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": "Black"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Pointed ears",
+      "Long tail",
+      "Aura sensing abilities",
+      "Muscular physique",
+      "Gloves on hands"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": "Steel",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Loyal",
+      "Brave",
+      "Determined"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Combat specialist with a focus on physical attacks and agility."
+  },
+  "image_path": "images/Lucario/0.png",
+  "pokemon_name": "Lucario"
+}

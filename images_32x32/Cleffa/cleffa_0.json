@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a cute fairy-type Pokemon that resembles a small, round creature with a joyful expression.",
+    "Imagine a tiny Pokemon with a pink body and adorable ears, perfect for a playful companion.",
+    "Design a cheerful and playful Pokemon that loves to explore grassy fields and forests.",
+    "Generate a small, chubby Pokemon that has a whimsical appearance and a soft, cuddly look.",
+    "Show me a Pokemon that embodies innocence and charm, with a round shape and a friendly demeanor.",
+    "Make a Pokemon that is primarily pink, with brown accents and a small, lovely curl on its head.",
+    "Give me a fairy-type Pokemon that is known for its playful personality and enchanting abilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round body shape",
+      "Large ears",
+      "Small curl on top of its head",
+      "Chubby appearance",
+      "Soft facial features"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Innocent"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Cleffa/0.png",
+  "pokemon_name": "Cleffa"
+}

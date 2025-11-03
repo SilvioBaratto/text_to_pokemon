@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a ninja with unique blue patterns.",
+    "Show me a Pokemon with stealthy features and a striking blue color palette.",
+    "Imagine a Pokemon that can blend into its surroundings with a sleek design.",
+    "Design a Pokemon with agile movements and a fun, playful personality.",
+    "Give me a Pokemon that has both water and dark traits in its appearance.",
+    "Generate a creature that thrives in aquatic environments and loves to battle.",
+    "Make a Pokemon that is known for its speed and cunning tactics in fights."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": "Pink"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long tongue wrapped around neck",
+      "Ninja-like appearance",
+      "Webbed feet",
+      "Sharp, pointed ears",
+      "Dark markings on body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Dark",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Playful",
+      "Agile"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Rare",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Greninja/3.png",
+  "pokemon_name": "Greninja"
+}

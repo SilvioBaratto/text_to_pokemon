@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a cute feline Pokemon with pastel colors and playful features.",
+    "Imagine a Pokemon that has a fluffy tail and loves to nap in the sun.",
+    "Show me a Pokemon that embodies elegance and grace with a gentle demeanor.",
+    "Design a whimsical Pokemon that has a playful personality and loves to chase butterflies.",
+    "Generate a Pokemon that has a mix of yellow and purple with a charming smile.",
+    "Make a Pokemon that looks like a soft, cuddly pet and enjoys playing with trainers.",
+    "Give me a Pokemon that is sleek and agile, perfect for urban adventures."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Purple",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy tail",
+      "Large ears",
+      "Sleek body",
+      "Playful expression",
+      "Long whiskers"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Affectionate",
+      "Gentle"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Delcatty/1.png",
+  "pokemon_name": "Delcatty"
+}

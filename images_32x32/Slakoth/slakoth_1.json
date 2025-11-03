@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a Normal-type Pokemon that loves to nap and has a fluffy appearance.",
+    "Imagine a cute Pokemon with a lazy expression, perfect for a relaxing game.",
+    "Show me a Pokemon with a laid-back personality and adorable round features.",
+    "Generate a small, round Pokemon with soft colors that enjoys hanging out in forests.",
+    "Make a unique Pokemon that embodies the essence of relaxation and leisure.",
+    "Design a sleepy Pokemon that rolls around and enjoys its surroundings.",
+    "Give me a chubby Pokemon that loves to sleep and has a playful demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Pink"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Pink",
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Floppy ears",
+      "Round body",
+      "Sleepy eyes",
+      "Fluffy tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Lazy",
+      "Relaxed",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Slakoth/1.png",
+  "pokemon_name": "Slakoth"
+}

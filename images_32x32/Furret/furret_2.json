@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a playful Normal-type Pokemon that loves to hide in tall grass.",
+    "I want a Pokemon that resembles a small, furry creature with stripes and a curious nature.",
+    "Generate a charming Pokemon that can curl up like a ball and has a sleek, elongated body.",
+    "Make a Pokemon with a light cream-colored belly and brown stripes, perfect for forest exploration.",
+    "Imagine a cute, agile creature that scurries quickly and enjoys playing in the grass.",
+    "Design a Pokemon that embodies the spirit of a friendly and energetic companion.",
+    "Show me a Pokemon with a long, flexible tail that can help it balance while it runs."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long, slender body",
+      "Prominent stripes",
+      "Large, expressive eyes",
+      "Flexible tail",
+      "Small paws"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Fast and agile, often using quick attacks and evasive maneuvers."
+  },
+  "image_path": "images/Furret/2.png",
+  "pokemon_name": "Furret"
+}

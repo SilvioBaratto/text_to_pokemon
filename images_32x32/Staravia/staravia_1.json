@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bird Pokemon that showcases a sleek design with gray feathers and a sharp beak.",
+    "Generate an image of a flying-type Pokemon with a strong body and vibrant orange feet.",
+    "Imagine a Pokemon that embodies the spirit of the sky with a mix of gray and white colors.",
+    "Show me a small, agile Pokemon that can soar through forests and mountains with ease.",
+    "Make a Pokemon with a distinctive crest on its head and feathers that shimmer in the sunlight.",
+    "Design a Pokemon that looks fierce but has a playful personality, perfect for urban habitats.",
+    "Give me an illustration of a bird Pokemon that has a unique blend of gray and white markings."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "White"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Orange",
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Crest on the head",
+      "Orange feet",
+      "Sharp beak",
+      "White underbelly",
+      "Feathered wings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Agile",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Staravia/1.png",
+  "pokemon_name": "Staravia"
+}

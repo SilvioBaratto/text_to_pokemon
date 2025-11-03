@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon that embodies nature and has a playful demeanor.",
+    "Design a small, mystical creature with green and blue colors that can float effortlessly.",
+    "Show me a Pokemon with a unique leaf-like design and bright, expressive eyes.",
+    "Imagine a legendary Pokemon that thrives in forested areas and has a gentle spirit.",
+    "Generate an enchanting Pokemon that has a serene appearance and can manipulate time.",
+    "Make a whimsical creature with a delicate, ethereal look and a connection to nature.",
+    "Give me a small, flying Pokemon that radiates calmness and has a soothing presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Winged",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Leaf-like appendages",
+      "Large expressive eyes",
+      "Small floating body",
+      "Curved antennae"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Grass",
+    "generation": 2,
+    "is_legendary": true,
+    "is_mythical": true,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Gentle",
+      "Mysterious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Celebi/2.png",
+  "pokemon_name": "Celebi"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a blue body and white accents.",
+    "I want a mythical creature that floats in the air with mesmerizing colors.",
+    "Generate a unique Pokemon inspired by ancient legends, featuring blue and white colors.",
+    "Make a Pokemon that embodies the essence of dreams and has an ethereal appearance.",
+    "Imagine a mystical being with a serene demeanor and an elegant design.",
+    "Design a Pokemon that represents the power of the mind, showcasing intricate details.",
+    "Show me a legendary Pokemon with a whimsical look, perfect for a fantasy setting."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": "Yellow"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Three floating tails",
+      "Large pointed ears",
+      "Yellow dots on the body",
+      "A small, round face",
+      "A graceful, fluid posture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Calm",
+      "Intelligent"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Azelf/1.png",
+  "pokemon_name": "Azelf"
+}

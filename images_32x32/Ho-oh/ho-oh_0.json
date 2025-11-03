@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a majestic bird Pokemon with vibrant red feathers and golden accents.",
+    "Imagine a legendary creature soaring through the sky with rainbow-like wings.",
+    "Generate a mythical Pokemon that embodies the spirit of fire and renewal.",
+    "Design a powerful flying-type Pokemon that radiates warmth and light.",
+    "Make a Pokemon that has a striking combination of red, green, and yellow colors.",
+    "Show me a Pokemon that symbolizes hope and rebirth with its fiery presence.",
+    "Give me a unique bird Pokemon that can control fire and has a radiant aura."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Yellow",
+      "Green"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Yellow",
+      "accent": "Green"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Colorful plumage",
+      "Long tail feathers",
+      "Crested head",
+      "Golden beak",
+      "Radiant wings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Majestic",
+      "Hopeful",
+      "Energetic"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Ho-oh/0.png",
+  "pokemon_name": "Ho-oh"
+}

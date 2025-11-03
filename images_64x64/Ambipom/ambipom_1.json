@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a playful Normal-type Pokemon with purple fur and red-tipped fingers.",
+    "Generate a quirky Pokemon that has a bipedal shape and is known for its mischievous behavior.",
+    "Design a small Pokemon with two large hands and a cheerful expression, perfect for urban environments.",
+    "Imagine a Pokemon that excels in agility and has a unique purple and cream color scheme.",
+    "Show me a Pokemon that is friendly and often found in grassy areas, with distinctive hand features.",
+    "Make a Normal-type Pokemon that has a humanoid shape and is famous for its playful antics.",
+    "Give me a Pokemon that blends into urban habitats and has a vibrant personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Two large hands",
+      "Purple fur",
+      "Red finger tips",
+      "Long tail",
+      "Cheerful expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Friendly"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Speed and agility"
+  },
+  "image_path": "images/Ambipom/1.png",
+  "pokemon_name": "Ambipom"
+}

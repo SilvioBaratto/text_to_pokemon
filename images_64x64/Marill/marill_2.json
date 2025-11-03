@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a small round creature with big ears and a cheerful expression.",
+    "Imagine a playful Pokemon with a blue body and a large tail that can float on water.",
+    "Design a cute Pokemon that has a balloon-like feature, perfect for water activities and playful nature.",
+    "Show me a small Pokemon with aquatic traits, featuring round shapes and vibrant colors for a friendly appeal.",
+    "Generate a whimsical Pokemon that loves to play in the water, with a distinctive round shape and cheerful colors.",
+    "Make a Pokemon that is a joyful aquatic creature with big ears and a love for adventure in the sea.",
+    "Give me a friendly Pokemon that is blue and has a round body, perfect for kids and playful environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large round body",
+      "Big round ears",
+      "Tail resembling a balloon",
+      "Cheerful facial expression",
+      "Short limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Friendly"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Marill/2.png",
+  "pokemon_name": "Marill"
+}

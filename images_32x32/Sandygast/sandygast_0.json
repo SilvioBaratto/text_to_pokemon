@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a sandy Pokemon with a ghostly appearance and a playful personality.",
+    "Imagine a Pokemon that resembles a sandcastle, complete with a spooky face.",
+    "Show me a ghost-type Pokemon that thrives in desert environments and has sandy colors.",
+    "Design a Pokemon that looks like a sand mound, featuring a haunting smile.",
+    "Generate an eerie Pokemon that mimics the shape of a sand structure with unique traits.",
+    "Make a Pokemon with a sandy body that has a vibrant red flag on top.",
+    "Give me a ghostly creature that embodies the essence of a sandy beach."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Sandcastle-like shape",
+      "Eerie facial expression",
+      "Small red flag on top",
+      "Hollow mouth",
+      "Textured sandy surface"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Ground",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Eerie"
+    ],
+    "habitat": "Desert",
+    "rarity": "Common",
+    "combat_style": "Trickster"
+  },
+  "image_path": "images/Sandygast/0.png",
+  "pokemon_name": "Sandygast"
+}

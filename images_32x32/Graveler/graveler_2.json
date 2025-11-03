@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon that has a rugged appearance and is inspired by mountain landscapes.",
+    "I want a Pokemon that resembles a boulder but can move and has a mischievous personality.",
+    "Generate a Pokemon with a rocky texture and earthy colors, perfect for cave habitats.",
+    "Make a Pokemon that embodies the strength of rocks and has arms resembling stone formations.",
+    "Imagine a sturdy rock-type Pokemon that is known for its defensive capabilities in battle.",
+    "Design a Pokemon that is a mix of rock and ground types, featuring a bold color palette.",
+    "Give me a Pokemon that looks like it's made of gravel but has a friendly demeanor and playful nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Green",
+      "accent": "Brown"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Rocky exterior",
+      "Two muscular arms",
+      "Geological patterns on body",
+      "Large, sturdy legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Ground",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Sturdy",
+      "Loyal",
+      "Defensive"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Graveler/2.png",
+  "pokemon_name": "Graveler"
+}

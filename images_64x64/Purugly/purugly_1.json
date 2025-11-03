@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a playful cat Pokemon that has striking purple and blue fur with a charming personality.",
+    "Imagine a Normal-type Pokemon with a sleek body and unique features that stand out in urban habitats.",
+    "Design a medium-sized Pokemon with a fluffy appearance and a mischievous nature, perfect for playful adventures.",
+    "Show me a cute yet fierce Pokemon that thrives in grasslands, showcasing vibrant colors and distinctive traits.",
+    "Give me a purple and blue feline Pokemon that exudes confidence and charm, perfect for competitive battles.",
+    "Generate a Pokemon that resembles a stylish cat, complete with oversized ears and a fluffy tail, set in a bustling city.",
+    "Make a chubby, adorable Normal-type Pokemon that loves to lounge and is always ready to play."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "White",
+      "accent": "Blue"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large ears",
+      "Fluffy white belly",
+      "Prominent whiskers",
+      "Short legs",
+      "Curved tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Confident"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Fast and agile"
+  },
+  "image_path": "images/Purugly/1.png",
+  "pokemon_name": "Purugly"
+}

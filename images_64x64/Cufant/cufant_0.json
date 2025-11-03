@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a playful elephant-like Pokemon that loves to explore forests and mountains.",
+    "Generate a medium-sized Pokemon with an orange body and teal accents, perfect for a grassland habitat.",
+    "Design a cute Pokemon with large ears and a cheerful expression that enjoys socializing.",
+    "Imagine a strong Pokemon with steel-like features and a friendly personality, ideal for urban settings.",
+    "Show me an adorable and sturdy Pokemon that can thrive in various environments, including caves and wetlands.",
+    "Make a Pokemon that has a unique trunk feature and can be both a protector and a friend.",
+    "Give me a Pokemon that embodies the spirit of adventure and curiosity, with vibrant colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large ears",
+      "Curved trunk",
+      "Round body",
+      "Teal spots",
+      "Short, sturdy legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful",
+      "Friendly"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Cufant/0.png",
+  "pokemon_name": "Cufant"
+}

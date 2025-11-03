@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with elegant fins and vibrant colors.",
+    "I want a fish-like Pokemon that sparkles in the sunlight.",
+    "Generate a small aquatic creature with a shimmering tail and unique patterns.",
+    "Make a Pokemon that embodies grace and agility in water.",
+    "Imagine a playful water-type Pokemon with striking red and white colors.",
+    "Design a Pokemon that blends beautifully into its wetland surroundings.",
+    "Show me a fish Pokemon that can swim gracefully and has a cheerful demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "White"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Red",
+      "accent": "Orange"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long, flowing fins",
+      "Distinctive horn on the head",
+      "Streamlined body shape",
+      "Vibrant color patterns"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Curious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Speed-focused"
+  },
+  "image_path": "images/Goldeen/0.png",
+  "pokemon_name": "Goldeen"
+}

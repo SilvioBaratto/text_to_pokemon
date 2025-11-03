@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a fire and dark-type Pokemon with a muscular build and striking red and black fur.",
+    "I want a fierce feline Pokemon that combines elements of fire and fighting styles.",
+    "Generate a unique creature resembling a wrestler, featuring vibrant colors and intense expressions.",
+    "Make a powerful Pokemon with robust limbs and a fiery aura, ideal for battle.",
+    "Imagine a Pokemon that embodies the spirit of a roaring flame with a dynamic pose.",
+    "Design a creature with dramatic markings that evoke the feeling of a fierce predator.",
+    "Show me a Pokemon with an athletic body and an intense gaze, representing strength and agility."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Gray",
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Black",
+      "accent": "Gray"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Muscular build",
+      "Flame-like markings",
+      "Prominent claws",
+      "Intense eyes",
+      "Wrestler-like posture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Dark",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Confident",
+      "Loyal"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Physical attacker"
+  },
+  "image_path": "images/Incineroar/0.png",
+  "pokemon_name": "Incineroar"
+}

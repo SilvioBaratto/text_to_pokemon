@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a feline-inspired fire-type Pokemon with striking orange fur and expressive green eyes.",
+    "I want a playful cat Pokemon with a fiery personality and bold black stripes on its back.",
+    "Generate an agile Pokemon that embodies the spirit of fire, featuring a sleek and streamlined body shape.",
+    "Make a Pokemon that looks like a small, energetic cat with a fiery tail and a determined gaze.",
+    "Imagine a vibrant fire-type Pokemon that loves to play in urban environments and has a unique flame pattern.",
+    "Design a Pokemon that resembles a wild cat with flames on its paws and a mischievous expression.",
+    "Show me a Pokemon with a fierce appearance and bright colors, perfect for battling in grasslands."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Black",
+      "accent": "Red"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Flame-shaped tail",
+      "Pointed ears",
+      "Distinctive yellow eyes",
+      "Stripes on back",
+      "Furry mane around neck"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Loyal"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Speed and agility-focused"
+  },
+  "image_path": "images/Torracat/0.png",
+  "pokemon_name": "Torracat"
+}

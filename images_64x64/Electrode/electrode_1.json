@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon with a round shape and a cheeky expression.",
+    "Imagine a Pokemon that can roll like a ball and has a shiny red surface.",
+    "Show me a Pokemon that is known for its explosive personality and electric attacks.",
+    "Generate a Pokemon design that features a striking red and white color scheme.",
+    "Make a Pokemon that looks like a giant ball and can generate electricity.",
+    "Design a playful Pokemon that loves to hang out in urban areas and parks.",
+    "I want a Pokemon with a whimsical design that can surprise its opponents."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Round shape",
+      "Eyes resembling a face",
+      "Cheeky smile",
+      "Smooth texture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Cheerful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Electrode/1.png",
+  "pokemon_name": "Electrode"
+}

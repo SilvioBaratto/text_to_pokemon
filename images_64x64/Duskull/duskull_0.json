@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that looks like a spooky skull with a haunting presence.",
+    "I want a small, eerie Pokemon with a minimalist design and a spectral glow.",
+    "Generate a dark-type Pokemon that embodies mystery and has a shadowy figure.",
+    "Make a Pokemon that resembles a floating skull, shrouded in dark colors and mystery.",
+    "Imagine a Pokemon that has a hauntingly cute design, perfect for a ghostly companion.",
+    "Design a Pokemon that uses shadowy elements, with a focus on gray and white colors.",
+    "Show me a Pokemon that has a spooky appearance, ideal for a nighttime adventure."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Skull-like head",
+      "Eyes glowing red",
+      "Flowing, ghostly shape",
+      "No visible limbs",
+      "Dark, shadowy appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Eerie"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Duskull/0.png",
+  "pokemon_name": "Duskull"
+}

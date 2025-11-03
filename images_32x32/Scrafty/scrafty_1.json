@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bipedal Pokemon with a red crest and orange body, inspired by street culture.",
+    "Show me a dark-type Pokemon that has a tough exterior and a playful personality.",
+    "Imagine a Pokemon that dwells in urban environments, with a unique sense of style.",
+    "Generate a fighting-type Pokemon that combines agility and strength in its combat style.",
+    "Design a Pokemon with a distinctive mohawk and a resilient attitude, perfect for battles.",
+    "Give me a Pokemon that thrives in grasslands and has a vibrant color scheme.",
+    "Make a cool-looking Pokemon that embodies street-smart characteristics and energetic vibes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Red",
+      "accent": "Gray"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Red mohawk crest",
+      "Baggy pants",
+      "Scaly skin",
+      "Pointed ears",
+      "Sharp claws"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": "Fighting",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Street-smart",
+      "Resilient",
+      "Playful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Scrafty/1.png",
+  "pokemon_name": "Scrafty"
+}

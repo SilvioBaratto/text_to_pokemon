@@ -1,0 +1,50 @@
+{
+  "prompts": [
+    "Create a mysterious Pokemon with a unique shape that represents a letter from the alphabet.",
+    "Design a dark-type Pokemon inspired by ancient symbols and cryptic messages.",
+    "Imagine an abstract creature with swirling forms and a focus on psychic abilities.",
+    "Generate a ghostly Pokemon that embodies the essence of forgotten languages and knowledge.",
+    "Show me a Pokemon that looks like an enigma, with a sleek design and shadowy colors.",
+    "Make a Pokemon that resembles a glyph, with an emphasis on psychic energy and intelligence.",
+    "Give me a minimalistic Pokemon that features a single eye and represents untranslatable concepts."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Single circular eye",
+      "Abstract glyph-like shape",
+      "Smooth, rounded edges"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Intelligent",
+      "Introverted"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Psychic attacks and strategic moves"
+  },
+  "image_path": "images/Unown/5.png",
+  "pokemon_name": "Unown"
+}

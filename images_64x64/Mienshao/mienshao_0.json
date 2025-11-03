@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a sleek fighting-type Pokemon with a graceful stance and elegant features.",
+    "Imagine a Pokemon that excels in martial arts, showcasing its agility and precision.",
+    "Show me a bipedal Pokemon that combines purple and white colors in a unique design.",
+    "Design a Pokemon with a fluid body shape and a strong combat style, ready for battle.",
+    "Generate a Pokemon that thrives in urban habitats, blending agility with striking visuals.",
+    "Make an image of a Pokemon that has a playful yet fierce personality, perfect for competitions.",
+    "I want to see a Pokemon that reflects both elegance and strength, with distinct color patterns."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Purple"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": null,
+      "accent": "Purple"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long tail with a tuft at the end",
+      "Thin, sleek body",
+      "Large, expressive ears",
+      "Elegant limbs with claw-like fingers",
+      "Crest-like markings on the head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Agile",
+      "Playful",
+      "Determined"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Martial Arts"
+  },
+  "image_path": "images/Mienshao/0.png",
+  "pokemon_name": "Mienshao"
+}

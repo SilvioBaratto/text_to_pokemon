@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon with a sleek, silver body and glowing eyes.",
+    "Imagine a legendary creature that embodies the power of creation with unique markings.",
+    "Generate a divine Pokemon that has elements of light and shadow in its design.",
+    "Show me a majestic Pokemon with a radiant aura and a celestial theme.",
+    "Design a powerful guardian Pokemon with a strong connection to the universe.",
+    "Give me a Pokemon that represents balance, featuring both ancient and modern elements.",
+    "Make a Pokemon that has a mysterious presence, capable of altering reality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Gray",
+      "accent": null
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Golden halo-like ring around the body",
+      "Unique markings on the body",
+      "Four silver appendages resembling limbs",
+      "Elegant, flowing design"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Wise",
+      "Benevolent"
+    ],
+    "habitat": "Urban",
+    "rarity": "Very Rare",
+    "combat_style": "Defensive and Supportive"
+  },
+  "image_path": "images/Arceus/0.png",
+  "pokemon_name": "Arceus"
+}

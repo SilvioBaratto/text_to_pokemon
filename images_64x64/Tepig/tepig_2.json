@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a small fire-type Pokemon that has an orange body and a cute face.",
+    "Imagine a playful Pokemon with brown ears and a red nose, perfect for a starter Pokemon.",
+    "Generate a cartoon-style creature with a fiery temperament and a round tail.",
+    "Show me a Pokemon that embodies the spirit of fire, with vibrant orange and hints of black.",
+    "Design a Pokemon with a compact shape, featuring a unique color palette of orange and brown.",
+    "Give me a depiction of a friendly fire Pokemon that enjoys exploring grasslands and forests.",
+    "Make a fire-type Pokemon that looks adorable and has distinctive ear shapes and a small stature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Brown",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Brown",
+      "accent": "Red"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round nose",
+      "Brown ears",
+      "Short tail",
+      "Yellow markings on the face",
+      "Black stripes on the body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Tepig/2.png",
+  "pokemon_name": "Tepig"
+}

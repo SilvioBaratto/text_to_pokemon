@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon that embodies the spirit of the forest with vibrant colors and striking features.",
+    "Imagine a Pokemon that can manipulate electricity, showcasing bold yellow and black hues.",
+    "Show me a Pokemon that has a unique bird-like appearance with elements of thunder and nature.",
+    "Generate a legendary Pokemon that lives in tropical environments and has a playful yet fierce demeanor.",
+    "Design a creature that has a mix of electric and fairy traits, with stunning visual contrasts.",
+    "Give me a Pokemon that combines agility and strength, featuring bright orange and black colors.",
+    "Make a Pokemon that can soar through the skies and is known for its protective nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": "Orange"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Electric-type motifs",
+      "Bird-like wings",
+      "Vibrant feather-like structures",
+      "Facial markings",
+      "Sharp beak"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Fairy",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Protective",
+      "Energetic"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Fast and agile with high mobility"
+  },
+  "image_path": "images/Tapu Koko/1.png",
+  "pokemon_name": "Tapu Koko"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that has vibrant purple fur and large pink eyes with fuzzy antennae.",
+    "I want a Pokemon that looks like an insect with bright colors and a friendly personality.",
+    "Generate an adorable creature that resembles Venonat but has a unique twist on its color scheme.",
+    "Make a whimsical Pokemon with fluffy features and a playful demeanor, perfect for forest adventures.",
+    "Imagine a tiny bug Pokemon that combines purple and pink hues with oversized eyes and tiny legs.",
+    "Design a Pokemon that embodies both cuteness and a bit of mystery, ideal for a hidden forest.",
+    "Show me a Pokemon that is a small, fluffy, bug-like creature with a love for flowers."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large pink compound eyes",
+      "Fluffy purple body",
+      "Long antennae",
+      "Small legs",
+      "Round shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Status-oriented"
+  },
+  "image_path": "images/Venonat/0.png",
+  "pokemon_name": "Venonat"
+}

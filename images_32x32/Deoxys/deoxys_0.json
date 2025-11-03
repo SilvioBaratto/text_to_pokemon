@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a sleek, humanoid shape and glowing features.",
+    "Show me an alien Pokemon that has a futuristic design and vibrant colors.",
+    "Imagine a Pokemon that can manipulate space and has elongated limbs and a unique color palette.",
+    "Generate a mythical creature with a mysterious aura, showcasing its psychic abilities.",
+    "Make a Pokemon that is part of a space-themed collection, featuring bold colors and abstract shapes.",
+    "Design a powerful psychic Pokemon with a unique body structure and eye-catching color combinations.",
+    "Give me a legendary Pokemon that embodies the essence of the cosmos with striking visuals."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, elongated limbs",
+      "Multiple appendages resembling tendrils",
+      "Angular head shape",
+      "Large, expressive eyes",
+      "Futuristic pattern on the body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Intelligent",
+      "Analytical"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Deoxys/0.png",
+  "pokemon_name": "Deoxys"
+}

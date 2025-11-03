@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a deer-like Pokemon with majestic antlers and a gentle expression.",
+    "I want a Pokemon that embodies the spirit of the forest with earthy tones.",
+    "Generate a creature resembling a stag with a calm demeanor and soft fur.",
+    "Make a Pokemon that thrives in grasslands with unique antler designs.",
+    "Imagine a Pokemon that can blend into its forest surroundings effortlessly.",
+    "Design a Normal-type Pokemon with a focus on agility and stealth.",
+    "Show me a Pokemon that resembles a woodland creature with enchanting features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large antlers",
+      "Gentle expression",
+      "Soft, furry body",
+      "Long legs",
+      "White spot on the body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Calm",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Stantler/0.png",
+  "pokemon_name": "Stantler"
+}

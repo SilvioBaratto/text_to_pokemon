@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a dark-type bird Pokemon with a mischievous look and vibrant tail feathers.",
+    "I want a Pokemon that embodies stealth and cunning, featuring shades of black and green.",
+    "Generate a small, winged Pokemon that has a playful personality and a striking yellow beak.",
+    "Make a ghostly bird Pokemon with a blend of dark colors and a distinctive feathered tail.",
+    "Imagine a Pokemon that thrives in urban environments, featuring dark plumage and sharp eyes.",
+    "Design a mischievous Pokemon that looks like a crow, with striking colors and a unique silhouette.",
+    "Give me a Pokemon that symbolizes the night, with dark feathers and a hint of magic."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Green",
+      "accent": "Yellow"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Yellow beak",
+      "Feathered tail with green tips",
+      "Red eyes",
+      "Crest on the head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Cunning",
+      "Playful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Speed and stealth"
+  },
+  "image_path": "images/Murkrow/1.png",
+  "pokemon_name": "Murkrow"
+}

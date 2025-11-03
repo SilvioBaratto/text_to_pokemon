@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that glows in the dark with a floating body and eerie expressions.",
+    "Imagine a mystical creature that resides in the shadows and has a flickering flame for a head.",
+    "Show me a spectral Pokemon with a mischievous grin and a flickering aura surrounding it.",
+    "Design a ghostly figure with a lantern-like appearance and a playful personality that haunts urban areas.",
+    "Generate a Pokemon that has a combination of dark and ethereal features, resembling a floating candle.",
+    "Give me an idea for a ghost-type Pokemon that uses its flame to guide lost souls through the night.",
+    "Make a Pokemon that embodies the essence of a haunted candle, with a mysterious aura and playful nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Blue",
+      "accent": "Yellow"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Lantern-shaped head",
+      "Floating body",
+      "Long, curved arms",
+      "Glowing eyes",
+      "Flickering flame"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Fire",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Lampent/1.png",
+  "pokemon_name": "Lampent"
+}

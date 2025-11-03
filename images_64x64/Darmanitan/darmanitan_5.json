@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Show me a powerful fire-type Pokemon with a fierce expression and muscular build.",
+    "Create a unique design for a Darmanitan that features icy patterns on its body.",
+    "Imagine a Darmanitan with a bright orange body and a cool blue flame tail.",
+    "Generate a whimsical version of a Darmanitan that has playful expressions and bright colors.",
+    "Make a Darmanitan that embodies both strength and agility, with a streamlined shape.",
+    "Give me an alternate universe Darmanitan with an elegant, graceful silhouette.",
+    "Design a Darmanitan that stands out in a forest setting with vibrant colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "White",
+      "accent": "Blue"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large, round body",
+      "Prominent orange eyebrows",
+      "Detailed white markings on the arms",
+      "Fierce facial expression",
+      "Flame-like patterns on the body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Energetic",
+      "Competitive"
+    ],
+    "habitat": "Desert",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Darmanitan/5.png",
+  "pokemon_name": "Darmanitan"
+}

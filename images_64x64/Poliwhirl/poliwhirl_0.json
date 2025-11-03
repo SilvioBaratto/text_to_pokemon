@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with swirling patterns and a round body.",
+    "I want a cute amphibious creature that uses water attacks and has a playful demeanor.",
+    "Generate a Pokemon that resembles a blue frog with spiral markings and strong arms.",
+    "Make a cartoonish character with a bubbly personality and aquatic abilities.",
+    "Imagine a Pokemon that thrives in wetlands and has a distinctive spiral on its belly.",
+    "Design a medium-sized creature that can easily swim and enjoys playing in ponds.",
+    "Show me a Pokemon that has a unique round shape and powerful swimming skills."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White",
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": "Black"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Spiral pattern on the stomach",
+      "Round body shape",
+      "Strong arms with webbed hands",
+      "Large eyes",
+      "Small, rounded feet"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Energetic"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Poliwhirl/0.png",
+  "pokemon_name": "Poliwhirl"
+}

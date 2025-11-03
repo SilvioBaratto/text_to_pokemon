@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a sleek flying Pokemon inspired by bats, featuring striking purple and blue colors.",
+    "I want a Pokemon that can glide gracefully through caves, showcasing unique wing patterns.",
+    "Generate a creature resembling a bat but with vibrant colors and an intriguing personality.",
+    "Make a Pokemon design that highlights agility and speed, with a focus on dark hues.",
+    "Imagine a dual-type Pokemon that thrives in urban environments, equipped with sharp, eye-catching features.",
+    "Design a Pokemon that embodies the essence of nighttime, with colors that reflect the moonlight.",
+    "Give me a bat-like Pokemon that combines elegance with a hint of menace in its appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Blue",
+      "accent": "Yellow"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large wings with a pointed shape",
+      "Sharp fangs visible",
+      "Distinctive yellow eyes",
+      "Short, slender body",
+      "Two pairs of wings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Agile",
+      "Cunning",
+      "Playful"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Speed-based attacks"
+  },
+  "image_path": "images/Crobat/2.png",
+  "pokemon_name": "Crobat"
+}

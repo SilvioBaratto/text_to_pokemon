@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a vibrant red body and yellow spots.",
+    "Imagine a playful octopus Pokemon designed for underwater adventures.",
+    "Show me a unique aquatic creature inspired by marine life with a striking color scheme.",
+    "Make a Pokemon that resembles an octopus and has powerful water-based abilities.",
+    "Generate a creature that can blend into the ocean with bright colors and playful demeanor.",
+    "Design a Pokemon that uses its tentacles for combat and has a cheerful personality.",
+    "Give me an aquatic Pokemon that thrives in both sea and urban environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Tentacles",
+      "Large eyes",
+      "Suction cups on tentacles",
+      "Bright coloration"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Intelligent",
+      "Curious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Uncommon",
+    "combat_style": "Ranged"
+  },
+  "image_path": "images/Octillery/0.png",
+  "pokemon_name": "Octillery"
+}

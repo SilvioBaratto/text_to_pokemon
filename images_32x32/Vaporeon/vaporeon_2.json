@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a sleek, aquatic body and a playful demeanor.",
+    "I want a creature resembling a cute sea animal, primarily in blue and white shades.",
+    "Generate a Pokemon with fins and a long tail, evoking a sense of elegance and grace.",
+    "Make a Pokemon that thrives in water, with a soft, friendly expression and gentle features.",
+    "Imagine a Pokemon that can blend into ocean environments, showcasing vibrant blue and teal colors.",
+    "Design a mystical creature with a mermaid-like appearance, combining water and elegance.",
+    "Show me a Pokemon with an aquatic theme, featuring fins, a long body, and a bright color palette."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, flowing fins",
+      "Pointed ears",
+      "Fin-like tail",
+      "Smooth, sleek body",
+      "Water-like texture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Gentle",
+      "Curious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Special Attack"
+  },
+  "image_path": "images/Vaporeon/2.png",
+  "pokemon_name": "Vaporeon"
+}

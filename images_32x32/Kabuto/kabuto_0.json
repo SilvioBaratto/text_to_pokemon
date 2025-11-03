@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a fossil Pokemon that resembles a prehistoric creature with a hard shell and sharp claws.",
+    "Imagine a water-type Pokemon with a sleek design and a unique shell that protects it from predators.",
+    "Generate a rock-type Pokemon with a round body and distinctive eyes, perfect for blending into rocky environments.",
+    "Show me a fossil Pokemon that has a brown and black color scheme, showcasing its ancient origins.",
+    "Design a Pokemon that evolves from a small aquatic creature into a larger prehistoric beast.",
+    "Give me a Pokemon that features a hard outer shell and two prominent, claw-like appendages.",
+    "Make a Pokemon inspired by ancient sea life, with colors and features that reflect its underwater habitat."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Black",
+      "accent": "Red"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Hard shell",
+      "Claw-like appendages",
+      "Large, prominent eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Bug",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Resilient",
+      "Defensive"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Kabuto/0.png",
+  "pokemon_name": "Kabuto"
+}

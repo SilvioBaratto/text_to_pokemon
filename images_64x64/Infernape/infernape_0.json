@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a fire-type Pokemon that embodies the spirit of a fierce warrior with blazing energy.",
+    "Imagine a bipedal creature with orange fur and flames on its back, ready for battle.",
+    "Design a Pokemon that combines agility and fire, featuring a muscular build and vibrant colors.",
+    "Show me a legendary fighting Pokemon with a fiery aura and a determined expression.",
+    "Give me an evolution of a starter Pokemon that excels in speed and combat skills.",
+    "Generate a Pokemon with unique flame patterns and a strong presence in its environment.",
+    "Make a character that symbolizes both heat and strength, with an athletic body and fiery demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Yellow",
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flames on the head",
+      "Muscular arms and legs",
+      "Long tail with a flame tip",
+      "Blue footwear",
+      "Distinct facial markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Fighting",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Passionate",
+      "Energetic",
+      "Fierce"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Infernape/0.png",
+  "pokemon_name": "Infernape"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a sleek, flowing design and a majestic mane.",
+    "I want to see a legendary Pokemon that embodies the essence of water and serenity.",
+    "Generate an image of a blue and purple Pokemon with elegant features and a calming presence.",
+    "Make a mythical creature that represents purity and grace, with flowing fins and a regal stance.",
+    "Imagine a Pokemon that roams serene landscapes, combining beauty with strength in its appearance.",
+    "Design a water Pokemon that looks both majestic and powerful, with elements of nature in its design.",
+    "Show me a legendary water-type Pokemon adorned with mystical colors and unique features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Purple",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Flowing purple mane",
+      "Elegant fin-like features",
+      "Sleek, streamlined body",
+      "Stylized crest on the head",
+      "Long, flowing tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Noble",
+      "Protective"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Suicune/0.png",
+  "pokemon_name": "Suicune"
+}

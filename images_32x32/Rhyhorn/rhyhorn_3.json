@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a powerful rock-type Pokemon that resembles a rhinoceros with armored skin.",
+    "I want a Pokemon that is sturdy and can charge through obstacles like a tank.",
+    "Generate a Pokemon with strong legs, perfect for running and climbing rocky terrains.",
+    "Make a Pokemon that could blend well in both mountainous and desert habitats.",
+    "Imagine a Pokemon that has a tough exterior and a gentle personality hidden within.",
+    "Design a Pokemon that has spikes and a bulky shape, ideal for defense.",
+    "Show me a Pokemon that would be a fierce competitor in ground-type battles."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Brown"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": null,
+      "accent": "Brown"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Thick, armored skin",
+      "Large horn on the nose",
+      "Spiked back",
+      "Powerful legs",
+      "Bulky stature"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": "Rock",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Stubborn",
+      "Loyal",
+      "Brave"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Rhyhorn/3.png",
+  "pokemon_name": "Rhyhorn"
+}

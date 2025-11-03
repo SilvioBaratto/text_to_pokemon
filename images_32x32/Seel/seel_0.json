@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a playful sea creature with a sleek body.",
+    "Imagine a cute Pokemon with a round shape and a soft, snowy white appearance.",
+    "Design a Pokemon that is aquatic and has a friendly demeanor, perfect for a beach setting.",
+    "Show me an adorable ice-type Pokemon that loves to play in the water and slide on ice.",
+    "Generate a small, playful Pokemon that enjoys swimming and has a charming face.",
+    "Make a Pokemon that embodies the essence of winter with its icy features and playful personality.",
+    "Give me a Pokemon that is both an Ice and Water type, with a friendly and loyal nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Floppy ears",
+      "Round body",
+      "Short flippers",
+      "Cute face with a smiling mouth",
+      "Tail resembling a fin"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Ice",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Seel/0.png",
+  "pokemon_name": "Seel"
+}

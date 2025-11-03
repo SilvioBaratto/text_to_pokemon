@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a sleek, angular design and glowing features.",
+    "I want a legendary Pokemon that radiates a powerful light, with wings that shimmer in the sun.",
+    "Generate a Pokemon that embodies the essence of light and energy, with sharp edges and a radiant aura.",
+    "Make a mythical creature with a celestial theme, showcasing intricate patterns and a luminescent body.",
+    "Imagine a unique Pokemon with a combination of alien-like features and a majestic presence.",
+    "Design a legendary Pokemon that can harness the power of light, featuring bright colors and ethereal shapes.",
+    "Show me a mythical Pokemon with multiple limbs and a dazzling appearance, representing the concept of light."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Multiple elongated limbs",
+      "Angular body structure",
+      "Radiating light patterns",
+      "Sharp, crystalline features"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Steel",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Powerful",
+      "Calm"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Necrozma/6.png",
+  "pokemon_name": "Necrozma"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a cute Pokemon that embodies happiness and healing, with soft features and pastel colors.",
+    "Imagine a Pokemon that resembles a cuddly creature, perfect for kids and friendly encounters.",
+    "Design a Pokemon that looks like a plush toy, with large eyes and a gentle smile.",
+    "Show me a Pokemon with a round body, fluffy texture, and a nurturing personality.",
+    "Generate a Pokemon that spreads joy and positivity, featuring pink tones and soft shapes.",
+    "Make a Pokemon that could be a great companion, showcasing its caring nature and charm.",
+    "Give me a Pokemon that thrives in friendly environments, known for its comforting presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy body",
+      "Large, expressive eyes",
+      "Angelic wings",
+      "Round, soft shape",
+      "Small pouch in front"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Fairy",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Nurturing",
+      "Gentle",
+      "Joyful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Blissey/2.png",
+  "pokemon_name": "Blissey"
+}

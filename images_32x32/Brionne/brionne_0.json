@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a playful sea creature with bright blue colors and bubbly features.",
+    "Imagine a cute aquatic Pokemon with a smooth body and cheerful personality, perfect for a coastal environment.",
+    "Design a charming water-type Pokemon that has distinctive round bubbles and a friendly smile, ideal for kids.",
+    "Generate a Pokemon that embodies the spirit of the ocean with vibrant colors and a whimsical aquatic design.",
+    "Show me a bubbly water Pokemon that has a playful demeanor and charming features, suitable for a beach setting.",
+    "Give me a Pokemon that looks like a joyful sea mammal, featuring frothy accents and a vibrant blue palette.",
+    "Make a water-type Pokemon with an elegant design, showcasing its bubbly nature and friendly expression."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Bubbles on the head",
+      "Fluffy tail",
+      "Round body shape",
+      "Big expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Friendly"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Support/Defensive"
+  },
+  "image_path": "images/Brionne/0.png",
+  "pokemon_name": "Brionne"
+}

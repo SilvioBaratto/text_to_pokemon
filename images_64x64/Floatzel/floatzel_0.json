@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that excels in swimming and has vibrant orange fur.",
+    "Imagine a Pokemon with a playful personality and a sleek body, perfect for aquatic environments.",
+    "Design a creature that blends elements of both a mammal and an aquatic animal.",
+    "Show me a Pokemon that has unique features like flippers and a bushy tail.",
+    "Generate a character that embodies agility and speed in both water and land.",
+    "Give me a Pokemon that can navigate through urban areas with ease while being friendly.",
+    "Make a creature that thrives in grasslands and has a striking orange-yellow color scheme."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Blue",
+      "accent": "Yellow"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flippers",
+      "Bushy tail",
+      "Streamlined body",
+      "Large whiskers",
+      "Bright orange fur"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Friendly"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Swift and agile in water"
+  },
+  "image_path": "images/Floatzel/0.png",
+  "pokemon_name": "Floatzel"
+}

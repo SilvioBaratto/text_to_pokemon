@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a fire-type Pokemon that resembles molten lava with a playful personality.",
+    "I want a small, orange Pokemon that has a bubbly, energetic demeanor and glows in the dark.",
+    "Generate a creature that embodies the essence of fire, with unique features and a whimsical design.",
+    "Make a Pokemon that has a lava-like body, vibrant yellow eyes, and a mischievous character.",
+    "Imagine a molten entity with a warm color palette and an affinity for cave habitats.",
+    "Design a playful fire-type Pokemon that showcases flowing lava and a charming, friendly look.",
+    "Show me a Pokemon that thrives in volcanic regions, has orange tones, and a unique amorphous shape."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Lava-like body",
+      "Vibrant yellow eyes",
+      "Flowing, molten appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Mischievous"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Slugma/2.png",
+  "pokemon_name": "Slugma"
+}

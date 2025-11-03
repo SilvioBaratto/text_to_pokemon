@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with soft purple scales and green accents.",
+    "Show me a magical creature that embodies the essence of kindness and resilience.",
+    "Imagine a Pokemon that has a plump body, long ears, and a gentle expression.",
+    "Generate a serene dragon-like Pokemon that thrives in lush, green environments.",
+    "Design a friendly, dragon-type Pokemon that loves to play in the rain.",
+    "Make a Pokemon with a round body, a smooth texture, and a cheerful demeanor.",
+    "Give me a whimsical creature with a pastel color palette and a love for nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Plump body",
+      "Long ears",
+      "Smooth texture",
+      "Dragon-like appearance",
+      "Short limbs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Ground",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Playful",
+      "Caring"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Goodra/1.png",
+  "pokemon_name": "Goodra"
+}

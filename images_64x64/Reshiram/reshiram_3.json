@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a majestic dragon Pokemon that embodies the essence of fire and ice.",
+    "Design a mystical creature that has flowing white fur and ethereal wings.",
+    "Imagine a legendary Pokemon that represents truth, with a sleek and elegant design.",
+    "Generate a dragon-like Pokemon with a long tail and a fiery aura.",
+    "Show me a unique Pokemon that has a combination of white and blue colors, symbolizing purity and power.",
+    "Make a mythical Pokemon that can soar through the skies and breathe fire.",
+    "Give me a powerful looking Pokemon that has a serene expression and a majestic presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Blue",
+      "accent": "Red"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large wings",
+      "Long flowing tail",
+      "Dragon-like head",
+      "Flame-like blue markings",
+      "Elegant body structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Fire",
+    "generation": 5,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Noble",
+      "Calm",
+      "Wise"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Reshiram/3.png",
+  "pokemon_name": "Reshiram"
+}

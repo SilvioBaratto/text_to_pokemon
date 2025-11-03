@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that blends into its forest habitat with colorful mushrooms on its back.",
+    "I want an insectoid Pokemon that features bright orange colors and large, expressive eyes.",
+    "Generate a small Pokemon that resembles a spider with a detailed mushroom motif.",
+    "Make a creature that has a quirky personality, featuring orange and red accents, perfect for playful battles.",
+    "Imagine a Pokemon with a unique blend of bug and poison types, showcasing vibrant colors.",
+    "Design a tiny Pokemon with a round body shape and distinctive mushroom features for a whimsical look.",
+    "Show me a Pokemon that thrives in forest environments, with a friendly demeanor and bright colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large red mushrooms on the back",
+      "Bright blue eyes",
+      "Small fangs",
+      "Round body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Grass",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Gentle"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Paras/3.png",
+  "pokemon_name": "Paras"
+}

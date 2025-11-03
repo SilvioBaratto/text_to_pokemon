@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create an icy Pokemon with a massive body and a fierce expression.",
+    "Imagine a Pokemon that has ice powers and can thrive in snowy environments.",
+    "Generate a bear-like Pokemon that embodies strength and resilience.",
+    "Design a creature with thick white fur and sharp claws for battling opponents.",
+    "Show me a Pokemon that is both powerful and has a cold-hearted personality.",
+    "Make an arctic-themed Pokemon that can navigate frozen landscapes effortlessly.",
+    "Give me a Pokemon that looks intimidating but has a playful side."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Thick white fur",
+      "Long claws",
+      "Blue icicle-like beard",
+      "Muscular build",
+      "Fierce expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Protective",
+      "Playful"
+    ],
+    "habitat": "Tundra",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Beartic/1.png",
+  "pokemon_name": "Beartic"
+}

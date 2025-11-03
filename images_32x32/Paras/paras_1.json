@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with a bright orange body and a cute, friendly face.",
+    "Show me a small, colorful Pokemon that thrives in forested areas and has a unique mushroom feature.",
+    "Imagine a Pokemon with a round shape and an insect-like appearance, featuring vibrant colors.",
+    "Design a Pokemon that resembles a tiny insect, perfect for exploring grasslands with a cheerful demeanor.",
+    "Give me a visual of a Pokemon that has a bright orange color and is known for its forest habitat.",
+    "Generate a Pokemon with a playful personality, showcasing distinct bug-like features and a compact body.",
+    "Make a charming Pokemon that has a unique blend of orange and earthy tones, ideal for urban environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Mushroom on its back",
+      "Small size",
+      "Insect-like legs",
+      "Large, expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Grass",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Sociable"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Status infliction"
+  },
+  "image_path": "images/Paras/1.png",
+  "pokemon_name": "Paras"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a dual-type Pokemon that embodies both agility and strength with vibrant colors.",
+    "I want a bird-like Pokemon that combines elements of wrestling and flying.",
+    "Generate a fighting-type Pokemon with a colorful mask and striking wings.",
+    "Make a Pokemon that showcases a combination of athleticism and aerial grace.",
+    "Imagine a hybrid Pokemon that thrives in mountainous terrains and has a unique color palette.",
+    "Design a Pokemon that represents both aerial prowess and combat skills.",
+    "Give me a visual of a Pokemon that has a dynamic pose, showcasing its agility."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Red"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "White",
+      "accent": "Red"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Colorful mask",
+      "Large wings",
+      "Muscular build",
+      "Distinctive feather patterns",
+      "Athletic stance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": "Flying",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Determined",
+      "Confident"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Physical attacker"
+  },
+  "image_path": "images/Hawlucha/0.png",
+  "pokemon_name": "Hawlucha"
+}

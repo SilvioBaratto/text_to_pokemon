@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a fluffy electric-type Pokemon that has a playful demeanor and a bright color palette.",
+    "Generate a cute Pokemon that resembles a sheep, showcasing vibrant blue and white colors.",
+    "Design a small, round Pokemon that can generate electricity, with a charming appearance and soft features.",
+    "Imagine an adorable Pokemon that has a woolly body and a blue face, perfect for a friendly team.",
+    "Show me a Pokemon inspired by farm animals, with distinct fluffy features and an energetic personality.",
+    "Give me a Pokemon that thrives in grasslands, known for its electric abilities and endearing looks.",
+    "Make a Pokemon that embodies cuteness and electricity, suitable for trainers looking for a loyal companion."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Blue",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy wool-like body",
+      "Blue face",
+      "Curled tail",
+      "Electricity-generating orbs on the ears"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Mareep/2.png",
+  "pokemon_name": "Mareep"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a butterfly-like Pokemon that has vibrant colors and intricate wing patterns.",
+    "I want a Pokemon with a stunning design, featuring yellow and black wings and a cheerful demeanor.",
+    "Generate a design for a Pokemon that resembles a beautiful butterfly and embodies grace and elegance.",
+    "Make a colorful Pokemon with the ability to flutter gracefully through various landscapes.",
+    "Imagine a Pokemon with intricate wing designs and vivid colors, perfect for a sunny forest.",
+    "Design a whimsical Pokemon that thrives in urban habitats and dazzles with its colorful wings.",
+    "Show me a butterfly-inspired Pokemon that has a playful personality and loves to explore nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Red",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Red",
+      "accent": "Black"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Vibrant wing patterns",
+      "Large wings relative to body size",
+      "Antennae on head",
+      "Multicolored wings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Graceful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Speed and evasion-focused"
+  },
+  "image_path": "images/Vivillon/3.png",
+  "pokemon_name": "Vivillon"
+}

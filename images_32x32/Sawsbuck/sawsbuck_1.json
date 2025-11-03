@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a majestic deer-like Pokemon with antlers that change colors with the seasons.",
+    "I want a nature-themed Pokemon that embodies the essence of spring and summer.",
+    "Generate a Pokemon that has a strong connection to the forest and thrives in grassy areas.",
+    "Make a Pokemon that is agile and swift, perfect for evading predators in the wild.",
+    "Imagine a Pokemon with a warm, friendly demeanor that enjoys roaming in meadows.",
+    "Design a creature that can adapt its fur color to match different environments.",
+    "Show me a Pokemon whose appearance changes dramatically based on the time of year."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Yellow",
+      "accent": "Green"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Antlers with branches",
+      "Fluffy fur",
+      "Long legs",
+      "Hooves",
+      "Seasonal color changes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Grass",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Playful",
+      "Adaptable"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Sawsbuck/1.png",
+  "pokemon_name": "Sawsbuck"
+}

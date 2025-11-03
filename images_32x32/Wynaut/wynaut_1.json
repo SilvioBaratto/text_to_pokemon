@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a playful water-type Pokemon with a round body and floppy ears.",
+    "I want a cute blue Pokemon that looks like it loves to bounce around.",
+    "Generate an adorable creature with a big smile and a soft, round shape.",
+    "Make a tiny Pokemon that has a long tail and bright blue skin.",
+    "Imagine a small, cheerful Pokemon that enjoys playing in grassy areas.",
+    "Design a joyful Pokemon with a unique ear shape and a happy demeanor.",
+    "Give me a Pokemon that embodies playful energy and has a small, rounded form."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Floppy ears",
+      "Round body",
+      "Wide smile",
+      "Long tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Wynaut/1.png",
+  "pokemon_name": "Wynaut"
+}

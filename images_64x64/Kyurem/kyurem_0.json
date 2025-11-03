@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create an ice-type Pokemon with a sleek, dragon-like body and sharp, icy features.",
+    "I want a legendary Pokemon that embodies the power of ice and the majesty of dragons.",
+    "Generate a Pokemon that resembles a fierce ice dragon, with wings and a chilling aura.",
+    "Make a Pokemon with a frosty appearance, icy claws, and a powerful, majestic presence.",
+    "Imagine a mythical creature that rules over frozen landscapes, with a body made of ice and storm.",
+    "Design a legendary ice-type Pokemon with a rugged, armored look and sharp, jagged features.",
+    "Show me a Pokemon that combines the elegance of a dragon with the harshness of ice."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Gray",
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Icy wings",
+      "Dragon-like head",
+      "Armored body",
+      "Frosty breath",
+      "Sharp claws"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": "Dragon",
+    "generation": 5,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Majestic",
+      "Mysterious",
+      "Fierce"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Powerful and strategic"
+  },
+  "image_path": "images/Kyurem/0.png",
+  "pokemon_name": "Kyurem"
+}

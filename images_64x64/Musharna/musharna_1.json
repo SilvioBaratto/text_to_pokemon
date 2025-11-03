@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with a dreamy appearance and flowing pink features.",
+    "Imagine a whimsical Pokemon that's round and puffy, surrounded by colorful wisps.",
+    "Design a Pokemon that embodies tranquility and mysticism, featuring soft purple and pink hues.",
+    "Show me a cute, enigmatic creature that floats gracefully with a serene expression.",
+    "Generate a Pokemon with a calming aura, characterized by its pastel colors and gentle demeanor.",
+    "Make a design for a psychic Pokemon that resembles a plush toy, with fluffy elements.",
+    "Give me an illustration of a Pokemon that thrives in lush environments, with a peaceful vibe."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Purple"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": null,
+      "accent": "Purple"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body",
+      "Flowing wispy tail",
+      "Dreamy expression",
+      "Soft colors",
+      "Floating appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Dreamy",
+      "Calm",
+      "Gentle"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Musharna/1.png",
+  "pokemon_name": "Musharna"
+}

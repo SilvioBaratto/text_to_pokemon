@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that has a fiery look with spiky red features.",
+    "I want an adorable creature that blends fire and insect traits with a bright color palette.",
+    "Generate a small Pokemon that exudes a warm glow, perfect for a forest environment.",
+    "Make a unique bug/fire hybrid Pokemon that has a cute, yet fierce appearance.",
+    "Imagine a Pokemon with a fiery personality that thrives in wooded areas and has a unique design.",
+    "Design a vibrant creature that showcases the beauty of fire and nature with distinct colors.",
+    "Show me a Pokemon that has an eye-catching red and white color scheme and a charming design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "White"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Brown",
+      "accent": "White"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Spiky red protrusions on the head",
+      "White shell-like body",
+      "Blue eye",
+      "Brownish lower body resembling a cocoon"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Fire",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful",
+      "Energetic"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Larvesta/1.png",
+  "pokemon_name": "Larvesta"
+}

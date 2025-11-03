@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bird-like Pokemon with vibrant feathers and a fierce look.",
+    "Imagine a Pokemon that can soar through the skies with agility and speed.",
+    "Generate a Pokemon that has a striking red and brown color scheme.",
+    "Design a small, feathered Pokemon that is known for its quick attacks.",
+    "Show me a Pokemon that thrives in urban environments and has a bold personality.",
+    "Make a flying-type Pokemon that resembles a fierce bird with sharp features.",
+    "Give me a Pokemon that has a unique blend of colors and a charismatic presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "White",
+      "accent": "Brown"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Sharp beak",
+      "Feathered wings",
+      "Angled tail feathers",
+      "Bold coloration",
+      "Expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Bold",
+      "Aggressive",
+      "Energetic"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Speed-focused"
+  },
+  "image_path": "images/Spearow/3.png",
+  "pokemon_name": "Spearow"
+}

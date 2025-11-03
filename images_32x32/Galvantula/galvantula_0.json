@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with bright yellow and purple accents that resembles a spider.",
+    "I want a Pokemon that looks like a small, electric spider with a playful personality.",
+    "Generate an image of a Pokemon that has a unique blend of yellow and purple colors.",
+    "Make a Pokemon that embodies the spirit of a web-weaving creature found in urban areas.",
+    "Imagine a bug and electric-type Pokemon with striking features and a vibrant color palette.",
+    "Design a Pokemon that has an arachnid appearance and is known for its agility and speed.",
+    "Show me a Pokemon that thrives in grasslands and has an energetic and mischievous demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Purple",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Eight legs",
+      "Large fangs",
+      "Web-like structures",
+      "Electric patterns",
+      "Rounded body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Electric",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Agile",
+      "Cunning"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Fast and evasive"
+  },
+  "image_path": "images/Galvantula/0.png",
+  "pokemon_name": "Galvantula"
+}

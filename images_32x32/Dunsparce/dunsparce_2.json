@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a playful and colorful creature with a mix of yellow and blue.",
+    "Imagine a cute Pokemon that can glide gracefully through the air with its unique tail.",
+    "Show me a Pokemon that has a serpentine body shape and bright, eye-catching colors!",
+    "Design a quirky Pokemon with a friendly demeanor and vibrant patterns that capture attention.",
+    "Generate a Pokemon that loves to explore forested areas and has a cheerful personality.",
+    "Give me an image of a Pokemon with a whimsical design, featuring a blend of yellow and blue.",
+    "Make a Pokemon that embodies the spirit of adventure, with a distinctive, playful tail."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long, serpentine body",
+      "Distinctive tail resembling a corkscrew",
+      "Large, expressive eyes",
+      "Colorful, patterned scales"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Dunsparce/2.png",
+  "pokemon_name": "Dunsparce"
+}

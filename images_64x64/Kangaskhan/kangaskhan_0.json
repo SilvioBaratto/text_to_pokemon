@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Show me a strong, bipedal Pokemon that resembles a kangaroo and has a caring personality.",
+    "Design a Normal-type Pokemon that is large, has a pouch, and enjoys living in grasslands.",
+    "Create a Pokemon that resembles a mother kangaroo with its baby in a pouch, exuding warmth and protection.",
+    "Imagine a playful, large Pokemon with a brown body and a yellow belly, known for its defensive abilities.",
+    "Generate a Pokemon that embodies strength and maternal instincts, with a robust and muscular appearance.",
+    "Make a Pokemon that is friendly and nurturing, with distinctive features like a large tail and a strong stance.",
+    "Give me a tough Pokemon that can adapt to various habitats but prefers grasslands and forests."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Pouch containing a baby Kangaskhan",
+      "Muscular build",
+      "Large tail",
+      "Prominent ears",
+      "Strong legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Caring",
+      "Protective",
+      "Strong"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Kangaskhan/0.png",
+  "pokemon_name": "Kangaskhan"
+}

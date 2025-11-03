@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a beautiful bug-type Pokemon with vibrant wings and a striking color pattern.",
+    "Imagine a Pokemon that resembles a butterfly, featuring intricate designs and bright colors.",
+    "Show me a small flying-type Pokemon with elegant wings and a charming personality.",
+    "Generate a whimsical insect Pokemon that thrives in lush environments and has a gentle nature.",
+    "Design a graceful bug Pokemon with a blend of blue and orange colors for its wings.",
+    "Make a Pokemon that embodies the beauty of a butterfly, perfect for a serene forest habitat.",
+    "Give me an adorable bug-type Pokemon with unique wing patterns and a friendly demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Yellow",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": "Blue"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, colorful wings",
+      "Prominent blue markings",
+      "Delicate antennae",
+      "Slender body",
+      "Vibrant patterns"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Charming",
+      "Gentle",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Beautifly/0.png",
+  "pokemon_name": "Beautifly"
+}

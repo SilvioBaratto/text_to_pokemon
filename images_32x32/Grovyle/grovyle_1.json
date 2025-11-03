@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a green Pokemon with leaf-like features and agile movements.",
+    "Show me a bipedal creature with vibrant green skin and a red belly.",
+    "Generate an evolutionary stage of a grass-type Pokemon with sharp claws.",
+    "Imagine a Pokemon that thrives in forests and is stealthy like Grovyle.",
+    "Design a Pokemon that resembles a nimble lizard with distinct foliage.",
+    "Give me a depiction of a Pokemon known for its speed and agility.",
+    "Make a character based on a Pokemon with long limbs and a playful demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Leaf-like tail",
+      "Sharp claws",
+      "Long limbs",
+      "Pointed ears",
+      "Red underside"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Nimble",
+      "Stealthy",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Grovyle/1.png",
+  "pokemon_name": "Grovyle"
+}

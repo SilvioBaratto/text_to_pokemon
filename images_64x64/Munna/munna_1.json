@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a pink Pokemon with a round shape and floral patterns on its body.",
+    "I want a whimsical creature that floats gracefully in the air, resembling a cloud.",
+    "Generate a psychic-type Pokemon that has a soft, dream-like appearance.",
+    "Make a small, cute creature with pastel colors and unique floral designs.",
+    "Imagine a Pokemon that embodies tranquility and has gentle, calming features.",
+    "Design a round, adorable Pokemon that is often found in grassy fields.",
+    "Show me a creature that has a lovely pink hue and is associated with dreams."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Purple",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round body shape",
+      "Small flowers on its body",
+      "Large, expressive eyes",
+      "Soft, cloud-like appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Gentle",
+      "Dreamy"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Munna/1.png",
+  "pokemon_name": "Munna"
+}

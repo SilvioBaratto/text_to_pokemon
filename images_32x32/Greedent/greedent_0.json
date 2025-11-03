@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a fluffy Pokemon with large ears and a bushy tail, showcasing vibrant colors.",
+    "Imagine a chubby creature that loves to hoard berries in a forest environment.",
+    "Generate a whimsical squirrel-type Pokemon that has a round body and playful demeanor.",
+    "Make a Normal-type Pokemon that resembles a furry rodent, exhibiting friendly characteristics.",
+    "Show me a cute Pokemon that thrives in urban areas, with a round shape and brown tones.",
+    "Design a Pokemon with a rotund body and a cheerful expression, perfect for a forest habitat.",
+    "Give me a Pokemon that has a thick fur coat and enjoys gathering food from the ground."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Round body",
+      "Bushy tail",
+      "Large ears",
+      "Cheerful expression",
+      "White underbelly"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Gluttonous"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Greedent/0.png",
+  "pokemon_name": "Greedent"
+}

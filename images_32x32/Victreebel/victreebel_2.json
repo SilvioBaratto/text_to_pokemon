@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a plant-based Pokemon with a yellow color scheme and a unique bell shape.",
+    "Generate a Pokemon that resembles a carnivorous plant, featuring a fierce expression and vibrant colors.",
+    "Design a Pokemon that blends seamlessly into forest habitats, showcasing its ability to attract prey.",
+    "Imagine a Pokemon that uses its long tendrils to trap opponents, with a mix of yellow and green.",
+    "Show me a Pokemon that thrives in tropical environments, with distinctive features like a wide open mouth.",
+    "Make a Pokemon that evolves from a smaller plant species, growing into a large, predatory creature.",
+    "Give me a Pokemon that can camouflage with its surroundings, exhibiting bright colors to lure in prey."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Green",
+      "accent": "Brown"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Bell-shaped body",
+      "Long tendrils",
+      "Wide-open mouth",
+      "Leaf-like structures"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Deceptive",
+      "Predatory",
+      "Luring"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attacks"
+  },
+  "image_path": "images/Victreebel/2.png",
+  "pokemon_name": "Victreebel"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a delicious dessert with vibrant colors and a cheerful face.",
+    "Imagine a creature that combines elements of fruit and cake, ideal for a whimsical setting.",
+    "Design a Pokemon inspired by apples and sweets, with a playful and friendly demeanor.",
+    "Generate a character that embodies the essence of a cozy bakery, bright and inviting.",
+    "Show me a Pokemon that looks like a fusion of a fruit and a cake, with fun colors.",
+    "Make a Pokemon that has a round, soft body and elements that resemble a dessert topping.",
+    "I want a Pokemon that appears sweet and friendly, with a design that features multiple shades of orange."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Red"
+    ],
+    "secondary_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Red",
+      "accent": "Green"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Cake-like body",
+      "Apple-like top",
+      "Whimsical decorations",
+      "Soft, round shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Dragon",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Friendly",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Appletun/1.png",
+  "pokemon_name": "Appletun"
+}

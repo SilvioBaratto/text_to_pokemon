@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a small bipedal fire-type Pokemon with a playful nature and a flame on its tail.",
+    "I want a starter Pokemon that looks cute and has orange skin and big blue eyes.",
+    "Generate a bipedal creature that evolves from a fiery lizard with a warm personality.",
+    "Make me a Pokemon that thrives in forests and has a bright flame for a tail.",
+    "Imagine a small orange Pokemon with a charming smile that can shoot fire.",
+    "Design a Pokemon with a scaly body and a fiery tail, perfect for a starter trainer.",
+    "Show me a playful creature with a light orange color and a determined expression."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Flame on tail",
+      "Big blue eyes",
+      "Lizard-like body",
+      "Short limbs",
+      "Smiling expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Loyal"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Charmander/0.png",
+  "pokemon_name": "Charmander"
+}

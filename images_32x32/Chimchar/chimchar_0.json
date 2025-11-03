@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a small, fire-type monkey Pokemon with a playful personality and bright orange fur.",
+    "Imagine a Pokemon that has fiery abilities and a mischievous look, perfect for a forest habitat.",
+    "Show me a cute, bipedal creature with a flame on its tail and an adventurous spirit.",
+    "Generate a character design for a fire-type starter Pokemon with distinctive red eyes and an energetic pose.",
+    "Make a Pokemon that embodies both agility and fire, featuring a vibrant orange and yellow color scheme.",
+    "Design a playful monkey Pokemon that loves climbing trees and has fiery abilities.",
+    "Give me a small, agile Pokemon with a unique flame feature and a friendly demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Flame on the tail",
+      "Red eyes",
+      "Short limbs",
+      "Curly tuft of hair on top of the head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Speed-focused"
+  },
+  "image_path": "images/Chimchar/0.png",
+  "pokemon_name": "Chimchar"
+}

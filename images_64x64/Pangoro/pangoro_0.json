@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a panda-inspired Pokemon with a fierce fighting style and a playful personality.",
+    "Imagine a bipedal Pokemon that combines dark colors with a striking white belly and sharp claws.",
+    "Show me a large, tough-looking Pokemon with a mix of gray and black fur, ready for battle.",
+    "Design a Pokemon that thrives in forest environments and has a unique fighting move set.",
+    "Generate a Pokemon that embodies strength and agility, featuring panda-like characteristics and a dark theme.",
+    "Give me a Pokemon that appears intimidating yet playful, with distinct black and white color patterns.",
+    "Make a creature that resembles a bear but has powerful fighting abilities and a charismatic nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "White"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "White",
+      "accent": "Gray"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Panda-like face",
+      "Large muscular arms",
+      "White belly",
+      "Black fur with gray accents",
+      "Fierce expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": "Dark",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Fierce",
+      "Loyal"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Pangoro/0.png",
+  "pokemon_name": "Pangoro"
+}

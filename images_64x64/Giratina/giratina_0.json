@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon with dark wings and a menacing presence.",
+    "Imagine a dragon Pokemon that has a mix of black and yellow colors.",
+    "Show me a mythical creature that dominates the shadows and commands fear.",
+    "Design a Pokemon with a serpentine body and intimidating spikes on its back.",
+    "Generate a legendary Pokemon that thrives in dark, mystical environments.",
+    "Make a bipedal Pokemon with an eerie aura and striking color patterns.",
+    "Give me a unique Pokemon that embodies both ghostly and dragon-like features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Gray",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Yellow",
+      "accent": "Red"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large, shadowy wings",
+      "Spiky back",
+      "Distinctive yellow and black pattern",
+      "Intimidating red accents"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Dragon",
+    "generation": 4,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Intimidating",
+      "Powerful"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Giratina/0.png",
+  "pokemon_name": "Giratina"
+}

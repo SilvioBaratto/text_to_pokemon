@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a mystical fairy-type Pokemon that embodies both beauty and strength.",
+    "Show me a Pokemon with a vibrant pink body and a serene expression.",
+    "Generate a creature that has a unique design, representing the essence of nature.",
+    "Imagine a legendary Pokemon with floral elements and a majestic appearance.",
+    "Give me an enchanting Pokemon that radiates calmness and charm.",
+    "Design a Pokemon that features a combination of pink and purple colors.",
+    "Make a fantastical Pokemon known for its protective nature and playful demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Purple",
+      "accent": "Black"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Flower-like headdress",
+      "Large, expressive eyes",
+      "Wings resembling petals",
+      "Curvy body structure",
+      "Unique markings on body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": "Psychic",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Protective",
+      "Serene"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Supportive and defensive"
+  },
+  "image_path": "images/Tapu Lele/0.png",
+  "pokemon_name": "Tapu Lele"
+}

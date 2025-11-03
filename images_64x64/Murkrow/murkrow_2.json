@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a dark-type Pokemon resembling a small bird with a mischievous expression and a feathered tail.",
+    "Give me a Pokemon that is predominantly black with hints of blue and has sharp, pointed wings.",
+    "Imagine a playful flying Pokemon that enjoys lurking in urban environments and causing minor trouble.",
+    "Design a small, winged creature with a sleek body and a glinting eye that can be found in forests.",
+    "Show me a mysterious bird Pokemon with a dark color palette, known for its cunning and stealthy nature.",
+    "Generate a Pokemon that resembles a crow, featuring a distinctive tail and a sharp beak, often seen at night.",
+    "Make a quirky Pokemon that sports a dark feathered body and a personality that loves to play pranks."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Feathered tail",
+      "Pointed beak",
+      "Sharp wings",
+      "Mischievous eyes",
+      "Curved body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Cunning",
+      "Playful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Hit-and-run"
+  },
+  "image_path": "images/Murkrow/2.png",
+  "pokemon_name": "Murkrow"
+}

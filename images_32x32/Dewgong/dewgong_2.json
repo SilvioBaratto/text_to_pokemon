@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a playful seal with shimmering blue fur.",
+    "Generate a Pokemon with a sleek body and icy features, perfect for swimming in the ocean.",
+    "Show me a cute aquatic creature that has a flowing tail and a friendly personality.",
+    "Imagine a Pokemon that embodies grace and agility, with a design inspired by marine mammals.",
+    "Design a Pokemon that uses ice attacks and has a serene demeanor, suited for cold waters.",
+    "Make a cartoonish Pokemon that has a soft, rounded body and sparkly water effects.",
+    "Give me a Pokemon that thrives in the sea, with elegant movements and a gentle spirit."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flippers",
+      "Long tail",
+      "Smooth body",
+      "Rounded snout",
+      "Icicle-like tusks"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Ice",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Playful",
+      "Friendly"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Dewgong/2.png",
+  "pokemon_name": "Dewgong"
+}

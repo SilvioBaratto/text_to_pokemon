@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon with sleek, aerodynamic features and shimmering wings.",
+    "I want a legendary Pokemon that embodies grace and speed, with a gentle demeanor.",
+    "Generate a unique design for a Pokemon that excels in aerial battles and has a mystical aura.",
+    "Make a character concept for a Pokemon that represents tranquility and has elegant, flowing shapes.",
+    "Imagine a mythical creature with a combination of purple and white colors that can soar through the skies.",
+    "Design a Pokemon with a serene personality that thrives in lush environments and has a streamlined body.",
+    "Show me a Pokemon that combines beauty and power, with features that evoke a sense of wonder."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Streamlined body",
+      "Long wings",
+      "Large eyes",
+      "Fins on the back",
+      "Sleek tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Dragon",
+    "generation": 3,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Curious",
+      "Protective"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Latias/1.png",
+  "pokemon_name": "Latias"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that has sleek, dragon-like features and shimmering scales.",
+    "I want a legendary Pokemon that can control dimensions and appears majestic with its design.",
+    "Generate an elegant Pokemon with a unique blend of purple and white colors, featuring impressive wings.",
+    "Make a dragon Pokemon that embodies space and time, showcasing powerful energy in its form.",
+    "Imagine a mythical creature that rules over the oceans with its incredible speed and strength.",
+    "Design a quadruped Pokemon that has a refined shape and can teleport through dimensions effortlessly.",
+    "Show me a Pokemon with a celestial theme, emphasizing its divine origin through unique color patterns."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "White"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "White",
+      "accent": "Gray"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Dragon-like appearance",
+      "Two large wings",
+      "Long tail",
+      "Unique shape resembling a space deity",
+      "Shimmering scales"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Dragon",
+    "generation": 4,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Majestic",
+      "Mysterious",
+      "Powerful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Defensive and strategic"
+  },
+  "image_path": "images/Palkia/0.png",
+  "pokemon_name": "Palkia"
+}

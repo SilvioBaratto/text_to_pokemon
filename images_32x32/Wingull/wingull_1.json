@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a flying-type Pokemon with a sleek white body and blue wing accents.",
+    "I want an aquatic bird Pokemon that soars gracefully above the ocean waves.",
+    "Generate a Pokemon that resembles a seagull with a cheerful disposition and a love for the sea.",
+    "Make a water-type Pokemon that can glide effortlessly through both air and water.",
+    "Imagine a small bird Pokemon with a vibrant color palette and a playful nature.",
+    "Design a Pokemon that embodies the spirit of coastal life with a bright and airy appearance.",
+    "Show me a Pokemon that combines elements of birds and water creatures in its design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Blue",
+      "accent": "Yellow"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Streamlined body",
+      "Long wings",
+      "Pointed beak",
+      "Tail feathers",
+      "Colorful wing tips"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Flying",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Agile and evasive"
+  },
+  "image_path": "images/Wingull/1.png",
+  "pokemon_name": "Wingull"
+}

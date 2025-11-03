@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a Water-type Pokemon that has a playful nature and a sleek shell.",
+    "I want to see an evolution of a cute aquatic creature with a strong swimming ability.",
+    "Generate a Pokemon that resembles a turtle but has a unique water-based combat style.",
+    "Make a Pokemon that is a mix of aquatic and charming traits, perfect for trainers.",
+    "Imagine a Pokemon with a distinct blue shell and a friendly demeanor, ideal for battles.",
+    "Design a creature that embodies both the elegance of water and the strength of a warrior.",
+    "Give me a cute Water-type Pokemon that has a unique tail and a vibrant personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": "Brown"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy tail",
+      "Webbed feet",
+      "Pointy ears",
+      "Shell on back"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Wartortle/3.png",
+  "pokemon_name": "Wartortle"
+}

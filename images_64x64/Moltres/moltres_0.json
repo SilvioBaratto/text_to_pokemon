@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a majestic bird Pokemon that radiates flames and has fiery wings.",
+    "Imagine a legendary fire-type Pokemon with bright orange feathers and a long beak.",
+    "Design a mythical creature that soars through the sky, enveloped in flames.",
+    "Show me a powerful Pokemon with wings made of fire and a fierce appearance.",
+    "Generate a unique bird Pokemon that glows with heat and has a golden body.",
+    "Make a stunning fire and flying-type Pokemon that embodies the essence of a phoenix.",
+    "Give me a fiery bird Pokemon that leaves trails of fire in its wake."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Orange",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Orange",
+      "accent": "Yellow"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Flaming wings",
+      "Long tail with fire",
+      "Sharp beak",
+      "Elegant body structure",
+      "Brilliant fiery aura"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Proud",
+      "Fierce",
+      "Noble"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Moltres/0.png",
+  "pokemon_name": "Moltres"
+}

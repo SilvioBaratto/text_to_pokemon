@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a psychic-type Pokemon that has a vibrant green body with yellow accents and a playful expression.",
+    "I want a unique Pokemon inspired by Reuniclus, featuring a round body and multiple arms in bright colors.",
+    "Generate a Pokemon design that includes a green gelatinous form with cute pink features and a whimsical personality.",
+    "Make a psychic Pokemon that embodies the essence of intelligence, with a focus on green and yellow colors.",
+    "Imagine a Pokemon with an unusual shape, combining a bulbous body and tentacle-like appendages, primarily in green.",
+    "Design a creature that looks both adorable and powerful, with distinctive colors and a playful demeanor.",
+    "Give me a Pokemon concept that captures the essence of psychic abilities and has a vibrant green color scheme."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Pink",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Pink",
+      "accent": "Yellow"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Bulbous body",
+      "Multiple appendages resembling arms",
+      "Large, expressive eyes",
+      "Smooth, gelatinous appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Intelligent",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Reuniclus/1.png",
+  "pokemon_name": "Reuniclus"
+}

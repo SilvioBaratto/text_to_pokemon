@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with vibrant purple fur and bright red eyes.",
+    "I want a creature that resembles an insect with large antennae and a fuzzy body.",
+    "Generate an adorable Pokemon that has a round body covered in purple and red patterns.",
+    "Make a unique Pokemon that has a small size and a playful personality.",
+    "Imagine a Pokemon that thrives in grassy habitats and has two large, expressive eyes.",
+    "Design a Pokemon that can blend into its forest environment with colors like purple and red.",
+    "Give me a Pokemon that can flutter around using its tiny wings, showcasing its bug-type elegance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Red",
+      "White",
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Red",
+      "accent": "White"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large, expressive eyes",
+      "Fuzzy body texture",
+      "Prominent antennae",
+      "Small wings",
+      "Red markings on the body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Timid"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Status inflicter"
+  },
+  "image_path": "images/Venonat/1.png",
+  "pokemon_name": "Venonat"
+}

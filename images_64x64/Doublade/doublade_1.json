@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon that has dual sword-like features and a mysterious aura.",
+    "I want a Pokemon with a medieval theme, using armor and weapons for its appearance.",
+    "Generate a Steel-type Pokemon that embodies a guardian spirit, with a haunting presence.",
+    "Make an image of a dual-bladed Pokemon that appears both intimidating and elegant.",
+    "Imagine a Pokemon that resembles a knight, with sharp edges and a ghostly essence.",
+    "Design a Pokemon that combines elements of swords and spirits with a dark fantasy vibe.",
+    "Show me a Pokemon that has a formidable appearance, suggesting both defense and attack."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Purple",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Dual blade-like arms",
+      "Ghostly aura",
+      "Knight-like armor appearance",
+      "Symmetrical body design",
+      "Haunting facial expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Ghost",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Defensive",
+      "Loyal"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive and strategic"
+  },
+  "image_path": "images/Doublade/1.png",
+  "pokemon_name": "Doublade"
+}

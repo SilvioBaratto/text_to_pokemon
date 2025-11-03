@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a fluffy tail and a cheerful expression.",
+    "I want a brown Pokemon that resembles a beaver and can build dams.",
+    "Generate a cute Pokemon that is primarily orange with a white belly.",
+    "Make a Pokemon that has a round body and is known for its adaptability.",
+    "Imagine a Pokemon that thrives in forest habitats and has a playful demeanor.",
+    "Design a Pokemon that looks like a furry creature with a strong front tooth.",
+    "Give me a Pokemon that embodies the spirit of teamwork and community."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": "Orange"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Furry body",
+      "Large front teeth",
+      "Fluffy tail",
+      "Round shape",
+      "White underbelly"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Social",
+      "Adaptable"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Bibarel/1.png",
+  "pokemon_name": "Bibarel"
+}

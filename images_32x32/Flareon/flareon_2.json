@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a fire-type Pokemon with fluffy tails and bright orange fur.",
+    "I want a Pokemon that embodies warmth and has an energetic personality.",
+    "Generate an adorable creature with vibrant colors and a playful demeanor.",
+    "Make a creature that thrives in warm habitats with a fierce combat style.",
+    "Imagine a fiery Pokemon with distinctive ear shapes and a cute appearance.",
+    "Design a Pokemon that has a unique combination of orange and yellow features.",
+    "Show me a Pokemon with a bold personality and a strong affinity for fire."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": null,
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy mane",
+      "Pointed ears",
+      "Bushy tail",
+      "Round body",
+      "Bright eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Loyal",
+      "Energetic"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Flareon/2.png",
+  "pokemon_name": "Flareon"
+}

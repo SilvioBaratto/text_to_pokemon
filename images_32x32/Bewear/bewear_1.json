@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a bear-like Pokemon that is cuddly yet powerful, with a pink and black color scheme.",
+    "I want a Pokemon that combines cuteness with strength, showcasing a unique bear appearance.",
+    "Generate an adorable yet tough Pokemon with distinctive black paws and a fluffy body.",
+    "Make a Pokemon that looks like a plush bear, emphasizing its playful nature and physical strength.",
+    "Imagine a Pokemon that is both a fighter and a friend, featuring a pink and black design.",
+    "Design a Pokemon that embodies the spirit of a bear, with soft features but a fierce demeanor.",
+    "Show me a bear-themed Pokemon that is designed for both battling and companionship."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Black"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": null,
+      "accent": "Black"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Fluffy pink body",
+      "Black paws",
+      "Large expressive eyes",
+      "Rounded ears",
+      "Wide stance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Fighting",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cuddly",
+      "Playful",
+      "Strong"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Bewear/1.png",
+  "pokemon_name": "Bewear"
+}

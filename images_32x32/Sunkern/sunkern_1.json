@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a small grass-type Pokemon that looks like a seed with a cute face and green leaves.",
+    "I want a Pokemon that resembles a tiny plant with a cheerful expression and vibrant colors.",
+    "Generate a design for a Pokemon with a round body, a yellow crown of petals, and tiny green leaves on top.",
+    "Make a whimsical Pokemon that embodies the essence of a sunflower with a playful personality.",
+    "Imagine a Pokemon that is a tiny seed with a happy face, perfect for sunny forest habitats.",
+    "Design a unique Pokemon that features a blend of earthy browns and bright greens in its appearance.",
+    "Show me a Pokemon that thrives in grassy areas, showcasing a charming, sunny disposition."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Brown",
+      "accent": "Green"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round seed-like body",
+      "Two green leaves on top",
+      "Yellow crown-like petals",
+      "Cute, smiling face"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cheerful",
+      "Playful",
+      "Gentle"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Sunkern/1.png",
+  "pokemon_name": "Sunkern"
+}

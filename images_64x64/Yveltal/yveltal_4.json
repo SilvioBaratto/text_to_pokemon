@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon that embodies darkness and has striking red and black features.",
+    "Imagine a powerful flying creature with majestic wings and a fierce appearance.",
+    "Generate a legendary Pokemon that represents life and destruction with a unique color palette.",
+    "Design a dark-type Pokemon with an imposing figure and captivating wing designs.",
+    "Show me a Pokemon that combines elements of both darkness and flight with rich colors.",
+    "Give me a flying Pokemon that has a dramatic silhouette and intense red accents.",
+    "Make a Pokemon that looks both fearsome and majestic, with deep colors and elaborate wings."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Black",
+      "accent": "Gray"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large, elongated wings",
+      "Red and black feather-like textures",
+      "Glowing blue eyes",
+      "Clawed feet",
+      "Curved beak-like mouth"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": "Flying",
+    "generation": 6,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Fierce",
+      "Protective"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Yveltal/4.png",
+  "pokemon_name": "Yveltal"
+}

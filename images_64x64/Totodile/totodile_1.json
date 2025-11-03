@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that has a playful demeanor and cute, round body.",
+    "Imagine a Pokemon with vibrant blue scales and a big toothy grin, perfect for a water battle.",
+    "Generate a character that resembles a small crocodile, featuring bright colors and a happy expression.",
+    "Design a Pokemon that looks like a mini dinosaur with aquatic traits and a friendly personality.",
+    "Show me a Pokemon that has a mix of blue and red colors, with a unique swimming ability.",
+    "Make an adorable Pokemon that is known for its joyful nature and love for water activities.",
+    "Give me a creature that embodies the spirit of adventure with its playful and energetic personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large toothy mouth",
+      "Spiky dorsal ridges",
+      "Short limbs",
+      "Big round eyes",
+      "Tail with a fin-like structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Energetic"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Totodile/1.png",
+  "pokemon_name": "Totodile"
+}

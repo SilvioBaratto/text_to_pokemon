@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a fierce fire-type Pokemon with a muscular build and striking red fur.",
+    "I want a Pokemon that embodies the spirit of a wild cat, with vibrant colors and unique patterns.",
+    "Generate a bipedal Pokemon with a fiery personality and a strong presence in battle.",
+    "Make a Pokemon that looks like a fierce predator, combining elements of fire and darkness.",
+    "Imagine a powerful fire-type Pokemon that dominates its habitat with strength and agility.",
+    "Design a Pokemon with a striking red and black color scheme, perfect for competitive battles.",
+    "Show me a Pokemon that exudes confidence and power, with an impressive set of claws."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Black",
+      "accent": "Orange"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Muscular build",
+      "Feline appearance",
+      "Flame-like tail",
+      "Prominent claws",
+      "Facial markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Dark",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Confident",
+      "Fierce",
+      "Competitive"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Incineroar/2.png",
+  "pokemon_name": "Incineroar"
+}

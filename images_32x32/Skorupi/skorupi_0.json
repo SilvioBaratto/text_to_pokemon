@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that resembles a scorpion with blue and purple colors.",
+    "Generate a Pokemon with sharp pincers and a segmented body, perfect for a desert environment.",
+    "Make a small, scorpion-like creature with vibrant teal eyes and a tough exterior.",
+    "Imagine a Pokemon that thrives in caves, featuring a unique blend of purple and white.",
+    "Design a creature with an insectoid shape and a defensive combat style.",
+    "Show me a Pokemon with a blend of blue and purple, showcasing agile movements.",
+    "Give me a Pokemon that can adapt to both urban and natural habitats, with distinct pincers."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "White",
+      "accent": "Blue"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Pincers",
+      "Segmented body",
+      "Teal eyes",
+      "Tail with a stinger",
+      "Multiple legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Poison",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Defensive",
+      "Cunning",
+      "Agile"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Skorupi/0.png",
+  "pokemon_name": "Skorupi"
+}

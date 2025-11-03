@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Show me a psychic Pokemon that can teleport and has a playful personality.",
+    "Imagine a small, yellow Pokemon with big ears and a mystical aura.",
+    "Create a Pokemon that can read minds and has an interesting appearance.",
+    "Design an adorable creature that can vanish into thin air, showcasing its psychic powers.",
+    "Make a character that embodies both intelligence and playfulness, dressed in yellow.",
+    "Generate a tiny, tranquil Pokemon with a serene expression and a unique tail.",
+    "Give me a visual representation of a psychic type with unique features and bright colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large ears",
+      "Sitting posture",
+      "Tail with unique shape",
+      "Sleeve-like collar"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Playful",
+      "Intelligent"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Psychic-based attacks"
+  },
+  "image_path": "images/Abra/1.png",
+  "pokemon_name": "Abra"
+}

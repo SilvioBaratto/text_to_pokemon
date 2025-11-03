@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a powerful bull-like Pokemon with a strong, muscular body and impressive horns.",
+    "I want a Pokemon that resembles a wild bull, showcasing fierce determination and strength.",
+    "Generate a Pokemon that embodies the spirit of a bull, with earthy tones and a robust build.",
+    "Make a Pokemon that has a majestic appearance with a mix of brown and gray colors, symbolizing power.",
+    "Imagine a Pokemon that represents freedom and untamed nature, with a strikingly bold design.",
+    "Design a Pokemon featuring a harmonious blend of colors, reflecting the wildness of grasslands and mountains.",
+    "Show me a Pokemon with a sturdy physique, exuding an aura of confidence and resilience."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Gray",
+      "accent": "Blue"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Prominent horns",
+      "Muscular build",
+      "Short tail",
+      "Slightly curved back",
+      "Facial markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Stubborn",
+      "Brave",
+      "Protective"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Tauros/0.png",
+  "pokemon_name": "Tauros"
+}

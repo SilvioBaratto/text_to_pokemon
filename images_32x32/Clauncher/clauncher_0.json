@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a crab with bright blue colors and distinct yellow antennae.",
+    "I want a Pokemon with a sleek aquatic body and a playful personality, perfect for underwater adventures.",
+    "Generate a small Pokemon with pincers and a vibrant blue shell, showcasing its ability to blend into the ocean.",
+    "Make a Pokemon that has an interesting mix of blue and yellow with a unique design inspired by sea creatures.",
+    "Imagine a tiny, agile Pokemon that can navigate through water effortlessly, featuring a distinctive crustacean form.",
+    "Design a water-themed Pokemon with a charming appearance and a focus on quick movements in aquatic environments.",
+    "Show me a Pokemon that captures the essence of the ocean with its bright colors and playful demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long yellow antennae",
+      "Claw-like pincers",
+      "Streamlined body",
+      "Bright blue coloration"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Agile"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Clauncher/0.png",
+  "pokemon_name": "Clauncher"
+}

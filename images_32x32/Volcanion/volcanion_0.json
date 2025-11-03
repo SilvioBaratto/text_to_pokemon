@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a mythical Pokemon with a fiery appearance and unique water abilities.",
+    "Show me a legendary creature that embodies both fire and water elements.",
+    "Design a massive Pokemon with a round, ring-like structure on its back.",
+    "Imagine a powerful creature that thrives in volcanic environments, combining steam and flames.",
+    "Make a Pokemon with a robust body and striking blue accents among its red scales.",
+    "Generate a dual-type monster that showcases both its fire and water attributes visually.",
+    "Give me a Pokemon that looks fierce yet majestic, perfect for a legendary status."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Blue",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Ring-like structure on back",
+      "Spikes on limbs",
+      "Large, sturdy legs",
+      "Prominent yellow accents",
+      "Steam emanating from body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Water",
+    "generation": 6,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mighty",
+      "Resilient",
+      "Mysterious"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Volcanion/0.png",
+  "pokemon_name": "Volcanion"
+}

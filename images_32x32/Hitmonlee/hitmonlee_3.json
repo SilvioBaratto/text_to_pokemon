@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a strong fighting-type Pokemon with a focus on agility and flexibility.",
+    "Imagine a humanoid Pokemon that specializes in long-range kick attacks and has brown tones.",
+    "Show me a Pokemon that excels in martial arts with distinctive leg movements and a unique color palette.",
+    "Design a bipedal fighter Pokemon with an athletic build and a tough demeanor.",
+    "Generate a dynamic fighting-type Pokemon that uses its legs for powerful attacks and has a playful personality.",
+    "Make a Pokemon with brown skin and yellow accents that thrives in forest habitats.",
+    "Give me a Pokemon that embodies the spirit of a martial artist, showcasing strength and determination."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long legs",
+      "Athletic build",
+      "Bald head",
+      "Expressive eyes",
+      "Kicking stance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Determined",
+      "Agile",
+      "Playful"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Melee"
+  },
+  "image_path": "images/Hitmonlee/3.png",
+  "pokemon_name": "Hitmonlee"
+}

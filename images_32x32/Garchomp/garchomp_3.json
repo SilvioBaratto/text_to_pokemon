@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon that dominates the skies with fierce red wings and sharp teeth.",
+    "I want a powerful ground-type Pokemon that has a sleek body and intimidating presence.",
+    "Generate a Pokemon with a robust build, showcasing a mix of dark and vibrant colors.",
+    "Make a fierce dragon Pokemon with a unique color palette that blends red, blue, and yellow.",
+    "Imagine a Pokemon that can traverse mountains and caves, equipped with sharp claws and wings.",
+    "Design a dragon-type creature with a fearsome appearance and a bold color scheme.",
+    "Show me a Pokemon that embodies strength and agility, with distinct dragon-like features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Shark-like fins",
+      "Sharp teeth",
+      "Pointed snout",
+      "Large wings",
+      "Distinctive blue and black pattern"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Ground",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Aggressive",
+      "Confident"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Garchomp/3.png",
+  "pokemon_name": "Garchomp"
+}

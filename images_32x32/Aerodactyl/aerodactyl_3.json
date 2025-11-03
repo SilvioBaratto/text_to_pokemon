@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a flying dinosaur Pokemon with sharp fangs and a streamlined body.",
+    "Imagine a rock-type Pokemon with large wings and a fierce expression.",
+    "Show me a prehistoric Pokemon that can glide through the skies effortlessly.",
+    "Design a Pokemon that resembles a pterosaur, featuring purple wings and a light body.",
+    "Generate a Pokemon with a menacing appearance, perfect for aerial battles.",
+    "Make a Pokemon that has a rocky texture and sharp claws, ideal for combat.",
+    "Give me a majestic creature that combines the elements of flying and rock types."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Purple",
+      "accent": "Red"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Sharp fangs",
+      "Large wings",
+      "Pointed tail",
+      "Pterodactyl-like head",
+      "Clawed feet"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Predatory",
+      "Intelligent"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Aerial attacker"
+  },
+  "image_path": "images/Aerodactyl/3.png",
+  "pokemon_name": "Aerodactyl"
+}

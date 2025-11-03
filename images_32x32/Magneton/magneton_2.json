@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a unique Pokemon featuring metal components and a magnetic theme for an electric-type.",
+    "I want a design for a Pokemon that showcases three interconnected spheres with a futuristic look.",
+    "Generate an image of a Pokemon that embodies electricity and magnetism with a sleek metallic appearance.",
+    "Make a Pokemon that has a triad structure, representing teamwork and electrical energy.",
+    "Imagine a steel-type creature that has a shiny surface and is composed of three parts.",
+    "Design a Pokemon that illustrates the concept of magnetism with a cool color palette and symmetrical form.",
+    "Give me a Pokemon that appears to float and has a strong electrical presence, suitable for a battle."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Red",
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Three spherical magnets",
+      "Red tips on the magnets",
+      "Light blue circular core on each sphere"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": "Steel",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Intelligent",
+      "Playful",
+      "Energetic"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Magneton/2.png",
+  "pokemon_name": "Magneton"
+}

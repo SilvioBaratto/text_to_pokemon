@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a dark-type Pokemon with a sleek body and a menacing expression.",
+    "Imagine a Pokemon that uses its scent to confuse enemies during battle.",
+    "Show me a creature with a striking purple and cream color combination.",
+    "Generate a Pokemon that thrives in urban environments and has a cunning personality.",
+    "Design a Pokemon that can spray a noxious substance to fend off threats.",
+    "Give me a Pokemon that resembles a skunk and has a unique combat style.",
+    "Make a Pokemon that evolves from a smaller creature into a more intimidating form."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, bushy tail",
+      "Distinctive cream stripe along the back",
+      "Pointed ears",
+      "Small, sharp claws"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": "Dark",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Defensive",
+      "Resourceful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Defensive and strategic"
+  },
+  "image_path": "images/Skuntank/1.png",
+  "pokemon_name": "Skuntank"
+}

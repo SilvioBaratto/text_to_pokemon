@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a butterfly Pokemon that changes colors with the seasons and flutters gracefully.",
+    "Imagine a Pokemon that can create stunning light displays with its colorful wings.",
+    "Show me a bug-type Pokemon with vibrant patterns and a friendly demeanor.",
+    "Design a Pokemon that thrives in sunny environments and loves to dance in the air.",
+    "Generate a flying-type Pokemon with a unique camouflage ability to blend in with flowers.",
+    "Give me a Pokemon that can communicate with other creatures through mesmerizing wing patterns.",
+    "Make a butterfly Pokemon that symbolizes joy and is often found in gardens."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": "Orange"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Colorful patterned wings",
+      "Large wingspan",
+      "Insectoid body structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Joyful",
+      "Friendly",
+      "Playful"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Vivillon/1.png",
+  "pokemon_name": "Vivillon"
+}

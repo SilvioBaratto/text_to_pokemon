@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a majestic dragon Pokemon with shimmering white scales and fiery blue flames in its tail.",
+    "Imagine a legendary Pokemon that embodies both fire and ice elements, soaring through the sky.",
+    "I want a mythical creature with elegant wings and a powerful presence, symbolizing truth and harmony.",
+    "Generate a Pokemon design featuring a striking fusion of white and blue colors with ethereal wings.",
+    "Show me a Reshiram-inspired Pokemon that has a regal appearance and a fiery determination in battle.",
+    "Make a unique dragon Pokemon that emits a soft glow with hints of orange accents along its body.",
+    "Design a Pokemon that represents the balance of fire and truth, with intricate features and a strong aura."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White"
+    ],
+    "secondary_colors": [
+      "Blue",
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Blue",
+      "accent": "Orange"
+    },
+    "body_shape": "Winged",
+    "size_class": "Huge",
+    "distinctive_features": [
+      "Long flowing tail",
+      "Large elegant wings",
+      "Fiery blue accents",
+      "Dragon-like head",
+      "Shining white body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Fire",
+    "generation": 5,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Noble",
+      "Wise",
+      "Determined"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Reshiram/1.png",
+  "pokemon_name": "Reshiram"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a shell and flowing tentacles.",
+    "Show me a prehistoric Pokemon that resembles a mollusk with vibrant blue features.",
+    "Imagine a Pokemon that has a hard exterior and is known for its aquatic abilities.",
+    "Generate a creature that combines a spiraled shell with elegant blue appendages.",
+    "Design a fossil Pokemon with a unique color scheme of white and blue accents.",
+    "Give me an ancient sea creature that evolves from a smaller form and has tentacles.",
+    "Make a Pokemon that embodies both the beauty of the ocean and the mystery of fossils."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Spiral shell",
+      "Blue tentacles",
+      "Large eyes",
+      "Smooth body texture",
+      "Curved body structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Water",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Intelligent",
+      "Mysterious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Omastar/1.png",
+  "pokemon_name": "Omastar"
+}

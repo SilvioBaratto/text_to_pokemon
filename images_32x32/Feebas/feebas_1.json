@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with a unique pattern and soft fins.",
+    "Generate an aquatic creature with a round body and playful demeanor.",
+    "Imagine a Pokemon that evolves from a simple fish to a majestic creature.",
+    "Design a small, water-dwelling Pokemon with a charming face and scale patterns.",
+    "Make a friendly fish Pokemon that thrives in both fresh and saltwater.",
+    "Show me a Pokemon that has a quirky look and is often underestimated.",
+    "Give me a Pokemon with a unique color scheme that stands out in its habitat."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Pink",
+      "accent": "Blue"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body shape",
+      "Muddy brown coloration with spots",
+      "Paddle-like fins",
+      "Large expressive eyes",
+      "Prominent lips"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Shy",
+      "Underestimated",
+      "Adaptable"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Feebas/1.png",
+  "pokemon_name": "Feebas"
+}

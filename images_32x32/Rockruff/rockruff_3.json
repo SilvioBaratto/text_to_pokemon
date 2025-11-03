@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a playful puppy Pokemon that loves to explore and play in the woods.",
+    "Generate a small, friendly Pokemon with a brown and white coat, perfect for young trainers.",
+    "Imagine a Pokemon that resembles a dog, with a fluffy tail and bright blue eyes.",
+    "Design a Pokemon that embodies loyalty and adventure, with unique features like pointed ears.",
+    "Show me a cute, quadruped Pokemon that enjoys chasing after small creatures in the grass.",
+    "Make a Rock-type Pokemon with a rugged appearance and a playful personality for battling.",
+    "Give me a Pokemon that thrives in forests and mountains, showcasing its natural agility."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": "Blue"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy tail",
+      "Pointed ears",
+      "Large blue eyes",
+      "Short legs",
+      "Bark-like markings on face"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Ground",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Loyal",
+      "Energetic"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Rockruff/3.png",
+  "pokemon_name": "Rockruff"
+}

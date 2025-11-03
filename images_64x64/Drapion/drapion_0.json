@@ -1,0 +1,51 @@
+{
+  "prompts": [
+    "Create a poison and dark-type Pokemon that resembles a scorpion with a fierce appearance.",
+    "I want a Pokemon that combines the traits of a bug and a reptile, colored in vibrant purple and turquoise.",
+    "Generate an image of a Pokemon with a spiky back and pincers, showcasing a menacing look.",
+    "Make a Pokemon that thrives in urban environments, featuring shades of purple with hints of blue.",
+    "Imagine a Pokemon that's known for its stealthy and strategic combat style, with an intimidating design.",
+    "Design a creature that has an insectoid body shape and is primarily colored in dark hues.",
+    "Show me a Pokemon that has evolved from a smaller creature into a fearsome predator."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": null,
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Spiky appendages",
+      "Pincers",
+      "Segmented body",
+      "Fierce expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": "Dark",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Stealthy",
+      "Aggressive",
+      "Cunning"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Strategic"
+  },
+  "image_path": "images/Drapion/0.png",
+  "pokemon_name": "Drapion"
+}

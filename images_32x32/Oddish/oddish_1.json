@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a whimsical Pokemon that thrives in vibrant forests, with bright colors and playful features.",
+    "Imagine a grass-type Pokemon that has a round body and leafy appendages, perfect for blending into nature.",
+    "Show me a cute Pokemon resembling a small plant, with distinctive colors that stand out in a lush environment.",
+    "Generate a small, playful creature that embodies the essence of nature, with a charming smile and bright leaves.",
+    "Design a Pokemon with a blue spherical body and green leaves on top, showcasing its affinity for grasslands.",
+    "Give me a Pokemon that looks like a tiny bulb with cute features, living happily in the wild.",
+    "Make a character that can camouflage with leaves, has a round shape, and is known for its playful demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round body",
+      "Leafy top",
+      "Small limbs",
+      "Big eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Gentle",
+      "Curious"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Oddish/1.png",
+  "pokemon_name": "Oddish"
+}

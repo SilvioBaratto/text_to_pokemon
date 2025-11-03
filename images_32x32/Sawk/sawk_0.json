@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a blue humanoid Pokemon with martial arts attire and strong arms.",
+    "Show me a fighting-type Pokemon that embodies discipline and strength.",
+    "Imagine a bipedal Pokemon with a unique color scheme of blue and white.",
+    "Generate a character design for a Pokemon that excels in close combat.",
+    "Make a Pokemon that resembles a martial artist, focusing on agility and technique.",
+    "Design a fighting-type Pokemon that is tough and resilient in battle.",
+    "Give me a Pokemon that has a distinct look with a mix of blue and light colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Martial arts gi",
+      "Strong arms",
+      "Defined muscular build",
+      "Bipedal stance",
+      "Fist raised in a fighting pose"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Disciplined",
+      "Fierce",
+      "Determined"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Close combat"
+  },
+  "image_path": "images/Sawk/0.png",
+  "pokemon_name": "Sawk"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a small purple creature with large blue wings.",
+    "I want a character design for a mischievous bug-like Pokemon with a playful personality.",
+    "Generate a creature that has a unique blend of purple and blue colors along with sharp claws.",
+    "Make an image of a flying-type Pokemon that looks like a small, playful bat.",
+    "Imagine a Pokemon that thrives in forests and mountains, featuring vibrant purple and blue colors.",
+    "Design a small, winged creature with a crab-like appearance and energetic demeanor.",
+    "Show me a Pokemon that has a mix of insect and bat characteristics, perfect for a fantasy world."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large blue wings",
+      "Stinger-like tail",
+      "Crab-like claws",
+      "Rounded ears",
+      "Pointed fangs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ground",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Mischievous",
+      "Energetic"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Agile and evasive"
+  },
+  "image_path": "images/Gligar/1.png",
+  "pokemon_name": "Gligar"
+}

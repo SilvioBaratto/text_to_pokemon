@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that has a sleek design and vibrant colors.",
+    "Imagine a Pokemon that resembles a fish, with striking green and blue accents.",
+    "Show me a unique aquatic creature with distinct fins and a streamlined body.",
+    "Generate a Pokemon inspired by river fish, featuring a playful and curious demeanor.",
+    "Make a Pokemon that embodies the spirit of the ocean, with vivid colors and sharp features.",
+    "Design a Pokemon that swims gracefully, with patterns reminiscent of underwater flora.",
+    "Give me a depiction of a Pokemon that thrives in freshwater environments, showcasing its agility."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Streamlined body",
+      "Pointed fins",
+      "Large eyes",
+      "Sleek tail",
+      "Distinctive color patterns"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Fast and agile"
+  },
+  "image_path": "images/Basculin/1.png",
+  "pokemon_name": "Basculin"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a playful water-type Pokemon with blue and white patterns on its body.",
+    "Imagine a cute octopus-like Pokemon that has vibrant orange accents and big blue eyes.",
+    "Generate a small fighting-type Pokemon with distinct round limbs and a friendly expression.",
+    "Design a sea-dwelling Pokemon that features large, powerful arms and a cheerful demeanor.",
+    "Show me a medium-sized Pokemon that blends aquatic features with a touch of orange coloration.",
+    "Make a unique Pokemon inspired by ocean creatures, showcasing an adorable yet fierce appearance.",
+    "Give me a character design for a Pokemon known for its agility and playful nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Blue",
+      "accent": "Orange"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body shape",
+      "Large blue eyes",
+      "Prominent orange markings on head",
+      "Large, round arms",
+      "Playful stance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": "Water",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Agile",
+      "Friendly"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Close-range fighter"
+  },
+  "image_path": "images/Clobbopus/0.png",
+  "pokemon_name": "Clobbopus"
+}

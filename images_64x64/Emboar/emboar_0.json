@@ -1,0 +1,56 @@
+{
+  "prompts": [
+    "Create a powerful fire-type Pokemon with wild orange fur and fierce eyes.",
+    "I want a muscular Pokemon with a flaming mane and an intimidating stance.",
+    "Generate a creature with bold colors and a strong presence, perfect for battles.",
+    "Make a fire-themed Pokemon that has a unique swirling design on its body.",
+    "Imagine a bipedal Pokemon with fiery accents and a tough exterior.",
+    "Design a Pokemon that embodies strength and ferocity, with vibrant colors.",
+    "Show me a Pokemon that dominates the battlefield with its fiery spirit and robust build."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Orange",
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Black",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Flaming mane",
+      "Muscular build",
+      "Swirling patterns on belly",
+      "Prominent tusks",
+      "Thick arms"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Fighting",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Brave",
+      "Hot-headed",
+      "Passionate"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Emboar/0.png",
+  "pokemon_name": "Emboar"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a fluffy Pokemon that resembles a poodle with bright colors and a playful personality.",
+    "Imagine a Normal-type Pokemon with a stylish coat and a charming demeanor in an urban setting.",
+    "Generate a Pokemon that looks like a dog with elegant features and a vibrant color palette.",
+    "Show me a Pokemon that has a unique hairstyle and embodies a friendly companion in grasslands.",
+    "Design a Pokemon that combines cuteness with elegance, featuring pastel colors and a soft appearance.",
+    "Make a Normal-type Pokemon that has a sleek body and a cheerful expression, perfect for training.",
+    "Give me a Pokemon that stands out with a mix of colors and distinctive fluffy fur, ideal for contests."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Black",
+      "accent": "Blue"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy fur",
+      "Star-shaped tail",
+      "Stylish appearance",
+      "Blue accents on ears and tail",
+      "Elegant posture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Charming",
+      "Stylish"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Furfrou/5.png",
+  "pokemon_name": "Furfrou"
+}

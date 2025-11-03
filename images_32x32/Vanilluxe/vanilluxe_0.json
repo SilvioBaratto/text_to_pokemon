@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a winter-themed Pokemon that embodies the essence of frost and snow.",
+    "Imagine a dual-type ice and water Pokemon with a fluffy appearance.",
+    "Generate a Pokemon that resembles a snowman but has magical powers.",
+    "Design a Pokemon that can control blizzards and is known for its chilling presence.",
+    "Show me a cute ice-type Pokemon that is inspired by frozen desserts.",
+    "Make a Pokemon that has icy blue colors and is found in snowy regions.",
+    "I want a Pokemon that has a playful personality and resembles a snow cone."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Purple"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Blue",
+      "accent": "Purple"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Two cone-like structures on top",
+      "Facial expressions resembling happiness",
+      "Frosty, crystalline texture",
+      "Cloud-like bottom"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Cheerful",
+      "Mischievous"
+    ],
+    "habitat": "Tundra",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Vanilluxe/0.png",
+  "pokemon_name": "Vanilluxe"
+}

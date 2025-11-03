@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a dark-type Pokemon with sleek fur and sharp claws, ready to pounce on its prey.",
+    "Imagine a creature that embodies mischief, with shadowy wings and a mysterious aura.",
+    "Generate a Pokemon that dwells in the mountains, showcasing its agility and cunning demeanor.",
+    "Show me a Pokemon with an elegant silhouette, combining black and white colors for a striking appearance.",
+    "Design a Pokemon that thrives in the night, with piercing eyes and a haunting presence.",
+    "Make a mythical creature that is both feared and revered in lore, with unique and captivating features.",
+    "Give me a Pokemon that blends into the darkness, with accents that highlight its stealthy nature."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "White"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "White",
+      "accent": "Blue"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Curved, scythe-like horn",
+      "Distinctive blue markings",
+      "Large, feathery wings",
+      "Pointed ears",
+      "Tail resembling a crescent moon"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Mysterious",
+      "Loyal"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Stealth and ambush"
+  },
+  "image_path": "images/Absol/1.png",
+  "pokemon_name": "Absol"
+}

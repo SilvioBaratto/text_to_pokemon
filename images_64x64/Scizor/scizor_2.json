@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with metallic claws and vibrant red wings.",
+    "Imagine a powerful insect Pokemon with a sleek body and sharp features.",
+    "Design a Pokemon that resembles a robotic bug, showcasing its agility and strength.",
+    "Give me a Pokemon with impressive pincers that can cut through steel effortlessly.",
+    "Show me a Pokemon that thrives in forests, blending in with nature\u2019s colors.",
+    "Generate a Pokemon with a striking red color and a distinctive insectoid shape.",
+    "Make a Pokemon that looks intimidating with its fierce eyes and sharp appendages."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Black",
+      "accent": "Green"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Metallic pincers",
+      "Large wings",
+      "Sharp claws",
+      "Red exoskeleton",
+      "Green eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Steel",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Brave",
+      "Loyal",
+      "Aggressive"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Scizor/2.png",
+  "pokemon_name": "Scizor"
+}

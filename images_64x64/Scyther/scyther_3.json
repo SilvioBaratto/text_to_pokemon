@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with green skin and large wings that resemble a dragonfly.",
+    "Show me a fierce-looking Pokemon that combines speed and agility with sharp claws.",
+    "Imagine a Pokemon that thrives in forest environments and has a camouflaging ability.",
+    "Design a Pokemon with a sleek, aerodynamic body designed for high-speed aerial attacks.",
+    "Generate a Pokemon that is known for its swift movements and stealthy hunting techniques.",
+    "Give me a visual of a Pokemon with strikingly large blades for arms, perfect for battle.",
+    "Make a Pokemon that embodies the essence of a predatory insect, with vibrant colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large scythe-like arms",
+      "Wings resembling those of a mantis",
+      "Sharp, pointed antennae",
+      "Long, agile legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Swift",
+      "Predatory"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Fast attacker"
+  },
+  "image_path": "images/Scyther/3.png",
+  "pokemon_name": "Scyther"
+}

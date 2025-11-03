@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a plant-based Pokemon that thrives in lush environments with vibrant colors and unique features.",
+    "Show me a whimsical Pokemon with a bell shape and playful personality, perfect for a cartoon setting.",
+    "Imagine a Pokemon that uses its vines to ensnare opponents, featuring bright green and yellow colors.",
+    "Generate a creature that resembles a carnivorous plant, combining elements of cuteness and danger.",
+    "Make a Pokemon that evolves into something even more fearsome, yet retains its playful demeanor.",
+    "Design a Pokemon that blends into forest environments, showcasing its ability to camouflage among foliage.",
+    "Give me a unique Pokemon that has both plant and poison attributes, with an eye-catching design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Green"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Green",
+      "accent": "Brown"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Bell-shaped body",
+      "Curved, leafy appendages",
+      "Wide, expressive eyes",
+      "Vine-like structures"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Status infliction"
+  },
+  "image_path": "images/Weepinbell/1.png",
+  "pokemon_name": "Weepinbell"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon with a rugged appearance and strong defenses to protect its allies.",
+    "Imagine a Pokemon that thrives in mountainous regions, featuring sharp edges and a sturdy build.",
+    "Generate a creature with dark blue skin and vibrant orange accents, perfect for a battle-ready stance.",
+    "Show me a Pokemon that embodies resilience, with features resembling crystals and a fierce expression.",
+    "Design a Pokemon that can camouflage in rocky terrains, showcasing its ability to adapt.",
+    "Give me a Pokemon that has a sturdy and compact body, ideal for navigating through caves.",
+    "Make a Pokemon with a unique combination of colors that reflects its rocky habitat."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Orange",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Crystal-like protrusions",
+      "Yellow eyes",
+      "Compact body",
+      "Rugged texture",
+      "Triangular head shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Resilient",
+      "Sturdy",
+      "Protective"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Uncommon",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Boldore/0.png",
+  "pokemon_name": "Boldore"
+}

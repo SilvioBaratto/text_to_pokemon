@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon inspired by insects with a large, intimidating body and powerful pincers.",
+    "I want to design a Pokemon that embodies agility and strength, with vibrant orange and white colors.",
+    "Generate a creature that resembles an insect, featuring sharp claws and a unique body shape.",
+    "Make a Pokemon that is known for its fierce fighting style, showcasing bright colors and strong features.",
+    "Imagine a Pokemon that thrives in forest habitats, with distinct physical traits and a captivating appearance.",
+    "Show me an insectoid Pokemon with a blend of orange and white, featuring large claws and a strong stance.",
+    "Give me a visual of a bug-type Pokemon that showcases its power through its stance and colors."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "White"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "White",
+      "accent": "Black"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large pincers",
+      "Insect-like body",
+      "Strong legs",
+      "Curved horns",
+      "Exoskeleton appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Competitive",
+      "Determined"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Physical attacker"
+  },
+  "image_path": "images/Pinsir/2.png",
+  "pokemon_name": "Pinsir"
+}

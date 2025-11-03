@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with sleek, streamlined features and a blue and gray color scheme.",
+    "Imagine a prehistoric Pokemon with sharp claws and a brownish-orange shell design.",
+    "Show me a bipedal Pokemon that has a unique blend of rock and bug attributes.",
+    "Generate a Pokemon that resembles an ancient creature, featuring a mix of green and yellow shades.",
+    "Design a fossil Pokemon that thrives in both land and water environments, with striking color contrasts.",
+    "Make a Pokemon that embodies the essence of agility and stealth, with sharp, pointed features.",
+    "Give me a Pokemon that has a distinct exoskeleton, showcasing earthy tones and angular shapes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Green",
+      "accent": "Orange"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Clawed arms",
+      "Hard shell-like carapace",
+      "Long pointed head",
+      "Antenna-like protrusions",
+      "Segmented body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Bug",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Aggressive",
+      "Cunning",
+      "Stealthy"
+    ],
+    "habitat": "Cave",
+    "rarity": "Rare",
+    "combat_style": "Quick and agile strikes"
+  },
+  "image_path": "images/Kabutops/1.png",
+  "pokemon_name": "Kabutops"
+}

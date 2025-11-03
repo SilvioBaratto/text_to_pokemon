@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a cute grass-type Pokemon with a round body and a playful expression.",
+    "Imagine a small Pokemon that resembles a mushroom, featuring green and brown colors.",
+    "Show me a Pokemon that thrives in forest habitats, with unique leaf-like features.",
+    "Design a tiny Pokemon with a bumpy texture and a frown, perfect for a grass-type.",
+    "Give me a Pokemon that looks like a small creature from the woods, with spots on its body.",
+    "Generate a character that embodies the spirit of nature, with earthy colors and a round shape.",
+    "Make a Pokemon that could be mistaken for a plant, showing its shy personality clearly."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": "Black"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Mushroom cap-like head",
+      "Round body",
+      "Green spots",
+      "Frown expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Shy",
+      "Playful",
+      "Gentle"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Shroomish/1.png",
+  "pokemon_name": "Shroomish"
+}

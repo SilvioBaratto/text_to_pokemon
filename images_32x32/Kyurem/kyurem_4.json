@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Generate a legendary ice-type Pokemon with sharp, icy features and glowing blue patterns.",
+    "Imagine a powerful dragon that combines elements of steel and ice, with fierce wings and a majestic presence.",
+    "Create a Pokemon resembling a giant creature made of ice, showcasing vibrant accents and a formidable stance.",
+    "Design a mythical Pokemon that embodies the essence of winter, featuring intricate patterns and a mystical aura.",
+    "Make an imposing Pokemon that stands tall with a strong, muscular build, surrounded by a frost-like mist.",
+    "Show me a Pokemon that has a mix of ice and dragon traits, emphasizing its regal and intimidating nature.",
+    "Give me an image of a unique ice-type Pokemon that exhibits both elegance and strength in its design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Gray",
+      "accent": "Blue"
+    },
+    "body_shape": "Winged",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Ice-covered body",
+      "Dragon-like wings",
+      "Glowing blue accents",
+      "Sharp claws",
+      "Frosty breath"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": "Dragon",
+    "generation": 5,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Majestic",
+      "Intimidating"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Kyurem/4.png",
+  "pokemon_name": "Kyurem"
+}

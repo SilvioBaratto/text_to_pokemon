@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a cute Pokemon that has a fluffy appearance and is known for its soothing songs.",
+    "Imagine a Pokemon with large ears and a round, bouncy body that loves to nap.",
+    "Generate a whimsical creature that floats in the air and captivates others with its charm.",
+    "Make a Fairy-type Pokemon that has a playful nature and enjoys exploring forests.",
+    "Show me a Pokemon with pastel colors and a friendly demeanor that spreads happiness.",
+    "Design a Pokemon that can use sound waves to battle and has a fluffy tail.",
+    "Give me a Pokemon that resembles a plush toy and has a love for singing."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "White"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "White",
+      "accent": "Black"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large round ears",
+      "Fluffy body",
+      "Prominent pink nose",
+      "Big blue eyes",
+      "Small tuft of hair on top"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Cheerful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Wigglytuff/0.png",
+  "pokemon_name": "Wigglytuff"
+}

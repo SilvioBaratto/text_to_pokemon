@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon that has a vibrant yellow body and striking black stripes.",
+    "Imagine a small, playful Pokemon with rabbit-like ears and an affinity for generating electricity.",
+    "Design a bipedal creature with chunky arms and a mischievous expression, perfect for a children's cartoon.",
+    "Generate a Pokemon that loves to play in urban environments and has a sleek, energetic physique.",
+    "Show me a Pokemon with a unique electric power, featuring a bright color palette and round eyes.",
+    "Make a character based on a cute, yellow creature that sparks joy and energy wherever it goes.",
+    "Give me an adorable creature that resembles a mini robot, buzzing with electric energy."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Black",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large rabbit-like ears",
+      "Chunky arms with black stripes",
+      "Round eyes with a cheeky expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Mischievous"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Speed-focused"
+  },
+  "image_path": "images/Elekid/0.png",
+  "pokemon_name": "Elekid"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a playful puppy-like Pokemon that loves to run and electrify its surroundings.",
+    "Imagine an adorable Electric-type Pokemon that has a fluffy tail and a bright smile.",
+    "Show me a Pokemon that resembles a small dog, with a spark of energy in its eyes.",
+    "Design a cute, energetic Pokemon with yellow fur and a love for chasing after lightning.",
+    "Generate a fun-loving creature that embodies both electric energy and puppy-like charm.",
+    "Make a cheerful Electric-type Pokemon that enjoys playing in urban parks and grassy fields.",
+    "Give me a lively Pokemon that has a rounded body and a happy, wagging tail."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Brown"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Fluffy tail",
+      "Large ears",
+      "Playful expression",
+      "Electric sparks around body",
+      "Rounded body shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Loyal",
+      "Energetic"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Yamper/1.png",
+  "pokemon_name": "Yamper"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a mechanical Pokemon that has a shiny metallic body and gears for limbs.",
+    "Show me a Pokemon that resembles a robot with a sleek design and blue accents.",
+    "Imagine a steel-type Pokemon with intricate gear-like features and a vibrant color scheme.",
+    "Generate a Pokemon with a futuristic look, featuring sharp angles and a streamlined body.",
+    "Make a Pokemon that combines elements of machinery and nature, with a unique color palette.",
+    "Design a Pokemon that embodies the essence of technology, with spinning gears and bright colors.",
+    "Give me a Pokemon that looks like it's made of metal, with interesting shapes and patterns."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Blue",
+      "accent": "Red"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Two large gears",
+      "Central gear with a red accent",
+      "Silver metallic body",
+      "Blue circular elements"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Innovative",
+      "Determined",
+      "Mechanical"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Klinklang/1.png",
+  "pokemon_name": "Klinklang"
+}

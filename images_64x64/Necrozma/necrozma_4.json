@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a powerful Pokemon that harnesses the energy of light and shadows.",
+    "I want a mythical creature with a dazzling golden mane and sharp black claws.",
+    "Generate a legendary Pokemon that can bend light into different forms.",
+    "Make a unique Pokemon that has an elegant yet intimidating design.",
+    "Imagine a Pokemon that thrives in diverse habitats, from mountains to urban areas.",
+    "Design a creature that embodies both beauty and strength with radiant colors.",
+    "Give me a Pokemon that has a striking contrast of colors and a majestic presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Yellow",
+      "accent": "Gray"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Majestic golden mane",
+      "Sharp, elongated claws",
+      "Angular, prism-like body structure",
+      "Bright blue eyes",
+      "Large, menacing arms"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": "Steel",
+    "generation": 7,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mysterious",
+      "Powerful",
+      "Intelligent"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Necrozma/4.png",
+  "pokemon_name": "Necrozma"
+}

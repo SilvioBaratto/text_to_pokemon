@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a snowy creature with thick fur and large tusks, perfect for icy environments.",
+    "Imagine a Pokemon that resembles a woolly mammoth, featuring a brown body and white tusks.",
+    "Generate a character that can thrive in cold climates, with a bulky frame and a gentle demeanor.",
+    "Design a Pokemon with a fluffy exterior and strong physical attacks, suitable for battling.",
+    "Show me a creature that embodies the spirit of winter, with a round shape and prominent teeth.",
+    "Give me a Pokemon that resembles a prehistoric animal, showcasing a rugged appearance and tough skin.",
+    "Make a design for a Pokemon that loves to dig in the snow, with a unique ice type ability."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large tusks",
+      "Fluffy body fur",
+      "Small eyes",
+      "Rounded body shape",
+      "Short legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": "Ground",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Stubborn",
+      "Loyal"
+    ],
+    "habitat": "Tundra",
+    "rarity": "Rare",
+    "combat_style": "Physical"
+  },
+  "image_path": "images/Piloswine/0.png",
+  "pokemon_name": "Piloswine"
+}

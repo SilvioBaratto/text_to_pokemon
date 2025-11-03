@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a fierce fire-type Pokemon with a majestic mane and a playful personality.",
+    "Show me a Pokemon that resembles a dog, with striking orange and black stripes.",
+    "Design a Pokemon with a fluffy tail and a confident stance that embodies strength.",
+    "Imagine a creature that roams grassy plains, known for its loyalty and bravery.",
+    "Make a Pokemon that can unleash fire attacks and has a sleek, powerful build.",
+    "Generate an image of a noble-looking fire Pokemon with a friendly face.",
+    "Give me a Pokemon that thrives in forests and mountains, with a warm, fiery aura."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "Black"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "White",
+      "accent": "Black"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Fluffy mane",
+      "Curled tail",
+      "Striking stripes",
+      "Canine-like appearance",
+      "Sharp teeth"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Loyal",
+      "Brave",
+      "Playful"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Arcanine/2.png",
+  "pokemon_name": "Arcanine"
+}

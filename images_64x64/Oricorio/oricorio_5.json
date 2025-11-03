@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a flying-type Pokemon with bright blue feathers and an elegant dance-like stance.",
+    "Imagine a colorful bird Pokemon that can switch forms based on its environment.",
+    "Generate a whimsical Pokemon with a mix of flowing ribbons and vibrant plumage.",
+    "Make a tropical-themed Pokemon that showcases various colors and has a joyful personality.",
+    "Show me a graceful bird Pokemon that can perform amazing aerial acrobatics.",
+    "Design a Pokemon that embodies both beauty and agility, perfect for forest habitats.",
+    "Give me a unique Pokemon that combines elements of dance and avian features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Purple"
+    ],
+    "secondary_colors": [
+      "White",
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Purple",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long flowing wings",
+      "Colorful plumage",
+      "Elegant posture",
+      "Expressive facial features"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Flying",
+    "type2": "Psychic",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Joyful",
+      "Playful",
+      "Elegant"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Oricorio/5.png",
+  "pokemon_name": "Oricorio"
+}

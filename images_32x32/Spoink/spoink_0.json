@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a whimsical Pokemon that resembles a small round creature with a springy tail.",
+    "I want a playful and bouncy Pokemon that has a shiny pink orb on its head.",
+    "Generate a cute Pokemon that is gray and has a unique spiral tail.",
+    "Make a Pokemon with a soft, round body and a cheerful expression.",
+    "Imagine a Pokemon that loves to bounce around and has a spring-like feature.",
+    "Design a Pokemon that thrives in grassy areas and has a lighthearted personality.",
+    "Show me a Pokemon that has gray coloration and a distinctive pink accent."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Spring-like tail",
+      "Pink orb on head",
+      "Round body shape",
+      "Large expressive eyes",
+      "Bouncy appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Psychic",
+    "type2": null,
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Bouncy",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Spoink/0.png",
+  "pokemon_name": "Spoink"
+}

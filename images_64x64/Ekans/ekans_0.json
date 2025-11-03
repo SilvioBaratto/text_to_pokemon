@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a snake-like Pokemon that can blend into the grass with a purple and yellow color scheme.",
+    "I want a sneaky, serpentine creature that has shiny scales and can inflict poison on its enemies.",
+    "Generate a Pokemon that resembles a snake, with a smooth body and a mischievous personality.",
+    "Make a vivid purple Pokemon with a curled body and sharp fangs, ready to strike.",
+    "Imagine a stealthy Pokemon that thrives in urban environments and has a knack for escaping.",
+    "Design a snake Pokemon that uses its agility to outmaneuver opponents in battle.",
+    "Show me a Pokemon that has a striking golden collar and a long, slithering body."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Smooth, scaly body",
+      "Forked tongue",
+      "Curled tail",
+      "Golden collar",
+      "Wide mouth with fangs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Sneaky",
+      "Cunning",
+      "Curious"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Status Infliction"
+  },
+  "image_path": "images/Ekans/0.png",
+  "pokemon_name": "Ekans"
+}

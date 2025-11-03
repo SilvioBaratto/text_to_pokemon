@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that has a playful personality and a bright blue color scheme.",
+    "Make a Pokemon that resembles a crocodile with bright colors and an energetic demeanor.",
+    "Imagine a Pokemon that thrives in aquatic environments with vibrant scales and friendly behavior.",
+    "Generate a Pokemon design featuring a blue body with red accents, suitable for water battles.",
+    "Show me a creature that embodies the spirit of adventure, with a unique aquatic shape and colors.",
+    "Design a Pokemon that is both friendly and fierce, with a mix of blue and red hues.",
+    "Give me a water-type Pokemon that has a distinct, playful personality and stands out visually."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Spiky red dorsal fin",
+      "Large round body",
+      "Short arms and legs",
+      "Wide mouth with sharp teeth",
+      "Tail resembling a crocodile's"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Friendly"
+    ],
+    "habitat": "Wetland",
+    "rarity": "Common",
+    "combat_style": "Defensive and agile"
+  },
+  "image_path": "images/Croconaw/1.png",
+  "pokemon_name": "Croconaw"
+}

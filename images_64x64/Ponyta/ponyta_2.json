@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a graceful fire-type Pokemon that gallops through grassy fields at sunset.",
+    "Show me a majestic creature with fiery mane, perfect for a fantasy adventure.",
+    "Imagine a Pokemon that embodies the spirit of wild horses with a fiery twist.",
+    "Generate a stunning design for a fire-type Pokemon with flowing mane and hooves.",
+    "Make a vibrant fire Pokemon that can run swiftly across diverse terrains.",
+    "Design a Pokemon that resembles a galloping horse with a bright, fiery appearance.",
+    "Give me a concept for a Pokemon that thrives in warm, sunny environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": "Orange",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Flaming mane",
+      "Horse-like body",
+      "Elegant posture",
+      "Long legs",
+      "Bright eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Energetic",
+      "Loyal",
+      "Free-spirited"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Fast and agile"
+  },
+  "image_path": "images/Ponyta/2.png",
+  "pokemon_name": "Ponyta"
+}

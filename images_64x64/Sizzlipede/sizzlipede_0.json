@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a fiery Pokemon that resembles a caterpillar with vibrant red and black colors.",
+    "Imagine a Pokemon that has a serpentine body shape, with flames flickering at its head.",
+    "Generate a creature that thrives in caves, with a sleek design and a burning passion.",
+    "Design a small, fire-type Pokemon with a unique segmented body and striking yellow eyes.",
+    "Show me a Pokemon that combines elements of fire and bug, with a distinctively curled tail.",
+    "Give me an idea for a Pokemon with a fierce personality, known for its speed and agility.",
+    "Make a visual representation of a Pokemon that can be found in urban areas, showcasing its fiery spirit."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Segmented body",
+      "Flame-like head",
+      "Yellow eyes",
+      "Curled tail",
+      "Spiky texture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Bug",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fiery",
+      "Aggressive",
+      "Curious"
+    ],
+    "habitat": "Cave",
+    "rarity": "Common",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Sizzlipede/0.png",
+  "pokemon_name": "Sizzlipede"
+}

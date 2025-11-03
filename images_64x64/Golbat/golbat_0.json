@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a bat with vibrant blue and purple colors.",
+    "Imagine a flying-type creature with large wings and a mischievous grin.",
+    "Design a Pokemon that lives in caves and has a sleek, aerodynamic shape.",
+    "Give me a bat-like Pokemon with a unique ability to drain energy from opponents.",
+    "Generate an image of a dual-type Pokemon that embodies both poison and flying traits.",
+    "Show me a Pokemon that can be found in dark places and has a striking color palette.",
+    "Make a creature that combines the features of a bat and a mythical guardian."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Purple"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Purple",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Large wings",
+      "Fanged mouth",
+      "Pointed ears",
+      "Large, expressive eyes",
+      "Bat-like body structure"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Poison",
+    "type2": "Flying",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Agile",
+      "Curious"
+    ],
+    "habitat": "Cave",
+    "rarity": "Common",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Golbat/0.png",
+  "pokemon_name": "Golbat"
+}

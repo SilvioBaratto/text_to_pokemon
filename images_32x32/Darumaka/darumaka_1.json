@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a cheerful fire-type Pokemon that looks like a small red ball with a happy face.",
+    "I want a playful Pokemon that has bright orange colors and fluffy features.",
+    "Generate a fire Pokemon with a round body and energetic demeanor, perfect for battles.",
+    "Make a cute Pokemon that evolves into a larger fiery creature, with vibrant colors.",
+    "Imagine a Pokemon with fiery spirit and a charming smile, looking ready to play.",
+    "Design a small, fiery creature with a distinctive round shape and glowing eyes.",
+    "Show me a Pokemon that thrives in warm habitats and loves to play around."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Orange"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "White",
+      "accent": "Orange"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body shape",
+      "Happy facial expression",
+      "Fluffy texture",
+      "Small arms and legs",
+      "Bright color palette"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": null,
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Cheerful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Darumaka/1.png",
+  "pokemon_name": "Darumaka"
+}

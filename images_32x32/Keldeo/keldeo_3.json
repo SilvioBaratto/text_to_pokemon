@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon that resembles a horse and has a flowing mane.",
+    "I want a mythical creature that has a bright blue and red color scheme.",
+    "Generate an equine Pokemon with a majestic horn and elegant features.",
+    "Make a unique Pokemon that embodies both water and fighting elements.",
+    "Imagine a legendary Pokemon with a sleek body and a fiery mane.",
+    "Design a Pokemon that can thrive in both grasslands and mountainous regions.",
+    "Give me a Pokemon that is known for its agility and combat skills."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Red"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "White",
+      "accent": "Red"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Horse-like body",
+      "Flowing mane",
+      "Prominent horn",
+      "Elegant tail",
+      "Colorful markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Fighting",
+    "generation": 5,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Noble",
+      "Brave",
+      "Determined"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Agile and strategic"
+  },
+  "image_path": "images/Keldeo/3.png",
+  "pokemon_name": "Keldeo"
+}

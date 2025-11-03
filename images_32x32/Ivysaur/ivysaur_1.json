@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a plant-themed Pokemon with vibrant green leaves and a flower on its back.",
+    "I want a Pokemon that embodies nature with a sturdy body and a blooming bud.",
+    "Generate a creature resembling a dinosaur but with botanical elements and a friendly expression.",
+    "Make a unique Pokemon that combines plant and reptile features, showcasing a green color palette.",
+    "Imagine a Pokemon that thrives in forests, has green skin, and a flower as its highlight.",
+    "Design a Pokemon with a robust build, large leaves, and a pink flower atop its head.",
+    "Give me a Pokemon that looks like a mix of a lizard and a plant, with a gentle demeanor."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Blue",
+      "accent": "Pink"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large leaves on its back",
+      "A pink flower bud",
+      "Short, stout legs",
+      "Bulbous body",
+      "Bright eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Poison",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Friendly",
+      "Protective"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Ivysaur/1.png",
+  "pokemon_name": "Ivysaur"
+}

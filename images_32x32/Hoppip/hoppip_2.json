@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a cute, round Pokemon with pink body and green leaf accents.",
+    "Imagine a small Pokemon that loves to float in the air with cheerful expressions.",
+    "Generate a whimsical grass-type Pokemon with a playful personality and vibrant colors.",
+    "Design an adorable creature that thrives in sunny meadows and has a leaf on its head.",
+    "Show me a tiny Pokemon known for its joyful nature and connection to nature.",
+    "Make a Pokemon that resembles a fluffy ball with a green sprout on top.",
+    "Give me a Pokemon that embodies happiness and is often found in grassy areas."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round body shape",
+      "Leaf sprout on top of the head",
+      "Cheerful facial expression",
+      "Small size",
+      "Fluffy appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Flying",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Joyful",
+      "Playful",
+      "Carefree"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Hoppip/2.png",
+  "pokemon_name": "Hoppip"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a powerful fighting-type Pokemon with a sleek, muscular build and aggressive stance.",
+    "Show me a dual-type Pokemon that embodies strength and resilience, featuring dark and gray colors.",
+    "Imagine a Pokemon that combines elegance and ferocity, with striking black and yellow accents.",
+    "Generate a unique Pokemon design inspired by martial arts, showcasing fluid movements and dark hues.",
+    "Make a fierce bipedal Pokemon that stands out with its menacing appearance and sharp claws.",
+    "Give me a Pokemon with a combination of fighting and dark types, emphasizing its stealthy nature.",
+    "Design a legendary Pokemon that represents the spirit of combat, featuring intricate details and a bold color palette."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Gray",
+      "accent": "Yellow"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Muscular build",
+      "Melee combat stance",
+      "Distinctive fur patterns",
+      "Clawed hands",
+      "Facial markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fighting",
+    "type2": "Dark",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Determined",
+      "Strategic"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Aggressive melee"
+  },
+  "image_path": "images/Urshifu/1.png",
+  "pokemon_name": "Urshifu"
+}

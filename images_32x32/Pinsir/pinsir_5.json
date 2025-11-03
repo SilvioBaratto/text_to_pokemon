@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a strong bug-type Pokemon with large pincers and a vibrant color palette.",
+    "I want a Pokemon that embodies a fierce fighter with a tough exoskeleton and sharp claws.",
+    "Generate a creature with a robust physique and menacing appendages, perfect for battling.",
+    "Make a bug Pokemon that can thrive in diverse environments like forests and grasslands.",
+    "Imagine a Pokemon with an intimidating stance, showcasing its powerful pincers and muscular build.",
+    "Design a Pokemon that reflects agility and strength, featuring unique visual traits like wings.",
+    "Show me a bug-type Pokemon known for its competitive spirit and strategic combat style."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Black",
+      "accent": "Yellow"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large pincers",
+      "Horn-like protrusions",
+      "Muscular build",
+      "Wings",
+      "Compound eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Fighting",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Competitive",
+      "Aggressive",
+      "Determined"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Physical attacker"
+  },
+  "image_path": "images/Pinsir/5.png",
+  "pokemon_name": "Pinsir"
+}

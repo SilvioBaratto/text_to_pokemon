@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a water-type Pokemon with vibrant orange and white colors featuring striking fins.",
+    "Show me a Pokemon that resembles a fish but has unique horn-like structures on its head.",
+    "Design a Pokemon that is known for its swimming abilities and has a muscular body.",
+    "Imagine a legendary water creature that dominates aquatic battles with its powerful moves.",
+    "Generate a Pokemon that thrives in both freshwater and saltwater environments.",
+    "I want to see a Pokemon with a streamlined body shape and vivid colors, suitable for fast swimming.",
+    "Make a Pokemon that has a playful yet competitive personality, often found in deep waters."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Orange",
+      "White"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Orange",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long, pointed snout",
+      "Large dorsal fin",
+      "Prominent horns on the head",
+      "Streamlined body",
+      "Vibrant coloration"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Competitive",
+      "Energetic"
+    ],
+    "habitat": "Sea",
+    "rarity": "Common",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Seaking/1.png",
+  "pokemon_name": "Seaking"
+}

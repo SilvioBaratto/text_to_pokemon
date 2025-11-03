@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a dark-type Pokemon with a mischievous grin and a hulking silhouette.",
+    "Design a creature that blends shadows and brambles, showcasing vibrant green accents.",
+    "Imagine a Pokemon that embodies nighttime with a mix of purple and green colors.",
+    "Generate a muscular Pokemon that dwarfs its opponents with intimidating spikes.",
+    "Show me a fantasy creature that lurks in forests, radiating a sense of mystery.",
+    "Make a Pokemon with a playful demeanor, dressed in dark colors with glowing features.",
+    "Give me a bipedal creature that combines elements of mischief and strength in its design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Green",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Hulking muscular build",
+      "Long pointy ears",
+      "Spiky hair-like protrusions",
+      "Glowing red eyes",
+      "Green facial markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": "Fairy",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Playful",
+      "Intimidating"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Physical attacker with status effects"
+  },
+  "image_path": "images/Grimmsnarl/0.png",
+  "pokemon_name": "Grimmsnarl"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a pink Pokemon that looks like a cute round creature with a playful expression.",
+    "Imagine a small, fluffy Pokemon that brings joy and happiness to everyone around it.",
+    "Design a Pokemon with round features and a cheerful demeanor, perfect for a children's show.",
+    "Show me a delightful Normal-type Pokemon that resembles a baby and loves to play.",
+    "Generate a Pokemon with a soft, round body and a tiny hat that makes it look adorable.",
+    "Give me a whimsical creature that has a pink color scheme and a gentle, comforting vibe.",
+    "Make a Pokemon that embodies the spirit of friendship and is always eager to help others."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink"
+    ],
+    "secondary_colors": [
+      "White",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": "White",
+      "accent": "Red"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Round body shape",
+      "Small pink hat",
+      "Cheeks with rosy blush",
+      "Fluffy appearance",
+      "White collar around its waist"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Caring",
+      "Cheerful"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Common",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Happiny/1.png",
+  "pokemon_name": "Happiny"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Generate a Pokemon inspired by icy landscapes with a unique electric twist.",
+    "Create a creature that combines the traits of a dinosaur and a penguin, with bright colors.",
+    "Imagine a Pokemon with a snow-covered body and lightning-themed features.",
+    "Design a whimsical creature that thrives in cold climates and has an electric personality.",
+    "Make a Pokemon that resembles a mix between a sea creature and a snowy mountain dweller.",
+    "Show me a mythical Pokemon that can control ice and electricity, looking both playful and powerful.",
+    "Give me an idea for a Pokemon that is both cute and fierce, with distinctive icy spikes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Blue",
+      "accent": "Yellow"
+    },
+    "body_shape": "Aquatic",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Snowy body with an icy texture",
+      "Electric spikes on the head",
+      "Flippers resembling a penguin's",
+      "A large, round body",
+      "Bright yellow accents"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ice",
+    "type2": "Electric",
+    "generation": 8,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Curious"
+    ],
+    "habitat": "Tundra",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Arctozolt/0.png",
+  "pokemon_name": "Arctozolt"
+}

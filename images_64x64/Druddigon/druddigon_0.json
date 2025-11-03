@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon that has a fierce look and vibrant colors.",
+    "I want a Pokemon with a reptilian body and striking red and blue scales.",
+    "Generate a Pokemon that resembles a dinosaur with large wings and claws.",
+    "Make a powerful dragon-like creature with a tough exterior and sharp spikes.",
+    "Imagine a Pokemon that thrives in mountainous habitats with a striking color palette.",
+    "Design a fearsome dragon that combines agility with strength in battle.",
+    "Give me a Pokemon that embodies both ferocity and majesty in its appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Red",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Sharp claws",
+      "Spiked back",
+      "Large wings",
+      "Dragon-like face"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Determined",
+      "Protective"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Physical attacker"
+  },
+  "image_path": "images/Druddigon/0.png",
+  "pokemon_name": "Druddigon"
+}

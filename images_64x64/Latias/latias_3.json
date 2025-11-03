@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a dragon-type Pokemon with shimmering purple wings and a sleek body.",
+    "I want a psychic Pokemon that has a gentle personality and loves to fly high.",
+    "Generate a legendary Pokemon that can control the skies and has a beautiful silver sheen.",
+    "Make a flying-type Pokemon with a mysterious aura and graceful movements.",
+    "Imagine a mythical creature that can teleport and has vivid purple and white colors.",
+    "Design a Pokemon that embodies elegance and speed, with unique features like elongated fins.",
+    "Give me a rare flying Pokemon that thrives in mountainous regions and has psychic abilities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": null,
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Streamlined body",
+      "Large wings",
+      "Expressive eyes",
+      "Tail fins",
+      "Sleek design"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Psychic",
+    "generation": 3,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Playful",
+      "Protective"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Latias/3.png",
+  "pokemon_name": "Latias"
+}

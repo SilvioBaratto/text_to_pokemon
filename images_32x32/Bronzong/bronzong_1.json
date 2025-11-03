@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a mystical steel-type Pokemon with an ancient design and a serene expression.",
+    "Imagine a Pokemon that embodies the essence of tranquility and balance, with a metallic sheen.",
+    "Show me a unique dual-type Pokemon that features a blend of ancient architecture and nature.",
+    "Design a Pokemon that resembles a bell, with intricate patterns and a calming aura.",
+    "Generate a Pokemon that protects sacred places, featuring a robust body and a wise demeanor.",
+    "Make a Pokemon that thrives in mountainous regions, showcasing a harmonious blend of steel and nature.",
+    "I want a Pokemon that has an aura of protection, with a strong but peaceful presence."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Gray",
+      "accent": "Red"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Bell-shaped body",
+      "Red circular markings",
+      "Flat base",
+      "Metallic texture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Psychic",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Protective",
+      "Wise"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Bronzong/1.png",
+  "pokemon_name": "Bronzong"
+}

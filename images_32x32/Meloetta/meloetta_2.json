@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a musical Pokemon that can switch forms between different genres.",
+    "Imagine a graceful Pokemon with flowing hair and a charming demeanor.",
+    "Design a Fairy-type Pokemon that captivates others with its singing abilities.",
+    "Show me a Pokemon with a unique ability to influence emotions through music.",
+    "Generate a humanoid Pokemon that embodies both beauty and strength.",
+    "Make a Psychic-type Pokemon that loves to perform and entertain.",
+    "Give me a mysterious Pokemon that thrives in serene environments."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Green"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "White",
+      "accent": "Green"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long flowing hair",
+      "Musical note motif",
+      "Stylized dress",
+      "Elegant posture",
+      "Two-tone color scheme"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Psychic",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": true,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Charming",
+      "Playful",
+      "Mysterious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Meloetta/2.png",
+  "pokemon_name": "Meloetta"
+}

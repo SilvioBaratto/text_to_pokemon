@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a playful Normal-type Pokemon that resembles a furry animal with a long body.",
+    "Imagine a Pokemon that is small and agile, perfect for navigating through dense grass.",
+    "Show me a cute Pokemon with a blend of brown and cream colors, ideal for urban environments.",
+    "Generate a Pokemon with a distinctive striped pattern, known for its friendly nature and fast movements.",
+    "Make a design for a Pokemon that thrives in forest habitats and has a long, slender shape.",
+    "Give me an idea for a Pokemon that has a mischievous personality and is always on the move.",
+    "Design a Pokemon that looks like a small furry creature, capable of blending into its surroundings."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "White",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Long, slender body",
+      "Striped tail",
+      "Large, expressive eyes",
+      "Small rounded ears",
+      "Short legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Curious",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Speed-based"
+  },
+  "image_path": "images/Furret/0.png",
+  "pokemon_name": "Furret"
+}

@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon with striking yellow and black patterns across its body.",
+    "Generate a bipedal creature that has a playful personality and generates electricity.",
+    "Design a small-sized Pokemon that thrives in urban areas and loves to run fast.",
+    "Imagine a Pokemon with distinct lightning bolt designs and a mischievous grin.",
+    "Show me a unique electric Pokemon with two distinctive antennae and a vibrant color scheme.",
+    "Make a Pokemon that embodies energetic traits and can be found in grasslands and forests.",
+    "Give me a creature with a muscular build and electric abilities, ready for a fight."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Yellow",
+      "Black"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Yellow",
+      "secondary": null,
+      "accent": "Black"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Black stripes",
+      "Two antenna-like appendages",
+      "Muscular arms",
+      "Large, expressive eyes"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Mischievous"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Aggressive"
+  },
+  "image_path": "images/Electabuzz/2.png",
+  "pokemon_name": "Electabuzz"
+}

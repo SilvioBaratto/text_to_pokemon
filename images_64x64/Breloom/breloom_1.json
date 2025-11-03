@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a Pokemon that resembles a small dinosaur with green features and pink accents.",
+    "Show me a creature with a mushroom-like head and a playful demeanor.",
+    "Imagine a bipedal Pokemon that thrives in grassy environments and loves to battle.",
+    "Design a Pokemon with a unique blend of fighting and plant traits, ideal for forest adventures.",
+    "Give me a Pokemon that has a round body, is primarily green, and has bright pink extremities.",
+    "Generate an image of a small, agile Pokemon that uses its fists in combat.",
+    "Make a vibrant Pokemon that combines elements of nature with a fierce fighting spirit."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "White"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Pink",
+      "accent": "White"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Mushroom-like head",
+      "Pink flower-like appendages",
+      "Short arms with pink gloves",
+      "Green, leaf-like structure on the back",
+      "Furry body texture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": "Fighting",
+    "generation": 3,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Energetic",
+      "Fierce"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Breloom/1.png",
+  "pokemon_name": "Breloom"
+}

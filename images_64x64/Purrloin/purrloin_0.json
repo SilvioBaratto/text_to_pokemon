@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a sleek, dark-type Pokemon with agile movements and a mysterious aura.",
+    "I want a cute feline Pokemon that loves to sneak around and play tricks.",
+    "Generate a small, purple Pokemon that blends into shadowy environments.",
+    "Make a playful cat-like Pokemon that is known for its mischievous behavior.",
+    "Imagine a cunning Pokemon that has striking green eyes and a sly demeanor.",
+    "Design a Pokemon that thrives in urban settings and enjoys exploring alleys.",
+    "Show me a Pokemon that embodies stealth and agility with a purple color scheme."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Pink",
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Pink",
+      "accent": "Green"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Pointed ears",
+      "Long tail",
+      "Green eyes",
+      "Sleek body",
+      "Short legs"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dark",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cunning",
+      "Playful",
+      "Mischievous"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Stealth and agility"
+  },
+  "image_path": "images/Purrloin/0.png",
+  "pokemon_name": "Purrloin"
+}

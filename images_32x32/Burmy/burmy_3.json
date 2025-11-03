@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon that resembles a small plant with a hidden face.",
+    "Imagine a Pokemon that camouflages with its environment, like a walking bush.",
+    "Generate a grass-type Pokemon with a leaf-like body and a sneaky personality.",
+    "Design a Pokemon that thrives in forest habitats with a unique plant disguise.",
+    "Show me a Pokemon that embodies nature's stealth and can blend into the foliage.",
+    "Give me a Pokemon that uses its plant features to hide from predators.",
+    "Make a small, adorable bug Pokemon that looks like a bundle of leaves."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Gray"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Gray",
+      "accent": null
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Leaf-like appearance",
+      "Hidden eyes",
+      "Wavy, leaf-like structure on top",
+      "Small, rounded body",
+      "Legs that resemble stick-like appendages"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": "Grass",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Cautious",
+      "Stealthy",
+      "Adaptable"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Burmy/3.png",
+  "pokemon_name": "Burmy"
+}

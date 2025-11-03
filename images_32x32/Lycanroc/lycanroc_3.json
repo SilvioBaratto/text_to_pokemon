@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a rock-type Pokemon that resembles a loyal canine with a fierce gaze.",
+    "Imagine a Pokemon with a rugged appearance, perfect for mountainous terrain and moonlit nights.",
+    "Show me a Pokemon inspired by wolves, featuring striking fur patterns and a playful demeanor.",
+    "Generate a creature that thrives in rocky environments, has agile movements, and a strong protective instinct.",
+    "Design a Pokemon that embodies strength and loyalty, with sharp features and unique coloration.",
+    "Give me a Pokemon that looks like a wolf with rocky textures and a strong connection to nature.",
+    "Make a Pokemon that blends canine characteristics with rugged, earthy elements and a vibrant personality."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown",
+      "White"
+    ],
+    "secondary_colors": [
+      "Black"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Rocky fur texture",
+      "Pointed ears",
+      "Bright blue eyes",
+      "Tail with a fluffy tip",
+      "Strong musculature"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Loyal",
+      "Protective",
+      "Energetic"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Physical attacker"
+  },
+  "image_path": "images/Lycanroc/3.png",
+  "pokemon_name": "Lycanroc"
+}

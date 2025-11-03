@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon that resembles a snake with elegant green features.",
+    "Imagine a Pokemon that has a sleek, serpentine body and vibrant leaf-like patterns.",
+    "Show me a bipedal Pokemon with a mix of green and yellow accents that stands tall in the forest.",
+    "Generate a Pokemon with a slender shape and a unique tail that resembles vines.",
+    "Design a graceful, green Pokemon that thrives in grassy habitats and has a charming personality.",
+    "Make a Pokemon with a serpent-like appearance and distinctive leaf decorations.",
+    "Give me a description of a Pokemon that embodies nature with its green tones and elegant stance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Leaf-like tail",
+      "Elegant posture",
+      "Red eyes",
+      "Yellow collar-like feature",
+      "Vine-like appendages"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Calm",
+      "Intelligent",
+      "Gentle"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Swift and strategic"
+  },
+  "image_path": "images/Servine/0.png",
+  "pokemon_name": "Servine"
+}

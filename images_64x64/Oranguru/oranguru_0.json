@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a Normal-type Pokemon that resembles a wise primate with a green leafy accessory.",
+    "I want a Pokemon design featuring a bipedal creature with a purple cloak and a friendly demeanor.",
+    "Generate an image of a Pokemon that embodies intelligence and has an affinity for nature.",
+    "Imagine a Pokemon with gray fur and distinctive purple markings, sitting in a forest.",
+    "Design a Pokemon that enjoys meditation and has a laid-back personality, surrounded by trees.",
+    "Show me a Pokemon that combines a sage-like appearance with vibrant colors and a gentle expression.",
+    "Make a unique Normal-type Pokemon that showcases its wisdom through its physical features."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Green"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Green",
+      "accent": "Gray"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Long arms",
+      "Purple cloak-like fur",
+      "Green leaves in hand",
+      "Facial markings resembling wisdom",
+      "Sitting posture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Wise",
+      "Calm",
+      "Friendly"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Oranguru/0.png",
+  "pokemon_name": "Oranguru"
+}

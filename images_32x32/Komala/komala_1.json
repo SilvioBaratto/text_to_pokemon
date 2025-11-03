@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a cute, blue Normal-type Pokemon that loves to sleep and has a unique wooden log.",
+    "I want a small Pokemon that resembles a koala, featuring soft blue fur and a playful demeanor.",
+    "Generate an adorable Pokemon that carries a log, showcasing its relaxed personality and forest habitat.",
+    "Make a Pokemon design that emphasizes a sleepy koala-like creature with bright blue and brown colors.",
+    "Imagine a Pokemon that embodies a laid-back lifestyle, with features inspired by koalas and playful colors.",
+    "Design a Normal-type Pokemon with a round body and distinctive sleeping traits for its combat style.",
+    "Give me a Pokemon that represents tranquility, combining blue tones and a cute, cuddly appearance."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Brown",
+      "accent": null
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Koala-like appearance",
+      "Holds a wooden log",
+      "Round body",
+      "Big nose",
+      "Sleepy expression"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Laid-back",
+      "Sleepy",
+      "Gentle"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Komala/1.png",
+  "pokemon_name": "Komala"
+}

@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon with a flowing cape and mysterious aura.",
+    "Imagine a mystical creature that haunts old ruins and whispers secrets.",
+    "Generate a dark fairy Pokemon that plays tricks on unsuspecting travelers.",
+    "Show me a spectral Pokemon with glimmering eyes and a playful demeanor.",
+    "Design a Pokemon that embodies the essence of shadows and illusions.",
+    "Make a ghostly figure that can manipulate dreams and fears.",
+    "Give me a Pokemon that appears in moonlit nights, ethereal and enchanting."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Purple"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "Purple",
+      "secondary": "Pink",
+      "accent": null
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Flowing cape-like body",
+      "Red gem on chest",
+      "Pointed hat-like head",
+      "Mysterious glowing eyes",
+      "Ghostly, ethereal appearance"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Mysterious",
+      "Playful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Special Attacker"
+  },
+  "image_path": "images/Mismagius/1.png",
+  "pokemon_name": "Mismagius"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a unique dragon-type Pokemon with fiery armor and a spiky shell.",
+    "I want a turtle-like Pokemon that has vibrant yellow and red colors.",
+    "Generate a Pokemon with a tough exterior, resembling a volcano with flames.",
+    "Make a creature that combines dragon and turtle features, showcasing bold colors.",
+    "Imagine a Pokemon that can withstand heat, with a striking design and fiery elements.",
+    "Design a Pokemon with a shell that looks like a sunburst, full of color.",
+    "Give me a powerful fire/dragon Pokemon with a robust build and sharp spikes."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Red",
+      "Yellow"
+    ],
+    "secondary_colors": [
+      "Brown"
+    ],
+    "color_distribution": {
+      "primary": "Red",
+      "secondary": "Yellow",
+      "accent": "Brown"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Spiky shell resembling a volcano",
+      "Fiery patterns on the body",
+      "Unique head shape with prominent features"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fire",
+    "type2": "Dragon",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Stubborn",
+      "Protective",
+      "Fiery"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Defensive and offensive with fire-based attacks"
+  },
+  "image_path": "images/Turtonator/0.png",
+  "pokemon_name": "Turtonator"
+}

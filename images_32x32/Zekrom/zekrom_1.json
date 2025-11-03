@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a dragon-like Pokemon with dark colors and electric blue accents that can fly.",
+    "I want a legendary Pokemon that embodies the power of electricity and has a strong presence.",
+    "Generate a fierce-looking Pokemon with black scales and glowing blue markings on its body.",
+    "Make a powerful, bipedal Pokemon that commands respect and has a striking wingspan.",
+    "Imagine a mythical creature with a combination of dragon and electric type attributes.",
+    "Design a Pokemon that thrives in mountainous regions and has both intimidating and awe-inspiring features.",
+    "Show me a unique Pokemon that combines dark and electric elements in its design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black"
+    ],
+    "secondary_colors": [
+      "Blue"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Blue",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large wings",
+      "Electric blue markings",
+      "Robust physique",
+      "Pointed ears",
+      "Long tail"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Dragon",
+    "type2": "Electric",
+    "generation": 5,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Powerful",
+      "Majestic",
+      "Intimidating"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Zekrom/1.png",
+  "pokemon_name": "Zekrom"
+}

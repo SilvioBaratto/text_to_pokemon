@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a powerful Normal-type Pokemon that embodies strength and nurturing behaviors.",
+    "Show me a Pokemon with a motherly figure, featuring a baby in its pouch.",
+    "Design a Pokemon that is both fierce in battle and protective of its young.",
+    "Imagine a Pokemon that thrives in grassy environments and has a large, sturdy body.",
+    "Generate a Pokemon that blends a caring personality with formidable combat skills.",
+    "Make a Pokemon that has a unique pouch feature, symbolizing its nurturing nature.",
+    "Give me a Pokemon with brown fur and a strong build, perfect for a forest habitat."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Brown",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Large pouch on the belly",
+      "Strong arms and legs",
+      "Distinctive head shape with large ears",
+      "Baby Kangaskhan visible in the pouch",
+      "Robust and muscular build"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Protective",
+      "Nurturing",
+      "Strong"
+    ],
+    "habitat": "Grassland",
+    "rarity": "Rare",
+    "combat_style": "Balanced, focusing on both physical strength and defense"
+  },
+  "image_path": "images/Kangaskhan/1.png",
+  "pokemon_name": "Kangaskhan"
+}

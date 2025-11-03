@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a ghost-type Pokemon with a spooky aura and eerie glowing eyes.",
+    "I want a humanoid Pokemon that resembles a spirit with dark colors and unique patterns.",
+    "Generate a Pokemon that embodies the essence of the night with haunting features.",
+    "Make a large, intimidating Pokemon that has a blend of gray and yellow shades.",
+    "Imagine a creature that has an otherworldly presence, with arms outstretched as if beckoning.",
+    "Design a Pokemon that thrives in dark environments and has a mysterious aura.",
+    "Show me a ghostly figure that can float and has a unique, ominous design."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "Black"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Yellow",
+      "accent": null
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Glowing eyes",
+      "Outstretched arms",
+      "Mysterious markings",
+      "Ghostly appearance",
+      "Large, hollow torso"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Ghost",
+    "type2": "Dark",
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Mischievous",
+      "Mysterious",
+      "Ominous"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Dusknoir/0.png",
+  "pokemon_name": "Dusknoir"
+}

@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a fairy-type Pokemon with intricate designs and a magical aura.",
+    "Imagine a Pokemon that embodies elegance and grace, with shining features.",
+    "Generate a cute, humanoid Pokemon that has a whimsical nature and gentle demeanor.",
+    "Show me a mystical creature resembling a doll, with enchanting powers and delicate details.",
+    "Make a charming Pokemon that combines mechanical and natural elements in its design.",
+    "Design a Pokemon that thrives in urban settings, possessing a lively and friendly personality.",
+    "Give me a Pokemon with a unique blend of metallic and pastel colors, showcasing its fairy qualities."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "White",
+      "Gray"
+    ],
+    "secondary_colors": [
+      "Pink"
+    ],
+    "color_distribution": {
+      "primary": "White",
+      "secondary": "Pink",
+      "accent": "Gray"
+    },
+    "body_shape": "Humanoid",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Large expressive eyes",
+      "Metallic body parts",
+      "Fluffy skirt-like design",
+      "Rabbit-like ears",
+      "Intricate patterns on body"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Steel",
+    "type2": "Fairy",
+    "generation": 7,
+    "is_legendary": false,
+    "is_mythical": true,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Gentle",
+      "Curious",
+      "Playful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Magearna/0.png",
+  "pokemon_name": "Magearna"
+}

@@ -1,0 +1,53 @@
+{
+  "prompts": [
+    "Create a digital-themed Pokemon with vibrant colors and a sleek design.",
+    "Imagine a cute Pokemon that looks like a computer program come to life.",
+    "Generate a Pokemon that has a round body and a playful expression.",
+    "Design a Pokemon that combines elements of technology and nature.",
+    "Show me a Pokemon that represents innovation and creativity.",
+    "Make a Pokemon that can adapt and change its appearance based on its environment.",
+    "Give me a Pokemon that looks friendly and approachable, perfect for trainers."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Pink",
+      "Blue"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Pink",
+      "secondary": null,
+      "accent": "Blue"
+    },
+    "body_shape": "Amorphous",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Rounded body",
+      "Long tail",
+      "Large eyes",
+      "Small limbs",
+      "Blocky head"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": null,
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Friendly",
+      "Playful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Rare",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Porygon2/1.png",
+  "pokemon_name": "Porygon2"
+}

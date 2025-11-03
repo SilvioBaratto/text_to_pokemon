@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a flying-type Pokemon that has gray feathers and a cheerful demeanor.",
+    "I want a small bird Pokemon with a round body and a playful personality.",
+    "Generate a Pokemon design featuring soft colors and elegant wings, perfect for urban environments.",
+    "Make a cute Normal/Flying type with distinct yellow eyes and a friendly expression.",
+    "Imagine a Pidove-like creature that thrives in forests and has a gentle nature.",
+    "Design a Pokemon that resembles a pigeon, with a unique blend of gray and white colors.",
+    "Give me a small bird Pokemon that loves to explore urban landscapes and interact with people."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Gray",
+      "White"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Gray",
+      "secondary": "Yellow",
+      "accent": "White"
+    },
+    "body_shape": "Winged",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Round body",
+      "Wide wings",
+      "Yellow eye",
+      "Short legs",
+      "Soft feather texture"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Normal",
+    "type2": "Flying",
+    "generation": 5,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Friendly",
+      "Curious",
+      "Playful"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Supportive"
+  },
+  "image_path": "images/Pidove/1.png",
+  "pokemon_name": "Pidove"
+}

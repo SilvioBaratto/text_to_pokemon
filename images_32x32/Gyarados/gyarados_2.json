@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a fierce water-type Pokemon with long serpentine body and sharp fins.",
+    "I want to design a dragon-like Pokemon that has blue scales and white accents.",
+    "Generate a powerful Pokemon that resembles a sea serpent with a fierce expression.",
+    "Make a legendary creature with a majestic appearance and a blue and white color scheme.",
+    "Imagine a Pokemon that thrives in oceans, with large fins and a long, twisting body.",
+    "Show me a Pokemon with a fearsome demeanor and a beautiful aquatic design.",
+    "Give me a unique Pokemon that embodies the strength of the sea and has sharp teeth."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "White"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Yellow",
+      "accent": "White"
+    },
+    "body_shape": "Serpentine",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Long serpentine body",
+      "Sharp fins",
+      "Fierce face with sharp teeth",
+      "Long whiskers",
+      "Large dorsal fin"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Water",
+    "type2": "Dragon",
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Aggressive",
+      "Proud"
+    ],
+    "habitat": "Sea",
+    "rarity": "Rare",
+    "combat_style": "Physical Attacker"
+  },
+  "image_path": "images/Gyarados/2.png",
+  "pokemon_name": "Gyarados"
+}

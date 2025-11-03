@@ -1,0 +1,54 @@
+{
+  "prompts": [
+    "Create a majestic Pokemon with antlers and a vibrant rainbow tail.",
+    "I want a mythical creature that embodies life and nature with elegant features.",
+    "Generate a legendary Pokemon that can manipulate forest energies and light.",
+    "Make a graceful creature with a sleek body and colorful wings.",
+    "Imagine a Pokemon that represents harmony and balance in the ecosystem.",
+    "Design a fairy-type Pokemon with dazzling colors and a serene presence.",
+    "Show me a Pokemon with a strong connection to nature and mythical powers."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Blue",
+      "Black"
+    ],
+    "secondary_colors": [
+      "White"
+    ],
+    "color_distribution": {
+      "primary": "Blue",
+      "secondary": "Black",
+      "accent": "White"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Large",
+    "distinctive_features": [
+      "Colorful antlers resembling tree branches",
+      "Long, flowing tail",
+      "Sleek, black body",
+      "Radiant blue accents"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Fairy",
+    "type2": "Psychic",
+    "generation": 6,
+    "is_legendary": true,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Single"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Noble",
+      "Serene",
+      "Protective"
+    ],
+    "habitat": "Forest",
+    "rarity": "Rare",
+    "combat_style": "Support"
+  },
+  "image_path": "images/Xerneas/3.png",
+  "pokemon_name": "Xerneas"
+}

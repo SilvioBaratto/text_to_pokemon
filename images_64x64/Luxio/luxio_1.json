@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create an electric-type Pokemon with sleek black fur and bright blue accents.",
+    "I want a Pokemon that has a star-shaped tail and striking yellow eyes.",
+    "Generate a unique bipedal creature that blends elements of feline and electric.",
+    "Make a small, agile Pokemon that thrives in urban environments with vibrant colors.",
+    "Imagine a Pokemon that has distinctive yellow stripes and a playful demeanor.",
+    "Design an electric feline Pokemon that can navigate through both grasslands and caves.",
+    "Show me a Pokemon with a spiky tail and a combination of blue and black fur."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Black",
+      "Blue"
+    ],
+    "secondary_colors": [
+      "Yellow"
+    ],
+    "color_distribution": {
+      "primary": "Black",
+      "secondary": "Blue",
+      "accent": "Yellow"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Small",
+    "distinctive_features": [
+      "Star-shaped tail",
+      "Large ears",
+      "Bright yellow eyes",
+      "Spiky fur",
+      "Black and blue coloration"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Electric",
+    "type2": null,
+    "generation": 4,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Loyal",
+      "Curious"
+    ],
+    "habitat": "Urban",
+    "rarity": "Common",
+    "combat_style": "Speed-oriented"
+  },
+  "image_path": "images/Luxio/1.png",
+  "pokemon_name": "Luxio"
+}

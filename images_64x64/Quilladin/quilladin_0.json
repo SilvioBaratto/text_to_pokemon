@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a grass-type Pokemon with a spiky, green body and a cheerful expression.",
+    "I want a Pokemon that resembles a hedgehog, with earthy colors and playful features.",
+    "Generate a creature that has a round shape and vibrant green accents all over its body.",
+    "Make a Pokemon that looks like a small, friendly bush with big eyes and a smile.",
+    "Imagine a Pokemon that combines elements of nature and has a strong, sturdy appearance.",
+    "Design a playful Pokemon that can blend into forest environments with its leafy features.",
+    "Show me a Pokemon that has a unique shape and bright colors, perfect for a nature-themed game."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Brown"
+    ],
+    "secondary_colors": [
+      "Orange"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Brown",
+      "accent": "Orange"
+    },
+    "body_shape": "Bipedal",
+    "size_class": "Medium",
+    "distinctive_features": [
+      "Spiky green back",
+      "Round body",
+      "Cheerful expression",
+      "Leafy accents",
+      "Wide smile"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Grass",
+    "type2": null,
+    "generation": 6,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": true,
+    "evolution_stage": "Middle"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Playful",
+      "Friendly",
+      "Protective"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Quilladin/0.png",
+  "pokemon_name": "Quilladin"
+}

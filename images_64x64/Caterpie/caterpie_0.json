@@ -1,0 +1,52 @@
+{
+  "prompts": [
+    "Create a bug-type Pokemon with bright green skin and a cheerful expression.",
+    "Imagine a tiny caterpillar Pokemon that blends into grassy environments.",
+    "Design a Pokemon that evolves into a beautiful butterfly, starting as a small green worm.",
+    "Show me a Pokemon that loves to munch on leaves and is often found in forests.",
+    "Generate a cute bug-type Pokemon with a round body and large, expressive eyes.",
+    "Make a visual concept of a Pokemon that can camouflage with its surroundings.",
+    "Give me an idea for a beginner's Pokemon that is friendly and easy to train."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green",
+      "Yellow"
+    ],
+    "secondary_colors": [],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": null,
+      "accent": "Yellow"
+    },
+    "body_shape": "Insectoid",
+    "size_class": "Tiny",
+    "distinctive_features": [
+      "Large, expressive eyes",
+      "Red antennae",
+      "Segmented body",
+      "Soft, rounded shape"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Bug",
+    "type2": null,
+    "generation": 1,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Basic"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Curious",
+      "Gentle",
+      "Playful"
+    ],
+    "habitat": "Forest",
+    "rarity": "Common",
+    "combat_style": "Defensive"
+  },
+  "image_path": "images/Caterpie/0.png",
+  "pokemon_name": "Caterpie"
+}

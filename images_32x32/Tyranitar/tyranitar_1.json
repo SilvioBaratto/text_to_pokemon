@@ -1,0 +1,55 @@
+{
+  "prompts": [
+    "Create a powerful dinosaur-like Pokemon that thrives in mountainous terrains.",
+    "I want a Pokemon that has a spiky, armored body and can unleash dark energy.",
+    "Generate a massive creature with green scales and a fierce roar for battle.",
+    "Make a Pokemon that resembles a Tyrannosaurus with additional dragon-like features.",
+    "Imagine a towering beast with sharp spikes and a menacing presence in forests.",
+    "Design a Pokemon that can blend into its surroundings with a camouflaged design.",
+    "Give me a Pokemon that can easily intimidate opponents with its size and ferocity."
+  ],
+  "visual_attributes": {
+    "primary_colors": [
+      "Green"
+    ],
+    "secondary_colors": [
+      "Black",
+      "Red"
+    ],
+    "color_distribution": {
+      "primary": "Green",
+      "secondary": "Black",
+      "accent": "Red"
+    },
+    "body_shape": "Quadruped",
+    "size_class": "Huge",
+    "distinctive_features": [
+      "Spiky back",
+      "Armored body",
+      "Large claws",
+      "Sharp teeth",
+      "Glowing red markings"
+    ]
+  },
+  "categorical_attributes": {
+    "type1": "Rock",
+    "type2": "Dark",
+    "generation": 2,
+    "is_legendary": false,
+    "is_mythical": false,
+    "is_starter": false,
+    "evolution_stage": "Final"
+  },
+  "semantic_attributes": {
+    "personality_traits": [
+      "Fierce",
+      "Intimidating",
+      "Stubborn"
+    ],
+    "habitat": "Mountain",
+    "rarity": "Rare",
+    "combat_style": "Offensive"
+  },
+  "image_path": "images/Tyranitar/1.png",
+  "pokemon_name": "Tyranitar"
+}
