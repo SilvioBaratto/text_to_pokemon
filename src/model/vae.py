@@ -120,10 +120,13 @@ class Encoder(nn.Module):
         self.fc_mu = nn.Linear(hidden_dim, latent_dim)
         self.fc_logvar = nn.Linear(hidden_dim, latent_dim)
 
-        nn.init.xavier_normal_(self.fc_mu.weight, gain=1.0)
+        # Initialize mu to output small values close to 0
+        nn.init.xavier_normal_(self.fc_mu.weight, gain=0.01)
         nn.init.constant_(self.fc_mu.bias, 0.0)
-        nn.init.xavier_normal_(self.fc_logvar.weight, gain=1.0)
-        nn.init.constant_(self.fc_logvar.bias, 0.0)
+
+        # Initialize logvar to output small negative values (var ≈ 0.05-0.5)
+        nn.init.xavier_normal_(self.fc_logvar.weight, gain=0.01)
+        nn.init.constant_(self.fc_logvar.bias, -3.0)
 
     def forward(self, x: torch.Tensor, condition: torch.Tensor) -> Tuple[torch.Tensor, torch.Tensor]:
         """
