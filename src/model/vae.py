@@ -116,12 +116,12 @@ class Encoder(nn.Module):
         combined_dim = conv_output_dim + condition_dim
 
         self.fc1 = nn.Linear(combined_dim, hidden_dim)
+        self.fc1_norm = nn.LayerNorm(hidden_dim)  # Normalize activations
         self.dropout = nn.Dropout(config.DROPOUT_RATE)
         self.fc_mu = nn.Linear(hidden_dim, latent_dim)
         self.fc_logvar = nn.Linear(hidden_dim, latent_dim)
 
-        # Use PyTorch default initialization (no custom init)
-        # Apply small scaling to weights for stable initial KL
+        # Use PyTorch default initialization with small scaling
         with torch.no_grad():
             self.fc_mu.weight.mul_(0.01)
             self.fc_logvar.weight.mul_(0.01)
@@ -148,7 +148,9 @@ class Encoder(nn.Module):
         h = h.view(batch_size, -1)
         combined = torch.cat([h, condition], dim=1)
 
-        h = F.gelu(self.fc1(combined))
+        h = self.fc1(combined)
+        h = self.fc1_norm(h)  # Normalize before activation
+        h = F.gelu(h)
         h = self.dropout(h)
 
         mu = self.fc_mu(h)
