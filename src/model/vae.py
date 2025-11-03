@@ -121,11 +121,7 @@ class Encoder(nn.Module):
         self.fc_mu = nn.Linear(hidden_dim, latent_dim)
         self.fc_logvar = nn.Linear(hidden_dim, latent_dim)
 
-        # Use PyTorch default initialization with small scaling
-        with torch.no_grad():
-            self.fc_mu.weight.mul_(0.01)
-            self.fc_logvar.weight.mul_(0.01)
-            self.fc_logvar.bias.fill_(-3.0)
+        # No custom initialization - use PyTorch defaults
 
     def forward(self, x: torch.Tensor, condition: torch.Tensor) -> Tuple[torch.Tensor, torch.Tensor]:
         """
