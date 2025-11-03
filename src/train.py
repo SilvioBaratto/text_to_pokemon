@@ -135,8 +135,17 @@ def train_epoch(
     batch_pbar.close()
 
     n_batches = len(train_loader)
-    return (total_loss / n_batches, total_l1 / n_batches,
-            total_kl / n_batches, total_perceptual / n_batches)
+    avg_loss = total_loss / n_batches
+    avg_l1 = total_l1 / n_batches
+    avg_kl = total_kl / n_batches
+    avg_perceptual = total_perceptual / n_batches
+
+    # Debug: print to verify averaging
+    if not hasattr(train_epoch, '_debug_printed'):
+        print(f"\n[DEBUG train_epoch] n_batches={n_batches}, total_kl={total_kl:.2f}, avg_kl={avg_kl:.4f}")
+        train_epoch._debug_printed = True
+
+    return (avg_loss, avg_l1, avg_kl, avg_perceptual)
 
 
 def evaluate(
@@ -208,8 +217,17 @@ def evaluate(
     batch_pbar.close()
 
     n_batches = len(test_loader)
-    return (total_loss / n_batches, total_l1 / n_batches,
-            total_kl / n_batches, total_perceptual / n_batches)
+    avg_loss = total_loss / n_batches
+    avg_l1 = total_l1 / n_batches
+    avg_kl = total_kl / n_batches
+    avg_perceptual = total_perceptual / n_batches
+
+    # Debug: print to verify averaging
+    if not hasattr(evaluate, '_debug_printed'):
+        print(f"\n[DEBUG evaluate] n_batches={n_batches}, total_kl={total_kl:.2f}, avg_kl={avg_kl:.4f}")
+        evaluate._debug_printed = True
+
+    return (avg_loss, avg_l1, avg_kl, avg_perceptual)
 
 
 def main() -> None:
