@@ -48,14 +48,14 @@ WARMUP_EPOCHS = 10
 
 # Loss Weights - CHANGED
 PERCEPTUAL_LOSS_WEIGHT = 1.0    # New: explicit weight for perceptual loss
-KL_BASE_WEIGHT = 1.0             # Changed from 8.0 - standard β-VAE weight
+KL_BASE_WEIGHT = 0.1             # Reduced from 1.0 - prevents KL explosion (effective: 0.1 * 64/12288 ≈ 0.0005)
 USE_NORMALIZED_KL = True         # New: enable dimension-aware KL weighting
 
 
 # KL Divergence Annealing - CHANGED
 KL_ANNEALING_TYPE: Literal["cyclical", "linear", "monotonic"] = "monotonic"  # Changed from "cyclical"
 KL_CYCLE_EPOCHS = 50             # Unchanged (for future cyclical experiments)
-KL_WARMUP_EPOCHS = 50            # Changed from 0 - gradual warmup prevents spikes
+KL_WARMUP_EPOCHS = 100           # Increased from 50 - slower warmup prevents KL explosion
 
 
 # Perceptual Loss
