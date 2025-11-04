@@ -101,3 +101,9 @@ training_losses.csv
 *.tmp
 *.bak
 *.swp
+
+# Debug and test scripts
+debug_*.py
+test_*.py
+*_debug.py
+*_test.py

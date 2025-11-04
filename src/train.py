@@ -140,11 +140,6 @@ def train_epoch(
     avg_kl = total_kl / n_batches
     avg_perceptual = total_perceptual / n_batches
 
-    # Debug: print to verify averaging
-    if not hasattr(train_epoch, '_debug_printed'):
-        print(f"\n[DEBUG train_epoch] n_batches={n_batches}, total_kl={total_kl:.2f}, avg_kl={avg_kl:.4f}")
-        train_epoch._debug_printed = True
-
     return (avg_loss, avg_l1, avg_kl, avg_perceptual)
 
 
@@ -221,11 +216,6 @@ def evaluate(
     avg_l1 = total_l1 / n_batches
     avg_kl = total_kl / n_batches
     avg_perceptual = total_perceptual / n_batches
-
-    # Debug: print to verify averaging
-    if not hasattr(evaluate, '_debug_printed'):
-        print(f"\n[DEBUG evaluate] n_batches={n_batches}, total_kl={total_kl:.2f}, avg_kl={avg_kl:.4f}")
-        evaluate._debug_printed = True
 
     return (avg_loss, avg_l1, avg_kl, avg_perceptual)
 
@@ -436,6 +426,7 @@ def main() -> None:
     print(f"  Batch size: {batch_size}")
     print(f"  Learning rate: {config.LEARNING_RATE}")
     print(f"  LR scheduler: Cosine annealing")
+    print(f"  Early stopping: {config.EARLY_STOP_PATIENCE} epochs patience")
     print(f"  KL annealing: {config.KL_ANNEALING_TYPE}")
     if config.KL_ANNEALING_TYPE == 'cyclical':
         print(f"  KL cycle: {config.KL_CYCLE_EPOCHS} epochs")
@@ -443,6 +434,7 @@ def main() -> None:
     print(f"  Conditioning dims: {config.TOTAL_CONDITION_DIM}")
 
     best_val_loss = float('inf')
+    epochs_without_improvement = 0
 
     train_losses = {'total': [], 'l1': [], 'kl': [], 'perceptual': []}
     val_losses = {'total': [], 'l1': [], 'kl': [], 'perceptual': []}
@@ -528,8 +520,18 @@ def main() -> None:
 
         if val_loss < best_val_loss:
             best_val_loss = val_loss
+            epochs_without_improvement = 0
             best_path = os.path.join(config.CHECKPOINT_DIR, 'best_model_pokemon.pt')
             save_checkpoint(model, optimizer, epoch, val_loss, best_path)
+            tqdm.write(f"✓ New best validation loss: {val_loss:.2f}")
+        else:
+            epochs_without_improvement += 1
+            if epochs_without_improvement >= config.EARLY_STOP_PATIENCE:
+                tqdm.write(f"\n{'='*80}")
+                tqdm.write(f"Early stopping triggered after {config.EARLY_STOP_PATIENCE} epochs without improvement")
+                tqdm.write(f"Best validation loss: {best_val_loss:.2f}")
+                tqdm.write(f"{'='*80}\n")
+                break
 
     epoch_pbar.close()
     csv_file.close()

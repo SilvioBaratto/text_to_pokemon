@@ -116,7 +116,7 @@ class Encoder(nn.Module):
         combined_dim = conv_output_dim + condition_dim
 
         self.fc1 = nn.Linear(combined_dim, hidden_dim)
-        self.fc1_norm = nn.LayerNorm(hidden_dim)  # Normalize activations
+        self.fc1_norm = nn.LayerNorm(hidden_dim) 
         self.dropout = nn.Dropout(config.DROPOUT_RATE)
         self.fc_mu = nn.Linear(hidden_dim, latent_dim)
         self.fc_logvar = nn.Linear(hidden_dim, latent_dim)
@@ -145,15 +145,12 @@ class Encoder(nn.Module):
         combined = torch.cat([h, condition], dim=1)
 
         h = self.fc1(combined)
-        h = self.fc1_norm(h)  # Normalize before activation
+        h = self.fc1_norm(h)  
         h = F.gelu(h)
         h = self.dropout(h)
 
         mu = self.fc_mu(h)
         logvar = self.fc_logvar(h)
-
-        # Clamp logvar to prevent numerical instability and KL explosion
-        # logvar in [-10, 5] means variance in [exp(-10), exp(5)] ≈ [0.00005, 148]
         logvar = torch.clamp(logvar, min=-10.0, max=5.0)
 
         return mu, logvar
@@ -418,30 +415,22 @@ def loss_function(
     """
     batch_size = recon_x.size(0)
 
-    # L1 Reconstruction Loss (mean reduction for batch-size invariance)
     l1_loss = F.l1_loss(recon_x, x, reduction='mean')
 
-    # Perceptual Loss (LPIPS) - already returns mean
     perceptual_loss = torch.tensor(0.0, device=recon_x.device)
     if perceptual_loss_model is not None:
         recon_img = recon_x.view(batch_size, config.IMAGE_CHANNELS, config.IMAGE_SIZE, config.IMAGE_SIZE)
         target_img = x.view(batch_size, config.IMAGE_CHANNELS, config.IMAGE_SIZE, config.IMAGE_SIZE)
         perceptual_loss = perceptual_loss_model(recon_img, target_img)
 
-    # KL Divergence (mean reduction for batch-size invariance)
-    # Standard VAE formulation: sum over latent dims per sample, then mean over batch
     kl_per_sample = -0.5 * torch.sum(1 + logvar - mu.pow(2) - logvar.exp(), dim=1)
     kl_loss = torch.mean(kl_per_sample)
 
-    # Compute KL weight with optional dimensionality normalization
     if config.USE_NORMALIZED_KL:
-        # Normalize by ratio of latent to input dimensions
-        # This accounts for the fact that KL naturally scales with latent_dim
         kl_weight = config.KL_BASE_WEIGHT * (config.LATENT_DIM / config.INPUT_DIM)
     else:
         kl_weight = config.KL_BASE_WEIGHT
 
-    # Total Loss: reconstruction + perceptual + annealed KL
     total_loss = (
         l1_loss +
         config.PERCEPTUAL_LOSS_WEIGHT * perceptual_loss +

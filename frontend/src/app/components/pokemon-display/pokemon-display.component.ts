@@ -1,5 +1,5 @@
 import { Component, signal, input, effect } from '@angular/core';
-import { CommonModule } from '@angular/common';
+import { CommonModule, DecimalPipe, DatePipe } from '@angular/common';
 
 export interface PokemonGeneration {
   image: string;
@@ -13,7 +13,7 @@ export interface PokemonGeneration {
 @Component({
   selector: 'app-pokemon-display',
   standalone: true,
-  imports: [CommonModule],
+  imports: [CommonModule, DecimalPipe, DatePipe],
   templateUrl: './pokemon-display.component.html'
 })
 export class PokemonDisplayComponent {

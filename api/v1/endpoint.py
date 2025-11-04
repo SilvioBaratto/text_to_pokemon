@@ -305,7 +305,7 @@ def generate_pokemon_image(prompt: str, num_samples: int = 1) -> np.ndarray:
     with torch.no_grad():
         generated = model.generate(condition, num_samples=num_samples)
 
-    generated_images = generated.view(num_samples, 3, 32, 32)
+    generated_images = generated.view(num_samples, 3, config.IMAGE_SIZE, config.IMAGE_SIZE)
     generated_images = generated_images.cpu().numpy()
 
     generated_images = (generated_images + 1.0) / 2.0
@@ -323,12 +323,13 @@ def generate_pokemon_image(prompt: str, num_samples: int = 1) -> np.ndarray:
         return generated_images[0]
     else:
         grid_size = int(np.ceil(np.sqrt(num_samples)))
-        grid = np.zeros((grid_size * 32, grid_size * 32, 3), dtype=np.uint8) + 255
+        img_size = config.IMAGE_SIZE
+        grid = np.zeros((grid_size * img_size, grid_size * img_size, 3), dtype=np.uint8) + 255
 
         for idx in range(num_samples):
             row = idx // grid_size
             col = idx % grid_size
-            grid[row*32:(row+1)*32, col*32:(col+1)*32] = generated_images[idx]
+            grid[row*img_size:(row+1)*img_size, col*img_size:(col+1)*img_size] = generated_images[idx]
 
         return grid
 
@@ -408,7 +409,7 @@ async def generate_progressive_images(prompt: str, num_steps: int = 5):
 
             generated = model.decoder(z_noisy, condition)
 
-            generated_image = generated.view(1, 3, 32, 32)
+            generated_image = generated.view(1, 3, config.IMAGE_SIZE, config.IMAGE_SIZE)
             generated_image = generated_image.cpu().numpy()
 
             generated_image = (generated_image + 1.0) / 2.0

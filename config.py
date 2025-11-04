@@ -9,16 +9,16 @@ import torch
 from typing import Literal
 
 
-# Model Architecture - CHANGED
-LATENT_DIM = 64          # Changed from 256 - better compression ratio
-HIDDEN_DIM = 256         # Changed from 512 - proportional reduction
-INPUT_DIM = 12288        # Unchanged
-IMAGE_SIZE = 64          # Unchanged
-IMAGE_CHANNELS = 3       # Unchanged
-DROPOUT_RATE = 0.0       # Unchanged
+# Model Architecture
+LATENT_DIM = 64
+HIDDEN_DIM = 256
+INPUT_DIM = 12288
+IMAGE_SIZE = 64
+IMAGE_CHANNELS = 3
+DROPOUT_RATE = 0.0
 
 
-# Text and Attribute Conditioning - UNCHANGED
+# Text and Attribute Conditioning
 TEXT_EMBEDDING_DIM = 768
 CATEGORICAL_EMBEDDING_DIM = 64
 TOTAL_CONDITION_DIM = TEXT_EMBEDDING_DIM + CATEGORICAL_EMBEDDING_DIM
@@ -34,7 +34,7 @@ NUM_EVOLUTION_STAGES = 6
 NUM_HABITATS = 10
 
 
-# Training Hyperparameters - UNCHANGED
+# Training Hyperparameters
 BATCH_SIZE = 128
 NUM_EPOCHS = 300
 LEARNING_RATE = 1e-4
@@ -46,16 +46,16 @@ LR_SCHEDULE: Literal["cosine_with_warmup"] = "cosine_with_warmup"
 WARMUP_EPOCHS = 10
 
 
-# Loss Weights - CHANGED
-PERCEPTUAL_LOSS_WEIGHT = 1.0    # New: explicit weight for perceptual loss
-KL_BASE_WEIGHT = 0.01            # Very small weight - let model learn naturally
-USE_NORMALIZED_KL = False        # Disabled: simpler, no dimension scaling
+# Loss Weights
+PERCEPTUAL_LOSS_WEIGHT = 1.0
+KL_BASE_WEIGHT = 0.01
+USE_NORMALIZED_KL = False
 
 
-# KL Divergence Annealing - CHANGED
-KL_ANNEALING_TYPE: Literal["cyclical", "linear", "monotonic"] = "monotonic"  # Changed from "cyclical"
-KL_CYCLE_EPOCHS = 50             # Unchanged (for future cyclical experiments)
-KL_WARMUP_EPOCHS = 100           # Increased from 50 - slower warmup prevents KL explosion
+# KL Divergence Annealing
+KL_ANNEALING_TYPE: Literal["cyclical", "linear", "monotonic"] = "monotonic"
+KL_CYCLE_EPOCHS = 50
+KL_WARMUP_EPOCHS = 100
 
 
 # Perceptual Loss
@@ -81,7 +81,6 @@ DATA_DIR = "data"
 # Logging and Checkpointing
 SAVE_INTERVAL = 5
 TEST_INTERVAL = 5
-LOG_INTERVAL = 100
 EARLY_STOP_PATIENCE = 20
 
 
