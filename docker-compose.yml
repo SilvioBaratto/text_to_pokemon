@@ -1,19 +1,84 @@
 services:
-  mnist-generator:
+  # Training service (optional - run manually when needed)
+  train:
     build:
       context: .
-      dockerfile: Dockerfile
-    image: text-to-image-mnist:latest
-    container_name: mnist-generator
+      dockerfile: Dockerfile.train
+    image: pokemon-train:latest
+    container_name: pokemon-train
     volumes:
-      # Mount directories to persist data between runs
       - ./checkpoints:/app/checkpoints
       - ./outputs:/app/outputs
-      - ./data:/app/data
+      - ./pokemon-cifar-64:/app/pokemon-cifar-64
     environment:
       - PYTHONUNBUFFERED=1
-    # Override default command - examples below:
-    # Train: docker-compose run mnist-generator python src/train.py
-    # Generate: docker-compose run mnist-generator python main.py "Print number 5"
-    stdin_open: true
-    tty: true
+      - PYTORCH_ENABLE_MPS_FALLBACK=1
+    # Uncomment for GPU support
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - driver: nvidia
+    #           count: 1
+    #           capabilities: [gpu]
+    profiles:
+      - training  # Only start with: docker-compose --profile training up train
+    command: >
+      python src/train.py
+        --dataset-dir pokemon-cifar-64
+        --epochs 300
+        --batch-size 128
+
+  # FastAPI backend service
+  api:
+    build:
+      context: .
+      dockerfile: api/Dockerfile
+    image: pokemon-api:latest
+    container_name: pokemon-api
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./checkpoints:/app/checkpoints:ro  # Read-only access to trained models
+    environment:
+      - PYTHONUNBUFFERED=1
+      - PYTORCH_ENABLE_MPS_FALLBACK=1
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+    healthcheck:
+      test: ["CMD", "python", "-c", "import requests; requests.get('http://localhost:8000/health')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+    restart: unless-stopped
+    networks:
+      - pokemon-network
+
+  # Angular frontend service
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    image: pokemon-frontend:latest
+    container_name: pokemon-frontend
+    ports:
+      - "80:80"
+    depends_on:
+      - api
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost/"]
+      interval: 30s
+      timeout: 3s
+      retries: 3
+      start_period: 5s
+    restart: unless-stopped
+    networks:
+      - pokemon-network
+
+networks:
+  pokemon-network:
+    driver: bridge
+
+volumes:
+  checkpoints:
+    driver: local
