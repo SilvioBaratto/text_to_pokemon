@@ -8,7 +8,7 @@
         name="prompt"
         (keypress)="onKeyPress($event)"
         [disabled]="isDisabled()"
-        placeholder="Describe your Pokemon... (e.g., 'Create a dragon-like Pokemon with fiery orange scales and majestic blue wings')"
+        placeholder="Describe your Pokemon... (e.g., 'Create a dragon-like Pokemon with fiery orange scales and blue wings')"
         class="flex-1 px-4 py-3 rounded-lg border border-gray-300 dark:border-gray-600
                bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100
                placeholder-gray-500 dark:placeholder-gray-400
@@ -48,33 +48,53 @@
       <span class="text-xs sm:text-sm text-gray-500 dark:text-gray-400">Try:</span>
       <button
         type="button"
-        (click)="prompt.set('Create a dragon-like Pokemon with fiery orange scales and majestic blue wings.')"
+        (click)="prompt.set('Create a dragon-like Pokemon with fiery orange scales and majestic blue wings')"
         [disabled]="isDisabled()"
         class="text-xs sm:text-sm px-2 py-1 rounded bg-gray-100 dark:bg-gray-800
                text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-700
                disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
       >
-        Fire Dragon
+        🔥 Fire Dragon
       </button>
       <button
         type="button"
-        (click)="prompt.set('Create a water-type Pokemon with a hard shell and a friendly demeanor.')"
+        (click)="prompt.set('Show me a water-type Pokemon with a shell and powerful cannons on its back')"
         [disabled]="isDisabled()"
         class="text-xs sm:text-sm px-2 py-1 rounded bg-gray-100 dark:bg-gray-800
                text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-700
                disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
       >
-        Water Turtle
+        💧 Water Turtle
       </button>
       <button
         type="button"
-        (click)="prompt.set('Create a grass-type Pokemon that has a leafy back and big, bright eyes.')"
+        (click)="prompt.set('Generate a cute electric-type Pokemon that can generate powerful shocks')"
         [disabled]="isDisabled()"
         class="text-xs sm:text-sm px-2 py-1 rounded bg-gray-100 dark:bg-gray-800
                text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-700
                disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
       >
-        Grass Starter
+        ⚡ Electric Mouse
+      </button>
+      <button
+        type="button"
+        (click)="prompt.set('Design a dark-type Pokemon resembling a vulture with a strong presence in mountainous areas')"
+        [disabled]="isDisabled()"
+        class="text-xs sm:text-sm px-2 py-1 rounded bg-gray-100 dark:bg-gray-800
+               text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-700
+               disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+      >
+        🦅 Dark Bird
+      </button>
+      <button
+        type="button"
+        (click)="prompt.set('Imagine a psychic-type Pokemon with a sleek design and a powerful aura')"
+        [disabled]="isDisabled()"
+        class="text-xs sm:text-sm px-2 py-1 rounded bg-gray-100 dark:bg-gray-800
+               text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-700
+               disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+      >
+        🔮 Psychic Legend
       </button>
     </div>
   </div>

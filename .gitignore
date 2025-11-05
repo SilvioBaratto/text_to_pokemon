@@ -7,11 +7,6 @@ data/
 # Project-specific files
 CLAUDE.md
 
-# BAML (metadata generation)
-baml_client/
-baml_src/
-generate_pokemon_metadata.py
-
 # Python
 __pycache__/
 *.py[cod]
@@ -101,9 +96,3 @@ training_losses.csv
 *.tmp
 *.bak
 *.swp
-
-# Debug and test scripts
-debug_*.py
-test_*.py
-*_debug.py
-*_test.py

@@ -6,6 +6,7 @@ import { catchError, retry } from 'rxjs/operators';
 export interface GenerateRequest {
   prompt: string;
   num_samples?: number;
+  use_llm_parsing?: boolean;
 }
 
 export interface GenerateResponse {
@@ -30,34 +31,40 @@ export interface HealthResponse {
 }
 
 @Injectable({
-  providedIn: 'root'
+  providedIn: 'root',
 })
 export class PokemonApiService {
   private readonly http = inject(HttpClient);
   private readonly apiUrl = 'http://localhost:8000/api/v1';
 
-  generatePokemon(prompt: string, numSamples: number = 1): Observable<GenerateResponse> {
+  generatePokemon(
+    prompt: string,
+    numSamples: number = 1,
+    useLlmParsing: boolean = true
+  ): Observable<GenerateResponse> {
     const request: GenerateRequest = {
       prompt,
-      num_samples: numSamples
+      num_samples: numSamples,
+      use_llm_parsing: useLlmParsing,
     };
 
-    return this.http.post<GenerateResponse>(`${this.apiUrl}/generate`, request).pipe(
-      retry(1),
-      catchError(this.handleError)
-    );
+    return this.http
+      .post<GenerateResponse>(`${this.apiUrl}/generate`, request)
+      .pipe(retry(1), catchError(this.handleError));
   }
 
   checkHealth(): Observable<HealthResponse> {
-    return this.http.get<HealthResponse>(`${this.apiUrl}/health`).pipe(
-      catchError(this.handleError)
-    );
+    return this.http
+      .get<HealthResponse>(`${this.apiUrl}/health`)
+      .pipe(catchError(this.handleError));
   }
 
   generatePokemonStream(prompt: string, numSteps: number = 5): Observable<ProgressiveImage> {
     const subject = new Subject<ProgressiveImage>();
 
-    const url = `${this.apiUrl}/generate/stream?prompt=${encodeURIComponent(prompt)}&num_steps=${numSteps}`;
+    const url = `${this.apiUrl}/generate/stream?prompt=${encodeURIComponent(
+      prompt
+    )}&num_steps=${numSteps}`;
 
     const eventSource = new EventSource(url);
 

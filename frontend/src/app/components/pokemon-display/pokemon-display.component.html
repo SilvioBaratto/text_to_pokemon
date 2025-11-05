@@ -78,8 +78,11 @@
           <!-- Pokemon Image -->
           <div
             class="relative bg-gradient-to-br from-blue-50 to-purple-50 dark:from-blue-900/20 dark:to-purple-900/20 rounded-lg p-6 sm:p-8 mb-4">
-            <img [src]="currentPokemon()!.image" alt="Generated Pokemon"
-              class="w-full max-w-md mx-auto rounded-lg shadow-xl transform hover:scale-105 transition-transform duration-300" />
+            <div class="flex items-center justify-center">
+              <img [src]="currentPokemon()!.image" alt="Generated Pokemon"
+                class="w-full max-w-md h-auto mx-auto rounded-lg shadow-xl transform hover:scale-105 transition-transform duration-300 object-contain"
+                style="max-height: 512px;" />
+            </div>
 
             <!-- Glow effect -->
             <div

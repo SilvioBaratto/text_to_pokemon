@@ -4,10 +4,8 @@ FastAPI endpoints for Pokemon image generation.
 Provides REST API for text-to-image generation using trained CVAE model.
 """
 
-import asyncio
 import base64
 import io
-import json
 import os
 import sys
 from typing import Dict, Optional
@@ -20,6 +18,15 @@ from PIL import Image
 from pydantic import BaseModel, Field
 
 sys.path.append(os.path.join(os.path.dirname(__file__), '../..'))
+
+# Import BAML client for LLM-based prompt parsing
+try:
+    from baml_client import b
+    from baml_client.types import ParsedPromptAttributes
+    BAML_AVAILABLE = True
+except ImportError:
+    BAML_AVAILABLE = False
+    print("Warning: BAML client not available. Falling back to keyword-based parsing only.")
 
 import config
 from src.model.vae import CVAE
@@ -46,6 +53,14 @@ class GenerateRequest(BaseModel):
         ge=1,
         le=4,
         description="Number of Pokemon variations to generate (1-4)"
+    )
+    use_llm_parsing: bool = Field(
+        default=True,
+        description="Use LLM-based prompt parsing for better quality (requires API key). Falls back to keyword parsing if False or if LLM fails."
+    )
+    seed: int = Field(
+        default=42,
+        description="Random seed for reproducible generation. Same prompt + same seed = same image. Use different seeds for variations."
     )
 
 
@@ -91,6 +106,44 @@ def load_model() -> None:
     print(f"Model loaded successfully from {checkpoint_path}")
     print(f"Epoch: {checkpoint.get('epoch', 'unknown')}")
     print(f"Loss: {checkpoint.get('loss', 'unknown'):.2f}")
+
+
+def parse_prompt_with_llm(prompt: str) -> Optional[Dict[str, int]]:
+    """
+    Parse text prompt using LLM (BAML) to extract Pokemon attributes.
+
+    Args:
+        prompt: Text description
+
+    Returns:
+        Dictionary with attribute indices, or None if parsing fails
+    """
+    if not BAML_AVAILABLE:
+        return None
+
+    try:
+        # Call BAML function to parse prompt (sync call)
+        parsed = b.ParsePokemonPrompt(prompt)
+
+        # Convert BAML enums to integer indices
+        attrs = {
+            "type1": get_type_idx(parsed.type1.value),
+            "type2": get_type_idx(parsed.type2.value) if parsed.type2 else config.NUM_TYPES,
+            "primary_color": get_color_idx(parsed.primary_color.value),
+            "secondary_color": get_color_idx(parsed.secondary_color.value) if parsed.secondary_color else config.NUM_COLORS,
+            "shape": get_shape_idx(parsed.body_shape.value),
+            "size": get_size_idx(parsed.size_class.value),
+            "evolution_stage": get_evolution_stage_idx(parsed.evolution_stage.value),
+            "habitat": get_habitat_idx(parsed.habitat.value),
+            "legendary": 1 if parsed.is_legendary else 0,
+            "mythical": 1 if parsed.is_mythical else 0
+        }
+
+        return attrs
+
+    except Exception as e:
+        print(f"LLM parsing failed: {e}")
+        return None
 
 
 def parse_prompt_attributes(prompt: str) -> Dict[str, int]:
@@ -262,16 +315,18 @@ def parse_prompt_attributes(prompt: str) -> Dict[str, int]:
     }
 
 
-def generate_pokemon_image(prompt: str, num_samples: int = 1) -> np.ndarray:
+def generate_pokemon_image(prompt: str, num_samples: int = 1, use_llm: bool = True, seed: int = 42) -> np.ndarray:
     """
     Generate Pokemon image from text prompt.
 
     Args:
         prompt: Text description
         num_samples: Number of variations to generate
+        use_llm: Use LLM-based prompt parsing for better quality
+        seed: Random seed for reproducible generation (default: 42)
 
     Returns:
-        RGB image array in [0, 255] with white background
+        RGB image array in [0, 255]
     """
     global model, device
 
@@ -281,10 +336,26 @@ def generate_pokemon_image(prompt: str, num_samples: int = 1) -> np.ndarray:
     assert model is not None, "Model failed to load"
     assert device is not None, "Device not initialized"
 
+    # Set random seed for reproducible generation (same prompt = same image)
+    torch.manual_seed(seed)
+    if device.type == 'cuda':
+        torch.cuda.manual_seed(seed)
+    elif device.type == 'mps':
+        torch.mps.manual_seed(seed)
+
     text_embedding = encode_text_to_embedding(prompt, device=str(device))
     text_embedding = text_embedding.unsqueeze(0)
 
-    attrs = parse_prompt_attributes(prompt)
+    # Try LLM-based parsing first, fall back to keyword parsing
+    attrs = None
+    if use_llm:
+        attrs = parse_prompt_with_llm(prompt)
+        if attrs:
+            print(f"✓ Using LLM parsing for prompt: '{prompt[:50]}...'")
+
+    if attrs is None:
+        print(f"→ Using keyword parsing for prompt: '{prompt[:50]}...'")
+        attrs = parse_prompt_attributes(prompt)
 
     type1 = torch.tensor([attrs["type1"]], dtype=torch.long, device=device)
     type2 = torch.tensor([attrs["type2"]], dtype=torch.long, device=device)
@@ -311,10 +382,8 @@ def generate_pokemon_image(prompt: str, num_samples: int = 1) -> np.ndarray:
     generated_images = (generated_images + 1.0) / 2.0
     generated_images = np.clip(generated_images, 0, 1)
 
-    for i in range(num_samples):
-        mask = np.all(generated_images[i] < 0.1, axis=0)
-        for c in range(3):
-            generated_images[i, c][mask] = 1.0
+    # Note: White background conversion removed to match training visualization
+    # The model was trained without this post-processing
 
     generated_images = (generated_images * 255).astype(np.uint8)
     generated_images = np.transpose(generated_images, (0, 2, 3, 1))
@@ -358,121 +427,16 @@ def numpy_to_base64_png(image: np.ndarray, scale_factor: int = 8) -> str:
 
     return f"data:image/png;base64,{image_base64}"
 
-
-async def generate_progressive_images(prompt: str, num_steps: int = 5):
-    """
-    Generate Pokemon progressively by sampling at different noise levels.
-
-    Yields:
-        JSON strings with base64 encoded images
-    """
-    global model, device
-
-    if model is None:
-        load_model()
-
-    assert model is not None, "Model failed to load"
-    assert device is not None, "Device not initialized"
-
-    text_embedding = encode_text_to_embedding(prompt, device=str(device))
-    text_embedding = text_embedding.unsqueeze(0)
-
-    attrs = parse_prompt_attributes(prompt)
-
-    type1 = torch.tensor([attrs["type1"]], dtype=torch.long, device=device)
-    type2 = torch.tensor([attrs["type2"]], dtype=torch.long, device=device)
-    primary_color = torch.tensor([attrs["primary_color"]], dtype=torch.long, device=device)
-    secondary_color = torch.tensor([attrs["secondary_color"]], dtype=torch.long, device=device)
-    shape = torch.tensor([attrs["shape"]], dtype=torch.long, device=device)
-    size = torch.tensor([attrs["size"]], dtype=torch.long, device=device)
-    evolution_stage = torch.tensor([attrs["evolution_stage"]], dtype=torch.long, device=device)
-    habitat = torch.tensor([attrs["habitat"]], dtype=torch.long, device=device)
-    legendary = torch.tensor([attrs["legendary"]], dtype=torch.long, device=device)
-    mythical = torch.tensor([attrs["mythical"]], dtype=torch.long, device=device)
-
-    condition = model.prepare_condition(
-        text_embedding, type1, type2, primary_color, secondary_color,
-        shape, size, evolution_stage, habitat, legendary, mythical
-    )
-
-    with torch.no_grad():
-        z = torch.randn(1, config.LATENT_DIM, device=device)
-
-        noise_scales = np.linspace(0.8, 0.0, num_steps)
-
-        for step, noise_scale in enumerate(noise_scales):
-            if noise_scale > 0:
-                noise = torch.randn_like(z) * noise_scale
-                z_noisy = z + noise
-            else:
-                z_noisy = z
-
-            generated = model.decoder(z_noisy, condition)
-
-            generated_image = generated.view(1, 3, config.IMAGE_SIZE, config.IMAGE_SIZE)
-            generated_image = generated_image.cpu().numpy()
-
-            generated_image = (generated_image + 1.0) / 2.0
-            generated_image = np.clip(generated_image, 0, 1)
-
-            mask = np.all(generated_image[0] < 0.1, axis=0)
-            for c in range(3):
-                generated_image[0, c][mask] = 1.0
-
-            generated_image = (generated_image * 255).astype(np.uint8)
-            generated_image = np.transpose(generated_image[0], (1, 2, 0))
-
-            image_base64 = numpy_to_base64_png(generated_image, scale_factor=8)
-
-            data = {
-                "step": step + 1,
-                "total_steps": num_steps,
-                "image": image_base64,
-                "is_final": step == num_steps - 1
-            }
-
-            yield f"data: {json.dumps(data)}\n\n"
-
-            await asyncio.sleep(0.3)
-
-
-@router.get("/generate/stream")
-async def generate_stream(prompt: str, num_steps: int = 5):
-    """
-    Stream progressive Pokemon generation.
-
-    Args:
-        prompt: Text description
-        num_steps: Number of evolution steps
-
-    Returns:
-        Server-Sent Events stream with progressive images
-    """
-    if not prompt:
-        raise HTTPException(status_code=400, detail="Prompt is required")
-
-    if num_steps < 2 or num_steps > 10:
-        raise HTTPException(status_code=400, detail="num_steps must be between 2 and 10")
-
-    return StreamingResponse(
-        generate_progressive_images(prompt, num_steps),
-        media_type="text/event-stream",
-        headers={
-            "Cache-Control": "no-cache",
-            "Connection": "keep-alive",
-            "X-Accel-Buffering": "no"
-        }
-    )
-
-
 @router.post("/generate", response_model=GenerateResponse)
 async def generate(request: GenerateRequest):
     """Generate a Pokemon image from a text prompt."""
     try:
+        print(f"\n📝 Received request: prompt='{request.prompt}', num_samples={request.num_samples}, use_llm_parsing={request.use_llm_parsing}")
+
         if model is None:
             load_model()
 
-        pokemon_image = generate_pokemon_image(request.prompt, request.num_samples)
+        pokemon_image = generate_pokemon_image(request.prompt, request.num_samples, use_llm=request.use_llm_parsing, seed=request.seed)
 
         image_base64 = numpy_to_base64_png(pokemon_image, scale_factor=8)
 
@@ -512,7 +476,7 @@ async def download_pokemon(prompt: str, num_samples: int = 1):
         if model is None:
             load_model()
 
-        pokemon_image = generate_pokemon_image(prompt, num_samples)
+        pokemon_image = generate_pokemon_image(prompt, num_samples, use_llm=True)
 
         pil_image = Image.fromarray(pokemon_image, mode='RGB')
 
