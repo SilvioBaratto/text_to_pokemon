@@ -35,11 +35,14 @@ Dockerfile
 docker-compose.yml
 
 # Project specific
-checkpoints/
+checkpoints/model_pokemon_epoch_*.pt
 outputs/
 data/
-*.pt
-*.pth
+training_progression.gif
+pokemon-cifar-64/
+pokemon-cifar_32/
+images_64x64/
+images_32x32/
 
 # Documentation
 *.md

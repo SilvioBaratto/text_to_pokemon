@@ -24,8 +24,8 @@ RUN rm -rf /etc/nginx/conf.d/*
 # Copy custom nginx config
 COPY nginx.conf /etc/nginx/conf.d/default.conf
 
-# Copy built Angular app from builder stage
-COPY --from=builder /app/dist/pokemon-generator /usr/share/nginx/html
+# Copy built Angular app from builder stage (Angular 20 outputs to browser subdirectory)
+COPY --from=builder /app/dist/pokemon-generator/browser /usr/share/nginx/html
 
 # Create non-root user for security
 RUN addgroup -g 1001 -S nginx-user && \
